@@ -1,0 +1,199 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>QuickCards | Premium Trading Cards & Collectibles</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@400;500;600;700;800;900&family=Inter:wght@300;400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <!-- Particle Canvas Background -->
+  <canvas id="particles"></canvas>
+
+  <!-- Scan Line Overlay -->
+  <div class="scanlines"></div>
+
+  <!-- Navigation -->
+  <nav class="navbar" id="navbar">
+    <div class="nav-container">
+      <a href="#" class="logo">
+        <img src="logo.png" alt="QuickCards" class="logo-img">
+      </a>
+      <div class="nav-links" id="navLinks">
+        <a href="#home" class="nav-link active">/home</a>
+        <a href="#products" class="nav-link">/vault</a>
+        <a href="contact.html" class="nav-link">/contact</a>
+      </div>
+      <div class="nav-actions">
+        <div class="search-box" id="searchBox">
+          <input type="text" id="searchInput" placeholder="Search cards..." autocomplete="off">
+          <button class="search-btn" id="searchBtn">
+            <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.35-4.35"/></svg>
+          </button>
+        </div>
+        <a href="https://www.ebay.com/str/qceshop" target="_blank" class="btn-ebay">
+          <span>Visit eBay Store</span>
+          <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M7 17L17 7M17 7H7M17 7V17"/></svg>
+        </a>
+        <button class="mobile-toggle" id="mobileToggle">
+          <span></span><span></span><span></span>
+        </button>
+      </div>
+    </div>
+  </nav>
+
+  <!-- Hero Section -->
+  <section class="hero" id="home">
+    <div class="hero-grid-bg"></div>
+    <div class="hero-content">
+      <h1 class="hero-title">
+        <span class="line">&gt; ACCESS_GRANTED</span>
+        <span class="line gradient-text">CARD://VAULT</span>
+        <span class="line">[ SYSTEM ONLINE ]</span>
+      </h1>
+      <p class="hero-desc">&gt; querying db... topps_now // pokemon // baseball // coins &mdash; response: <span class="accent">ship.fast()</span></p>
+      <div class="hero-actions">
+        <a href="#products" class="btn-primary">
+          <span>&gt; explore.vault()</span>
+          <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M5 12h14M12 5l7 7-7 7"/></svg>
+        </a>
+        <a href="https://www.ebay.com/str/qceshop" target="_blank" class="btn-outline">&gt; ebay.connect()</a>
+      </div>
+      <div class="hero-stats">
+        <div class="stat-item">
+          <span class="stat-value" data-target="17000">0</span>
+          <span class="stat-label">units_shipped</span>
+        </div>
+        <div class="stat-item">
+          <span class="stat-value">100%</span>
+          <span class="stat-label">sys_rating</span>
+        </div>
+      </div>
+    </div>
+    <div class="hero-visual">
+      <div class="floating-cards">
+        <div class="float-card card-1">
+          <img src="https://i.ebayimg.com/images/g/w~AAAeSw5A9pqzpo/s-l300.jpg" alt="Ohtani">
+        </div>
+        <div class="float-card card-2">
+          <img src="https://i.ebayimg.com/images/g/o~IAAeSwmvdpjpDW/s-l300.jpg" alt="Cabrera">
+        </div>
+        <div class="float-card card-3">
+          <img src="https://i.ebayimg.com/images/g/QYwAAOSwxYhn1eEe/s-l300.jpg" alt="Sprunki">
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Shop Section: Tree Nav + Products -->
+  <section class="shop-section" id="products">
+    <div class="container">
+      <div class="section-header">
+        <span class="section-tag">// SYS.BROWSE</span>
+        <h2 class="section-title">&gt; Enter the <span class="gradient-text">Vault</span></h2>
+      </div>
+
+      <!-- Terminal Path -->
+      <div class="terminal-path">
+        <span class="tp-prompt">quickcards</span><span class="tp-sep">://</span><span class="tp-segment">collection</span><span class="tp-sep">/</span><span class="tp-current" id="tpCurrent">all</span><span class="tp-cursor">&#x2588;</span>
+      </div>
+
+      <!-- Mobile tree toggle -->
+      <button class="tree-toggle-mobile" id="treeToggleMobile">
+        <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M3 12h18M3 6h18M3 18h18"/></svg>
+        <span>Categories</span>
+        <svg class="toggle-chevron" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M6 9l6 6 6-6"/></svg>
+      </button>
+
+      <div class="shop-layout">
+        <!-- Tree Sidebar -->
+        <aside class="tree-sidebar" id="treeSidebar">
+          <div class="tree-window">
+            <div class="tree-titlebar">
+              <div class="tree-dots">
+                <span class="dot dot-r"></span>
+                <span class="dot dot-y"></span>
+                <span class="dot dot-g"></span>
+              </div>
+              <span class="tree-titlebar-label">navigator.sys</span>
+            </div>
+            <nav class="tree-body" id="treeNav">
+              <!-- Built by JS -->
+            </nav>
+          </div>
+        </aside>
+
+        <!-- Products Panel -->
+        <main class="products-panel">
+          <div class="products-toolbar">
+            <div class="toolbar-left">
+              <span class="results-count" id="resultsCount">Showing 50 items</span>
+            </div>
+            <div class="toolbar-right">
+              <select id="sortSelect" class="sort-select">
+                <option value="default">Sort: Featured</option>
+                <option value="price-low">Price: Low to High</option>
+                <option value="price-high">Price: High to Low</option>
+                <option value="name">Name: A-Z</option>
+              </select>
+              <div class="view-toggle">
+                <button class="view-btn active" data-view="grid" id="gridViewBtn">
+                  <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="3" y="3" width="7" height="7"/><rect x="14" y="3" width="7" height="7"/><rect x="3" y="14" width="7" height="7"/><rect x="14" y="14" width="7" height="7"/></svg>
+                </button>
+                <button class="view-btn" data-view="list" id="listViewBtn">
+                  <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><line x1="3" y1="6" x2="21" y2="6"/><line x1="3" y1="12" x2="21" y2="12"/><line x1="3" y1="18" x2="21" y2="18"/></svg>
+                </button>
+              </div>
+            </div>
+          </div>
+          <div class="products-grid" id="productsGrid">
+            <!-- Products injected by JS -->
+          </div>
+        </main>
+      </div>
+    </div>
+  </section>
+
+  <!-- Footer -->
+  <footer class="footer">
+    <div class="container">
+      <div class="footer-grid">
+        <div class="footer-brand">
+          <a href="#" class="logo">
+            <img src="logo.png" alt="QuickCards" class="logo-img">
+          </a>
+          <p>// premium trading cards &amp; collectibles. browse the full vault or connect to our ebay node.</p>
+        </div>
+        <div class="footer-links-col">
+          <h4>// LINKS</h4>
+          <a href="#home">home()</a>
+          <a href="#products">vault.browse()</a>
+          <a href="contact.html">sys.contact()</a>
+          <a href="https://www.ebay.com/str/qceshop" target="_blank">ebay.store()</a>
+        </div>
+        <div class="footer-links-col">
+          <h4>// CATEGORIES</h4>
+          <a href="#" onclick="selectTreeNode('baseball');return false;">baseball_cards</a>
+          <a href="#" onclick="selectTreeNode('pokemon');return false;">pokemon</a>
+          <a href="#" onclick="selectTreeNode('coins');return false;">coins_currency</a>
+        </div>
+        <div class="footer-links-col">
+          <h4>// SYS.INFO</h4>
+          <p class="footer-trust">[+] ship.fast() enabled</p>
+          <p class="footer-trust">[+] ebay.guarantee() active</p>
+        </div>
+      </div>
+      <div class="footer-bottom">
+        <p>&copy; 2026 QuickCards.shop &mdash; all_rights_reserved</p>
+        <p class="footer-powered">// powered_by: passion_for_collectibles</p>
+      </div>
+    </div>
+  </footer>
+
+  <script src="products.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>

@@ -1,0 +1,13 @@
+# Dev/scraper files — not needed on the website
+debug-*.html
+debug-*.js
+scrape-helper.html
+scrape-full.html
+scrape-images.js
+console-scraper.js
+refresh-inventory.js
+merge-images.js
+image-map.json
+test-scrape.js
+deploy/
+node_modules/
