@@ -18,6 +18,8 @@ exports.handler = async (event) => {
 
   const origin = event.headers.origin || event.headers.referer?.replace(/\/$/, '') || 'https://quickcards.shop';
 
+  const subtotal = items.reduce((sum, i) => sum + (i.price * (i.quantity || 1)), 0);
+
   const line_items = items.map((item) => ({
     price_data: {
       currency: 'usd',
@@ -30,11 +32,52 @@ exports.handler = async (event) => {
     quantity: item.quantity || 1,
   }));
 
+  const shipping_options = subtotal >= 25
+    ? [
+        {
+          shipping_rate_data: {
+            type: 'fixed_amount',
+            fixed_amount: { amount: 0, currency: 'usd' },
+            display_name: 'Free Shipping',
+            delivery_estimate: {
+              minimum: { unit: 'business_day', value: 3 },
+              maximum: { unit: 'business_day', value: 5 },
+            },
+          },
+        },
+      ]
+    : [
+        {
+          shipping_rate_data: {
+            type: 'fixed_amount',
+            fixed_amount: { amount: 500, currency: 'usd' },
+            display_name: 'Ground Shipping',
+            delivery_estimate: {
+              minimum: { unit: 'business_day', value: 3 },
+              maximum: { unit: 'business_day', value: 5 },
+            },
+          },
+        },
+        {
+          shipping_rate_data: {
+            type: 'fixed_amount',
+            fixed_amount: { amount: 1200, currency: 'usd' },
+            display_name: 'Priority Shipping',
+            delivery_estimate: {
+              minimum: { unit: 'business_day', value: 1 },
+              maximum: { unit: 'business_day', value: 3 },
+            },
+          },
+        },
+      ];
+
   try {
     const session = await stripe.checkout.sessions.create({
       payment_method_types: ['card'],
       line_items,
       mode: 'payment',
+      shipping_address_collection: { allowed_countries: ['US'] },
+      shipping_options,
       success_url: `${origin}/success.html`,
       cancel_url: `${origin}/#products`,
     });
