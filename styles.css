@@ -1601,6 +1601,51 @@ input, select { font-family: inherit; }
   font-family: 'JetBrains Mono', monospace;
 }
 
+/* Shipping promo bar above products grid */
+.shipping-promo-bar {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  padding: 10px 16px;
+  background: rgba(245, 166, 35, 0.08);
+  border: 1px solid rgba(245, 166, 35, 0.25);
+  border-radius: var(--radius-sm);
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 0.75rem;
+  color: var(--orange);
+  margin-bottom: 16px;
+  letter-spacing: 1px;
+}
+
+/* Cart shipping promo */
+.cart-shipping-promo {
+  margin-bottom: 16px;
+  padding-bottom: 16px;
+  border-bottom: 1px solid var(--card-border);
+  font-size: 0.75rem;
+  font-family: 'JetBrains Mono', monospace;
+}
+.promo-msg { color: var(--gray-300); display: block; margin-bottom: 8px; }
+.promo-msg strong { color: var(--orange); }
+.promo-bar-track {
+  height: 4px;
+  background: rgba(255,255,255,0.08);
+  border-radius: 100px;
+  overflow: hidden;
+}
+.promo-bar-fill {
+  height: 100%;
+  background: var(--gradient-main);
+  border-radius: 100px;
+  transition: width 0.4s ease;
+}
+.promo-unlocked {
+  color: #28c940;
+  display: block;
+  text-align: center;
+  letter-spacing: 1px;
+}
+
 /* Add-to-cart button on product cards */
 .btn-cart {
   flex: 1;

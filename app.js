@@ -671,6 +671,24 @@ function renderCartItems() {
 
   if (footer) footer.style.display = 'block';
   if (totalEl) totalEl.textContent = `$${subtotal.toFixed(2)}`;
+
+  // Shipping promo
+  let promoEl = document.getElementById('cartShippingPromo');
+  if (!promoEl) {
+    promoEl = document.createElement('div');
+    promoEl.id = 'cartShippingPromo';
+    promoEl.className = 'cart-shipping-promo';
+    footer.insertBefore(promoEl, footer.firstChild);
+  }
+  if (subtotal >= 25) {
+    promoEl.innerHTML = `<span class="promo-unlocked">✓ Free shipping unlocked!</span>`;
+  } else {
+    const remaining = (25 - subtotal).toFixed(2);
+    const pct = Math.min((subtotal / 25) * 100, 100);
+    promoEl.innerHTML = `
+      <span class="promo-msg">Add <strong>$${remaining}</strong> more for free shipping</span>
+      <div class="promo-bar-track"><div class="promo-bar-fill" style="width:${pct}%"></div></div>`;
+  }
 }
 
 window.changeQty = function(productId, delta) {
