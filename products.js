@@ -527,18 +527,7 @@ window.products = [
     "discount": null,
     "numbered": false
   },
-  {
-    "id": 49,
-    "name": "20/25* Cooper Flagg PARALLEL - 2025-26 NBA Topps NOW® - Card 207 M/NM",
-    "price": 86,
-    "image": "https://i.ebayimg.com/images/g/WQ8AAeSwxahp2nN9/s-l300.jpg",
-    "url": "https://www.ebay.com/itm/168301978628",
-    "category": "other",
-    "badge": null,
-    "discount": null,
-    "numbered": true
-  },
-  {
+    {
     "id": 50,
     "name": "Porygon Picture Book Mini Card Japanese Nintendo Rare Pokemon A207 NM *BTX",
     "price": 49,
