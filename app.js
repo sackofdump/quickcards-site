@@ -308,7 +308,7 @@ function renderProducts() {
         </div>
         <div class="product-action">
           <a href="${p.url}" target="_blank" rel="noopener" class="btn-view">&gt; inspect()</a>
-          <a href="${p.url}" target="_blank" rel="noopener" class="btn-buy">&gt; acquire()</a>
+          <button class="btn-cart" onclick="addToCart(${p.id})">&gt; add.cart()</button>
         </div>
       </div>
     </div>`;
@@ -566,3 +566,187 @@ document.querySelectorAll('.section-header, .tree-window').forEach(el => {
 // ---- Init ----
 buildTree();
 renderProducts();
+
+/* ============================================
+   Cart System
+   ============================================ */
+
+const CART_KEY = 'qc_cart';
+
+function getCart() {
+  try { return JSON.parse(localStorage.getItem(CART_KEY)) || []; }
+  catch { return []; }
+}
+
+function saveCart(cart) {
+  localStorage.setItem(CART_KEY, JSON.stringify(cart));
+}
+
+window.addToCart = function(productId) {
+  const product = products.find(p => p.id === productId);
+  if (!product) return;
+
+  const cart = getCart();
+  const existing = cart.find(i => i.id === productId);
+  if (existing) {
+    existing.quantity += 1;
+  } else {
+    cart.push({ id: product.id, name: product.name, price: product.price, image: product.image || null, quantity: 1 });
+  }
+  saveCart(cart);
+  updateCartBadge();
+  renderCartItems();
+  openCart();
+
+  // Flash the button green briefly
+  const btns = document.querySelectorAll(`.btn-cart`);
+  btns.forEach(btn => {
+    if (btn.getAttribute('onclick') === `addToCart(${productId})`) {
+      btn.classList.add('added');
+      btn.textContent = '> added!';
+      setTimeout(() => {
+        btn.classList.remove('added');
+        btn.textContent = '> add.cart()';
+      }, 1200);
+    }
+  });
+};
+
+function updateCartBadge() {
+  const cart = getCart();
+  const total = cart.reduce((sum, i) => sum + i.quantity, 0);
+  const badge = document.getElementById('cartBadge');
+  if (!badge) return;
+  if (total > 0) {
+    badge.style.display = 'flex';
+    badge.textContent = total > 99 ? '99+' : total;
+  } else {
+    badge.style.display = 'none';
+  }
+}
+
+function renderCartItems() {
+  const cart = getCart();
+  const container = document.getElementById('cartItems');
+  const footer = document.getElementById('cartFooter');
+  const totalEl = document.getElementById('cartTotal');
+  if (!container) return;
+
+  if (cart.length === 0) {
+    container.innerHTML = `
+      <div class="cart-empty">
+        <svg width="48" height="48" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5"><path d="M6 2L3 6v14a2 2 0 002 2h14a2 2 0 002-2V6l-3-4z"/><line x1="3" y1="6" x2="21" y2="6"/><path d="M16 10a4 4 0 01-8 0"/></svg>
+        <span>// cart is empty</span>
+        <span style="color:var(--gray-400);font-size:0.7rem">add some cards to get started</span>
+      </div>`;
+    if (footer) footer.style.display = 'none';
+    return;
+  }
+
+  const subtotal = cart.reduce((sum, i) => sum + i.price * i.quantity, 0);
+
+  container.innerHTML = cart.map(item => `
+    <div class="cart-item">
+      ${item.image
+        ? `<img class="cart-item-img" src="${escapeHtml(item.image)}" alt="${escapeHtml(item.name)}" loading="lazy" onerror="this.outerHTML='<div class=cart-item-img-placeholder><svg width=24 height=24 viewBox=\\'0 0 24 24\\' fill=none stroke=currentColor stroke-width=1><rect x=3 y=3 width=18 height=18 rx=2/></svg></div>'">`
+        : `<div class="cart-item-img-placeholder"><svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1"><rect x="3" y="3" width="18" height="18" rx="2"/></svg></div>`
+      }
+      <div class="cart-item-info">
+        <div class="cart-item-name">${escapeHtml(item.name)}</div>
+        <div class="cart-item-bottom">
+          <span class="cart-item-price">$${(item.price * item.quantity).toFixed(2)}</span>
+          <div class="cart-qty">
+            <button class="cart-qty-btn" onclick="changeQty(${item.id}, -1)">−</button>
+            <span class="cart-qty-num">${item.quantity}</span>
+            <button class="cart-qty-btn" onclick="changeQty(${item.id}, 1)">+</button>
+          </div>
+          <button class="cart-item-remove" onclick="removeFromCart(${item.id})" aria-label="Remove">
+            <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polyline points="3 6 5 6 21 6"/><path d="M19 6l-1 14a2 2 0 01-2 2H8a2 2 0 01-2-2L5 6"/><path d="M10 11v6M14 11v6"/><path d="M9 6V4h6v2"/></svg>
+          </button>
+        </div>
+      </div>
+    </div>
+  `).join('');
+
+  if (footer) footer.style.display = 'block';
+  if (totalEl) totalEl.textContent = `$${subtotal.toFixed(2)}`;
+}
+
+window.changeQty = function(productId, delta) {
+  const cart = getCart();
+  const item = cart.find(i => i.id === productId);
+  if (!item) return;
+  item.quantity += delta;
+  if (item.quantity <= 0) {
+    const idx = cart.indexOf(item);
+    cart.splice(idx, 1);
+  }
+  saveCart(cart);
+  updateCartBadge();
+  renderCartItems();
+};
+
+window.removeFromCart = function(productId) {
+  const cart = getCart().filter(i => i.id !== productId);
+  saveCart(cart);
+  updateCartBadge();
+  renderCartItems();
+};
+
+// ---- Cart Drawer Open/Close ----
+function openCart() {
+  document.getElementById('cartDrawer').classList.add('open');
+  document.getElementById('cartOverlay').classList.add('open');
+  document.body.style.overflow = 'hidden';
+  renderCartItems();
+}
+
+function closeCart() {
+  document.getElementById('cartDrawer').classList.remove('open');
+  document.getElementById('cartOverlay').classList.remove('open');
+  document.body.style.overflow = '';
+}
+
+document.getElementById('cartBtn').addEventListener('click', openCart);
+document.getElementById('cartClose').addEventListener('click', closeCart);
+document.getElementById('cartOverlay').addEventListener('click', closeCart);
+
+// ---- Checkout ----
+document.getElementById('checkoutBtn').addEventListener('click', async () => {
+  const cart = getCart();
+  if (cart.length === 0) return;
+
+  const btn = document.getElementById('checkoutBtn');
+  btn.disabled = true;
+  btn.textContent = '> processing...';
+
+  try {
+    const res = await fetch('/.netlify/functions/create-checkout', {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify(cart.map(i => ({
+        name: i.name,
+        price: i.price,
+        image: i.image,
+        quantity: i.quantity,
+      }))),
+    });
+
+    const data = await res.json();
+
+    if (data.url) {
+      window.location.href = data.url;
+    } else {
+      alert('Checkout error: ' + (data.error || 'Unknown error'));
+      btn.disabled = false;
+      btn.textContent = '> checkout.init()';
+    }
+  } catch (err) {
+    alert('Network error. Please try again.');
+    btn.disabled = false;
+    btn.textContent = '> checkout.init()';
+  }
+});
+
+// ---- Init cart state ----
+updateCartBadge();
