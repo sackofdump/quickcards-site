@@ -566,6 +566,7 @@ document.querySelectorAll('.section-header, .tree-window').forEach(el => {
 // ---- Init ----
 buildTree();
 renderProducts();
+window.scrollTo(0, 0);
 
 /* ============================================
    Cart System
