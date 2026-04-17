@@ -331,7 +331,7 @@ input, select { font-family: inherit; }
 
 .hero-title {
   font-family: 'Orbitron', monospace;
-  font-size: clamp(2.2rem, 5vw, 4rem);
+  font-size: clamp(1.4rem, 3vw, 2.4rem);
   font-weight: 900;
   line-height: 1.1;
   letter-spacing: 2px;
@@ -1297,7 +1297,7 @@ input, select { font-family: inherit; }
   .search-box input:focus { width: 180px; }
   .btn-ebay span { display: none; }
   .btn-ebay { padding: 8px 12px; }
-  .hero-title { font-size: 2rem; }
+  .hero-title { font-size: 1.3rem; }
   .hero-visual { display: none; }
   .products-grid { grid-template-columns: repeat(auto-fill, minmax(240px, 1fr)); }
   .footer-grid { grid-template-columns: 1fr; gap: 32px; }
@@ -1309,7 +1309,7 @@ input, select { font-family: inherit; }
   .hero-stats { grid-template-columns: repeat(2, 1fr); gap: 12px; }
   .stat-value { font-size: 1.2rem; }
   .products-grid { grid-template-columns: 1fr; }
-  .hero-title { font-size: 1.7rem; }
+  .hero-title { font-size: 1.1rem; }
 }
 
 /* ============================================
