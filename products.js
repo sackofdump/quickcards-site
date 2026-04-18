@@ -55,17 +55,6 @@ window.products = [
     "numbered": false
   },
   {
-    "id": 6,
-    "name": "Jacob Misiorowski #144 Dark Gray Border - 2026 Topps Heritage MLB Baseball Card",
-    "price": 3,
-    "image": "https://i.ebayimg.com/images/g/MfgAAeSwCI1pvX4W/s-l300.jpg",
-    "url": "https://www.ebay.com/itm/168304944812",
-    "category": "baseball",
-    "badge": null,
-    "discount": null,
-    "numbered": false
-  },
-  {
     "id": 7,
     "name": "Rookie Pitchers #387 Refractor - 2026 Topps Heritage MLB Baseball Card",
     "price": 3.8,
@@ -198,17 +187,6 @@ window.products = [
     "numbered": false
   },
   {
-    "id": 19,
-    "name": "Paul Skenes - 2024 MLB Topps NOW® Card OS-2 Rookie Of The Year ROTY",
-    "price": 2.25,
-    "image": "https://i.ebayimg.com/images/g/K-8AAOSwBpZnO-Ja/s-l300.jpg",
-    "url": "https://www.ebay.com/itm/168307357088",
-    "category": "other",
-    "badge": null,
-    "discount": null,
-    "numbered": false
-  },
-  {
     "id": 20,
     "name": "#284 Jose Ramirez - Easter Green Holiday SP - 2026 Topps Series 1 - MLB Baseball",
     "price": 4.74,
@@ -262,17 +240,6 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": true
-  },
-  {
-    "id": 25,
-    "name": "#135 Alex Bregman Purple Holiday - 2026 Topps Series 1 - MLB Baseball",
-    "price": 2.5,
-    "image": "https://i.ebayimg.com/images/g/YrwAAeSwr75pk7wM/s-l300.jpg",
-    "url": "https://www.ebay.com/itm/168307220746",
-    "category": "baseball",
-    "badge": null,
-    "discount": null,
-    "numbered": false
   },
   {
     "id": 26,
@@ -418,17 +385,6 @@ window.products = [
     "numbered": false
   },
   {
-    "id": 39,
-    "name": "Bryce Eldridge (RC) #310 Dark Gray Border - 2026 Topps Heritage MLB Baseball",
-    "price": 3,
-    "image": "https://i.ebayimg.com/images/g/GwEAAeSwcOdpv0~6/s-l300.jpg",
-    "url": "https://www.ebay.com/itm/168304917781",
-    "category": "baseball",
-    "badge": null,
-    "discount": null,
-    "numbered": false
-  },
-  {
     "id": 40,
     "name": "Alex Ferreira USA GOLD Freeskiing- 2026 Olympics Topps NOW® - Card 17 *SHIPS NOW",
     "price": 6.5,
@@ -527,72 +483,6 @@ window.products = [
     "discount": null,
     "numbered": false
   },
-    {
-    "id": 50,
-    "name": "Porygon Picture Book Mini Card Japanese Nintendo Rare Pokemon A207 NM *BTX",
-    "price": 49,
-    "image": "https://i.ebayimg.com/images/g/U50AAeSwXlVpgr6x/s-l300.jpg",
-    "url": "https://www.ebay.com/itm/168302497247",
-    "category": "pokemon",
-    "badge": null,
-    "discount": null,
-    "numbered": false
-  },
-  {
-    "id": 51,
-    "name": "18/25* John Blackwell Eclipses 1k - 2025-26 Bowman U NOW® Basketball Card 24",
-    "price": 25,
-    "image": "https://i.ebayimg.com/images/g/YugAAeSwUjZpSegl/s-l300.jpg",
-    "url": "https://www.ebay.com/itm/168302497256",
-    "category": "basketball",
-    "badge": null,
-    "discount": null,
-    "numbered": true
-  },
-  {
-    "id": 52,
-    "name": "31/50* AUTO RELIC Freddy Peralta 2023 Topps Pristine Around the Diamond #ADR-FP",
-    "price": 29,
-    "image": "https://i.ebayimg.com/images/g/D9cAAeSwTjZo4yZ0/s-l300.jpg",
-    "url": "https://www.ebay.com/itm/168302497254",
-    "category": "other",
-    "badge": null,
-    "discount": null,
-    "numbered": true
-  },
-  {
-    "id": 53,
-    "name": "Roman Anthony (RC) 2026 Topps Series 1 -  75th Anniversary Rookie #T91-71",
-    "price": 5,
-    "image": "https://i.ebayimg.com/images/g/uLAAAeSwpttpjk-7/s-l300.jpg",
-    "url": "https://www.ebay.com/itm/168302497251",
-    "category": "other",
-    "badge": null,
-    "discount": null,
-    "numbered": false
-  },
-  {
-    "id": 54,
-    "name": "IVYSAUR Foil PSA 8  1999 TOPPS Pokemon Movie Edition E1 Foil *BTX",
-    "price": 15,
-    "image": "https://i.ebayimg.com/images/g/ErQAAeSw3MRpg55J/s-l300.jpg",
-    "url": "https://www.ebay.com/itm/168302497245",
-    "category": "pokemon",
-    "badge": null,
-    "discount": null,
-    "numbered": true
-  },
-  {
-    "id": 55,
-    "name": "Sal Stewart (RC) - 2026 MLB Topps NOW® - Card 88 ROOKIE #auction PRE-SALE",
-    "price": 0.99,
-    "image": "https://i.ebayimg.com/images/g/ndkAAeSw69Jp4dhH/s-l300.jpg",
-    "url": "https://www.ebay.com/itm/168313900301",
-    "category": "other",
-    "badge": null,
-    "discount": null,
-    "numbered": false
-  },
   {
     "id": 56,
     "name": "Sal Stewart (RC) - 2026 MLB Topps NOW® - Card 88 ROOKIE PRE-SALE",
@@ -627,17 +517,6 @@ window.products = [
     "numbered": true
   },
   {
-    "id": 59,
-    "name": "107/250* DaShawn Keirsey (RC) #19 - 2025 Topps Chrome Rookie MLB Baseball Card",
-    "price": 3,
-    "image": "https://i.ebayimg.com/images/g/kUYAAeSwwilp4PUU/s-l300.jpg",
-    "url": "https://www.ebay.com/itm/168312557411",
-    "category": "baseball",
-    "badge": null,
-    "discount": null,
-    "numbered": true
-  },
-  {
     "id": 60,
     "name": "Sal Stewart (RC) - 2026 MLB Topps NOW® - Card 84 ROOKIE PRE-SALE",
     "price": 6.45,
@@ -660,17 +539,6 @@ window.products = [
     "numbered": false
   },
   {
-    "id": 62,
-    "name": "1989 Topps Nintendo Super Macho Man Punch-Out Game Tip Sticker PSA 7  *BTX",
-    "price": 10,
-    "image": "https://i.ebayimg.com/images/g/ZDoAAeSweR9pg8iL/s-l300.jpg",
-    "url": "https://www.ebay.com/itm/168302497249",
-    "category": "other",
-    "badge": null,
-    "discount": null,
-    "numbered": true
-  },
-  {
     "id": 63,
     "name": "Shohei Ohtani #ATT-9 - 2026 Topps Series 1 - MLB Baseball Card",
     "price": 2.85,
@@ -691,17 +559,6 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": true
-  },
-  {
-    "id": 65,
-    "name": "Jac Caglianone (RC) #138 REFRACTOR - 2026 Topps Series 1 - MLB Baseball Card",
-    "price": 3,
-    "image": "https://i.ebayimg.com/images/g/tk8AAeSwLeFpyZWW/s-l300.jpg",
-    "url": "https://www.ebay.com/itm/168307357105",
-    "category": "baseball",
-    "badge": null,
-    "discount": null,
-    "numbered": false
   },
   {
     "id": 66,
@@ -731,17 +588,6 @@ window.products = [
     "price": 5.97,
     "image": "https://i.ebayimg.com/images/g/jcAAAeSw~upp1EVp/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168291658931",
-    "category": "baseball",
-    "badge": null,
-    "discount": null,
-    "numbered": false
-  },
-  {
-    "id": 69,
-    "name": "Shoehei Ohtani #BTP-3 - 2026 Topps Series 1 - MLB Baseball",
-    "price": 2,
-    "image": "https://i.ebayimg.com/images/g/WeMAAeSwIpVpleLS/s-l300.jpg",
-    "url": "https://www.ebay.com/itm/168304893207",
     "category": "baseball",
     "badge": null,
     "discount": null,
@@ -792,39 +638,6 @@ window.products = [
     "numbered": false
   },
   {
-    "id": 74,
-    "name": "Dodgers Duo Japan #265 Shohei - Fanatics Exclusive - 2026 Topps Series 1 - MLB",
-    "price": 5,
-    "image": "https://i.ebayimg.com/images/g/OX8AAeSw705ptd7Z/s-l300.jpg",
-    "url": "https://www.ebay.com/itm/168302512535",
-    "category": "other",
-    "badge": null,
-    "discount": null,
-    "numbered": false
-  },
-  {
-    "id": 75,
-    "name": "/76* Nick Pivetta #9 Independance Day - 2026 Topps Series 1 - MLB Baseball",
-    "price": 4,
-    "image": "https://i.ebayimg.com/images/g/UckAAeSwscxptdeS/s-l300.jpg",
-    "url": "https://www.ebay.com/itm/168306299712",
-    "category": "baseball",
-    "badge": null,
-    "discount": null,
-    "numbered": false
-  },
-  {
-    "id": 76,
-    "name": "07/10* BLACK Mikaela Shiffrin USA OLYMPICS 2026 Olympics Topps NOW® - Card 13",
-    "price": 20.76,
-    "image": "https://i.ebayimg.com/images/g/id8AAeSwG6dp3Pu9/s-l300.jpg",
-    "url": "https://www.ebay.com/itm/168306234437",
-    "category": "other",
-    "badge": null,
-    "discount": null,
-    "numbered": true
-  },
-  {
     "id": 77,
     "name": "1989 Topps Nintendo Super Mario Brothers Sticker #9 Game Tips PSA 5  *BTX",
     "price": 20,
@@ -856,17 +669,6 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": true
-  },
-  {
-    "id": 80,
-    "name": "Sal Stewart (RC) - 2026 MLB Topps NOW® - Card 84 ROOKIE PRE-SALE #auction",
-    "price": 4.76,
-    "image": "https://i.ebayimg.com/images/g/LxYAAeSw3Hxp4BSF/s-l300.jpg",
-    "url": "https://www.ebay.com/itm/168311297161",
-    "category": "other",
-    "badge": null,
-    "discount": null,
-    "numbered": false
   },
   {
     "id": 81,
@@ -962,17 +764,6 @@ window.products = [
     "price": 1.43,
     "image": "https://i.ebayimg.com/images/g/IU4AAeSwsSFpxa41/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168265263197",
-    "category": "baseball",
-    "badge": null,
-    "discount": null,
-    "numbered": false
-  },
-  {
-    "id": 90,
-    "name": "RELIC Juan Soto #CCR-JS - 2026 Topps Heritage MLB Baseball Card",
-    "price": 5,
-    "image": "https://i.ebayimg.com/images/g/p9AAAeSw3EZpweXs/s-l300.jpg",
-    "url": "https://www.ebay.com/itm/168304917783",
     "category": "baseball",
     "badge": null,
     "discount": null,
@@ -1166,17 +957,6 @@ window.products = [
     "numbered": false
   },
   {
-    "id": 108,
-    "name": "Samuel Basallo (RC) #104 2026 Topps Series 1 Rookie- Sand Glitter Rainbow",
-    "price": 2,
-    "image": "https://i.ebayimg.com/images/g/kxMAAeSwY6Bpjo0j/s-l300.jpg",
-    "url": "https://www.ebay.com/itm/168307220750",
-    "category": "other",
-    "badge": null,
-    "discount": null,
-    "numbered": false
-  },
-  {
     "id": 109,
     "name": "Jose Ramirez #GD-18 - 2026 Topps Series 1 - MLB Baseball Card",
     "price": 1.43,
@@ -1243,28 +1023,6 @@ window.products = [
     "numbered": false
   },
   {
-    "id": 115,
-    "name": "Andrew Vaughn 2nd HR Series NLDS - 2025 MLB Topps NOW® - Card 856",
-    "price": 3,
-    "image": "https://i.ebayimg.com/images/g/RXQAAeSw5jdo7BeF/s-l300.jpg",
-    "url": "https://www.ebay.com/itm/168307357095",
-    "category": "other",
-    "badge": null,
-    "discount": null,
-    "numbered": false
-  },
-  {
-    "id": 116,
-    "name": "Shohei Ohtani #RP-SO - 2026 Topps Heritage MLB Baseball Card #a",
-    "price": 2,
-    "image": "https://i.ebayimg.com/images/g/FRUAAeSwo41pwfuq/s-l300.jpg",
-    "url": "https://www.ebay.com/itm/168308656544",
-    "category": "baseball",
-    "badge": null,
-    "discount": null,
-    "numbered": false
-  },
-  {
     "id": 117,
     "name": "Jose Altuve #PAS-4 - 2026 Topps Series 1 - MLB Baseball Card",
     "price": 1.9,
@@ -1293,17 +1051,6 @@ window.products = [
     "image": "https://i.ebayimg.com/images/g/HAQAAeSwSSBpz-BM/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168284297364",
     "category": "baseball",
-    "badge": null,
-    "discount": null,
-    "numbered": false
-  },
-  {
-    "id": 120,
-    "name": "Shohei Ohtani Los Angeles Dodgers 2024 MLB Topps Now 750",
-    "price": 2.25,
-    "image": "https://i.ebayimg.com/images/g/29wAAOSwLs5m9IEC/s-l300.jpg",
-    "url": "https://www.ebay.com/itm/168307357094",
-    "category": "other",
     "badge": null,
     "discount": null,
     "numbered": false
@@ -1342,28 +1089,6 @@ window.products = [
     "numbered": false
   },
   {
-    "id": 124,
-    "name": "John Cena/Shohei Ohtani 2026 World Baseball Classic Topps NOW Card WBCO IN-HAND",
-    "price": 4.25,
-    "image": "https://i.ebayimg.com/images/g/D54AAeSwG-xprK0T/s-l300.jpg",
-    "url": "https://www.ebay.com/itm/168304917784",
-    "category": "baseball",
-    "badge": null,
-    "discount": null,
-    "numbered": false
-  },
-  {
-    "id": 125,
-    "name": "PSA 6 - Bulbasaur Ivysaur Venusaur Pokémon Blue Logo Topps Sticker First *BTX",
-    "price": 10,
-    "image": "https://i.ebayimg.com/images/g/k8IAAeSwZwBpo0L4/s-l300.jpg",
-    "url": "https://www.ebay.com/itm/168302497246",
-    "category": "pokemon",
-    "badge": null,
-    "discount": null,
-    "numbered": true
-  },
-  {
     "id": 126,
     "name": "39/50* Oneil Cruz - 2025 MLB Topps NOW® - Card 206 Pittsburg Pirates",
     "price": 9,
@@ -1375,33 +1100,11 @@ window.products = [
     "numbered": true
   },
   {
-    "id": 127,
-    "name": "Roman Anthony - 2026 World Baseball Classic Topps NOW® - Card 21",
-    "price": 2.5,
-    "image": "https://i.ebayimg.com/images/g/VlQAAeSwKO1psIfW/s-l300.jpg",
-    "url": "https://www.ebay.com/itm/168307357102",
-    "category": "baseball",
-    "badge": null,
-    "discount": null,
-    "numbered": false
-  },
-  {
     "id": 128,
     "name": "Mike Trout #8B-8 8 Bit Ballers - 2026 Topps Series 1 - MLB Baseball Card",
     "price": 1.9,
     "image": "https://i.ebayimg.com/images/g/ox8AAeSwt~9pxbAE/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168265284007",
-    "category": "baseball",
-    "badge": null,
-    "discount": null,
-    "numbered": false
-  },
-  {
-    "id": 129,
-    "name": "Bronx Brothers #302 Fanatics Exclusive - 2026 Topps Series 1 - MLB Baseball",
-    "price": 3,
-    "image": "https://i.ebayimg.com/images/g/NcsAAeSw71NplVTN/s-l300.jpg",
-    "url": "https://www.ebay.com/itm/168304898894",
     "category": "baseball",
     "badge": null,
     "discount": null,
@@ -1562,17 +1265,6 @@ window.products = [
     "numbered": false
   },
   {
-    "id": 144,
-    "name": "38/50* PARALLEL Milwaukee Brewers DIVISION CHAMPS! - 2025 MLB Topps NOW Card 746",
-    "price": 9,
-    "image": "https://i.ebayimg.com/images/g/bmoAAeSwIcxo6rvP/s-l300.jpg",
-    "url": "https://www.ebay.com/itm/168304898888",
-    "category": "other",
-    "badge": null,
-    "discount": null,
-    "numbered": true
-  },
-  {
     "id": 145,
     "name": "2026 Topps All-Topps Team Cal Raleigh #ATT-1 Series 1",
     "price": 3.33,
@@ -1622,17 +1314,6 @@ window.products = [
     "price": 1.9,
     "image": "https://i.ebayimg.com/images/g/puQAAeSw7rhpxbHg/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168265301572",
-    "category": "baseball",
-    "badge": null,
-    "discount": null,
-    "numbered": false
-  },
-  {
-    "id": 150,
-    "name": "/99* ROOKIE PITCHERS #391 GREEN PARLLEL - 2026 Heritage - MLB Baseball Card",
-    "price": 2,
-    "image": "https://i.ebayimg.com/images/g/6X4AAeSwG6dp3m3i/s-l300.jpg",
-    "url": "https://www.ebay.com/itm/168308662719",
     "category": "baseball",
     "badge": null,
     "discount": null,
@@ -1859,34 +1540,12 @@ window.products = [
     "numbered": false
   },
   {
-    "id": 171,
-    "name": "#233 Owen Caissie Holiday Pink & Green - 2026 Topps Series 1 - MLB Baseball",
-    "price": 3,
-    "image": "https://i.ebayimg.com/images/g/WKoAAeSwV1lpk7pI/s-l300.jpg",
-    "url": "https://www.ebay.com/itm/168302512531",
-    "category": "baseball",
-    "badge": null,
-    "discount": null,
-    "numbered": false
-  },
-  {
     "id": 172,
     "name": "Fernando Tatis Jr. #333 SILVER SPARKLE - 2026 Topps Series 1 - MLB Baseball Card",
     "price": 1.9,
     "image": "https://i.ebayimg.com/images/g/wVoAAeSw6sppzahM/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168279936047",
     "category": "baseball",
-    "badge": null,
-    "discount": null,
-    "numbered": false
-  },
-  {
-    "id": 173,
-    "name": "RELIC Ketel Marte 2026 Topps Series 1 #MLM-KM Diamondbacks MLB Material",
-    "price": 5,
-    "image": "https://i.ebayimg.com/images/g/e24AAeSwcZVpjp02/s-l300.jpg",
-    "url": "https://www.ebay.com/itm/168304893206",
-    "category": "other",
     "badge": null,
     "discount": null,
     "numbered": false
@@ -1923,17 +1582,6 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false
-  },
-  {
-    "id": 177,
-    "name": "27/50* Milwaukee Brewers 14th Straight Win - 2025 MLB Topps NOW® - Card 561",
-    "price": 9,
-    "image": "https://i.ebayimg.com/images/g/8qoAAeSw7plot8aV/s-l300.jpg",
-    "url": "https://www.ebay.com/itm/168302512529",
-    "category": "other",
-    "badge": null,
-    "discount": null,
-    "numbered": true
   },
   {
     "id": 178,
@@ -2156,33 +1804,11 @@ window.products = [
     "numbered": false
   },
   {
-    "id": 198,
-    "name": "Charizard Gold Metal Coin - MINT/NEW - Pokemon Collectors Gift 1oz. 1.57\\",
-    "price": 4,
-    "image": "https://i.ebayimg.com/images/g/THIAAeSwctRojP7M/s-l300.jpg",
-    "url": "https://www.ebay.com/itm/168302512530",
-    "category": "pokemon",
-    "badge": null,
-    "discount": null,
-    "numbered": false
-  },
-  {
     "id": 199,
     "name": "Ramon Urias #343 SILVER SPARKLE - 2026 Topps Series 1 - MLB Baseball Card",
     "price": 1.9,
     "image": "https://i.ebayimg.com/images/g/q0cAAeSw8tFpyZu-/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168272050249",
-    "category": "baseball",
-    "badge": null,
-    "discount": null,
-    "numbered": false
-  },
-  {
-    "id": 200,
-    "name": "Marcelo Mayer #269 Fanatics Exclusive - 2026 Topps Series 1 - MLB Baseball",
-    "price": 2.25,
-    "image": "https://i.ebayimg.com/images/g/usYAAeSwyRpplePA/s-l300.jpg",
-    "url": "https://www.ebay.com/itm/168307367302",
     "category": "baseball",
     "badge": null,
     "discount": null,
@@ -2264,17 +1890,6 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false
-  },
-  {
-    "id": 208,
-    "name": "Sawbsbuck 074/071 - SV5M -  Cyber Judge - Pokemon Card Japanese MINT/NM",
-    "price": 4,
-    "image": "https://i.ebayimg.com/images/g/OskAAOSwT75mPC6Q/s-l300.jpg",
-    "url": "https://www.ebay.com/itm/168304936490",
-    "category": "pokemon",
-    "badge": null,
-    "discount": null,
-    "numbered": true
   },
   {
     "id": 209,
@@ -2458,17 +2073,6 @@ window.products = [
     "price": 1.43,
     "image": "https://i.ebayimg.com/images/g/Lf4AAeSwUpVpnQdN/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168182376288",
-    "category": "baseball",
-    "badge": null,
-    "discount": null,
-    "numbered": false
-  },
-  {
-    "id": 226,
-    "name": "Brandyn Garcia (RC) #163 Sand Glitter - 2026 Topps Series 1 - MLB Baseball",
-    "price": 3,
-    "image": "https://i.ebayimg.com/images/g/KowAAeSwQJxplVJr/s-l300.jpg",
-    "url": "https://www.ebay.com/itm/168306310461",
     "category": "baseball",
     "badge": null,
     "discount": null,
@@ -3212,17 +2816,6 @@ window.products = [
     "numbered": false
   },
   {
-    "id": 294,
-    "name": "AUTO Kyle Karros (RC) #ROA-KK  - 2026 Heritage - MLB Baseball Card",
-    "price": 5,
-    "image": "https://i.ebayimg.com/images/g/~akAAeSwtV5p3rSl/s-l300.jpg",
-    "url": "https://www.ebay.com/itm/168309074764",
-    "category": "baseball",
-    "badge": null,
-    "discount": null,
-    "numbered": false
-  },
-  {
     "id": 295,
     "name": "Paul Skenes #SMLB-21 - 2026 Topps Series 1 - MLB Baseball",
     "price": 1.43,
@@ -3465,33 +3058,11 @@ window.products = [
     "numbered": false
   },
   {
-    "id": 317,
-    "name": "RELIC Manny Machado 2026 Topps Series 1 1991 #91R-MM San Diego Padres",
-    "price": 3,
-    "image": "https://i.ebayimg.com/images/g/6zwAAeSwCDtpjhhT/s-l300.jpg",
-    "url": "https://www.ebay.com/itm/168307220751",
-    "category": "other",
-    "badge": null,
-    "discount": null,
-    "numbered": false
-  },
-  {
     "id": 318,
     "name": "Carson Williams (RC) #8B-23 - 8 BIT BALLERS - 2026 Topps Series 1 - MLB Baseball",
     "price": 1.9,
     "image": "https://i.ebayimg.com/images/g/uNIAAeSwNtJpxcmW/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168265464579",
-    "category": "baseball",
-    "badge": null,
-    "discount": null,
-    "numbered": false
-  },
-  {
-    "id": 319,
-    "name": "Milwaukee Brewers Wall Decor Old School Vintage  ~12in x 8in.  MLB Sign",
-    "price": 5,
-    "image": "https://i.ebayimg.com/images/g/WM8AAOSwo~doKL5Y/s-l300.jpg",
-    "url": "https://www.ebay.com/itm/168307357086",
     "category": "baseball",
     "badge": null,
     "discount": null,
@@ -3504,17 +3075,6 @@ window.products = [
     "image": "https://i.ebayimg.com/images/g/B~cAAeSwgyhpz99U/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168284288492",
     "category": "baseball",
-    "badge": null,
-    "discount": null,
-    "numbered": false
-  },
-  {
-    "id": 321,
-    "name": "Jacob Misiorowski (RC) 2026 Topps Series 1 Big Ticket Player  Rookie BTP-2",
-    "price": 2,
-    "image": "https://i.ebayimg.com/images/g/MDYAAeSwiqxpjk3l/s-l300.jpg",
-    "url": "https://www.ebay.com/itm/168306310460",
-    "category": "other",
     "badge": null,
     "discount": null,
     "numbered": false
@@ -3927,17 +3487,6 @@ window.products = [
     "numbered": false
   },
   {
-    "id": 359,
-    "name": "Cutis Mead #303 Deckle Edge - 2026 Topps Heritage MLB Baseball Card",
-    "price": 5,
-    "image": "https://i.ebayimg.com/images/g/Mg0AAeSw7s5pvX2S/s-l300.jpg",
-    "url": "https://www.ebay.com/itm/168306299711",
-    "category": "baseball",
-    "badge": null,
-    "discount": null,
-    "numbered": false
-  },
-  {
     "id": 360,
     "name": "Bryce Harper #TP-19 - 2026 Topps Series 1 - MLB Baseball Card",
     "price": 2.85,
@@ -4175,17 +3724,6 @@ window.products = [
     "image": "https://i.ebayimg.com/images/g/XWYAAeSwotdpklX3/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168162212079",
     "category": "baseball",
-    "badge": null,
-    "discount": null,
-    "numbered": false
-  },
-  {
-    "id": 382,
-    "name": "2026 Topps Series 1 1991 Topps T91-48 Mickey Mantle Yankees",
-    "price": 2.25,
-    "image": "https://i.ebayimg.com/images/g/QD0AAeSwgB5pjk6v/s-l300.jpg",
-    "url": "https://www.ebay.com/itm/168307367312",
-    "category": "other",
     "badge": null,
     "discount": null,
     "numbered": false
@@ -4559,17 +4097,6 @@ window.products = [
     "price": 1.43,
     "image": "https://i.ebayimg.com/images/g/edoAAeSwws5plVIc/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168168115392",
-    "category": "baseball",
-    "badge": null,
-    "discount": null,
-    "numbered": false
-  },
-  {
-    "id": 417,
-    "name": "Derek Jeter #335 Blue Sparkle - 2026 Topps Heritage MLB Baseball Card",
-    "price": 3,
-    "image": "https://i.ebayimg.com/images/g/kyAAAeSwl~dpvcCO/s-l300.jpg",
-    "url": "https://www.ebay.com/itm/168304917785",
     "category": "baseball",
     "badge": null,
     "discount": null,
@@ -5027,17 +4554,6 @@ window.products = [
     "numbered": false
   },
   {
-    "id": 459,
-    "name": "12/25* Parallel Oneil Cruz - 2025 MLB Topps NOW® - Card 206 Pittsburg Pirates",
-    "price": 9,
-    "image": "https://i.ebayimg.com/images/g/VUwAAOSwv8xoTJnK/s-l300.jpg",
-    "url": "https://www.ebay.com/itm/168302512538",
-    "category": "other",
-    "badge": null,
-    "discount": null,
-    "numbered": true
-  },
-  {
     "id": 460,
     "name": "Cassidy Animation Series 2 PSA 8 2000 Topps Pokemon TV #HV5 #B  *BTX",
     "price": 25,
@@ -5165,17 +4681,6 @@ window.products = [
     "image": "https://i.ebayimg.com/images/g/XWcAAeSw8EtpteBJ/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168233566675",
     "category": "other",
-    "badge": null,
-    "discount": null,
-    "numbered": false
-  },
-  {
-    "id": 472,
-    "name": "Jordan Westburg #184 DECKLE EDGE - 2026 Heritage - MLB Baseball Card",
-    "price": 2,
-    "image": "https://i.ebayimg.com/images/g/YIgAAeSwI3Zp3m0-/s-l300.jpg",
-    "url": "https://www.ebay.com/itm/168308660550",
-    "category": "baseball",
     "badge": null,
     "discount": null,
     "numbered": false
@@ -5434,17 +4939,6 @@ window.products = [
     "numbered": false
   },
   {
-    "id": 496,
-    "name": "Matt Shaw (RC) ROOKIE CUP - PINK FOIL - 2025 Topps Now ML Baseball",
-    "price": 3,
-    "image": "https://i.ebayimg.com/images/g/rI0AAeSwgAxp4PR3/s-l300.jpg",
-    "url": "https://www.ebay.com/itm/168312556508",
-    "category": "baseball",
-    "badge": null,
-    "discount": null,
-    "numbered": false
-  },
-  {
     "id": 497,
     "name": "Samuel Basallo (RC) #8B-20 - 2026 Topps Series 1 - MLB Baseball Card",
     "price": 1.9,
@@ -5621,17 +5115,6 @@ window.products = [
     "numbered": false
   },
   {
-    "id": 513,
-    "name": "Dragonair 3/20 Dragon Vault Holo Rare Pokemon Card NM  *BTX",
-    "price": 3,
-    "image": "https://i.ebayimg.com/images/g/uIMAAeSwumNpgVgJ/s-l300.jpg",
-    "url": "https://www.ebay.com/itm/168306310463",
-    "category": "pokemon",
-    "badge": null,
-    "discount": null,
-    "numbered": true
-  },
-  {
     "id": 514,
     "name": "Spencer Torkelson #106 PINK SPARKLE - 2026 Heritage - MLB Baseball Card",
     "price": 1.9,
@@ -5731,17 +5214,6 @@ window.products = [
     "numbered": false
   },
   {
-    "id": 523,
-    "name": "Blake Snell 10Ks Makes MLB History - 2025 MLB Topps NOW® - Card 867",
-    "price": 2.5,
-    "image": "https://i.ebayimg.com/images/g/E8cAAeSwnqBo7o5h/s-l300.jpg",
-    "url": "https://www.ebay.com/itm/168307220752",
-    "category": "other",
-    "badge": null,
-    "discount": null,
-    "numbered": false
-  },
-  {
     "id": 524,
     "name": "Samuel Basallo (RC) #175 - BASE CARD - 2026 Topps Heritage MLB Baseball",
     "price": 1.66,
@@ -5825,28 +5297,6 @@ window.products = [
     "image": "https://i.ebayimg.com/images/g/4UEAAeSwFd1pkls7/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168162247960",
     "category": "baseball",
-    "badge": null,
-    "discount": null,
-    "numbered": false
-  },
-  {
-    "id": 532,
-    "name": "Jackson Chourio - 2025 MLB Topps NOW® - Card 759 HR Robbery",
-    "price": 4,
-    "image": "https://i.ebayimg.com/images/g/AigAAeSwJW9o1dA3/s-l300.jpg",
-    "url": "https://www.ebay.com/itm/168306299706",
-    "category": "other",
-    "badge": null,
-    "discount": null,
-    "numbered": false
-  },
-  {
-    "id": 533,
-    "name": "Porygon-Z Pokemon Sticker Seal Anime Game Nintendo TCG Japanese #191 HP *BTX",
-    "price": 5,
-    "image": "https://i.ebayimg.com/images/g/R~UAAeSw70tpgsaC/s-l300.jpg",
-    "url": "https://www.ebay.com/itm/168307220741",
-    "category": "pokemon",
     "badge": null,
     "discount": null,
     "numbered": false
@@ -6100,17 +5550,6 @@ window.products = [
     "image": "https://i.ebayimg.com/images/g/pXMAAeSwmBVplVEM/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168168109891",
     "category": "baseball",
-    "badge": null,
-    "discount": null,
-    "numbered": false
-  },
-  {
-    "id": 557,
-    "name": "Blake Snell 10Ks Makes MLB History - 2025 MLB Topps NOW® - Card 867",
-    "price": 2.25,
-    "image": "https://i.ebayimg.com/images/g/E8cAAeSwnqBo7o5h/s-l300.jpg",
-    "url": "https://www.ebay.com/itm/168307225765",
-    "category": "other",
     "badge": null,
     "discount": null,
     "numbered": false
@@ -6523,17 +5962,6 @@ window.products = [
     "numbered": false
   },
   {
-    "id": 595,
-    "name": "Drake Baldwin #234 - Black Parallel - Topps 2025 Archives - M/NM",
-    "price": 3,
-    "image": "https://i.ebayimg.com/images/g/iiAAAeSwRI9pX8qt/s-l300.jpg",
-    "url": "https://www.ebay.com/itm/168306310457",
-    "category": "other",
-    "badge": null,
-    "discount": null,
-    "numbered": false
-  },
-  {
     "id": 596,
     "name": "Bryce Harper #GH-10 - 2026 Topps Series 1 - MLB Baseball Card",
     "price": 1.9,
@@ -6595,17 +6023,6 @@ window.products = [
     "image": "https://i.ebayimg.com/images/g/bYYAAeSwAIZpkncV/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168162468202",
     "category": "baseball",
-    "badge": null,
-    "discount": null,
-    "numbered": false
-  },
-  {
-    "id": 602,
-    "name": "2025 Topps Basketball Card Rainbow Foil #281 Milwaukee Bucks Checklist",
-    "price": 2.25,
-    "image": "https://i.ebayimg.com/images/g/6ZMAAeSw6whpLypA/s-l300.jpg",
-    "url": "https://www.ebay.com/itm/168307367313",
-    "category": "basketball",
     "badge": null,
     "discount": null,
     "numbered": false
@@ -6831,17 +6248,6 @@ window.products = [
     "numbered": false
   },
   {
-    "id": 623,
-    "name": "Blake Snell 10Ks Makes MLB History - 2025 MLB Topps NOW® - Card 867",
-    "price": 4,
-    "image": "https://i.ebayimg.com/images/g/E8cAAeSwnqBo7o5h/s-l300.jpg",
-    "url": "https://www.ebay.com/itm/168306299710",
-    "category": "other",
-    "badge": null,
-    "discount": null,
-    "numbered": false
-  },
-  {
     "id": 624,
     "name": "#FP-8 Alysha Newman First Pitch - 2026 Topps Series 1 - MLB Baseball",
     "price": 2.36,
@@ -6914,17 +6320,6 @@ window.products = [
     "image": "https://i.ebayimg.com/images/g/0uwAAeSwUpVpklKv/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168162199110",
     "category": "baseball",
-    "badge": null,
-    "discount": null,
-    "numbered": false
-  },
-  {
-    "id": 631,
-    "name": "Walker Buehler LA Dodgers 2024 MLB Topps Now Card 872 World Series",
-    "price": 2.25,
-    "image": "https://i.ebayimg.com/images/g/TgQAAOSwQypnIU6F/s-l300.jpg",
-    "url": "https://www.ebay.com/itm/168307367308",
-    "category": "other",
     "badge": null,
     "discount": null,
     "numbered": false
@@ -7084,17 +6479,6 @@ window.products = [
     "numbered": false
   },
   {
-    "id": 646,
-    "name": "Yandy Diaz #47 PINK SPARKLE - 2026 Heritage - MLB Baseball Card",
-    "price": 2,
-    "image": "https://i.ebayimg.com/images/g/4BIAAeSwiJ5p3m2-/s-l300.jpg",
-    "url": "https://www.ebay.com/itm/168308662215",
-    "category": "baseball",
-    "badge": null,
-    "discount": null,
-    "numbered": false
-  },
-  {
     "id": 647,
     "name": "Bobby Witt Jr. #8B-19 8-BIT 2026 Topps Series 1 - MLB Baseball Card",
     "price": 1.9,
@@ -7188,17 +6572,6 @@ window.products = [
     "price": 1.9,
     "image": "https://i.ebayimg.com/images/g/Fc4AAeSwpHtpwKvX/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168255108664",
-    "category": "baseball",
-    "badge": null,
-    "discount": null,
-    "numbered": false
-  },
-  {
-    "id": 656,
-    "name": "Isaac Collins #102 REFRACTOR - 2026 Topps Heritage MLB Baseball Card",
-    "price": 3,
-    "image": "https://i.ebayimg.com/images/g/rPwAAeSwEE5pwgzK/s-l300.jpg",
-    "url": "https://www.ebay.com/itm/168307357103",
     "category": "baseball",
     "badge": null,
     "discount": null,
@@ -7722,17 +7095,6 @@ window.products = [
     "numbered": false
   },
   {
-    "id": 704,
-    "name": "Jacob Misiorowski -All Star 9x 100mph 2025 MLB Topps NOW® - Card 432",
-    "price": 4,
-    "image": "https://i.ebayimg.com/images/g/YJoAAeSw-floeAM4/s-l300.jpg",
-    "url": "https://www.ebay.com/itm/168306299707",
-    "category": "other",
-    "badge": null,
-    "discount": null,
-    "numbered": false
-  },
-  {
     "id": 705,
     "name": "Kody Clemens Rainbow Refractor #85 - 2026 Topps Series 1 - MLB Baseball",
     "price": 1.9,
@@ -7766,17 +7128,6 @@ window.products = [
     "numbered": false
   },
   {
-    "id": 708,
-    "name": "Derek Jeter #335 Dark Gray Border - 2026 Topps Heritage MLB Baseball Card",
-    "price": 5,
-    "image": "https://i.ebayimg.com/images/g/Wd8AAeSwHKtpwfwU/s-l300.jpg",
-    "url": "https://www.ebay.com/itm/168304917782",
-    "category": "baseball",
-    "badge": null,
-    "discount": null,
-    "numbered": false
-  },
-  {
     "id": 709,
     "name": "#163 Brandyn Garcia (RC) - 2026 Topps Series 1 - Base Card - MLB Baseball",
     "price": 2.13,
@@ -7797,17 +7148,6 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false
-  },
-  {
-    "id": 711,
-    "name": "MINT Biancas Sincerity 092/071 SR Pokemon Japanese 2024 Cyber Judge US Seller",
-    "price": 3,
-    "image": "https://i.ebayimg.com/images/g/ilAAAOSwdK5mwuo8/s-l300.jpg",
-    "url": "https://www.ebay.com/itm/168306310464",
-    "category": "pokemon",
-    "badge": null,
-    "discount": null,
-    "numbered": true
   },
   {
     "id": 712,
@@ -7871,17 +7211,6 @@ window.products = [
     "image": "https://i.ebayimg.com/images/g/UvIAAeSwjStp0Ewx/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168285066229",
     "category": "baseball",
-    "badge": null,
-    "discount": null,
-    "numbered": false
-  },
-  {
-    "id": 718,
-    "name": "Pokemon 1999 Artbox Series 1 Sticker Porygon Original Rare Piece  NM *BTX",
-    "price": 3,
-    "image": "https://i.ebayimg.com/images/g/OSgAAeSw~cFpg5Si/s-l300.jpg",
-    "url": "https://www.ebay.com/itm/168304898891",
-    "category": "pokemon",
     "badge": null,
     "discount": null,
     "numbered": false
@@ -8083,17 +7412,6 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false
-  },
-  {
-    "id": 737,
-    "name": "Haxorus 16/20 Dragon Vault Holo Rare Pokemon Card NM *C* *BTX",
-    "price": 5,
-    "image": "https://i.ebayimg.com/images/g/zWMAAeSwcVxpgh~i/s-l300.jpg",
-    "url": "https://www.ebay.com/itm/168302512528",
-    "category": "pokemon",
-    "badge": null,
-    "discount": null,
-    "numbered": true
   },
   {
     "id": 738,
@@ -9097,33 +8415,11 @@ window.products = [
     "numbered": false
   },
   {
-    "id": 829,
-    "name": "Jackson Chourio (RC) 2024 Topps Update Series - Stars of MLB #SMLB-84",
-    "price": 2.25,
-    "image": "https://i.ebayimg.com/images/g/ZgQAAOSwO9Zncu3e/s-l300.jpg",
-    "url": "https://www.ebay.com/itm/168307225768",
-    "category": "other",
-    "badge": null,
-    "discount": null,
-    "numbered": false
-  },
-  {
     "id": 830,
     "name": "Spencer Strider #41 Blue Sparkle - 2026 Topps Heritage MLB Baseball Card",
     "price": 1.9,
     "image": "https://i.ebayimg.com/images/g/mrYAAeSw2FppwL57/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168255230229",
-    "category": "baseball",
-    "badge": null,
-    "discount": null,
-    "numbered": false
-  },
-  {
-    "id": 831,
-    "name": "Rhys Hoskins #331 PINK SPARKLE - 2026 Heritage - MLB Baseball Card",
-    "price": 2,
-    "image": "https://i.ebayimg.com/images/g/dIUAAeSwPY9p3m10/s-l300.jpg",
-    "url": "https://www.ebay.com/itm/168308661511",
     "category": "baseball",
     "badge": null,
     "discount": null,
@@ -9168,17 +8464,6 @@ window.products = [
     "price": 1.9,
     "image": "https://i.ebayimg.com/images/g/MEEAAeSwgV5pyZ7G/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168272072325",
-    "category": "baseball",
-    "badge": null,
-    "discount": null,
-    "numbered": false
-  },
-  {
-    "id": 836,
-    "name": "Gunnar Henderson #287 REFRACTOR - 2026 Heritage - MLB Baseball Card",
-    "price": 2,
-    "image": "https://i.ebayimg.com/images/g/z3UAAeSwcnFp3m4s/s-l300.jpg",
-    "url": "https://www.ebay.com/itm/168308663776",
     "category": "baseball",
     "badge": null,
     "discount": null,
@@ -9548,17 +8833,6 @@ window.products = [
     "numbered": false
   },
   {
-    "id": 870,
-    "name": "Robinson Pina (RC) #315 GREEN BORDER PARALLEL - 2026 Heritage MLB Baseball Card",
-    "price": 2,
-    "image": "https://i.ebayimg.com/images/g/wpsAAeSwm6Zp3m33/s-l300.jpg",
-    "url": "https://www.ebay.com/itm/168308663128",
-    "category": "baseball",
-    "badge": null,
-    "discount": null,
-    "numbered": false
-  },
-  {
     "id": 871,
     "name": "#165 Ian Seymour (RC) - 2026 Topps Series 1 - Base Card - MLB Baseball",
     "price": 2.13,
@@ -9708,17 +8982,6 @@ window.products = [
     "image": "https://i.ebayimg.com/images/g/D~8AAeSwEvxpwhBC/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168257819019",
     "category": "baseball",
-    "badge": null,
-    "discount": null,
-    "numbered": false
-  },
-  {
-    "id": 885,
-    "name": "2025 Topps Heritage Gavin Sheets #464 Gold Border /150",
-    "price": 2.25,
-    "image": "https://i.ebayimg.com/images/g/1YQAAOSwvu1oJMCe/s-l300.jpg",
-    "url": "https://www.ebay.com/itm/168307357089",
-    "category": "other",
     "badge": null,
     "discount": null,
     "numbered": false
@@ -10239,17 +9502,6 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false
-  },
-  {
-    "id": 933,
-    "name": "02/50* Freddy Peralta - MLB 15th Victory 2025 MLB Topps NOW Card 573 BREWERS",
-    "price": 7,
-    "image": "https://i.ebayimg.com/images/g/AyYAAeSwrX1owx3Y/s-l300.jpg",
-    "url": "https://www.ebay.com/itm/168304936489",
-    "category": "other",
-    "badge": null,
-    "discount": null,
-    "numbered": true
   },
   {
     "id": 934,
@@ -10989,17 +10241,6 @@ window.products = [
     "numbered": false
   },
   {
-    "id": 1001,
-    "name": "Gavin Lux WHITE PARALLEL LA Dodgers 2024 MLB WS Champions TOPPS NOW WS-12",
-    "price": 2.5,
-    "image": "https://i.ebayimg.com/images/g/4msAAeSw5ZFohnsR/s-l300.jpg",
-    "url": "https://www.ebay.com/itm/168307220753",
-    "category": "other",
-    "badge": null,
-    "discount": null,
-    "numbered": false
-  },
-  {
     "id": 1002,
     "name": "Kyle Schwarber #159 Dark Gray Border - 2026 Topps Heritage MLB Baseball Card",
     "price": 2.14,
@@ -11093,17 +10334,6 @@ window.products = [
     "price": 1.9,
     "image": "https://i.ebayimg.com/images/g/9NAAAeSwrDZpwK0r/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168255114852",
-    "category": "baseball",
-    "badge": null,
-    "discount": null,
-    "numbered": false
-  },
-  {
-    "id": 1011,
-    "name": "Hyeseong Kim #268 REFRACTOR - 2026 Heritage - MLB Baseball Card",
-    "price": 2,
-    "image": "https://i.ebayimg.com/images/g/jaMAAeSw77xp3m2U/s-l300.jpg",
-    "url": "https://www.ebay.com/itm/168308661840",
     "category": "baseball",
     "badge": null,
     "discount": null,
@@ -11308,17 +10538,6 @@ window.products = [
     "numbered": false
   },
   {
-    "id": 1030,
-    "name": "Haxorus 16/20 Dragon Vault Holo Rare Pokemon Card NM *B* *BTX",
-    "price": 5,
-    "image": "https://i.ebayimg.com/images/g/GiEAAeSw8SFpghM8/s-l300.jpg",
-    "url": "https://www.ebay.com/itm/168302512533",
-    "category": "pokemon",
-    "badge": null,
-    "discount": null,
-    "numbered": true
-  },
-  {
     "id": 1031,
     "name": "Rhys Hoskins #331 Blue Sparkle - 2026 Topps Heritage MLB Baseball Card",
     "price": 2.38,
@@ -11363,17 +10582,6 @@ window.products = [
     "numbered": false
   },
   {
-    "id": 1035,
-    "name": "Darryn Peterson #12 Refractor - 2025 Topps Chrome McDonald's All American",
-    "price": 3,
-    "image": "https://i.ebayimg.com/images/g/aZ4AAeSwy85puf52/s-l300.jpg",
-    "url": "https://www.ebay.com/itm/168306310455",
-    "category": "other",
-    "badge": null,
-    "discount": null,
-    "numbered": false
-  },
-  {
     "id": 1036,
     "name": "RELIC Ezequiel Tovar #CCR-ET - 2026 Topps Heritage MLB Baseball Card",
     "price": 4.75,
@@ -11391,17 +10599,6 @@ window.products = [
     "image": "https://i.ebayimg.com/images/g/V4wAAeSwFENptdl4/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168233526134",
     "category": "baseball",
-    "badge": null,
-    "discount": null,
-    "numbered": false
-  },
-  {
-    "id": 1038,
-    "name": "Ryan Braun 2009 Upper Deck UD Game Jersey Milwaukee Brewers #GJ-RB",
-    "price": 9,
-    "image": "https://i.ebayimg.com/images/g/CV0AAeSwA1BpO2LZ/s-l300.jpg",
-    "url": "https://www.ebay.com/itm/168302512532",
-    "category": "other",
     "badge": null,
     "discount": null,
     "numbered": false
@@ -11512,17 +10709,6 @@ window.products = [
     "image": "https://i.ebayimg.com/images/g/sBoAAeSwE51pu5HV/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168246028874",
     "category": "other",
-    "badge": null,
-    "discount": null,
-    "numbered": false
-  },
-  {
-    "id": 1049,
-    "name": "Josh Smith #301 GREEN BORDER PARALLEL - 2026 Heritage - MLB Baseball Card",
-    "price": 2,
-    "image": "https://i.ebayimg.com/images/g/0OAAAeSw5M9p3m1U/s-l300.jpg",
-    "url": "https://www.ebay.com/itm/168308660989",
-    "category": "baseball",
     "badge": null,
     "discount": null,
     "numbered": false
@@ -11891,28 +11077,6 @@ window.products = [
     "numbered": false
   },
   {
-    "id": 1083,
-    "name": "Yoan Moncada #35 PINK SPARKLE - 2026 Heritage - MLB Baseball Card",
-    "price": 2,
-    "image": "https://i.ebayimg.com/images/g/bsYAAeSwJfBp3m4X/s-l300.jpg",
-    "url": "https://www.ebay.com/itm/168308663322",
-    "category": "baseball",
-    "badge": null,
-    "discount": null,
-    "numbered": false
-  },
-  {
-    "id": 1084,
-    "name": "AUTO Ian Seymore #IS - 2026 Topps Heritage MLB Baseball Card Autograph on Card",
-    "price": 5,
-    "image": "https://i.ebayimg.com/images/g/LR4AAeSw64xpvZjk/s-l300.jpg",
-    "url": "https://www.ebay.com/itm/168309301918",
-    "category": "baseball",
-    "badge": null,
-    "discount": null,
-    "numbered": false
-  },
-  {
     "id": 1085,
     "name": "Byron Buxton #253 Blue Sparkle - 2026 Topps Heritage MLB Baseball Card",
     "price": 1.9,
@@ -12177,17 +11341,6 @@ window.products = [
     "numbered": false
   },
   {
-    "id": 1109,
-    "name": "Jackson Holliday (RC) 2024 Topps Update Series - Mystical #MYS-10",
-    "price": 2,
-    "image": "https://i.ebayimg.com/images/g/T-MAAOSwTkVncu8X/s-l300.jpg",
-    "url": "https://www.ebay.com/itm/168307220754",
-    "category": "other",
-    "badge": null,
-    "discount": null,
-    "numbered": false
-  },
-  {
     "id": 1110,
     "name": "Riley Greene #152 Blue Sparkle - 2026 Topps Heritage MLB Baseball Card",
     "price": 1.9,
@@ -12348,17 +11501,6 @@ window.products = [
     "image": "https://i.ebayimg.com/images/g/G9YAAeSwSqlpxXu8/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168264861938",
     "category": "baseball",
-    "badge": null,
-    "discount": null,
-    "numbered": false
-  },
-  {
-    "id": 1125,
-    "name": "Porygon-Z MARUMIYA Japanese Pokemon Sticker Nintendo No.77 Very Rare MP *BTX",
-    "price": 8,
-    "image": "https://i.ebayimg.com/images/g/bOYAAeSwreJpgrLj/s-l300.jpg",
-    "url": "https://www.ebay.com/itm/168302512536",
-    "category": "pokemon",
     "badge": null,
     "discount": null,
     "numbered": false
@@ -12650,17 +11792,6 @@ window.products = [
     "numbered": true
   },
   {
-    "id": 1152,
-    "name": "Mike Schmidt SEPIA Green Phillys Card 260 MINT MLB Baseball Card Parallel",
-    "price": 2.25,
-    "image": "https://i.ebayimg.com/images/g/gXMAAOSwLp9nP3A~/s-l300.jpg",
-    "url": "https://www.ebay.com/itm/168307225761",
-    "category": "baseball",
-    "badge": null,
-    "discount": null,
-    "numbered": false
-  },
-  {
     "id": 1153,
     "name": "Pokemon Porygon & Porygon2 Shikishi Art Board Made In Japan BANDAI (OPENED) *BTX",
     "price": 17,
@@ -12747,28 +11878,6 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false
-  },
-  {
-    "id": 1161,
-    "name": "21/25* PARALLEL Emanuel Sharp Houston Cougars 2025 Bowman NOW Basketball Card 85",
-    "price": 3,
-    "image": "https://i.ebayimg.com/images/g/z2UAAOSwYadn9FfC/s-l300.jpg",
-    "url": "https://www.ebay.com/itm/168307220755",
-    "category": "basketball",
-    "badge": null,
-    "discount": null,
-    "numbered": true
-  },
-  {
-    "id": 1162,
-    "name": "Farigiraf ex SR 088/071 Holo Cyber Judge sv5m 2024 Pokemon Card Japanese MINT",
-    "price": 2.5,
-    "image": "https://i.ebayimg.com/images/g/Vv8AAOSw3WhmOCg3/s-l300.jpg",
-    "url": "https://www.ebay.com/itm/168307220743",
-    "category": "pokemon",
-    "badge": null,
-    "discount": null,
-    "numbered": true
   },
   {
     "id": 1163,
@@ -13354,17 +12463,6 @@ window.products = [
     "numbered": false
   },
   {
-    "id": 1216,
-    "name": "Haxorus 16/20 Dragon Vault Holo Rare Pokemon Card NM *BTX",
-    "price": 3,
-    "image": "https://i.ebayimg.com/images/g/6TIAAeSwaJVpghKD/s-l300.jpg",
-    "url": "https://www.ebay.com/itm/168304944811",
-    "category": "pokemon",
-    "badge": null,
-    "discount": null,
-    "numbered": true
-  },
-  {
     "id": 1217,
     "name": "George Brett #99 Sepia - 2025 Stadium Club - MLB Baseball",
     "price": 4.75,
@@ -13706,17 +12804,6 @@ window.products = [
     "numbered": false
   },
   {
-    "id": 1248,
-    "name": "2024 Topps Stadium Club Jackson Merrill RC Triumvirates TRI-15 Diecut Padres",
-    "price": 5,
-    "image": "https://i.ebayimg.com/images/g/ojQAAOSwTmdnP23n/s-l300.jpg",
-    "url": "https://www.ebay.com/itm/168304917786",
-    "category": "other",
-    "badge": null,
-    "discount": null,
-    "numbered": false
-  },
-  {
     "id": 1249,
     "name": "Brenton Doyle #355 Dark Gray Border - 2026 Topps Heritage MLB Baseball Card",
     "price": 3.8,
@@ -13789,17 +12876,6 @@ window.products = [
     "image": "https://i.ebayimg.com/images/g/YcoAAeSwPa9ptd~t/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168233565598",
     "category": "baseball",
-    "badge": null,
-    "discount": null,
-    "numbered": false
-  },
-  {
-    "id": 1256,
-    "name": "LOT OF 10 RANDOM PINS [NO DUPLICATES] [BRAND NEW!] [SAME DAY SHIPPING]",
-    "price": 5,
-    "image": "https://i.ebayimg.com/images/g/b4IAAOSwWjllpdG8/s-l300.jpg",
-    "url": "https://www.ebay.com/itm/168307357097",
-    "category": "other",
     "badge": null,
     "discount": null,
     "numbered": false
@@ -13942,17 +13018,6 @@ window.products = [
     "price": 3.8,
     "image": "https://i.ebayimg.com/images/g/7WsAAeSw6Bppv07~/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168252649122",
-    "category": "baseball",
-    "badge": null,
-    "discount": null,
-    "numbered": false
-  },
-  {
-    "id": 1270,
-    "name": "Elly De La Cruz #70 GREEN BORDER PARALLEL - 2026 Heritage - MLB Baseball Card",
-    "price": 2,
-    "image": "https://i.ebayimg.com/images/g/RPsAAeSwibJp3m2s/s-l300.jpg",
-    "url": "https://www.ebay.com/itm/168308662079",
     "category": "baseball",
     "badge": null,
     "discount": null,
@@ -14130,17 +13195,6 @@ window.products = [
     "image": "https://i.ebayimg.com/images/g/c9MAAeSw4u1pl68L/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168172090021",
     "category": "baseball",
-    "badge": null,
-    "discount": null,
-    "numbered": false
-  },
-  {
-    "id": 1287,
-    "name": "Darryn Peterson #TP-12 Refractor - 2025 Topps Chrome McDonald's All American",
-    "price": 4,
-    "image": "https://i.ebayimg.com/images/g/bEwAAeSwJe1puf79/s-l300.jpg",
-    "url": "https://www.ebay.com/itm/168306299705",
-    "category": "other",
     "badge": null,
     "discount": null,
     "numbered": false
@@ -14410,17 +13464,6 @@ window.products = [
     "numbered": false
   },
   {
-    "id": 1312,
-    "name": "2024 Topps Allen & Ginter ADOLIS GARCIA CHROME REFRACTOR #132",
-    "price": 3,
-    "image": "https://i.ebayimg.com/images/g/hHUAAOSwIKZnNt6N/s-l300.jpg",
-    "url": "https://www.ebay.com/itm/168304936491",
-    "category": "other",
-    "badge": null,
-    "discount": null,
-    "numbered": false
-  },
-  {
     "id": 1313,
     "name": "Eugenio Suarez #29 Chrome - 2026 Topps Heritage MLB Baseball Card",
     "price": 2.38,
@@ -14608,17 +13651,6 @@ window.products = [
     "numbered": false
   },
   {
-    "id": 1330,
-    "name": "2024 Topps Allen And Ginter Mike Trout CHROME #280",
-    "price": 2,
-    "image": "https://i.ebayimg.com/images/g/tD0AAOSwr5BnNtmg/s-l300.jpg",
-    "url": "https://www.ebay.com/itm/168306310459",
-    "category": "other",
-    "badge": null,
-    "discount": null,
-    "numbered": false
-  },
-  {
     "id": 1331,
     "name": "Pokemon  Kingdra EX GOLD DISPLAY Card MINT CONDITION.",
     "price": 7.32,
@@ -14801,17 +13833,6 @@ window.products = [
     "image": "https://i.ebayimg.com/images/g/fQgAAOSw5ppnQ5z4/s-l300.jpg",
     "url": "https://www.ebay.com/itm/167122652484",
     "category": "baseball",
-    "badge": null,
-    "discount": null,
-    "numbered": false
-  },
-  {
-    "id": 1348,
-    "name": "Aaliyah Chavez #PP-18 - 2025 Topps Chrome McDonald's All American",
-    "price": 2.25,
-    "image": "https://i.ebayimg.com/images/g/kEwAAeSwGR9pugtI/s-l300.jpg",
-    "url": "https://www.ebay.com/itm/168307367309",
-    "category": "other",
     "badge": null,
     "discount": null,
     "numbered": false
@@ -15378,17 +14399,6 @@ window.products = [
     "numbered": false
   },
   {
-    "id": 1400,
-    "name": "Chris Cenac Jr #HL-7 Refractor - 2025 Topps Chrome McDonald's All American",
-    "price": 4,
-    "image": "https://i.ebayimg.com/images/g/v98AAeSww-VputyJ/s-l300.jpg",
-    "url": "https://www.ebay.com/itm/168306299704",
-    "category": "other",
-    "badge": null,
-    "discount": null,
-    "numbered": false
-  },
-  {
     "id": 1401,
     "name": "2024 Topps Allen & Ginter Gold Mini Evan Carter RC 96",
     "price": 2.85,
@@ -15450,17 +14460,6 @@ window.products = [
     "image": "https://i.ebayimg.com/images/g/Y1EAAeSwF8Rpwbrt/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168257213116",
     "category": "baseball",
-    "badge": null,
-    "discount": null,
-    "numbered": false
-  },
-  {
-    "id": 1407,
-    "name": "2024 Topps Allen & Ginter Oswald Peraza Jersey Relic card #AGR-OPE Yankees",
-    "price": 4,
-    "image": "https://i.ebayimg.com/images/g/2xsAAOSwVRRnbGr5/s-l300.jpg",
-    "url": "https://www.ebay.com/itm/168306310462",
-    "category": "other",
     "badge": null,
     "discount": null,
     "numbered": false
@@ -15670,17 +14669,6 @@ window.products = [
     "image": "https://i.ebayimg.com/images/g/IEcAAeSww8ppvV7x/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168249431832",
     "category": "baseball",
-    "badge": null,
-    "discount": null,
-    "numbered": false
-  },
-  {
-    "id": 1427,
-    "name": "2024 Topps Allen Ginter Got the Itch Mini Scratch Sniff #GTI-5 CHOCOLATE *Damage",
-    "price": 2,
-    "image": "https://i.ebayimg.com/images/g/ngcAAOSwVtVnNuW7/s-l300.jpg",
-    "url": "https://www.ebay.com/itm/168304898885",
-    "category": "other",
     "badge": null,
     "discount": null,
     "numbered": false
@@ -16071,17 +15059,6 @@ window.products = [
     "numbered": false
   },
   {
-    "id": 1463,
-    "name": "2022 Panini Capstone Peak Material Signatures Andrew Vaughn #PMS-AV Auto",
-    "price": 5,
-    "image": "https://i.ebayimg.com/images/g/ef4AAeSwd9to2rqI/s-l300.jpg",
-    "url": "https://www.ebay.com/itm/168304893208",
-    "category": "other",
-    "badge": null,
-    "discount": null,
-    "numbered": false
-  },
-  {
     "id": 1464,
     "name": "Scyther 001/071 - SV5M -  Cyber Judge - Pokemon Card Japanese MINT/NM",
     "price": 1.53,
@@ -16190,17 +15167,6 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false
-  },
-  {
-    "id": 1474,
-    "name": "Unown  Pokémon Card 0/28 Holo 60HP 2005 MP/HP *BTX",
-    "price": 4.75,
-    "image": "https://i.ebayimg.com/images/g/RW0AAeSwxxRpgiSo/s-l300.jpg",
-    "url": "https://www.ebay.com/itm/168307220748",
-    "category": "pokemon",
-    "badge": null,
-    "discount": null,
-    "numbered": true
   },
   {
     "id": 1475,
@@ -16379,17 +15345,6 @@ window.products = [
     "numbered": false
   },
   {
-    "id": 1491,
-    "name": "/99* Zakiyah Johnson #65 Parallel - 2025 Topps Chrome McDonald's All American",
-    "price": 2.25,
-    "image": "https://i.ebayimg.com/images/g/Vr0AAeSwv6Jput9z/s-l300.jpg",
-    "url": "https://www.ebay.com/itm/168307367305",
-    "category": "other",
-    "badge": null,
-    "discount": null,
-    "numbered": false
-  },
-  {
     "id": 1492,
     "name": "Leading Firemen #8 Dark Gray Border - 2026 Topps Heritage MLB Baseball Card",
     "price": 1.9,
@@ -16553,17 +15508,6 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false
-  },
-  {
-    "id": 1507,
-    "name": "29/50* ORANGE PARALLEL 2024 Topps Archives #229 Ryan Jeffers",
-    "price": 3,
-    "image": "https://i.ebayimg.com/images/g/pB4AAOSwIStnmphc/s-l300.jpg",
-    "url": "https://www.ebay.com/itm/168307225762",
-    "category": "other",
-    "badge": null,
-    "discount": null,
-    "numbered": true
   },
   {
     "id": 1508,
@@ -17237,17 +16181,6 @@ window.products = [
     "numbered": false
   },
   {
-    "id": 1569,
-    "name": "NECKLACE 2023 Topps Holiday #H129c Anthony Volpe Lights Necklace",
-    "price": 2.25,
-    "image": "https://i.ebayimg.com/images/g/PqYAAOSwscxnahd~/s-l300.jpg",
-    "url": "https://www.ebay.com/itm/168307367311",
-    "category": "other",
-    "badge": null,
-    "discount": null,
-    "numbered": false
-  },
-  {
     "id": 1570,
     "name": "Porygon2 No. 220 Pokemon Kids Sticker Seal Japanese Bandai 2006 Japan LP *BTX",
     "price": 9,
@@ -17298,17 +16231,6 @@ window.products = [
     "image": "https://i.ebayimg.com/images/g/p9EAAeSwCnlpvcRi/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168250105410",
     "category": "baseball",
-    "badge": null,
-    "discount": null,
-    "numbered": false
-  },
-  {
-    "id": 1575,
-    "name": "CHROME REFRACTOR - 2025 Topps Heritage Through the Years TTY-5 Robin Yount",
-    "price": 2.5,
-    "image": "https://i.ebayimg.com/images/g/7VUAAOSwEX1oJNXk/s-l300.jpg",
-    "url": "https://www.ebay.com/itm/168307357092",
-    "category": "other",
     "badge": null,
     "discount": null,
     "numbered": false
@@ -18793,17 +17715,6 @@ window.products = [
     "price": 4.75,
     "image": "https://i.ebayimg.com/images/g/fuAAAOSwcUVnahOY/s-l300.jpg",
     "url": "https://www.ebay.com/itm/167203626888",
-    "category": "other",
-    "badge": null,
-    "discount": null,
-    "numbered": false
-  },
-  {
-    "id": 1711,
-    "name": "/199* Kaelyn Carroll #60 Parallel - 2025 Topps Chrome McDonald's All American",
-    "price": 2.25,
-    "image": "https://i.ebayimg.com/images/g/JvMAAeSwO61putw2/s-l300.jpg",
-    "url": "https://www.ebay.com/itm/168307357087",
     "category": "other",
     "badge": null,
     "discount": null,
