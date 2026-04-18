@@ -590,6 +590,20 @@ function saveCart(cart) {
   localStorage.setItem(CART_KEY, JSON.stringify(cart));
 }
 
+function showStockError(productId, stock) {
+  let toast = document.getElementById('stockToast');
+  if (!toast) {
+    toast = document.createElement('div');
+    toast.id = 'stockToast';
+    toast.className = 'stock-toast';
+    document.body.appendChild(toast);
+  }
+  toast.textContent = `// only ${stock} available`;
+  toast.classList.add('show');
+  clearTimeout(toast._timer);
+  toast._timer = setTimeout(() => toast.classList.remove('show'), 2200);
+}
+
 window.addToCart = function(productId) {
   const product = products.find(p => p.id === productId);
   if (!product) return;
@@ -599,7 +613,10 @@ window.addToCart = function(productId) {
   const existing = cart.find(i => i.id === productId);
   const currentQty = existing ? existing.quantity : 0;
 
-  if (currentQty >= stock) return; // already at max
+  if (currentQty >= stock) {
+    showStockError(productId, stock);
+    return;
+  }
 
   if (existing) {
     existing.quantity += 1;

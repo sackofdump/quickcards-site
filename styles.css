@@ -1601,6 +1601,28 @@ input, select { font-family: inherit; }
   font-family: 'JetBrains Mono', monospace;
 }
 
+/* Stock error toast */
+.stock-toast {
+  position: fixed;
+  bottom: 24px;
+  left: 50%;
+  transform: translateX(-50%) translateY(20px);
+  background: rgba(229, 57, 53, 0.95);
+  color: #fff;
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 0.8rem;
+  padding: 10px 20px;
+  border-radius: var(--radius-sm);
+  z-index: 2000;
+  opacity: 0;
+  pointer-events: none;
+  transition: opacity 0.2s ease, transform 0.2s ease;
+}
+.stock-toast.show {
+  opacity: 1;
+  transform: translateX(-50%) translateY(0);
+}
+
 /* Stock label on product cards */
 .product-stock {
   font-family: 'JetBrains Mono', monospace;
