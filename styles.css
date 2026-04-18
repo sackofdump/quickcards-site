@@ -1704,6 +1704,9 @@ input, select { font-family: inherit; }
 .btn-cart.added {
   background: linear-gradient(135deg, #28c940, #2196F3);
 }
+.btn-ebay-only {
+  background: linear-gradient(135deg, #e53935, #f5a623);
+}
 
 @media (max-width: 480px) {
   .cart-drawer { width: 100vw; }

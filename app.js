@@ -314,9 +314,12 @@ function renderProducts() {
         </div>
         <div class="product-action">
           <a href="${p.url}" target="_blank" rel="noopener" class="btn-view">&gt; inspect()</a>
-          <button class="btn-cart" onclick="addToCart(${p.id})" id="cart-btn-${p.id}">&gt; add.cart()</button>
+          ${p.ebayOnly
+            ? `<a href="${p.url}" target="_blank" rel="noopener" class="btn-cart btn-ebay-only">&gt; buy.ebay()</a>`
+            : `<button class="btn-cart" onclick="addToCart(${p.id})" id="cart-btn-${p.id}">&gt; add.cart()</button>`
+          }
         </div>
-        ${p.stock > 1 ? `<div class="product-stock">// ${p.stock} in stock</div>` : ''}
+        ${p.stock > 1 && !p.ebayOnly ? `<div class="product-stock">// ${p.stock} in stock</div>` : ''}
       </div>
     </div>`;
   }).join('');
