@@ -320,9 +320,11 @@ function renderProducts() {
         </div>
         <div class="product-action">
           <a href="${p.url}" target="_blank" rel="noopener" class="btn-view">&gt; inspect()</a>
-          ${p.ebayOnly
-            ? `<a href="${p.url}" target="_blank" rel="noopener" class="btn-cart btn-ebay-only">&gt; buy.ebay()</a>`
-            : `<button class="btn-cart" onclick="addToCart(${p.id})" id="cart-btn-${p.id}">&gt; add.cart()</button>`
+          ${p.stock === 0
+            ? `<button class="btn-cart btn-out-of-stock" disabled>&gt; out.of.stock()</button>`
+            : p.ebayOnly
+              ? `<a href="${p.url}" target="_blank" rel="noopener" class="btn-cart btn-ebay-only">&gt; buy.ebay()</a>`
+              : `<button class="btn-cart" onclick="addToCart(${p.id})" id="cart-btn-${p.id}">&gt; add.cart()</button>`
           }
         </div>
         ${p.stock > 1 && !p.ebayOnly ? `<div class="product-stock">// ${p.stock} in stock</div>` : ''}
@@ -623,7 +625,8 @@ window.addToCart = function(productId) {
   const product = products.find(p => p.id === productId);
   if (!product) return;
 
-  const stock = product.stock || 1;
+  const stock = product.stock != null ? product.stock : 1;
+  if (stock === 0) return;
   const cart = getCart();
   const existing = cart.find(i => i.id === productId);
   const currentQty = existing ? existing.quantity : 0;
