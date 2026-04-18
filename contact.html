@@ -9,28 +9,127 @@
   <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@400;500;600;700;800;900&family=Inter:wght@300;400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
   <link rel="icon" type="image/png" href="logo.png">
   <link rel="stylesheet" href="styles.css">
+  <style>
+    .contact-section {
+      min-height: 100vh;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      padding: 120px 24px 80px;
+    }
+    .contact-card {
+      width: 100%;
+      max-width: 560px;
+      background: var(--card-bg);
+      border: 1px solid var(--card-border);
+      border-radius: 20px;
+      padding: 48px 40px;
+      backdrop-filter: blur(20px);
+    }
+    .contact-tag {
+      display: inline-block;
+      font-family: 'JetBrains Mono', monospace;
+      font-size: 0.7rem;
+      letter-spacing: 4px;
+      text-transform: uppercase;
+      color: var(--blue);
+      padding: 5px 16px;
+      border: 1px solid rgba(33, 150, 243, 0.3);
+      border-radius: 100px;
+      background: rgba(33, 150, 243, 0.07);
+      margin-bottom: 20px;
+    }
+    .contact-title {
+      font-family: 'Orbitron', monospace;
+      font-size: clamp(1.4rem, 3vw, 2rem);
+      font-weight: 900;
+      margin-bottom: 8px;
+      letter-spacing: 2px;
+    }
+    .contact-sub {
+      font-size: 0.9rem;
+      color: var(--gray-300);
+      margin-bottom: 36px;
+      font-family: 'JetBrains Mono', monospace;
+    }
+    .form-group {
+      margin-bottom: 20px;
+    }
+    .form-group label {
+      display: block;
+      font-family: 'JetBrains Mono', monospace;
+      font-size: 0.72rem;
+      color: var(--blue-light);
+      letter-spacing: 2px;
+      text-transform: uppercase;
+      margin-bottom: 8px;
+    }
+    .form-group input,
+    .form-group textarea,
+    .form-group select {
+      width: 100%;
+      background: rgba(10, 13, 50, 0.6);
+      border: 1px solid var(--card-border);
+      border-radius: var(--radius-sm);
+      padding: 12px 16px;
+      color: var(--white);
+      font-family: 'Inter', sans-serif;
+      font-size: 0.9rem;
+      transition: var(--transition);
+      outline: none;
+    }
+    .form-group input:focus,
+    .form-group textarea:focus,
+    .form-group select:focus {
+      border-color: var(--blue);
+      box-shadow: 0 0 0 3px rgba(33, 150, 243, 0.1);
+    }
+    .form-group textarea {
+      resize: vertical;
+      min-height: 120px;
+    }
+    .form-group select option {
+      background: var(--navy-mid);
+    }
+    .btn-submit {
+      width: 100%;
+      padding: 14px;
+      background: var(--gradient-main);
+      color: var(--white);
+      font-family: 'JetBrains Mono', monospace;
+      font-size: 0.9rem;
+      font-weight: 600;
+      border-radius: var(--radius);
+      border: none;
+      cursor: pointer;
+      transition: var(--transition);
+      margin-top: 8px;
+    }
+    .btn-submit:hover {
+      opacity: 0.9;
+      transform: translateY(-2px);
+      box-shadow: 0 8px 30px rgba(33, 150, 243, 0.35);
+    }
+    @media (max-width: 600px) {
+      .contact-card { padding: 32px 24px; }
+    }
+  </style>
 </head>
 <body>
   <canvas id="particles"></canvas>
   <div class="scanlines"></div>
 
-  <!-- Navigation -->
   <nav class="navbar scrolled" id="navbar">
     <div class="nav-container">
       <a href="/" class="logo">
         <img src="logo.png" alt="QuickCards" class="logo-img">
       </a>
       <div class="nav-links" id="navLinks">
-        <a href="/" class="nav-link">Home</a>
-        <a href="/#products" class="nav-link">Products</a>
-        <a href="/#categories" class="nav-link">Categories</a>
-        <a href="contact.html" class="nav-link active">Contact</a>
+        <a href="/" class="nav-link">/home</a>
+        <a href="/#products" class="nav-link">/vault</a>
+        <a href="contact.html" class="nav-link active">/contact</a>
       </div>
       <div class="nav-actions">
-        <a href="https://www.ebay.com/str/qceshop" target="_blank" class="btn-ebay">
-          <span>Visit eBay Store</span>
-          <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M7 17L17 7M17 7H7M17 7V17"/></svg>
-        </a>
         <button class="mobile-toggle" id="mobileToggle">
           <span></span><span></span><span></span>
         </button>
@@ -38,34 +137,79 @@
     </div>
   </nav>
 
-  <!-- Contact Content -->
-  <section style="min-height: 80vh; display: flex; align-items: center; justify-content: center; padding: 120px 24px 60px;">
-    <div style="text-align: center; max-width: 600px;">
-      <h1 style="font-family: 'Orbitron', monospace; font-size: 2rem; margin-bottom: 16px;">Contact Us</h1>
-      <p style="color: var(--gray-300); font-size: 1.1rem;">Contact details coming soon.</p>
+  <section class="contact-section">
+    <div class="contact-card">
+      <div class="contact-tag">// SYS.CONTACT</div>
+      <h1 class="contact-title">&gt; Send a <span class="gradient-text">Message</span></h1>
+      <p class="contact-sub">// we'll get back to you asap</p>
+
+      <form name="contact" method="POST" data-netlify="true" netlify-honeypot="bot-field" action="/success.html">
+        <input type="hidden" name="form-name" value="contact">
+        <p style="display:none"><input name="bot-field"></p>
+
+        <div class="form-group">
+          <label for="name">// NAME</label>
+          <input type="text" id="name" name="name" placeholder="Your name" required>
+        </div>
+
+        <div class="form-group">
+          <label for="email">// EMAIL</label>
+          <input type="email" id="email" name="email" placeholder="your@email.com" required>
+        </div>
+
+        <div class="form-group">
+          <label for="subject">// SUBJECT</label>
+          <select id="subject" name="subject">
+            <option value="order">Order Question</option>
+            <option value="shipping">Shipping</option>
+            <option value="return">Return / Refund</option>
+            <option value="other">Other</option>
+          </select>
+        </div>
+
+        <div class="form-group">
+          <label for="message">// MESSAGE</label>
+          <textarea id="message" name="message" placeholder="What's on your mind?" required></textarea>
+        </div>
+
+        <button type="submit" class="btn-submit">&gt; send.message()</button>
+      </form>
     </div>
   </section>
 
-  <!-- Footer -->
   <footer class="footer">
     <div class="container">
       <div class="footer-bottom">
-        <p>&copy; 2026 QuickCards.shop &mdash; All Rights Reserved</p>
+        <p>&copy; 2026 QuickCards.shop &mdash; all_rights_reserved</p>
       </div>
     </div>
   </footer>
 
   <script>
-    // Mobile nav toggle
     document.getElementById('mobileToggle').addEventListener('click', () => {
       document.getElementById('navLinks').classList.toggle('open');
     });
-    // Particles (minimal)
     const canvas = document.getElementById('particles');
     const ctx = canvas.getContext('2d');
     canvas.width = window.innerWidth;
     canvas.height = window.innerHeight;
     window.addEventListener('resize', () => { canvas.width = window.innerWidth; canvas.height = window.innerHeight; });
+    const particles = Array.from({ length: 60 }, () => ({
+      x: Math.random() * canvas.width, y: Math.random() * canvas.height,
+      size: Math.random() * 2 + 0.5, sx: (Math.random() - 0.5) * 0.5, sy: (Math.random() - 0.5) * 0.5,
+      color: ['rgba(33,150,243,0.3)','rgba(245,166,35,0.2)'][Math.floor(Math.random()*2)]
+    }));
+    (function animate() {
+      ctx.clearRect(0, 0, canvas.width, canvas.height);
+      particles.forEach(p => {
+        p.x += p.sx; p.y += p.sy;
+        if (p.x < 0 || p.x > canvas.width) p.sx *= -1;
+        if (p.y < 0 || p.y > canvas.height) p.sy *= -1;
+        ctx.beginPath(); ctx.arc(p.x, p.y, p.size, 0, Math.PI * 2);
+        ctx.fillStyle = p.color; ctx.fill();
+      });
+      requestAnimationFrame(animate);
+    })();
   </script>
 </body>
 </html>
