@@ -724,6 +724,9 @@ function closeCart() {
   document.getElementById('cartDrawer').classList.remove('open');
   document.getElementById('cartOverlay').classList.remove('open');
   document.body.style.overflow = '';
+  const btn = document.getElementById('checkoutBtn');
+  btn.disabled = false;
+  btn.textContent = '> checkout.init()';
 }
 
 document.getElementById('cartBtn').addEventListener('click', openCart);
