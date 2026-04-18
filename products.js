@@ -45,7 +45,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 5
   },
   {
     "id": 5,
@@ -117,7 +117,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 11,
@@ -129,7 +129,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 3
   },
   {
     "id": 12,
@@ -165,7 +165,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 4
   },
   {
     "id": 15,
@@ -177,7 +177,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 3
   },
   {
     "id": 16,
@@ -213,7 +213,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 6
   },
   {
     "id": 19,
@@ -237,7 +237,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 5
   },
   {
     "id": 21,
@@ -261,7 +261,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 6
   },
   {
     "id": 23,
@@ -273,7 +273,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 4
   },
   {
     "id": 24,
@@ -333,7 +333,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 29,
@@ -345,7 +345,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 4
   },
   {
     "id": 30,
@@ -357,7 +357,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 31,
@@ -369,7 +369,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 8
   },
   {
     "id": 32,
@@ -393,7 +393,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 3
   },
   {
     "id": 34,
@@ -441,7 +441,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 4
   },
   {
     "id": 38,
@@ -477,7 +477,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 41,
@@ -489,7 +489,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 42,
@@ -513,7 +513,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 5
   },
   {
     "id": 44,
@@ -525,7 +525,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 7
   },
   {
     "id": 45,
@@ -561,7 +561,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 8
   },
   {
     "id": 48,
@@ -573,7 +573,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 4
   },
   {
     "id": 49,
@@ -609,7 +609,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 4
   },
   {
     "id": 52,
@@ -621,7 +621,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 53,
@@ -645,7 +645,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 7
   },
   {
     "id": 55,
@@ -657,7 +657,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 3
   },
   {
     "id": 56,
@@ -693,7 +693,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 3
   },
   {
     "id": 59,
@@ -705,7 +705,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 13
   },
   {
     "id": 60,
@@ -729,7 +729,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 4
   },
   {
     "id": 62,
@@ -753,7 +753,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 3
   },
   {
     "id": 64,
@@ -765,7 +765,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 12
   },
   {
     "id": 65,
@@ -789,7 +789,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 67,
@@ -801,7 +801,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 4
   },
   {
     "id": 68,
@@ -813,7 +813,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 69,
@@ -825,7 +825,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 3
   },
   {
     "id": 70,
@@ -861,7 +861,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 5
   },
   {
     "id": 73,
@@ -897,7 +897,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 4
   },
   {
     "id": 76,
@@ -957,7 +957,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 6
   },
   {
     "id": 81,
@@ -981,7 +981,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 4
   },
   {
     "id": 83,
@@ -1017,7 +1017,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 9
   },
   {
     "id": 86,
@@ -1029,7 +1029,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 19
   },
   {
     "id": 87,
@@ -1077,7 +1077,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 3
   },
   {
     "id": 91,
@@ -1113,7 +1113,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 13
   },
   {
     "id": 94,
@@ -1149,7 +1149,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 5
   },
   {
     "id": 97,
@@ -1161,7 +1161,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 10
   },
   {
     "id": 98,
@@ -1173,7 +1173,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 5
   },
   {
     "id": 99,
@@ -1209,7 +1209,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 3
   },
   {
     "id": 102,
@@ -1245,7 +1245,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 105,
@@ -1269,7 +1269,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 6
   },
   {
     "id": 107,
@@ -1293,7 +1293,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 6
   },
   {
     "id": 109,
@@ -1317,7 +1317,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 5
   },
   {
     "id": 111,
@@ -1341,7 +1341,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 18
   },
   {
     "id": 113,
@@ -1353,7 +1353,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 3
   },
   {
     "id": 114,
@@ -1365,7 +1365,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 7
   },
   {
     "id": 115,
@@ -1389,7 +1389,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 3
   },
   {
     "id": 117,
@@ -1401,7 +1401,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 7
   },
   {
     "id": 118,
@@ -1437,7 +1437,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 3
   },
   {
     "id": 121,
@@ -1461,7 +1461,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 4
   },
   {
     "id": 123,
@@ -1497,7 +1497,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 8
   },
   {
     "id": 126,
@@ -1533,7 +1533,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 129,
@@ -1545,7 +1545,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 4
   },
   {
     "id": 130,
@@ -1569,7 +1569,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 132,
@@ -1581,7 +1581,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 5
   },
   {
     "id": 133,
@@ -1617,7 +1617,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 3
   },
   {
     "id": 136,
@@ -1629,7 +1629,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 137,
@@ -1653,7 +1653,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 139,
@@ -1689,7 +1689,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 12
   },
   {
     "id": 142,
@@ -1713,7 +1713,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 49
   },
   {
     "id": 144,
@@ -1737,7 +1737,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 3
   },
   {
     "id": 146,
@@ -1749,7 +1749,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 147,
@@ -1785,7 +1785,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 150,
@@ -1869,7 +1869,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 157,
@@ -1893,7 +1893,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 7
   },
   {
     "id": 159,
@@ -1905,7 +1905,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": true,
-    "stock": 1
+    "stock": 4
   },
   {
     "id": 160,
@@ -1917,7 +1917,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 3
   },
   {
     "id": 161,
@@ -1941,7 +1941,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 41
   },
   {
     "id": 163,
@@ -1953,7 +1953,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 13
   },
   {
     "id": 164,
@@ -1989,7 +1989,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 4
   },
   {
     "id": 167,
@@ -2001,7 +2001,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 168,
@@ -2013,7 +2013,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 169,
@@ -2025,7 +2025,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 7
   },
   {
     "id": 170,
@@ -2037,7 +2037,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 8
   },
   {
     "id": 171,
@@ -2097,7 +2097,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 3
   },
   {
     "id": 176,
@@ -2169,7 +2169,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 182,
@@ -2181,7 +2181,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 18
   },
   {
     "id": 183,
@@ -2193,7 +2193,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 5
   },
   {
     "id": 184,
@@ -2205,7 +2205,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 185,
@@ -2241,7 +2241,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 23
   },
   {
     "id": 188,
@@ -2253,7 +2253,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 189,
@@ -2277,7 +2277,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 5
   },
   {
     "id": 191,
@@ -2289,7 +2289,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 192,
@@ -2325,7 +2325,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 5
   },
   {
     "id": 195,
@@ -2337,7 +2337,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 5
   },
   {
     "id": 196,
@@ -2361,7 +2361,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 3
   },
   {
     "id": 198,
@@ -2385,7 +2385,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 4
   },
   {
     "id": 200,
@@ -2409,7 +2409,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 202,
@@ -2421,7 +2421,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 3
   },
   {
     "id": 203,
@@ -2433,7 +2433,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 204,
@@ -2445,7 +2445,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 7
   },
   {
     "id": 205,
@@ -2469,7 +2469,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": true,
-    "stock": 1
+    "stock": 7
   },
   {
     "id": 207,
@@ -2481,7 +2481,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 3
   },
   {
     "id": 208,
@@ -2505,7 +2505,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 3
   },
   {
     "id": 210,
@@ -2529,7 +2529,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 3
   },
   {
     "id": 212,
@@ -2553,7 +2553,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 3
   },
   {
     "id": 214,
@@ -2565,7 +2565,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 5
   },
   {
     "id": 215,
@@ -2601,7 +2601,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 218,
@@ -2613,7 +2613,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 6
   },
   {
     "id": 219,
@@ -2637,7 +2637,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": true,
-    "stock": 1
+    "stock": 7
   },
   {
     "id": 221,
@@ -2661,7 +2661,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 11
   },
   {
     "id": 223,
@@ -2673,7 +2673,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 4
   },
   {
     "id": 224,
@@ -2685,7 +2685,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 6
   },
   {
     "id": 225,
@@ -2781,7 +2781,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 3
   },
   {
     "id": 233,
@@ -2805,7 +2805,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 4
   },
   {
     "id": 235,
@@ -2865,7 +2865,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 240,
@@ -2889,7 +2889,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 3
   },
   {
     "id": 242,
@@ -2901,7 +2901,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 4
   },
   {
     "id": 243,
@@ -2937,7 +2937,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 4
   },
   {
     "id": 246,
@@ -2961,7 +2961,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 3
   },
   {
     "id": 248,
@@ -2985,7 +2985,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 3
   },
   {
     "id": 250,
@@ -3009,7 +3009,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 252,
@@ -3033,7 +3033,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 6
   },
   {
     "id": 254,
@@ -3045,7 +3045,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": true,
-    "stock": 1
+    "stock": 10
   },
   {
     "id": 255,
@@ -3057,7 +3057,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 4
   },
   {
     "id": 256,
@@ -3069,7 +3069,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 257,
@@ -3081,7 +3081,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 3
   },
   {
     "id": 258,
@@ -3093,7 +3093,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 5
   },
   {
     "id": 259,
@@ -3105,7 +3105,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 3
   },
   {
     "id": 260,
@@ -3117,7 +3117,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 7
   },
   {
     "id": 261,
@@ -3129,7 +3129,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 262,
@@ -3189,7 +3189,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 267,
@@ -3201,7 +3201,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 3
   },
   {
     "id": 268,
@@ -3249,7 +3249,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 272,
@@ -3273,7 +3273,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 274,
@@ -3285,7 +3285,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 3
   },
   {
     "id": 275,
@@ -3333,7 +3333,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 279,
@@ -3357,7 +3357,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 6
   },
   {
     "id": 281,
@@ -3369,7 +3369,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 5
   },
   {
     "id": 282,
@@ -3393,7 +3393,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 284,
@@ -3501,7 +3501,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 293,
@@ -3513,7 +3513,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 5
   },
   {
     "id": 294,
@@ -3549,7 +3549,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 297,
@@ -3561,7 +3561,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 3
   },
   {
     "id": 298,
@@ -3573,7 +3573,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 5
   },
   {
     "id": 299,
@@ -3585,7 +3585,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 3
   },
   {
     "id": 300,
@@ -3621,7 +3621,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 7
   },
   {
     "id": 303,
@@ -3657,7 +3657,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 12
   },
   {
     "id": 306,
@@ -3669,7 +3669,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 307,
@@ -3777,7 +3777,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 6
   },
   {
     "id": 316,
@@ -3801,7 +3801,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 6
   },
   {
     "id": 318,
@@ -3813,7 +3813,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 5
   },
   {
     "id": 319,
@@ -3885,7 +3885,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 325,
@@ -3921,7 +3921,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 328,
@@ -3981,7 +3981,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 3
   },
   {
     "id": 333,
@@ -3993,7 +3993,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 20
   },
   {
     "id": 334,
@@ -4041,7 +4041,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 10
   },
   {
     "id": 338,
@@ -4173,7 +4173,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 5
   },
   {
     "id": 349,
@@ -4185,7 +4185,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 5
   },
   {
     "id": 350,
@@ -4197,7 +4197,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 4
   },
   {
     "id": 351,
@@ -4209,7 +4209,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 9
   },
   {
     "id": 352,
@@ -4233,7 +4233,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 3
   },
   {
     "id": 354,
@@ -4245,7 +4245,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 5
   },
   {
     "id": 355,
@@ -4269,7 +4269,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 3
   },
   {
     "id": 357,
@@ -4281,7 +4281,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 9
   },
   {
     "id": 358,
@@ -4293,7 +4293,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 359,
@@ -4341,7 +4341,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 363,
@@ -4365,7 +4365,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 4
   },
   {
     "id": 365,
@@ -4509,7 +4509,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 10
   },
   {
     "id": 377,
@@ -4569,7 +4569,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 382,
@@ -4629,7 +4629,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 5
   },
   {
     "id": 387,
@@ -4641,7 +4641,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": true,
-    "stock": 1
+    "stock": 6
   },
   {
     "id": 388,
@@ -4653,7 +4653,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 389,
@@ -4701,7 +4701,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 4
   },
   {
     "id": 393,
@@ -4737,7 +4737,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 4
   },
   {
     "id": 396,
@@ -4749,7 +4749,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 5
   },
   {
     "id": 397,
@@ -4761,7 +4761,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 5
   },
   {
     "id": 398,
@@ -4833,7 +4833,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 4
   },
   {
     "id": 404,
@@ -4893,7 +4893,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 3
   },
   {
     "id": 409,
@@ -5013,7 +5013,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 4
   },
   {
     "id": 419,
@@ -5037,7 +5037,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 19
   },
   {
     "id": 421,
@@ -5073,7 +5073,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 24
   },
   {
     "id": 424,
@@ -5193,7 +5193,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 6
   },
   {
     "id": 434,
@@ -5205,7 +5205,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 8
   },
   {
     "id": 435,
@@ -5217,7 +5217,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 436,
@@ -5253,7 +5253,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 439,
@@ -5301,7 +5301,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 3
   },
   {
     "id": 443,
@@ -5361,7 +5361,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 10
   },
   {
     "id": 448,
@@ -5385,7 +5385,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 4
   },
   {
     "id": 450,
@@ -5397,7 +5397,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 451,
@@ -5409,7 +5409,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 452,
@@ -5421,7 +5421,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 4
   },
   {
     "id": 453,
@@ -5433,7 +5433,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 4
   },
   {
     "id": 454,
@@ -5457,7 +5457,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 7
   },
   {
     "id": 456,
@@ -5469,7 +5469,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 3
   },
   {
     "id": 457,
@@ -5517,7 +5517,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 7
   },
   {
     "id": 461,
@@ -5529,7 +5529,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 462,
@@ -5553,7 +5553,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 3
   },
   {
     "id": 464,
@@ -5589,7 +5589,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 5
   },
   {
     "id": 467,
@@ -5637,7 +5637,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": true,
-    "stock": 1
+    "stock": 9
   },
   {
     "id": 471,
@@ -5673,7 +5673,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 3
   },
   {
     "id": 474,
@@ -5709,7 +5709,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": true,
-    "stock": 1
+    "stock": 5
   },
   {
     "id": 477,
@@ -5757,7 +5757,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 3
   },
   {
     "id": 481,
@@ -5769,7 +5769,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 482,
@@ -5805,7 +5805,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 12
   },
   {
     "id": 485,
@@ -5925,7 +5925,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 4
   },
   {
     "id": 495,
@@ -5937,7 +5937,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 496,
@@ -5985,7 +5985,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 3
   },
   {
     "id": 500,
@@ -6021,7 +6021,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 503,
@@ -6057,7 +6057,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 4
   },
   {
     "id": 506,
@@ -6105,7 +6105,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 12
   },
   {
     "id": 510,
@@ -6117,7 +6117,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 10
   },
   {
     "id": 511,
@@ -6129,7 +6129,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 512,
@@ -6189,7 +6189,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 517,
@@ -6201,7 +6201,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 518,
@@ -6237,7 +6237,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 6
   },
   {
     "id": 521,
@@ -6261,7 +6261,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 523,
@@ -6273,7 +6273,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 524,
@@ -6309,7 +6309,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 6
   },
   {
     "id": 527,
@@ -6333,7 +6333,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 5
   },
   {
     "id": 529,
@@ -6405,7 +6405,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 3
   },
   {
     "id": 535,
@@ -6417,7 +6417,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 3
   },
   {
     "id": 536,
@@ -6429,7 +6429,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 537,
@@ -6441,7 +6441,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 538,
@@ -6465,7 +6465,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 3
   },
   {
     "id": 540,
@@ -6489,7 +6489,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 542,
@@ -6513,7 +6513,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 544,
@@ -6537,7 +6537,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 3
   },
   {
     "id": 546,
@@ -6573,7 +6573,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 549,
@@ -6693,7 +6693,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 559,
@@ -6741,7 +6741,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 563,
@@ -6753,7 +6753,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": true,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 564,
@@ -6765,7 +6765,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 4
   },
   {
     "id": 565,
@@ -6789,7 +6789,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 567,
@@ -6813,7 +6813,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 15
   },
   {
     "id": 569,
@@ -6825,7 +6825,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 3
   },
   {
     "id": 570,
@@ -6837,7 +6837,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 571,
@@ -6849,7 +6849,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 572,
@@ -6933,7 +6933,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": true,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 579,
@@ -6981,7 +6981,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 3
   },
   {
     "id": 583,
@@ -7017,7 +7017,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 586,
@@ -7101,7 +7101,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 593,
@@ -7137,7 +7137,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 24
   },
   {
     "id": 596,
@@ -7173,7 +7173,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 10
   },
   {
     "id": 599,
@@ -7197,7 +7197,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 6
   },
   {
     "id": 601,
@@ -7233,7 +7233,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 3
   },
   {
     "id": 604,
@@ -7293,7 +7293,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 3
   },
   {
     "id": 609,
@@ -7305,7 +7305,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 610,
@@ -7317,7 +7317,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 27
   },
   {
     "id": 611,
@@ -7449,7 +7449,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 3
   },
   {
     "id": 622,
@@ -7473,7 +7473,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 4
   },
   {
     "id": 624,
@@ -7569,7 +7569,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 3
   },
   {
     "id": 632,
@@ -7581,7 +7581,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 3
   },
   {
     "id": 633,
@@ -7641,7 +7641,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 638,
@@ -7653,7 +7653,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": true,
-    "stock": 1
+    "stock": 4
   },
   {
     "id": 639,
@@ -7665,7 +7665,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 6
   },
   {
     "id": 640,
@@ -7677,7 +7677,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 641,
@@ -7713,7 +7713,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 5
   },
   {
     "id": 644,
@@ -7749,7 +7749,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 647,
@@ -7809,7 +7809,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 3
   },
   {
     "id": 652,
@@ -7833,7 +7833,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 3
   },
   {
     "id": 654,
@@ -7893,7 +7893,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 4
   },
   {
     "id": 659,
@@ -7953,7 +7953,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 664,
@@ -7977,7 +7977,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 11
   },
   {
     "id": 666,
@@ -8001,7 +8001,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 668,
@@ -8025,7 +8025,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 670,
@@ -8097,7 +8097,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 4
   },
   {
     "id": 676,
@@ -8109,7 +8109,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 7
   },
   {
     "id": 677,
@@ -8193,7 +8193,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 684,
@@ -8265,7 +8265,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": true,
-    "stock": 1
+    "stock": 10
   },
   {
     "id": 690,
@@ -8301,7 +8301,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 6
   },
   {
     "id": 693,
@@ -8337,7 +8337,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 696,
@@ -8349,7 +8349,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 697,
@@ -8373,7 +8373,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 10
   },
   {
     "id": 699,
@@ -8445,7 +8445,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": true,
-    "stock": 1
+    "stock": 10
   },
   {
     "id": 705,
@@ -8457,7 +8457,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 706,
@@ -8481,7 +8481,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 3
   },
   {
     "id": 708,
@@ -8517,7 +8517,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 711,
@@ -8529,7 +8529,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 5
   },
   {
     "id": 712,
@@ -8541,7 +8541,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 713,
@@ -8613,7 +8613,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 719,
@@ -8649,7 +8649,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": true,
-    "stock": 1
+    "stock": 5
   },
   {
     "id": 722,
@@ -8733,7 +8733,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": true,
-    "stock": 1
+    "stock": 5
   },
   {
     "id": 729,
@@ -8745,7 +8745,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 730,
@@ -8769,7 +8769,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": true,
-    "stock": 1
+    "stock": 13
   },
   {
     "id": 732,
@@ -8793,7 +8793,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 3
   },
   {
     "id": 734,
@@ -8829,7 +8829,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 737,
@@ -8841,7 +8841,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 738,
@@ -8853,7 +8853,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 739,
@@ -8877,7 +8877,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": true,
-    "stock": 1
+    "stock": 6
   },
   {
     "id": 741,
@@ -8925,7 +8925,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 745,
@@ -8961,7 +8961,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 748,
@@ -8985,7 +8985,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 750,
@@ -9009,7 +9009,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": true,
-    "stock": 1
+    "stock": 3
   },
   {
     "id": 752,
@@ -9069,7 +9069,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 45
   },
   {
     "id": 757,
@@ -9081,7 +9081,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 13
   },
   {
     "id": 758,
@@ -9117,7 +9117,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 3
   },
   {
     "id": 761,
@@ -9153,7 +9153,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 5
   },
   {
     "id": 764,
@@ -9177,7 +9177,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 766,
@@ -9201,7 +9201,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 4
   },
   {
     "id": 768,
@@ -9261,7 +9261,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 3
   },
   {
     "id": 773,
@@ -9297,7 +9297,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 3
   },
   {
     "id": 776,
@@ -9309,7 +9309,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 777,
@@ -9369,7 +9369,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 10
   },
   {
     "id": 782,
@@ -9465,7 +9465,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 790,
@@ -9477,7 +9477,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 791,
@@ -9501,7 +9501,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 9
   },
   {
     "id": 793,
@@ -9537,7 +9537,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 796,
@@ -9561,7 +9561,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 798,
@@ -9621,7 +9621,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 803,
@@ -9813,7 +9813,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 819,
@@ -9825,7 +9825,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": true,
-    "stock": 1
+    "stock": 5
   },
   {
     "id": 820,
@@ -9885,7 +9885,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": true,
-    "stock": 1
+    "stock": 9
   },
   {
     "id": 825,
@@ -9897,7 +9897,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": true,
-    "stock": 1
+    "stock": 10
   },
   {
     "id": 826,
@@ -9993,7 +9993,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 4
   },
   {
     "id": 834,
@@ -10017,7 +10017,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 12
   },
   {
     "id": 836,
@@ -10041,7 +10041,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 3
   },
   {
     "id": 838,
@@ -10053,7 +10053,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 839,
@@ -10065,7 +10065,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 840,
@@ -10077,7 +10077,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 841,
@@ -10113,7 +10113,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 11
   },
   {
     "id": 844,
@@ -10125,7 +10125,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 3
   },
   {
     "id": 845,
@@ -10149,7 +10149,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 7
   },
   {
     "id": 847,
@@ -10197,7 +10197,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 6
   },
   {
     "id": 851,
@@ -10209,7 +10209,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 852,
@@ -10221,7 +10221,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 853,
@@ -10233,7 +10233,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 854,
@@ -10281,7 +10281,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 858,
@@ -10317,7 +10317,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 861,
@@ -10329,7 +10329,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 10
   },
   {
     "id": 862,
@@ -10341,7 +10341,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 863,
@@ -10401,7 +10401,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 3
   },
   {
     "id": 868,
@@ -10449,7 +10449,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 6
   },
   {
     "id": 872,
@@ -10473,7 +10473,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 3
   },
   {
     "id": 874,
@@ -10509,7 +10509,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 14
   },
   {
     "id": 877,
@@ -10533,7 +10533,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 879,
@@ -10557,7 +10557,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 881,
@@ -10569,7 +10569,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 4
   },
   {
     "id": 882,
@@ -10641,7 +10641,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 888,
@@ -10653,7 +10653,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 5
   },
   {
     "id": 889,
@@ -10665,7 +10665,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 890,
@@ -10677,7 +10677,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": true,
-    "stock": 1
+    "stock": 9
   },
   {
     "id": 891,
@@ -10689,7 +10689,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 3
   },
   {
     "id": 892,
@@ -10713,7 +10713,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 3
   },
   {
     "id": 894,
@@ -10725,7 +10725,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": true,
-    "stock": 1
+    "stock": 9
   },
   {
     "id": 895,
@@ -10797,7 +10797,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 4
   },
   {
     "id": 901,
@@ -10845,7 +10845,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 3
   },
   {
     "id": 905,
@@ -10857,7 +10857,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 906,
@@ -10881,7 +10881,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": true,
-    "stock": 1
+    "stock": 5
   },
   {
     "id": 908,
@@ -10917,7 +10917,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 3
   },
   {
     "id": 911,
@@ -10953,7 +10953,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 914,
@@ -10977,7 +10977,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 17
   },
   {
     "id": 916,
@@ -10989,7 +10989,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 917,
@@ -11037,7 +11037,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 8
   },
   {
     "id": 921,
@@ -11109,7 +11109,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": true,
-    "stock": 1
+    "stock": 5
   },
   {
     "id": 927,
@@ -11169,7 +11169,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 932,
@@ -11193,7 +11193,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 3
   },
   {
     "id": 934,
@@ -11205,7 +11205,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 5
   },
   {
     "id": 935,
@@ -11265,7 +11265,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 4
   },
   {
     "id": 940,
@@ -11277,7 +11277,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 941,
@@ -11301,7 +11301,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 943,
@@ -11325,7 +11325,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 945,
@@ -11349,7 +11349,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 947,
@@ -11397,7 +11397,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 951,
@@ -11421,7 +11421,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": true,
-    "stock": 1
+    "stock": 5
   },
   {
     "id": 953,
@@ -11481,7 +11481,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": true,
-    "stock": 1
+    "stock": 3
   },
   {
     "id": 958,
@@ -11505,7 +11505,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 960,
@@ -11553,7 +11553,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 4
   },
   {
     "id": 964,
@@ -11565,7 +11565,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": true,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 965,
@@ -11577,7 +11577,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": true,
-    "stock": 1
+    "stock": 10
   },
   {
     "id": 966,
@@ -11589,7 +11589,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 967,
@@ -11637,7 +11637,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 971,
@@ -11649,7 +11649,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 7
   },
   {
     "id": 972,
@@ -11661,7 +11661,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": true,
-    "stock": 1
+    "stock": 3
   },
   {
     "id": 973,
@@ -11697,7 +11697,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 3
   },
   {
     "id": 976,
@@ -11709,7 +11709,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 977,
@@ -11733,7 +11733,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 979,
@@ -11805,7 +11805,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 985,
@@ -11817,7 +11817,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 9
   },
   {
     "id": 986,
@@ -11841,7 +11841,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 988,
@@ -11877,7 +11877,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 3
   },
   {
     "id": 991,
@@ -11901,7 +11901,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": true,
-    "stock": 1
+    "stock": 7
   },
   {
     "id": 993,
@@ -11925,7 +11925,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 995,
@@ -12009,7 +12009,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 10
   },
   {
     "id": 1002,
@@ -12021,7 +12021,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": true,
-    "stock": 1
+    "stock": 5
   },
   {
     "id": 1003,
@@ -12081,7 +12081,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 1008,
@@ -12105,7 +12105,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 1010,
@@ -12153,7 +12153,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": true,
-    "stock": 1
+    "stock": 5
   },
   {
     "id": 1014,
@@ -12177,7 +12177,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 4
   },
   {
     "id": 1016,
@@ -12189,7 +12189,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 1017,
@@ -12213,7 +12213,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 1019,
@@ -12249,7 +12249,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 9
   },
   {
     "id": 1022,
@@ -12261,7 +12261,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 1023,
@@ -12285,7 +12285,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 1025,
@@ -12297,7 +12297,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 3
   },
   {
     "id": 1026,
@@ -12309,7 +12309,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": true,
-    "stock": 1
+    "stock": 5
   },
   {
     "id": 1027,
@@ -12321,7 +12321,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 5
   },
   {
     "id": 1028,
@@ -12333,7 +12333,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": true,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 1029,
@@ -12345,7 +12345,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 1030,
@@ -12369,7 +12369,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": true,
-    "stock": 1
+    "stock": 5
   },
   {
     "id": 1032,
@@ -12381,7 +12381,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": true,
-    "stock": 1
+    "stock": 5
   },
   {
     "id": 1033,
@@ -12417,7 +12417,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 9
   },
   {
     "id": 1036,
@@ -12429,7 +12429,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 3
   },
   {
     "id": 1037,
@@ -12441,7 +12441,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 1038,
@@ -12477,7 +12477,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 10
   },
   {
     "id": 1041,
@@ -12525,7 +12525,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 5
   },
   {
     "id": 1045,
@@ -12585,7 +12585,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 1050,
@@ -12609,7 +12609,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 3
   },
   {
     "id": 1052,
@@ -12621,7 +12621,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": true,
-    "stock": 1
+    "stock": 3
   },
   {
     "id": 1053,
@@ -12645,7 +12645,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 1055,
@@ -12705,7 +12705,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 5
   },
   {
     "id": 1060,
@@ -12729,7 +12729,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 1062,
@@ -12765,7 +12765,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 1065,
@@ -12777,7 +12777,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 4
   },
   {
     "id": 1066,
@@ -12789,7 +12789,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 1067,
@@ -12813,7 +12813,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": true,
-    "stock": 1
+    "stock": 9
   },
   {
     "id": 1069,
@@ -12861,7 +12861,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 1073,
@@ -12873,7 +12873,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 9
   },
   {
     "id": 1074,
@@ -12885,7 +12885,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 3
   },
   {
     "id": 1075,
@@ -12933,7 +12933,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 10
   },
   {
     "id": 1079,
@@ -12945,7 +12945,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 1080,
@@ -12957,7 +12957,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 3
   },
   {
     "id": 1081,
@@ -12969,7 +12969,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 4
   },
   {
     "id": 1082,
@@ -13017,7 +13017,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 4
   },
   {
     "id": 1086,
@@ -13053,7 +13053,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": true,
-    "stock": 1
+    "stock": 10
   },
   {
     "id": 1089,
@@ -13089,7 +13089,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 1092,
@@ -13113,7 +13113,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 5
   },
   {
     "id": 1094,
@@ -13137,7 +13137,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": true,
-    "stock": 1
+    "stock": 10
   },
   {
     "id": 1096,
@@ -13185,7 +13185,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": true,
-    "stock": 1
+    "stock": 10
   },
   {
     "id": 1100,
@@ -13209,7 +13209,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 1102,
@@ -13257,7 +13257,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 4
   },
   {
     "id": 1106,
@@ -13281,7 +13281,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 3
   },
   {
     "id": 1108,
@@ -13341,7 +13341,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 5
   },
   {
     "id": 1113,
@@ -13377,7 +13377,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 11
   },
   {
     "id": 1116,
@@ -13437,7 +13437,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": true,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 1121,
@@ -13449,7 +13449,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": true,
-    "stock": 1
+    "stock": 10
   },
   {
     "id": 1122,
@@ -13473,7 +13473,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 1124,
@@ -13545,7 +13545,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 3
   },
   {
     "id": 1130,
@@ -13557,7 +13557,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": true,
-    "stock": 1
+    "stock": 6
   },
   {
     "id": 1131,
@@ -13581,7 +13581,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": true,
-    "stock": 1
+    "stock": 5
   },
   {
     "id": 1133,
@@ -13629,7 +13629,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 1137,
@@ -13665,7 +13665,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": true,
-    "stock": 1
+    "stock": 4
   },
   {
     "id": 1140,
@@ -13725,7 +13725,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": true,
-    "stock": 1
+    "stock": 8
   },
   {
     "id": 1145,
@@ -13773,7 +13773,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 11
   },
   {
     "id": 1149,
@@ -13809,7 +13809,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 7
   },
   {
     "id": 1152,
@@ -13869,7 +13869,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 1157,
@@ -13905,7 +13905,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 1160,
@@ -13917,7 +13917,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": true,
-    "stock": 1
+    "stock": 3
   },
   {
     "id": 1161,
@@ -13929,7 +13929,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": true,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 1162,
@@ -14001,7 +14001,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 1168,
@@ -14169,7 +14169,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": true,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 1182,
@@ -14193,7 +14193,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": true,
-    "stock": 1
+    "stock": 3
   },
   {
     "id": 1184,
@@ -14229,7 +14229,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 1187,
@@ -14313,7 +14313,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 1194,
@@ -14373,7 +14373,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 1199,
@@ -14409,7 +14409,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": true,
-    "stock": 1
+    "stock": 10
   },
   {
     "id": 1202,
@@ -14421,7 +14421,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 6
   },
   {
     "id": 1203,
@@ -14445,7 +14445,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 1205,
@@ -14469,7 +14469,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": true,
-    "stock": 1
+    "stock": 5
   },
   {
     "id": 1207,
@@ -14553,7 +14553,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 1214,
@@ -14625,7 +14625,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 1220,
@@ -14637,7 +14637,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": true,
-    "stock": 1
+    "stock": 10
   },
   {
     "id": 1221,
@@ -14661,7 +14661,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": true,
-    "stock": 1
+    "stock": 10
   },
   {
     "id": 1223,
@@ -14673,7 +14673,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": true,
-    "stock": 1
+    "stock": 5
   },
   {
     "id": 1224,
@@ -14709,7 +14709,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 1227,
@@ -14745,7 +14745,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 1230,
@@ -14757,7 +14757,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 1231,
@@ -14781,7 +14781,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 1233,
@@ -14817,7 +14817,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 1236,
@@ -14841,7 +14841,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 1238,
@@ -14913,7 +14913,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": true,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 1244,
@@ -14925,7 +14925,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 3
   },
   {
     "id": 1245,
@@ -14937,7 +14937,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 1246,
@@ -15009,7 +15009,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 1252,
@@ -15021,7 +15021,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 3
   },
   {
     "id": 1253,
@@ -15057,7 +15057,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 1256,
@@ -15081,7 +15081,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": true,
-    "stock": 1
+    "stock": 3
   },
   {
     "id": 1258,
@@ -15129,7 +15129,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 5
   },
   {
     "id": 1262,
@@ -15141,7 +15141,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": true,
-    "stock": 1
+    "stock": 3
   },
   {
     "id": 1263,
@@ -15165,7 +15165,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 3
   },
   {
     "id": 1265,
@@ -15177,7 +15177,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 3
   },
   {
     "id": 1266,
@@ -15249,7 +15249,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 1272,
@@ -15321,7 +15321,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 3
   },
   {
     "id": 1278,
@@ -15345,7 +15345,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 4
   },
   {
     "id": 1280,
@@ -15417,7 +15417,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": true,
-    "stock": 1
+    "stock": 10
   },
   {
     "id": 1286,
@@ -15489,7 +15489,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": true,
-    "stock": 1
+    "stock": 10
   },
   {
     "id": 1292,
@@ -15501,7 +15501,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 1293,
@@ -15525,7 +15525,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 4
   },
   {
     "id": 1295,
@@ -15537,7 +15537,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": true,
-    "stock": 1
+    "stock": 4
   },
   {
     "id": 1296,
@@ -15549,7 +15549,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": true,
-    "stock": 1
+    "stock": 10
   },
   {
     "id": 1297,
@@ -15561,7 +15561,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 6
   },
   {
     "id": 1298,
@@ -15633,7 +15633,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 5
   },
   {
     "id": 1304,
@@ -15681,7 +15681,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 5
   },
   {
     "id": 1308,
@@ -15693,7 +15693,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 3
   },
   {
     "id": 1309,
@@ -15705,7 +15705,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": true,
-    "stock": 1
+    "stock": 5
   },
   {
     "id": 1310,
@@ -15729,7 +15729,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 1312,
@@ -15789,7 +15789,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 11
   },
   {
     "id": 1317,
@@ -15813,7 +15813,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": true,
-    "stock": 1
+    "stock": 10
   },
   {
     "id": 1319,
@@ -15861,7 +15861,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": true,
-    "stock": 1
+    "stock": 5
   },
   {
     "id": 1323,
@@ -15873,7 +15873,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": true,
-    "stock": 1
+    "stock": 5
   },
   {
     "id": 1324,
@@ -15921,7 +15921,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": true,
-    "stock": 1
+    "stock": 10
   },
   {
     "id": 1328,
@@ -15981,7 +15981,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": true,
-    "stock": 1
+    "stock": 3
   },
   {
     "id": 1333,
@@ -16005,7 +16005,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 1335,
@@ -16017,7 +16017,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": true,
-    "stock": 1
+    "stock": 10
   },
   {
     "id": 1336,
@@ -16053,7 +16053,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 9
   },
   {
     "id": 1339,
@@ -16101,7 +16101,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 4
   },
   {
     "id": 1343,
@@ -16161,7 +16161,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 1348,
@@ -16221,7 +16221,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 1353,
@@ -16293,7 +16293,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 4
   },
   {
     "id": 1359,
@@ -16305,7 +16305,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 1360,
@@ -16329,7 +16329,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": true,
-    "stock": 1
+    "stock": 3
   },
   {
     "id": 1362,
@@ -16413,7 +16413,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 1369,
@@ -16437,7 +16437,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 1371,
@@ -16485,7 +16485,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 4
   },
   {
     "id": 1375,
@@ -16497,7 +16497,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": true,
-    "stock": 1
+    "stock": 5
   },
   {
     "id": 1376,
@@ -16509,7 +16509,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": true,
-    "stock": 1
+    "stock": 5
   },
   {
     "id": 1377,
@@ -16629,7 +16629,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 8
   },
   {
     "id": 1387,
@@ -16641,7 +16641,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": true,
-    "stock": 1
+    "stock": 5
   },
   {
     "id": 1388,
@@ -16773,7 +16773,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 3
   },
   {
     "id": 1399,
@@ -16785,7 +16785,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 3
   },
   {
     "id": 1400,
@@ -16809,7 +16809,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": true,
-    "stock": 1
+    "stock": 10
   },
   {
     "id": 1402,
@@ -16821,7 +16821,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 3
   },
   {
     "id": 1403,
@@ -16833,7 +16833,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": true,
-    "stock": 1
+    "stock": 10
   },
   {
     "id": 1404,
@@ -16881,7 +16881,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": true,
-    "stock": 1
+    "stock": 5
   },
   {
     "id": 1408,
@@ -16941,7 +16941,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 1413,
@@ -17001,7 +17001,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 1418,
@@ -17013,7 +17013,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 3
   },
   {
     "id": 1419,
@@ -17061,7 +17061,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 1423,
@@ -17097,7 +17097,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 1426,
@@ -17133,7 +17133,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 3
   },
   {
     "id": 1429,
@@ -17169,7 +17169,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 1432,
@@ -17193,7 +17193,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": true,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 1434,
@@ -17361,7 +17361,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 16
   },
   {
     "id": 1448,
@@ -17433,7 +17433,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": true,
-    "stock": 1
+    "stock": 7
   },
   {
     "id": 1454,
@@ -17469,7 +17469,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 4
   },
   {
     "id": 1457,
@@ -17541,7 +17541,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 1463,
@@ -17589,7 +17589,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 5
   },
   {
     "id": 1467,
@@ -17733,7 +17733,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": true,
-    "stock": 1
+    "stock": 3
   },
   {
     "id": 1479,
@@ -17757,7 +17757,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": true,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 1481,
@@ -17841,7 +17841,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 1488,
@@ -17913,7 +17913,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 12
   },
   {
     "id": 1494,
@@ -17925,7 +17925,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": true,
-    "stock": 1
+    "stock": 10
   },
   {
     "id": 1495,
@@ -17949,7 +17949,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": true,
-    "stock": 1
+    "stock": 3
   },
   {
     "id": 1497,
@@ -17973,7 +17973,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": true,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 1499,
@@ -18009,7 +18009,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 6
   },
   {
     "id": 1502,
@@ -18045,7 +18045,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 1505,
@@ -18093,7 +18093,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": true,
-    "stock": 1
+    "stock": 10
   },
   {
     "id": 1509,
@@ -18129,7 +18129,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 1512,
@@ -18177,7 +18177,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": true,
-    "stock": 1
+    "stock": 5
   },
   {
     "id": 1516,
@@ -18213,7 +18213,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 1519,
@@ -18261,7 +18261,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": true,
-    "stock": 1
+    "stock": 3
   },
   {
     "id": 1523,
@@ -18309,7 +18309,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 6
   },
   {
     "id": 1527,
@@ -18357,7 +18357,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": true,
-    "stock": 1
+    "stock": 10
   },
   {
     "id": 1531,
@@ -18393,7 +18393,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 1534,
@@ -18405,7 +18405,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 3
   },
   {
     "id": 1535,
@@ -18429,7 +18429,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 13
   },
   {
     "id": 1537,
@@ -18645,7 +18645,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 1555,
@@ -18813,7 +18813,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 3
   },
   {
     "id": 1569,
@@ -18849,7 +18849,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": true,
-    "stock": 1
+    "stock": 10
   },
   {
     "id": 1572,
@@ -18885,7 +18885,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 1575,
@@ -18945,7 +18945,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": true,
-    "stock": 1
+    "stock": 3
   },
   {
     "id": 1580,
@@ -18957,7 +18957,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": true,
-    "stock": 1
+    "stock": 3
   },
   {
     "id": 1581,
@@ -18981,7 +18981,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": true,
-    "stock": 1
+    "stock": 10
   },
   {
     "id": 1583,
@@ -19041,7 +19041,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 4
   },
   {
     "id": 1588,
@@ -19077,7 +19077,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": true,
-    "stock": 1
+    "stock": 3
   },
   {
     "id": 1591,
@@ -19101,7 +19101,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 1593,
@@ -19161,7 +19161,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 4
   },
   {
     "id": 1598,
@@ -19281,7 +19281,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 1608,
@@ -19329,7 +19329,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 11
   },
   {
     "id": 1612,
@@ -19365,7 +19365,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 1615,
@@ -19509,7 +19509,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 7
   },
   {
     "id": 1627,
@@ -19557,7 +19557,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": true,
-    "stock": 1
+    "stock": 5
   },
   {
     "id": 1631,
@@ -19629,7 +19629,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": true,
-    "stock": 1
+    "stock": 10
   },
   {
     "id": 1637,
@@ -19641,7 +19641,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 3
   },
   {
     "id": 1638,
@@ -19665,7 +19665,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 5
   },
   {
     "id": 1640,
@@ -19677,7 +19677,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 3
   },
   {
     "id": 1641,
@@ -19701,7 +19701,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 3
   },
   {
     "id": 1643,
@@ -19737,7 +19737,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 4
   },
   {
     "id": 1646,
@@ -19785,7 +19785,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": true,
-    "stock": 1
+    "stock": 10
   },
   {
     "id": 1650,
@@ -19893,7 +19893,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": true,
-    "stock": 1
+    "stock": 7
   },
   {
     "id": 1659,
@@ -19929,7 +19929,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 3
   },
   {
     "id": 1662,
@@ -19953,7 +19953,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": true,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 1664,
@@ -19977,7 +19977,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": true,
-    "stock": 1
+    "stock": 5
   },
   {
     "id": 1666,
@@ -20013,7 +20013,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": true,
-    "stock": 1
+    "stock": 10
   },
   {
     "id": 1669,
@@ -20181,7 +20181,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 3
   },
   {
     "id": 1683,
@@ -20205,7 +20205,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": true,
-    "stock": 1
+    "stock": 5
   },
   {
     "id": 1685,
@@ -20265,7 +20265,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 3
   },
   {
     "id": 1690,
@@ -20289,7 +20289,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 8
   },
   {
     "id": 1692,
@@ -20301,7 +20301,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 6
   },
   {
     "id": 1693,
@@ -20409,7 +20409,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 1702,
@@ -20457,7 +20457,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 1706,
@@ -20469,7 +20469,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 3
   },
   {
     "id": 1707,
@@ -20481,7 +20481,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": true,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 1708,
@@ -20493,7 +20493,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 1709,
@@ -20517,7 +20517,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 5
   },
   {
     "id": 1711,
@@ -20541,7 +20541,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 3
   },
   {
     "id": 1713,
@@ -20553,7 +20553,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": true,
-    "stock": 1
+    "stock": 3
   },
   {
     "id": 1714,
@@ -20601,7 +20601,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 4
   },
   {
     "id": 1718,
@@ -20637,7 +20637,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": true,
-    "stock": 1
+    "stock": 3
   },
   {
     "id": 1721,
@@ -20685,7 +20685,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": true,
-    "stock": 1
+    "stock": 10
   },
   {
     "id": 1725,
@@ -20721,7 +20721,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 4
   },
   {
     "id": 1728,
@@ -20757,7 +20757,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 6
   },
   {
     "id": 1731,
@@ -20769,7 +20769,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": true,
-    "stock": 1
+    "stock": 8
   },
   {
     "id": 1732,
@@ -20829,7 +20829,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 1737,
@@ -20889,7 +20889,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": true,
-    "stock": 1
+    "stock": 10
   },
   {
     "id": 1742,
@@ -20913,7 +20913,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 7
   },
   {
     "id": 1744,
@@ -20925,7 +20925,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": true,
-    "stock": 1
+    "stock": 15
   },
   {
     "id": 1745,
@@ -20961,7 +20961,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 1748,
@@ -20985,7 +20985,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 8
   },
   {
     "id": 1750,
@@ -21009,7 +21009,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": true,
-    "stock": 1
+    "stock": 3
   },
   {
     "id": 1752,
@@ -21021,7 +21021,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": true,
-    "stock": 1
+    "stock": 10
   },
   {
     "id": 1753,
@@ -21045,7 +21045,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 3
   },
   {
     "id": 1755,
@@ -21153,7 +21153,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 3
   },
   {
     "id": 1764,
@@ -21177,7 +21177,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 3
   },
   {
     "id": 1766,
@@ -21189,7 +21189,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 1767,
@@ -21249,7 +21249,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": true,
-    "stock": 1
+    "stock": 10
   },
   {
     "id": 1772,
@@ -21273,7 +21273,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": true,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 1774,
@@ -21297,7 +21297,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 3
   },
   {
     "id": 1776,
@@ -21309,7 +21309,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 6
   },
   {
     "id": 1777,
@@ -21381,7 +21381,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": true,
-    "stock": 1
+    "stock": 4
   },
   {
     "id": 1783,
@@ -21393,7 +21393,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": true,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 1784,
@@ -21441,7 +21441,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 1788,
@@ -21549,7 +21549,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 3
   },
   {
     "id": 1797,
@@ -21561,7 +21561,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 1798,
@@ -21573,7 +21573,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": true,
-    "stock": 1
+    "stock": 5
   },
   {
     "id": 1799,
@@ -21597,7 +21597,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 1801,
@@ -21609,7 +21609,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 3
   },
   {
     "id": 1802,
@@ -21633,7 +21633,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": true,
-    "stock": 1
+    "stock": 10
   },
   {
     "id": 1804,
@@ -21669,7 +21669,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": true,
-    "stock": 1
+    "stock": 3
   },
   {
     "id": 1807,
@@ -21693,7 +21693,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 5
   },
   {
     "id": 1809,
@@ -21741,7 +21741,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 15
   },
   {
     "id": 1813,
@@ -21801,7 +21801,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": true,
-    "stock": 1
+    "stock": 10
   },
   {
     "id": 1818,
@@ -21825,7 +21825,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 5
   },
   {
     "id": 1820,
@@ -21837,7 +21837,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 1821,
@@ -21933,7 +21933,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": true,
-    "stock": 1
+    "stock": 4
   },
   {
     "id": 1829,
@@ -21981,7 +21981,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 1833,
@@ -22173,7 +22173,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 1849,
@@ -22185,7 +22185,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 3
   },
   {
     "id": 1850,
@@ -22221,7 +22221,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": true,
-    "stock": 1
+    "stock": 10
   },
   {
     "id": 1853,
@@ -22257,7 +22257,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": true,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 1856,
@@ -22281,7 +22281,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 1858,
@@ -22413,7 +22413,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 1869,
@@ -22461,7 +22461,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 1873,
@@ -22473,7 +22473,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 10
   },
   {
     "id": 1874,
@@ -22569,7 +22569,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": true,
-    "stock": 1
+    "stock": 3
   },
   {
     "id": 1882,
@@ -22629,7 +22629,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 4
   },
   {
     "id": 1887,
@@ -22665,7 +22665,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 3
   },
   {
     "id": 1890,
@@ -22677,7 +22677,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 1891,
@@ -22725,7 +22725,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 1895,
@@ -22833,7 +22833,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 1904,
@@ -22881,7 +22881,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": true,
-    "stock": 1
+    "stock": 10
   },
   {
     "id": 1908,
@@ -22893,7 +22893,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 1909,
@@ -22917,7 +22917,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 1911,
@@ -23061,7 +23061,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 5
   },
   {
     "id": 1923,
@@ -23085,7 +23085,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 3
   },
   {
     "id": 1925,
@@ -23157,7 +23157,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": true,
-    "stock": 1
+    "stock": 3
   },
   {
     "id": 1931,
@@ -23325,7 +23325,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 3
   },
   {
     "id": 1945,
@@ -23337,7 +23337,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 5
   },
   {
     "id": 1946,
@@ -23409,7 +23409,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 1952,
@@ -23445,7 +23445,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": true,
-    "stock": 1
+    "stock": 3
   },
   {
     "id": 1955,
@@ -23493,7 +23493,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 1959,
@@ -23553,7 +23553,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 1964,
@@ -23565,7 +23565,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": true,
-    "stock": 1
+    "stock": 7
   },
   {
     "id": 1965,
@@ -23589,7 +23589,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": true,
-    "stock": 1
+    "stock": 3
   },
   {
     "id": 1967,
@@ -23613,7 +23613,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 3
   },
   {
     "id": 1969,
@@ -23649,7 +23649,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 1972,
@@ -23673,7 +23673,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 1974,
@@ -23709,7 +23709,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 1977,
@@ -23733,7 +23733,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 1979,
@@ -23805,7 +23805,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": true,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 1985,
@@ -23877,7 +23877,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": true,
-    "stock": 1
+    "stock": 10
   },
   {
     "id": 1991,
@@ -23925,7 +23925,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 1995,
@@ -23973,7 +23973,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 1999,
@@ -23997,7 +23997,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": true,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 2001,
@@ -24045,7 +24045,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": true,
-    "stock": 1
+    "stock": 5
   },
   {
     "id": 2005,
@@ -24081,7 +24081,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 2008,
@@ -24153,7 +24153,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": true,
-    "stock": 1
+    "stock": 10
   },
   {
     "id": 2014,
@@ -24201,7 +24201,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": true,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 2018,
@@ -24249,7 +24249,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 3
   },
   {
     "id": 2022,
@@ -24261,7 +24261,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": true,
-    "stock": 1
+    "stock": 10
   },
   {
     "id": 2023,
@@ -24333,7 +24333,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 2029,
@@ -24381,7 +24381,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": true,
-    "stock": 1
+    "stock": 3
   },
   {
     "id": 2033,
@@ -24441,7 +24441,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 2038,
@@ -24501,7 +24501,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": true,
-    "stock": 1
+    "stock": 10
   },
   {
     "id": 2043,
@@ -24585,7 +24585,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 3
   },
   {
     "id": 2050,
@@ -24669,7 +24669,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 4
   },
   {
     "id": 2057,
@@ -24729,7 +24729,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 2062,
@@ -24765,7 +24765,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": true,
-    "stock": 1
+    "stock": 6
   },
   {
     "id": 2065,
@@ -24849,7 +24849,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 4
   },
   {
     "id": 2072,
@@ -24873,7 +24873,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 2074,
@@ -24885,7 +24885,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 2075,
@@ -24957,7 +24957,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 3
   },
   {
     "id": 2081,
@@ -24993,7 +24993,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": true,
-    "stock": 1
+    "stock": 10
   },
   {
     "id": 2084,
@@ -25005,7 +25005,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 4
   },
   {
     "id": 2085,
@@ -25029,7 +25029,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 4
   },
   {
     "id": 2087,
@@ -25053,7 +25053,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 3
   },
   {
     "id": 2089,
@@ -25065,7 +25065,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": true,
-    "stock": 1
+    "stock": 10
   },
   {
     "id": 2090,
@@ -25149,7 +25149,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 2097,
@@ -25161,7 +25161,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 2098,
@@ -25173,7 +25173,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 4
   },
   {
     "id": 2099,
@@ -25185,7 +25185,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 2100,
@@ -25197,7 +25197,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 2101,
@@ -25245,7 +25245,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": true,
-    "stock": 1
+    "stock": 3
   },
   {
     "id": 2105,
@@ -25257,7 +25257,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 3
   },
   {
     "id": 2106,
@@ -25269,7 +25269,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": true,
-    "stock": 1
+    "stock": 3
   },
   {
     "id": 2107,
@@ -25305,7 +25305,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 2110,
@@ -25509,7 +25509,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 2127,
@@ -25545,7 +25545,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 4
   },
   {
     "id": 2130,
@@ -25557,7 +25557,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 2131,
@@ -25569,7 +25569,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 3
   },
   {
     "id": 2132,
@@ -25593,7 +25593,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 5
   },
   {
     "id": 2134,
@@ -25641,7 +25641,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 2138,
@@ -25653,7 +25653,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": true,
-    "stock": 1
+    "stock": 3
   },
   {
     "id": 2139,
@@ -25677,7 +25677,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": true,
-    "stock": 1
+    "stock": 3
   },
   {
     "id": 2141,
@@ -25701,7 +25701,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": true,
-    "stock": 1
+    "stock": 3
   },
   {
     "id": 2143,
@@ -25761,7 +25761,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": true,
-    "stock": 1
+    "stock": 3
   },
   {
     "id": 2148,
@@ -25797,7 +25797,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": true,
-    "stock": 1
+    "stock": 3
   },
   {
     "id": 2151,
@@ -25941,7 +25941,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 2163,
@@ -25953,7 +25953,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 8
   },
   {
     "id": 2164,
@@ -26049,7 +26049,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 2172,
@@ -26109,7 +26109,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": true,
-    "stock": 1
+    "stock": 10
   },
   {
     "id": 2177,
@@ -26133,7 +26133,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 2179,
@@ -26229,7 +26229,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": true,
-    "stock": 1
+    "stock": 4
   },
   {
     "id": 2187,
@@ -26301,7 +26301,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 5
   },
   {
     "id": 2193,
@@ -26313,7 +26313,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": true,
-    "stock": 1
+    "stock": 3
   },
   {
     "id": 2194,
@@ -26517,7 +26517,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 2211,
@@ -26613,7 +26613,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": true,
-    "stock": 1
+    "stock": 10
   },
   {
     "id": 2219,
@@ -26661,7 +26661,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 4
   },
   {
     "id": 2223,
@@ -26673,7 +26673,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 2224,
@@ -26709,7 +26709,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 2227,
@@ -26721,7 +26721,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": true,
-    "stock": 1
+    "stock": 6
   },
   {
     "id": 2228,
@@ -26829,7 +26829,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 2237,
@@ -26853,7 +26853,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 2239,
@@ -26865,7 +26865,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 3
   },
   {
     "id": 2240,
@@ -26877,7 +26877,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 3
   },
   {
     "id": 2241,
@@ -26901,7 +26901,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 2243,
@@ -26937,7 +26937,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 2246,
@@ -26949,7 +26949,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": true,
-    "stock": 1
+    "stock": 5
   },
   {
     "id": 2247,
@@ -26961,7 +26961,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 3
   },
   {
     "id": 2248,
@@ -26973,7 +26973,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 4
   },
   {
     "id": 2249,
@@ -27021,7 +27021,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": true,
-    "stock": 1
+    "stock": 9
   },
   {
     "id": 2253,
@@ -27057,7 +27057,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": true,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 2256,
@@ -27189,7 +27189,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 2267,
@@ -27273,7 +27273,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 10
   },
   {
     "id": 2274,
@@ -27321,7 +27321,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": true,
-    "stock": 1
+    "stock": 10
   },
   {
     "id": 2278,
@@ -27333,7 +27333,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 2279,
@@ -27345,7 +27345,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": true,
-    "stock": 1
+    "stock": 9
   },
   {
     "id": 2280,
@@ -27357,7 +27357,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 2281,
@@ -27381,7 +27381,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 4
   },
   {
     "id": 2283,
@@ -27573,7 +27573,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": true,
-    "stock": 1
+    "stock": 4
   },
   {
     "id": 2299,
@@ -27645,7 +27645,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 2305,
@@ -27693,7 +27693,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": true,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 2309,
@@ -27705,7 +27705,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": true,
-    "stock": 1
+    "stock": 5
   },
   {
     "id": 2310,
@@ -27741,7 +27741,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": true,
-    "stock": 1
+    "stock": 3
   },
   {
     "id": 2313,
@@ -27753,7 +27753,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 4
   },
   {
     "id": 2314,
@@ -27861,7 +27861,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 7
   },
   {
     "id": 2323,
@@ -27885,7 +27885,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": true,
-    "stock": 1
+    "stock": 3
   },
   {
     "id": 2325,
@@ -27933,7 +27933,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": true,
-    "stock": 1
+    "stock": 3
   },
   {
     "id": 2329,
@@ -27969,7 +27969,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": true,
-    "stock": 1
+    "stock": 3
   },
   {
     "id": 2332,
@@ -27993,7 +27993,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": true,
-    "stock": 1
+    "stock": 3
   },
   {
     "id": 2334,
@@ -28041,7 +28041,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 5
   },
   {
     "id": 2338,
@@ -28053,7 +28053,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 3
   },
   {
     "id": 2339,
@@ -28149,7 +28149,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 3
   },
   {
     "id": 2347,
@@ -28173,7 +28173,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": true,
-    "stock": 1
+    "stock": 4
   },
   {
     "id": 2349,
@@ -28197,7 +28197,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": true,
-    "stock": 1
+    "stock": 7
   },
   {
     "id": 2351,
@@ -28245,7 +28245,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": true,
-    "stock": 1
+    "stock": 9
   },
   {
     "id": 2355,
@@ -28269,7 +28269,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 4
   },
   {
     "id": 2357,
@@ -28341,7 +28341,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 3
   },
   {
     "id": 2363,
@@ -28545,7 +28545,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": true,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 2380,
@@ -28689,7 +28689,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 2392,
@@ -28701,7 +28701,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 3
   },
   {
     "id": 2393,
@@ -28713,7 +28713,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 3
   },
   {
     "id": 2394,
@@ -28773,7 +28773,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 2399,
@@ -28809,7 +28809,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": true,
-    "stock": 1
+    "stock": 10
   },
   {
     "id": 2402,
@@ -28833,7 +28833,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": true,
-    "stock": 1
+    "stock": 5
   },
   {
     "id": 2404,
@@ -28905,7 +28905,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 5
   },
   {
     "id": 2410,
@@ -28917,7 +28917,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": true,
-    "stock": 1
+    "stock": 3
   },
   {
     "id": 2411,
@@ -28941,7 +28941,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 3
   },
   {
     "id": 2413,
@@ -28965,7 +28965,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 4
   },
   {
     "id": 2415,
@@ -29037,7 +29037,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 2421,
@@ -29049,7 +29049,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": true,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 2422,
@@ -29169,7 +29169,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": true,
-    "stock": 1
+    "stock": 8
   },
   {
     "id": 2432,
@@ -29193,7 +29193,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 4
   },
   {
     "id": 2434,
@@ -29217,7 +29217,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": true,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 2436,
@@ -29337,7 +29337,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 4
   },
   {
     "id": 2446,
@@ -29385,7 +29385,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 2450,
@@ -29445,7 +29445,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": true,
-    "stock": 1
+    "stock": 7
   },
   {
     "id": 2455,
@@ -29613,7 +29613,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 4
   },
   {
     "id": 2469,
@@ -29913,7 +29913,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 4
   },
   {
     "id": 2494,
@@ -29925,7 +29925,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": true,
-    "stock": 1
+    "stock": 10
   },
   {
     "id": 2495,
@@ -29937,7 +29937,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 2496,
@@ -29949,7 +29949,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": true,
-    "stock": 1
+    "stock": 3
   },
   {
     "id": 2497,
@@ -30057,7 +30057,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 3
   },
   {
     "id": 2506,
@@ -30093,7 +30093,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 3
   },
   {
     "id": 2509,
@@ -30141,7 +30141,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": true,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 2513,
@@ -30153,7 +30153,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 3
   },
   {
     "id": 2514,
@@ -30165,7 +30165,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": true,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 2515,
@@ -30201,7 +30201,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 2518,
@@ -30213,7 +30213,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": true,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 2519,
@@ -30225,7 +30225,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 3
   },
   {
     "id": 2520,
@@ -30249,7 +30249,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 5
   },
   {
     "id": 2522,
@@ -30261,7 +30261,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 4
   },
   {
     "id": 2523,
@@ -30357,7 +30357,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": true,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 2531,
@@ -30381,7 +30381,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": true,
-    "stock": 1
+    "stock": 7
   },
   {
     "id": 2533,
@@ -30597,7 +30597,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 3
   },
   {
     "id": 2551,
@@ -30609,7 +30609,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 3
   },
   {
     "id": 2552,
@@ -30621,7 +30621,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 4
   },
   {
     "id": 2553,
@@ -30729,7 +30729,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 11
   },
   {
     "id": 2562,
@@ -30777,7 +30777,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": true,
-    "stock": 1
+    "stock": 4
   },
   {
     "id": 2566,
@@ -30801,7 +30801,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 2568,
@@ -30873,7 +30873,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 2574,
@@ -30885,7 +30885,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": true,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 2575,
@@ -30897,7 +30897,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": true,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 2576,
@@ -30921,7 +30921,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": true,
-    "stock": 1
+    "stock": 3
   },
   {
     "id": 2578,
@@ -30957,7 +30957,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 2581,
@@ -31029,7 +31029,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 2587,
@@ -31089,7 +31089,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 4
   },
   {
     "id": 2592,
@@ -31365,7 +31365,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 2615,
@@ -31593,7 +31593,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 8
   },
   {
     "id": 2634,
@@ -31689,7 +31689,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 4
   },
   {
     "id": 2642,
@@ -31965,7 +31965,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 2665,
@@ -32049,7 +32049,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 4
   },
   {
     "id": 2672,
@@ -32073,7 +32073,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 2674,
@@ -32145,7 +32145,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": true,
-    "stock": 1
+    "stock": 3
   },
   {
     "id": 2680,
@@ -32157,7 +32157,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 3
   },
   {
     "id": 2681,
@@ -32169,7 +32169,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": true,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 2682,
@@ -32181,7 +32181,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": true,
-    "stock": 1
+    "stock": 7
   },
   {
     "id": 2683,
@@ -32205,7 +32205,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": true,
-    "stock": 1
+    "stock": 4
   },
   {
     "id": 2685,
@@ -32301,7 +32301,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 2693,
@@ -32361,7 +32361,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 4
   },
   {
     "id": 2698,
@@ -32373,7 +32373,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 3
   },
   {
     "id": 2699,
@@ -32445,7 +32445,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": true,
-    "stock": 1
+    "stock": 3
   },
   {
     "id": 2705,
@@ -32457,7 +32457,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 2706,
@@ -32553,7 +32553,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 4
   },
   {
     "id": 2714,
@@ -32565,7 +32565,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 2715,
@@ -32589,7 +32589,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": true,
-    "stock": 1
+    "stock": 5
   },
   {
     "id": 2717,
@@ -32697,7 +32697,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": true,
-    "stock": 1
+    "stock": 3
   },
   {
     "id": 2726,
@@ -32805,7 +32805,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 3
   },
   {
     "id": 2735,
@@ -32865,7 +32865,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 4
   },
   {
     "id": 2740,
@@ -32925,7 +32925,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 5
   },
   {
     "id": 2745,
@@ -33021,7 +33021,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": true,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 2753,
@@ -33057,7 +33057,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": true,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 2756,
@@ -33069,7 +33069,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": true,
-    "stock": 1
+    "stock": 5
   },
   {
     "id": 2757,
@@ -33117,7 +33117,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": true,
-    "stock": 1
+    "stock": 3
   },
   {
     "id": 2761,
@@ -33129,7 +33129,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 2762,
@@ -33237,7 +33237,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": true,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 2771,
@@ -33273,7 +33273,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 2774,
@@ -33369,7 +33369,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": true,
-    "stock": 1
+    "stock": 10
   },
   {
     "id": 2782,
@@ -33429,7 +33429,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 2787,
@@ -33465,7 +33465,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 3
   },
   {
     "id": 2790,
@@ -33585,7 +33585,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": true,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 2800,
@@ -33705,7 +33705,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 2810,
@@ -33729,7 +33729,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 2812,
@@ -33765,7 +33765,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": true,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 2815,
@@ -33777,7 +33777,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 3
   },
   {
     "id": 2816,
@@ -33801,7 +33801,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 2818,
@@ -33825,7 +33825,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 2820,
@@ -33837,7 +33837,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 2821,
@@ -33897,7 +33897,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": true,
-    "stock": 1
+    "stock": 3
   },
   {
     "id": 2826,
@@ -33933,7 +33933,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": true,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 2829,
@@ -33957,7 +33957,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 2831,
@@ -33993,7 +33993,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": true,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 2834,
@@ -34089,7 +34089,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 5
   },
   {
     "id": 2842,
@@ -34149,7 +34149,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 5
   },
   {
     "id": 2847,
@@ -34209,7 +34209,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": true,
-    "stock": 1
+    "stock": 3
   },
   {
     "id": 2852,
@@ -34257,7 +34257,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 3
   },
   {
     "id": 2856,
@@ -34269,7 +34269,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 3
   },
   {
     "id": 2857,
@@ -34305,7 +34305,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": true,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 2860,
@@ -34329,7 +34329,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 4
   },
   {
     "id": 2862,
@@ -34521,7 +34521,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 2878,
@@ -34557,7 +34557,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": true,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 2881,
@@ -34617,7 +34617,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 4
   },
   {
     "id": 2886,
@@ -34665,7 +34665,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": true,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 2890,
@@ -34785,7 +34785,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 3
   },
   {
     "id": 2900,
@@ -34893,7 +34893,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": true,
-    "stock": 1
+    "stock": 3
   },
   {
     "id": 2909,
@@ -34953,7 +34953,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 4
   },
   {
     "id": 2914,
@@ -34977,7 +34977,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 2916,
@@ -35217,7 +35217,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": true,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 2936,
@@ -35229,7 +35229,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": true,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 2937,
@@ -35277,7 +35277,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 2941,
@@ -35337,7 +35337,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 2946,
@@ -35349,7 +35349,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 5
   },
   {
     "id": 2947,
@@ -35385,7 +35385,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": true,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 2950,
@@ -35589,7 +35589,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": true,
-    "stock": 1
+    "stock": 5
   },
   {
     "id": 2967,
@@ -35685,7 +35685,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 2975,
@@ -35697,7 +35697,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": true,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 2976,
@@ -35793,7 +35793,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 3
   },
   {
     "id": 2984,
@@ -35829,7 +35829,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 2987,
@@ -35985,7 +35985,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": true,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 3000,
@@ -36033,7 +36033,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": true,
-    "stock": 1
+    "stock": 3
   },
   {
     "id": 3004,
@@ -36081,7 +36081,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 3008,
@@ -36129,7 +36129,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": true,
-    "stock": 1
+    "stock": 14
   },
   {
     "id": 3012,
@@ -36189,7 +36189,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 4
   },
   {
     "id": 3017,
@@ -36201,7 +36201,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": true,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 3018,
@@ -36213,7 +36213,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": true,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 3019,
@@ -36237,7 +36237,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 3021,
@@ -36249,7 +36249,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": true,
-    "stock": 1
+    "stock": 7
   },
   {
     "id": 3022,
@@ -36261,7 +36261,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 4
   },
   {
     "id": 3023,
@@ -36321,7 +36321,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 4
   },
   {
     "id": 3028,
@@ -36369,7 +36369,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": true,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 3032,
@@ -36405,7 +36405,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": true,
-    "stock": 1
+    "stock": 4
   },
   {
     "id": 3035,
@@ -36429,7 +36429,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 3037,
@@ -36465,7 +36465,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 5
   },
   {
     "id": 3040,
@@ -36477,7 +36477,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 3
   },
   {
     "id": 3041,
@@ -36513,7 +36513,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 3
   },
   {
     "id": 3044,
@@ -36597,7 +36597,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 3051,
@@ -36645,7 +36645,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 3
   },
   {
     "id": 3055,
@@ -36669,7 +36669,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 3057,
@@ -36789,7 +36789,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 5
   },
   {
     "id": 3067,
@@ -36801,7 +36801,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 3068,
@@ -36813,7 +36813,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 3069,
@@ -36825,7 +36825,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 3070,
@@ -36837,7 +36837,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 3071,
@@ -36849,7 +36849,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 3
   },
   {
     "id": 3072,
@@ -36885,7 +36885,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 3
   },
   {
     "id": 3075,
@@ -36921,7 +36921,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 5
   },
   {
     "id": 3078,
@@ -37017,7 +37017,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 3086,
@@ -37257,7 +37257,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 3
   },
   {
     "id": 3106,
@@ -37317,7 +37317,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 3111,
@@ -37329,7 +37329,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": true,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 3112,
@@ -37341,7 +37341,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": true,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 3113,
@@ -37365,7 +37365,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 5
   },
   {
     "id": 3115,
@@ -37377,7 +37377,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": true,
-    "stock": 1
+    "stock": 12
   },
   {
     "id": 3116,
@@ -37461,7 +37461,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 3
   },
   {
     "id": 3123,
@@ -37509,7 +37509,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 4
   },
   {
     "id": 3127,
@@ -37521,7 +37521,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 3128,
@@ -37533,7 +37533,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": true,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 3129,
@@ -37653,7 +37653,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": true,
-    "stock": 1
+    "stock": 5
   },
   {
     "id": 3139,
@@ -37785,7 +37785,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": true,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 3150,
@@ -37821,7 +37821,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": true,
-    "stock": 1
+    "stock": 6
   },
   {
     "id": 3153,
@@ -37833,7 +37833,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": true,
-    "stock": 1
+    "stock": 7
   },
   {
     "id": 3154,
@@ -37869,7 +37869,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": true,
-    "stock": 1
+    "stock": 5
   },
   {
     "id": 3157,
@@ -37917,7 +37917,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": true,
-    "stock": 1
+    "stock": 3
   },
   {
     "id": 3161,
@@ -38001,7 +38001,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": true,
-    "stock": 1
+    "stock": 3
   },
   {
     "id": 3168,
@@ -38037,7 +38037,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": true,
-    "stock": 1
+    "stock": 3
   },
   {
     "id": 3171,
@@ -38073,7 +38073,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 3174,
@@ -38133,7 +38133,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 3
   },
   {
     "id": 3179,
@@ -38169,7 +38169,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 3182,
@@ -38181,7 +38181,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 3183,
@@ -38241,7 +38241,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 3
   },
   {
     "id": 3188,
@@ -38265,7 +38265,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 4
   },
   {
     "id": 3190,
@@ -38277,7 +38277,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 3
   },
   {
     "id": 3191,
@@ -38289,7 +38289,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": true,
-    "stock": 1
+    "stock": 12
   },
   {
     "id": 3192,
@@ -38337,7 +38337,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 3196,
@@ -38409,7 +38409,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 3
   },
   {
     "id": 3202,
@@ -38505,7 +38505,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 3210,
@@ -38517,7 +38517,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 3211,
@@ -38529,7 +38529,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 4
   },
   {
     "id": 3212,
@@ -38541,7 +38541,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 3
   },
   {
     "id": 3213,
@@ -38553,7 +38553,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": true,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 3214,
@@ -38577,7 +38577,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": true,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 3216,
@@ -38661,7 +38661,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": true,
-    "stock": 1
+    "stock": 11
   },
   {
     "id": 3223,
@@ -38673,7 +38673,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": true,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 3224,
@@ -38721,7 +38721,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": true,
-    "stock": 1
+    "stock": 4
   },
   {
     "id": 3228,
@@ -38841,7 +38841,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 4
   },
   {
     "id": 3238,
@@ -38853,7 +38853,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 4
   },
   {
     "id": 3239,
@@ -38937,7 +38937,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 3246,
@@ -38961,7 +38961,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 3248,
@@ -38997,7 +38997,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 3251,
@@ -39021,7 +39021,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": true,
-    "stock": 1
+    "stock": 6
   },
   {
     "id": 3253,
@@ -39057,7 +39057,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 3256,
@@ -39081,7 +39081,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 3258,
@@ -39117,7 +39117,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": true,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 3261,
@@ -39141,7 +39141,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 3
   },
   {
     "id": 3263,
@@ -39153,7 +39153,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": true,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 3264,
@@ -39201,7 +39201,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": true,
-    "stock": 1
+    "stock": 4
   },
   {
     "id": 3268,
@@ -39261,7 +39261,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 3
   },
   {
     "id": 3273,
@@ -39285,7 +39285,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 3
   },
   {
     "id": 3275,
@@ -39369,7 +39369,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 4
   },
   {
     "id": 3282,
@@ -39465,7 +39465,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 4
   },
   {
     "id": 3290,
@@ -39477,7 +39477,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": true,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 3291,
@@ -39489,7 +39489,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 3
   },
   {
     "id": 3292,
@@ -39501,7 +39501,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 4
   },
   {
     "id": 3293,
@@ -39597,7 +39597,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 3
   },
   {
     "id": 3301,
@@ -39633,7 +39633,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 3304,
@@ -39681,7 +39681,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": true,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 3308,
@@ -39705,7 +39705,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": true,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 3310,
@@ -39717,7 +39717,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": true,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 3311,
@@ -39741,7 +39741,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": true,
-    "stock": 1
+    "stock": 3
   },
   {
     "id": 3313,
@@ -39789,7 +39789,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 4
   },
   {
     "id": 3317,
@@ -39813,7 +39813,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": true,
-    "stock": 1
+    "stock": 6
   },
   {
     "id": 3319,
@@ -39837,7 +39837,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 3
   },
   {
     "id": 3321,
@@ -39861,7 +39861,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": true,
-    "stock": 1
+    "stock": 3
   },
   {
     "id": 3323,
@@ -39873,7 +39873,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 3
   },
   {
     "id": 3324,
@@ -39885,7 +39885,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": true,
-    "stock": 1
+    "stock": 6
   },
   {
     "id": 3325,
@@ -39969,7 +39969,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 3
   },
   {
     "id": 3332,
@@ -39981,7 +39981,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 9
   },
   {
     "id": 3333,
@@ -39993,7 +39993,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": true,
-    "stock": 1
+    "stock": 9
   },
   {
     "id": 3334,
@@ -40029,7 +40029,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": true,
-    "stock": 1
+    "stock": 3
   },
   {
     "id": 3337,
@@ -40065,7 +40065,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 3340,
@@ -40125,7 +40125,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": true,
-    "stock": 1
+    "stock": 3
   },
   {
     "id": 3345,
@@ -40149,7 +40149,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": true,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 3347,
@@ -40209,7 +40209,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 3352,
@@ -40245,7 +40245,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": true,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 3355,
@@ -40293,7 +40293,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 3359,
@@ -40305,7 +40305,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 3360,
@@ -40449,7 +40449,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": true,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 3372,
@@ -40557,7 +40557,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 10
   },
   {
     "id": 3381,
@@ -40593,7 +40593,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": true,
-    "stock": 1
+    "stock": 8
   },
   {
     "id": 3384,
@@ -40629,7 +40629,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 3387,
@@ -40677,7 +40677,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": true,
-    "stock": 1
+    "stock": 11
   },
   {
     "id": 3391,
@@ -40713,7 +40713,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": true,
-    "stock": 1
+    "stock": 20
   },
   {
     "id": 3394,
@@ -40725,7 +40725,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": true,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 3395,
@@ -40821,7 +40821,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": true,
-    "stock": 1
+    "stock": 3
   },
   {
     "id": 3403,
@@ -40869,7 +40869,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 3407,
@@ -40941,7 +40941,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": true,
-    "stock": 1
+    "stock": 4
   },
   {
     "id": 3413,
@@ -40977,7 +40977,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": true,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 3416,
@@ -41001,7 +41001,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 5
   },
   {
     "id": 3418,
@@ -41025,7 +41025,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 3420,
@@ -41073,7 +41073,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": true,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 3424,
@@ -41241,7 +41241,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": true,
-    "stock": 1
+    "stock": 3
   },
   {
     "id": 3438,
@@ -41253,7 +41253,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": true,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 3439,
@@ -41289,7 +41289,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 4
   },
   {
     "id": 3442,
@@ -41337,7 +41337,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": true,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 3446,
@@ -41349,7 +41349,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 3447,
@@ -41409,7 +41409,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 4
   },
   {
     "id": 3452,
@@ -41421,7 +41421,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 3453,
@@ -41469,7 +41469,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 3
   },
   {
     "id": 3457,
@@ -41661,7 +41661,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 3473,
@@ -41685,7 +41685,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 3
   },
   {
     "id": 3475,
@@ -41697,7 +41697,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": true,
-    "stock": 1
+    "stock": 4
   },
   {
     "id": 3476,
@@ -41745,7 +41745,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": true,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 3480,
@@ -41829,7 +41829,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": true,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 3487,
@@ -41913,7 +41913,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 4
   },
   {
     "id": 3494,
@@ -42045,7 +42045,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": true,
-    "stock": 1
+    "stock": 4
   },
   {
     "id": 3505,
@@ -42141,7 +42141,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": true,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 3513,
@@ -42177,7 +42177,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": true,
-    "stock": 1
+    "stock": 7
   },
   {
     "id": 3516,
@@ -42201,7 +42201,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": true,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 3518,
@@ -42285,7 +42285,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 3525,
@@ -42309,7 +42309,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 3
   },
   {
     "id": 3527,
@@ -42357,7 +42357,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": true,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 3531,
@@ -42429,7 +42429,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": true,
-    "stock": 1
+    "stock": 7
   },
   {
     "id": 3537,
@@ -42573,7 +42573,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": true,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 3549,
@@ -42597,7 +42597,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": true,
-    "stock": 1
+    "stock": 5
   },
   {
     "id": 3551,
@@ -42621,7 +42621,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": true,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 3553,
@@ -42693,7 +42693,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": true,
-    "stock": 1
+    "stock": 10
   },
   {
     "id": 3559,
@@ -42729,7 +42729,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": true,
-    "stock": 1
+    "stock": 12
   },
   {
     "id": 3562,
@@ -42753,7 +42753,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": true,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 3564,
@@ -42801,7 +42801,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 3
   },
   {
     "id": 3568,
@@ -42813,7 +42813,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 3
   },
   {
     "id": 3569,
@@ -42873,7 +42873,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": true,
-    "stock": 1
+    "stock": 5
   },
   {
     "id": 3574,
@@ -42969,7 +42969,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 3
   },
   {
     "id": 3582,
@@ -42993,7 +42993,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": true,
-    "stock": 1
+    "stock": 11
   },
   {
     "id": 3584,
@@ -43017,7 +43017,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 3
   },
   {
     "id": 3586,
@@ -43101,7 +43101,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 3593,
@@ -43173,7 +43173,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 4
   },
   {
     "id": 3599,
@@ -43209,7 +43209,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 3
   },
   {
     "id": 3602,
@@ -43245,7 +43245,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": true,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 3605,
@@ -43257,7 +43257,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 3
   },
   {
     "id": 3606,
@@ -43293,7 +43293,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": true,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 3609,
@@ -43305,7 +43305,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": true,
-    "stock": 1
+    "stock": 4
   },
   {
     "id": 3610,
@@ -43329,7 +43329,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 3612,
@@ -43377,7 +43377,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 3
   },
   {
     "id": 3616,
@@ -43425,7 +43425,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": true,
-    "stock": 1
+    "stock": 4
   },
   {
     "id": 3620,
@@ -43533,7 +43533,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": true,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 3629,
@@ -43545,7 +43545,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": true,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 3630,
@@ -43569,7 +43569,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 0
   },
   {
     "id": 3632,
@@ -43725,7 +43725,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": true,
-    "stock": 1
+    "stock": 3
   },
   {
     "id": 3645,
@@ -43833,7 +43833,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": true,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 3654,
@@ -44337,7 +44337,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": true,
-    "stock": 1
+    "stock": 3
   },
   {
     "id": 3696,
@@ -44517,7 +44517,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": true,
-    "stock": 1
+    "stock": 3
   },
   {
     "id": 3711,
@@ -44541,7 +44541,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": true,
-    "stock": 1
+    "stock": 3
   },
   {
     "id": 3713,
@@ -44649,7 +44649,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": true,
-    "stock": 1
+    "stock": 3
   },
   {
     "id": 3722,
@@ -44841,7 +44841,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 3738,
@@ -44853,7 +44853,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": true,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 3739,
@@ -44997,7 +44997,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 4
   },
   {
     "id": 3751,
@@ -45165,7 +45165,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": true,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 3765,
@@ -45237,7 +45237,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": true,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 3771,
@@ -45261,7 +45261,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": true,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 3773,
@@ -45393,7 +45393,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 3784,
@@ -45489,7 +45489,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 3
   },
   {
     "id": 3792,
@@ -45561,7 +45561,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": true,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 3798,
@@ -45585,7 +45585,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 3800,
@@ -45633,7 +45633,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 3804,
@@ -45645,7 +45645,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": true,
-    "stock": 1
+    "stock": 3
   },
   {
     "id": 3805,
@@ -45717,7 +45717,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": true,
-    "stock": 1
+    "stock": 3
   },
   {
     "id": 3811,
@@ -45813,7 +45813,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": true,
-    "stock": 1
+    "stock": 3
   },
   {
     "id": 3819,
@@ -45861,7 +45861,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 4
   },
   {
     "id": 3823,
@@ -45945,7 +45945,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": true,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 3830,
@@ -46125,7 +46125,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": true,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 3845,
@@ -46149,7 +46149,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": true,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 3847,
@@ -46353,7 +46353,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": true,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 3864,
@@ -46533,7 +46533,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": true,
-    "stock": 1
+    "stock": 4
   },
   {
     "id": 3879,
@@ -46569,7 +46569,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": true,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 3882,
@@ -46677,7 +46677,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 8
   },
   {
     "id": 3891,
@@ -46725,7 +46725,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": true,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 3895,
@@ -47025,7 +47025,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": true,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 3920,
@@ -47133,7 +47133,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 5
   },
   {
     "id": 3929,
@@ -47169,7 +47169,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": true,
-    "stock": 1
+    "stock": 4
   },
   {
     "id": 3932,
@@ -47229,7 +47229,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": true,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 3937,
@@ -47349,7 +47349,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": true,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 3947,
@@ -47505,7 +47505,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": true,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 3960,
@@ -47529,7 +47529,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": true,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 3962,
@@ -47553,7 +47553,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": true,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 3964,
@@ -47649,7 +47649,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 3972,
@@ -47673,7 +47673,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": true,
-    "stock": 1
+    "stock": 3
   },
   {
     "id": 3974,
@@ -47697,7 +47697,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": true,
-    "stock": 1
+    "stock": 3
   },
   {
     "id": 3976,
@@ -47733,7 +47733,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": true,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 3979,
@@ -47745,7 +47745,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 3980,
@@ -47769,7 +47769,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 4
   },
   {
     "id": 3982,
@@ -47925,7 +47925,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": true,
-    "stock": 1
+    "stock": 3
   },
   {
     "id": 3995,
@@ -47937,7 +47937,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": true,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 3996,
@@ -47973,7 +47973,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": true,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 3999,
@@ -47997,6 +47997,6 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": true,
-    "stock": 1
+    "stock": 3
   }
 ];
