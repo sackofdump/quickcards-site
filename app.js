@@ -25,6 +25,11 @@ const treeData = [
     { id: 'hockey', label: 'Hockey', icon: '\u25E6', filter: 'hockey' },
   ]},
   { id: 'pokemon', label: 'Pok\u00E9mon', icon: '\u2605', filter: 'pokemon' },
+  { id: 'graded', label: 'Graded Cards', icon: '\u25C8', filter: 'graded' },
+  { id: 'yugioh', label: 'Yu-Gi-Oh!', icon: '\u25C6', filter: 'yugioh' },
+  { id: 'stickers', label: 'Stickers', icon: '\u25E6', filter: 'stickers' },
+  { id: 'pins', label: 'Pins', icon: '\u25E6', filter: 'pins' },
+  { id: 'charms', label: 'Charms', icon: '\u25E6', filter: 'charms' },
   { id: 'coins', label: 'Coins & Currency', icon: '\u25C9', filter: 'coins' },
   { id: 'other', label: 'Other Collectibles', icon: '\u25C8', filter: 'other' },
 ];
@@ -378,11 +383,16 @@ function escapeHtml(str) {
 function getCategoryLabel(cat) {
   const labels = {
     baseball: 'Baseball',
-    pokemon: 'Pokemon',
-    coins: 'Coins & Currency',
     basketball: 'Basketball',
     football: 'Football',
     hockey: 'Hockey',
+    pokemon: 'Pokémon',
+    graded: 'Graded',
+    yugioh: 'Yu-Gi-Oh!',
+    stickers: 'Stickers',
+    pins: 'Pins',
+    charms: 'Charms',
+    coins: 'Coins',
     other: 'Collectibles'
   };
   return labels[cat] || cat;
