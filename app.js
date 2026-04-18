@@ -176,6 +176,12 @@ function handleTreeClick(id) {
   buildTree();
   renderProducts();
   updateBreadcrumb(node);
+
+  // Collapse sidebar on mobile after selection
+  if (window.innerWidth <= 900) {
+    treeSidebar.classList.add('collapsed');
+    treeToggleMobile.classList.remove('open');
+  }
 }
 
 // ---- Tree: Select from external (footer links) ----
@@ -308,8 +314,9 @@ function renderProducts() {
         </div>
         <div class="product-action">
           <a href="${p.url}" target="_blank" rel="noopener" class="btn-view">&gt; inspect()</a>
-          <button class="btn-cart" onclick="addToCart(${p.id})">&gt; add.cart()</button>
+          <button class="btn-cart" onclick="addToCart(${p.id})" id="cart-btn-${p.id}">&gt; add.cart()</button>
         </div>
+        ${p.stock > 1 ? `<div class="product-stock">// ${p.stock} in stock</div>` : ''}
       </div>
     </div>`;
   }).join('');
@@ -587,12 +594,17 @@ window.addToCart = function(productId) {
   const product = products.find(p => p.id === productId);
   if (!product) return;
 
+  const stock = product.stock || 1;
   const cart = getCart();
   const existing = cart.find(i => i.id === productId);
+  const currentQty = existing ? existing.quantity : 0;
+
+  if (currentQty >= stock) return; // already at max
+
   if (existing) {
     existing.quantity += 1;
   } else {
-    cart.push({ id: product.id, name: product.name, price: product.price, image: product.image || null, quantity: 1 });
+    cart.push({ id: product.id, name: product.name, price: product.price, image: product.image || null, quantity: 1, stock });
   }
   saveCart(cart);
   updateCartBadge();
@@ -695,7 +707,10 @@ window.changeQty = function(productId, delta) {
   const cart = getCart();
   const item = cart.find(i => i.id === productId);
   if (!item) return;
-  item.quantity += delta;
+  const stock = item.stock || products.find(p => p.id === productId)?.stock || 1;
+  const newQty = item.quantity + delta;
+  if (newQty > stock) return;
+  item.quantity = newQty;
   if (item.quantity <= 0) {
     const idx = cart.indexOf(item);
     cart.splice(idx, 1);
