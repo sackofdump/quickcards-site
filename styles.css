@@ -1742,6 +1742,13 @@ input, select { font-family: inherit; }
 
 @media (max-width: 480px) {
   .cart-drawer { width: 100vw; }
+  .cart-footer { padding: 12px 16px 16px; }
+  .cart-total-row { margin-bottom: 10px; }
+  .cart-total-value { font-size: 1rem; }
+  .cart-shipping-promo { margin-bottom: 10px; padding-bottom: 10px; }
+  .btn-checkout { padding: 11px; margin-bottom: 6px; }
+  .btn-continue-shopping { padding: 8px; }
+  .cart-secure { margin-top: 6px; }
 }
 
 /* ============================================
