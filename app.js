@@ -4,10 +4,11 @@
    ============================================ */
 
 // ---- Products from external files (main + football) ----
+const _blacklist = window.auctionBlacklist || new Set();
 const _seenIds = new Set();
 const products = [...(window.products || []), ...(window.footballProducts || [])].filter(p => {
   const id = p.url && p.url.match(/\/itm\/(\d+)/)?.[1];
-  if (!id || _seenIds.has(id)) return false;
+  if (!id || _seenIds.has(id) || _blacklist.has(id)) return false;
   _seenIds.add(id);
   return true;
 });
