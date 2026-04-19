@@ -1897,11 +1897,7 @@ input, select { font-family: inherit; }
 }
 
 .jd-highlight {
-  animation: jd-highlight-pulse 1.8s ease-out forwards;
-}
-
-@keyframes jd-highlight-pulse {
-  0%   { box-shadow: 0 0 0 3px var(--orange), 0 0 30px rgba(245, 166, 35, 0.6); border-color: var(--orange); }
-  60%  { box-shadow: 0 0 0 3px var(--orange), 0 0 30px rgba(245, 166, 35, 0.6); border-color: var(--orange); }
-  100% { box-shadow: none; border-color: var(--card-border); }
+  box-shadow: 0 0 0 3px var(--orange), 0 0 30px rgba(245, 166, 35, 0.55) !important;
+  border-color: var(--orange) !important;
+  transition: box-shadow 2s ease-out, border-color 2s ease-out !important;
 }

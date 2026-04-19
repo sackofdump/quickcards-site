@@ -680,14 +680,16 @@ window.jumpToProduct = function(ebayId) {
   buildTree();
   renderProducts();
 
-  // Scroll to and highlight the card
-  requestAnimationFrame(() => {
+  // Wait for card entrance animation to finish, then scroll + highlight
+  setTimeout(() => {
     const card = productsGrid.querySelector(`[data-ebay-id="${ebayId}"]`);
     if (!card) return;
     card.scrollIntoView({ behavior: 'smooth', block: 'center' });
-    card.classList.add('jd-highlight');
-    setTimeout(() => card.classList.remove('jd-highlight'), 1800);
-  });
+    setTimeout(() => {
+      card.classList.add('jd-highlight');
+      setTimeout(() => card.classList.remove('jd-highlight'), 2000);
+    }, 300);
+  }, 600);
 };
 
 // ---- Init ----
