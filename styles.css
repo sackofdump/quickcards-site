@@ -1591,6 +1591,24 @@ input, select { font-family: inherit; }
   transform: none;
 }
 
+.btn-continue-shopping {
+  width: 100%;
+  padding: 10px;
+  background: transparent;
+  color: var(--gray-300);
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 0.8rem;
+  border: 1px solid var(--card-border);
+  border-radius: var(--radius);
+  cursor: pointer;
+  transition: var(--transition);
+  margin-top: 8px;
+}
+.btn-continue-shopping:hover {
+  color: var(--blue-light);
+  border-color: var(--blue);
+}
+
 .cart-secure {
   display: flex;
   align-items: center;

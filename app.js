@@ -884,6 +884,7 @@ function closeCart() {
 }
 
 document.getElementById('cartBtn').addEventListener('click', openCart);
+window.closeCart = closeCart;
 document.getElementById('cartClose').addEventListener('click', closeCart);
 document.getElementById('cartOverlay').addEventListener('click', closeCart);
 
