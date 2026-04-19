@@ -1,0 +1,9 @@
+Only when stock quantities change (selling out, restocking):
+  1. Export CSV from eBay
+
+  2. node C:/qce/import-csv.js "C:\Users\easla\Downloads\ebaycsv.csv" 
+— updates stock.json
+
+  3. node C:/qce/merge-stock.js — applies to products.js
+
+  4. Tell me to push

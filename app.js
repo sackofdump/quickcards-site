@@ -3,8 +3,14 @@
    Uses window.products from products.js
    ============================================ */
 
-// ---- Products from external file ----
-const products = window.products || [];
+// ---- Products from external files (main + football) ----
+const _seenIds = new Set();
+const products = [...(window.products || []), ...(window.footballProducts || [])].filter(p => {
+  const id = p.url && p.url.match(/\/itm\/(\d+)/)?.[1];
+  if (!id || _seenIds.has(id)) return false;
+  _seenIds.add(id);
+  return true;
+});
 
 // ---- State ----
 let currentCategory = 'all';
@@ -320,10 +326,10 @@ function renderProducts() {
         </div>
         <div class="product-action">
           <a href="${p.url}" target="_blank" rel="noopener" class="btn-view">&gt; inspect()</a>
-          ${p.stock === 0
-            ? `<button class="btn-cart btn-out-of-stock" disabled>&gt; out.of.stock()</button>`
-            : p.ebayOnly
-              ? `<a href="${p.url}" target="_blank" rel="noopener" class="btn-cart btn-ebay-only">&gt; buy.ebay()</a>`
+          ${p.ebayOnly
+            ? `<a href="${p.url}" target="_blank" rel="noopener" class="btn-cart btn-ebay-only">&gt; buy.on.ebay()</a>`
+            : p.stock === 0
+              ? `<button class="btn-cart btn-out-of-stock" disabled>&gt; out.of.stock()</button>`
               : `<button class="btn-cart" onclick="addToCart(${p.id})" id="cart-btn-${p.id}">&gt; add.cart()</button>`
           }
         </div>
@@ -411,6 +417,25 @@ searchInput.addEventListener('input', () => {
     currentPage = 1;
     renderProducts();
   }, 300);
+});
+
+searchInput.addEventListener('keydown', (e) => {
+  if (e.key === 'Enter') {
+    clearTimeout(searchTimeout);
+    searchQuery = searchInput.value.trim();
+    currentPage = 1;
+    renderProducts();
+    document.getElementById('products').scrollIntoView({ behavior: 'smooth' });
+    searchInput.blur();
+  }
+});
+
+document.getElementById('searchBtn').addEventListener('click', () => {
+  clearTimeout(searchTimeout);
+  searchQuery = searchInput.value.trim();
+  currentPage = 1;
+  renderProducts();
+  document.getElementById('products').scrollIntoView({ behavior: 'smooth' });
 });
 
 // ---- Sort ----

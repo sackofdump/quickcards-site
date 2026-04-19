@@ -1,0 +1,6 @@
+Every scrape:    
+                                                              1. Run console scraper → download products.js → replace C:\qce\products.js
+
+  2. node C:/qce/merge-stock.js — restores quantities from stock.json            
+
+3. Tell me to push
