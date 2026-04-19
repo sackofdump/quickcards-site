@@ -653,17 +653,27 @@ function renderJustDropped() {
 window.jumpToProduct = function(ebayId) {
   if (!ebayId) return;
 
-  // Reset filters to show all items in default order
-  currentCategory = 'all';
-  activeNodeId = 'all';
+  const product = products.find(p => p.url && p.url.includes(ebayId));
+  if (!product) return;
+
+  // Filter to the card's own category
+  currentCategory = product.category;
+  activeNodeId = product.category;
   currentSort = 'default';
   searchQuery = '';
   searchInput.value = '';
   sortSelect.value = 'default';
 
-  // Find which page the product lands on
-  const allFiltered = [...products];
-  const idx = allFiltered.findIndex(p => p.url && p.url.includes(ebayId));
+  // Expand parent node in tree if needed
+  for (const node of treeData) {
+    if (node.children && node.children.find(c => c.id === product.category)) {
+      node.expanded = true;
+    }
+  }
+
+  // Find which page the product lands on within its category
+  const categoryFiltered = products.filter(p => p.category === product.category);
+  const idx = categoryFiltered.findIndex(p => p.url && p.url.includes(ebayId));
   if (idx === -1) return;
   currentPage = Math.ceil((idx + 1) / ITEMS_PER_PAGE);
 
