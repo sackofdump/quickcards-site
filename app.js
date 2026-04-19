@@ -22,7 +22,7 @@ let currentSort = 'default';
 let currentView = 'grid';
 let searchQuery = '';
 let currentPage = 1;
-const ITEMS_PER_PAGE = 48;
+const ITEMS_PER_PAGE = 20;
 
 // ---- Tree Data Structure ----
 const treeData = [
