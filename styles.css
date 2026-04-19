@@ -1593,20 +1593,23 @@ input, select { font-family: inherit; }
 
 .btn-continue-shopping {
   width: 100%;
-  padding: 10px;
+  padding: 11px;
   background: transparent;
   color: var(--gray-300);
   font-family: 'JetBrains Mono', monospace;
   font-size: 0.8rem;
-  border: 1px solid var(--card-border);
-  border-radius: var(--radius);
+  font-weight: 500;
+  border: none;
+  border-top: 1px solid var(--card-border);
+  border-radius: 0;
   cursor: pointer;
   transition: var(--transition);
-  margin-top: 8px;
+  margin-top: 4px;
+  letter-spacing: 0.02em;
 }
 .btn-continue-shopping:hover {
-  color: var(--blue-light);
-  border-color: var(--blue);
+  color: var(--white);
+  background: transparent;
 }
 
 .cart-secure {
