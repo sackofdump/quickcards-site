@@ -6,10 +6,12 @@
 // ---- Products from external files (main + football) ----
 const _blacklist = window.auctionBlacklist || new Set();
 const _seenIds = new Set();
+let _order = 0;
 const products = [...(window.products || []), ...(window.footballProducts || [])].filter(p => {
   const id = p.url && p.url.match(/\/itm\/(\d+)/)?.[1];
   if (!id || _seenIds.has(id) || _blacklist.has(id)) return false;
   _seenIds.add(id);
+  p._order = _order++;
   return true;
 });
 
@@ -276,10 +278,10 @@ function renderProducts() {
   // Sort
   switch (currentSort) {
     case 'newest':
-      filtered.sort((a, b) => b.id - a.id);
+      filtered.sort((a, b) => b._order - a._order);
       break;
     case 'oldest':
-      filtered.sort((a, b) => a.id - b.id);
+      filtered.sort((a, b) => a._order - b._order);
       break;
     case 'price-low':
       filtered.sort((a, b) => a.price - b.price);
