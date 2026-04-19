@@ -315,8 +315,9 @@ function renderProducts() {
   productsGrid.innerHTML = pageItems.map((p, i) => {
     const imgSrc = p.image || '';
     const hasImage = !!p.image;
+    const ebayId = (p.url && p.url.match(/\/itm\/(\d+)/)?.[1]) || '';
     return `
-    <div class="product-card" style="animation-delay: ${Math.min(i * 0.03, 0.8)}s">
+    <div class="product-card" data-ebay-id="${ebayId}" style="animation-delay: ${Math.min(i * 0.03, 0.8)}s">
       ${p.badge === 'numbered' || p.numbered ? '<span class="card-badge numbered">#\'d</span>' : ''}
       <div class="product-image${hasImage ? '' : ' no-image'}">
         ${hasImage
@@ -631,8 +632,9 @@ function renderJustDropped() {
   track.innerHTML = items.map(p => {
     const hasImage = !!p.image;
     const name = p.name.length > 48 ? p.name.slice(0, 48) + '\u2026' : p.name;
+    const ebayId = (p.url && p.url.match(/\/itm\/(\d+)/)?.[1]) || '';
     return `
-    <a href="${p.url}" target="_blank" rel="noopener" class="jd-card">
+    <div class="jd-card" onclick="jumpToProduct('${ebayId}')" role="button" tabindex="0">
       <span class="jd-new-badge">NEW</span>
       <div class="jd-img${hasImage ? '' : ' no-image'}">
         ${hasImage
@@ -644,9 +646,39 @@ function renderJustDropped() {
         <span class="jd-name">${escapeHtml(name)}</span>
         <span class="jd-price">$${p.price.toFixed(2)}</span>
       </div>
-    </a>`;
+    </div>`;
   }).join('');
 }
+
+window.jumpToProduct = function(ebayId) {
+  if (!ebayId) return;
+
+  // Reset filters to show all items in default order
+  currentCategory = 'all';
+  activeNodeId = 'all';
+  currentSort = 'default';
+  searchQuery = '';
+  searchInput.value = '';
+  sortSelect.value = 'default';
+
+  // Find which page the product lands on
+  const allFiltered = [...products];
+  const idx = allFiltered.findIndex(p => p.url && p.url.includes(ebayId));
+  if (idx === -1) return;
+  currentPage = Math.ceil((idx + 1) / ITEMS_PER_PAGE);
+
+  buildTree();
+  renderProducts();
+
+  // Scroll to and highlight the card
+  requestAnimationFrame(() => {
+    const card = productsGrid.querySelector(`[data-ebay-id="${ebayId}"]`);
+    if (!card) return;
+    card.scrollIntoView({ behavior: 'smooth', block: 'center' });
+    card.classList.add('jd-highlight');
+    setTimeout(() => card.classList.remove('jd-highlight'), 1800);
+  });
+};
 
 // ---- Init ----
 buildTree();
