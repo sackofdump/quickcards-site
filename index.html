@@ -102,6 +102,18 @@
         <span class="tp-prompt">quickcards</span><span class="tp-sep">://</span><span class="tp-segment">collection</span><span class="tp-sep">/</span><span class="tp-current" id="tpCurrent">all</span><span class="tp-cursor">&#x2588;</span>
       </div>
 
+      <!-- Just Dropped Strip -->
+      <div class="just-dropped-section" id="justDroppedSection">
+        <div class="jd-header">
+          <span class="jd-pulse"></span>
+          <span class="jd-label">// JUST.DROPPED</span>
+          <span class="jd-sub">latest additions to the vault</span>
+        </div>
+        <div class="just-dropped-track" id="justDroppedTrack">
+          <!-- Populated by JS -->
+        </div>
+      </div>
+
       <!-- Mobile tree toggle -->
       <button class="tree-toggle-mobile" id="treeToggleMobile">
         <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M3 12h18M3 6h18M3 18h18"/></svg>
@@ -136,6 +148,8 @@
             <div class="toolbar-right">
               <select id="sortSelect" class="sort-select">
                 <option value="default">Sort: Featured</option>
+                <option value="newest">Newest First</option>
+                <option value="oldest">Oldest First</option>
                 <option value="price-low">Price: Low to High</option>
                 <option value="price-high">Price: High to Low</option>
                 <option value="name">Name: A-Z</option>

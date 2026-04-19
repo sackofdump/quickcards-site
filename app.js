@@ -274,6 +274,12 @@ function renderProducts() {
 
   // Sort
   switch (currentSort) {
+    case 'newest':
+      filtered.sort((a, b) => b.id - a.id);
+      break;
+    case 'oldest':
+      filtered.sort((a, b) => a.id - b.id);
+      break;
     case 'price-low':
       filtered.sort((a, b) => a.price - b.price);
       break;
@@ -612,9 +618,37 @@ document.querySelectorAll('.section-header, .tree-window').forEach(el => {
   revealObserver.observe(el);
 });
 
+// ---- Just Dropped ----
+function renderJustDropped() {
+  const track = document.getElementById('justDroppedTrack');
+  if (!track || products.length === 0) return;
+
+  const items = products.slice(-12).reverse();
+
+  track.innerHTML = items.map(p => {
+    const hasImage = !!p.image;
+    const name = p.name.length > 48 ? p.name.slice(0, 48) + '\u2026' : p.name;
+    return `
+    <a href="${p.url}" target="_blank" rel="noopener" class="jd-card">
+      <span class="jd-new-badge">NEW</span>
+      <div class="jd-img${hasImage ? '' : ' no-image'}">
+        ${hasImage
+          ? `<img src="${p.image}" alt="${escapeHtml(p.name)}" loading="lazy" onerror="this.parentElement.classList.add('no-image');this.remove();">`
+          : `<div class="jd-placeholder"><svg width="32" height="32" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1"><rect x="3" y="3" width="18" height="18" rx="2"/><circle cx="8.5" cy="8.5" r="1.5"/><path d="m21 15-5-5L5 21"/></svg></div>`
+        }
+      </div>
+      <div class="jd-info">
+        <span class="jd-name">${escapeHtml(name)}</span>
+        <span class="jd-price">$${p.price.toFixed(2)}</span>
+      </div>
+    </a>`;
+  }).join('');
+}
+
 // ---- Init ----
 buildTree();
 renderProducts();
+renderJustDropped();
 window.scrollTo(0, 0);
 
 /* ============================================
