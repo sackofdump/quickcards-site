@@ -627,7 +627,7 @@ function renderJustDropped() {
   const track = document.getElementById('justDroppedTrack');
   if (!track || products.length === 0) return;
 
-  const items = products.slice(-12).reverse();
+  const items = products.slice(0, 12);
 
   track.innerHTML = items.map(p => {
     const hasImage = !!p.image;
