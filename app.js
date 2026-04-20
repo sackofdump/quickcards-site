@@ -7,7 +7,7 @@
 const _blacklist = window.auctionBlacklist || new Set();
 const _seenIds = new Set();
 let _order = 0;
-const products = [...(window.products || []), ...(window.footballProducts || [])].filter(p => {
+const products = [...(window.products || []), ...(window.footballProducts || []), ...(window.baseballProducts || [])].filter(p => {
   const id = p.url && p.url.match(/\/itm\/(\d+)/)?.[1];
   if (!id || _seenIds.has(id) || _blacklist.has(id)) return false;
   _seenIds.add(id);
