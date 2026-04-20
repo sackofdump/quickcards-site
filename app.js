@@ -627,7 +627,11 @@ function renderJustDropped() {
   const track = document.getElementById('justDroppedTrack');
   if (!track || products.length === 0) return;
 
-  const items = products.slice(0, 12);
+  const items = [...products].sort((a, b) => {
+    const idA = parseInt(a.url?.match(/\/itm\/(\d+)/)?.[1] || '0');
+    const idB = parseInt(b.url?.match(/\/itm\/(\d+)/)?.[1] || '0');
+    return idB - idA;
+  }).slice(0, 12);
 
   track.innerHTML = items.map(p => {
     const hasImage = !!p.image;
