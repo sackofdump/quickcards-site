@@ -7,7 +7,7 @@
 
 (async function() {
   const FOOTBALL_URL = 'https://www.ebay.com/str/qceshop/Football-Cards/_i.html?store_cat=43121585011';
-  const MAX_PAGES = 100;
+  const MAX_PAGES = 30;
   const CONCURRENCY = 3;
   const DELAY = 900;
 
