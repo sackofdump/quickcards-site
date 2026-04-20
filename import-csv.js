@@ -1,9 +1,8 @@
 // ============================================================
-// Run only when stock quantities change:
+// Run when stock quantities change:
 //   node C:/qce/import-csv.js "C:/path/to/ActiveListings.csv"
 //
-// Generates stock.json from eBay CSV inventory report.
-// After running this, also run merge-stock.js to apply.
+// Generates stock.json and applies quantities to products.js.
 // ============================================================
 
 const fs = require('fs');
@@ -90,4 +89,18 @@ if (fs.existsSync('C:/qce/stock.json')) {
 fs.writeFileSync('C:/qce/stock.json', JSON.stringify(stockMap, null, 2));
 console.log('stock.json saved:', Object.keys(stockMap).length, 'items');
 console.log('Skipped (auctions/blacklist):', skipped);
-console.log('\nNow run: node C:/qce/merge-stock.js');
+
+// Apply stock to products.js
+const newRaw = fs.readFileSync('C:/qce/products.js', 'utf8');
+const newProds = JSON.parse(newRaw.match(/window\.products\s*=\s*(\[[\s\S]*\])/)[1]);
+let updated = 0;
+newProds.forEach(p => {
+  const m = p.url && p.url.match(/\/itm\/(\d+)/);
+  if (m && stockMap[m[1]] !== undefined) {
+    p.stock = stockMap[m[1]];
+    updated++;
+  }
+});
+console.log('products.js items updated with stock:', updated);
+fs.writeFileSync('C:/qce/products.js', 'window.products = ' + JSON.stringify(newProds, null, 2) + ';\n');
+console.log('Done.');
