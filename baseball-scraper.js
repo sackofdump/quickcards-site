@@ -2,14 +2,22 @@
 // PASTE THIS INTO YOUR BROWSER CONSOLE
 // while on any eBay page (ebay.com)
 // Scrapes ONLY the Baseball Cards category store page
+// Uses multi-sort passes to bypass eBay's per-sort item cap
 // Downloads baseball-products.js when done
 // ============================================================
 
 (async function() {
-  const BASEBALL_URL = 'https://www.ebay.com/str/qceshop/Baseball-Cards/_i.html?store_cat=44115244011';
-  const MAX_PAGES = 30;
+  const BASE_URL = 'https://www.ebay.com/str/qceshop?store_cat=44115244011';
+  const MAX_PAGES = 75;
   const CONCURRENCY = 3;
   const DELAY = 900;
+
+  const SORT_PASSES = [
+    { label: 'default',    url: BASE_URL },
+    { label: 'price-asc',  url: BASE_URL + '&_sop=3' },
+    { label: 'price-desc', url: BASE_URL + '&_sop=2' },
+    { label: 'newest',     url: BASE_URL + '&_sop=10' },
+  ];
 
   const allProducts = new Map(); // itemId -> product data
   let errors = 0;
@@ -121,10 +129,8 @@
     return results;
   }
 
-  async function fetchPage(pageNum) {
-    const url = pageNum === 1
-      ? BASEBALL_URL
-      : `${BASEBALL_URL}&_pgn=${pageNum}`;
+  async function fetchPage(baseUrl, pageNum, label) {
+    const url = pageNum === 1 ? baseUrl : `${baseUrl}&_pgn=${pageNum}`;
     try {
       const resp = await fetch(url);
       if (!resp.ok) throw new Error(`HTTP ${resp.status}`);
@@ -147,38 +153,45 @@
           newCount++;
         }
       }
-      console.log(`%c[Baseball p${pageNum}] ${listings.length} items, ${newCount} new | Total: ${allProducts.size}`, 'color:#8f8');
+      console.log(`%c[Baseball/${label} p${pageNum}] ${listings.length} items, ${newCount} new | Total: ${allProducts.size}`, 'color:#8f8');
       return listings.length > 0;
     } catch (err) {
       errors++;
-      console.log(`%c[Baseball p${pageNum}] ERROR: ${err.message}`, 'color:#f55');
+      console.log(`%c[Baseball/${label} p${pageNum}] ERROR: ${err.message}`, 'color:#f55');
       return false;
     }
   }
 
-  console.log('%c[Baseball Scraper] Starting...', 'color:#2196F3;font-weight:bold;font-size:14px');
-  console.log(`%c[Baseball Scraper] URL: ${BASEBALL_URL}`, 'color:#aaa');
-
-  let consecutiveEmpty = 0;
-  for (let start = 1; start <= MAX_PAGES; start += CONCURRENCY) {
-    const batch = [];
-    for (let p = start; p < start + CONCURRENCY && p <= MAX_PAGES; p++) {
-      batch.push(fetchPage(p));
-    }
-    const results = await Promise.all(batch);
-    const hadItems = results.some(r => r === true);
-    if (!hadItems) {
-      consecutiveEmpty += CONCURRENCY;
-      if (consecutiveEmpty >= 6) {
-        console.log('%c[Baseball Scraper] No more pages, stopping.', 'color:#fa0');
-        break;
+  async function scrapePass(baseUrl, label) {
+    let consecutiveEmpty = 0;
+    for (let start = 1; start <= MAX_PAGES; start += CONCURRENCY) {
+      const batch = [];
+      for (let p = start; p < start + CONCURRENCY && p <= MAX_PAGES; p++) {
+        batch.push(fetchPage(baseUrl, p, label));
       }
-    } else {
-      consecutiveEmpty = 0;
+      const results = await Promise.all(batch);
+      const hadItems = results.some(r => r === true);
+      if (!hadItems) {
+        consecutiveEmpty += CONCURRENCY;
+        if (consecutiveEmpty >= 6) {
+          console.log(`%c[Baseball/${label}] No more pages, stopping pass.`, 'color:#fa0');
+          break;
+        }
+      } else {
+        consecutiveEmpty = 0;
+      }
+      if (start + CONCURRENCY <= MAX_PAGES) {
+        await new Promise(r => setTimeout(r, DELAY));
+      }
     }
-    if (start + CONCURRENCY <= MAX_PAGES) {
-      await new Promise(r => setTimeout(r, DELAY));
-    }
+  }
+
+  console.log('%c[Baseball Scraper] Starting multi-sort scrape...', 'color:#2196F3;font-weight:bold;font-size:14px');
+
+  for (const pass of SORT_PASSES) {
+    console.log(`%c[Baseball Scraper] Pass: ${pass.label}`, 'color:#2196F3;font-weight:bold');
+    await scrapePass(pass.url, pass.label);
+    await new Promise(r => setTimeout(r, 2000));
   }
 
   const total = allProducts.size;
