@@ -6,7 +6,13 @@
 // ============================================================
 
 (async function() {
-  const FOOTBALL_URL = 'https://www.ebay.com/str/qceshop/Football-Cards/_i.html?store_cat=43121585011';
+  const BASE_URL = 'https://www.ebay.com/str/qceshop/Football-Cards/_i.html?store_cat=43121585011';
+  const SORT_PASSES = [
+    { label: 'default',    url: BASE_URL },
+    { label: 'price-asc',  url: BASE_URL + '&_sop=3' },
+    { label: 'price-desc', url: BASE_URL + '&_sop=2' },
+    { label: 'newest',     url: BASE_URL + '&_sop=10' },
+  ];
   const MAX_PAGES = 30;
   const CONCURRENCY = 3;
   const DELAY = 900;
@@ -121,10 +127,10 @@
     return results;
   }
 
-  async function fetchPage(pageNum) {
+  async function fetchPage(passUrl, passLabel, pageNum) {
     const url = pageNum === 1
-      ? FOOTBALL_URL
-      : `${FOOTBALL_URL}&_pgn=${pageNum}`;
+      ? passUrl
+      : `${passUrl}&_pgn=${pageNum}`;
     try {
       const resp = await fetch(url);
       if (!resp.ok) throw new Error(`HTTP ${resp.status}`);
@@ -147,37 +153,39 @@
           newCount++;
         }
       }
-      console.log(`%c[Football p${pageNum}] ${listings.length} items, ${newCount} new | Total: ${allProducts.size}`, 'color:#8f8');
+      console.log(`%c[Football ${passLabel} p${pageNum}] ${listings.length} items, ${newCount} new | Total: ${allProducts.size}`, 'color:#8f8');
       return listings.length > 0;
     } catch (err) {
       errors++;
-      console.log(`%c[Football p${pageNum}] ERROR: ${err.message}`, 'color:#f55');
+      console.log(`%c[Football ${passLabel} p${pageNum}] ERROR: ${err.message}`, 'color:#f55');
       return false;
     }
   }
 
-  console.log('%c[Football Scraper] Starting...', 'color:#2196F3;font-weight:bold;font-size:14px');
-  console.log(`%c[Football Scraper] URL: ${FOOTBALL_URL}`, 'color:#aaa');
+  console.log('%c[Football Scraper] Starting (4 sort passes)...', 'color:#2196F3;font-weight:bold;font-size:14px');
 
-  let consecutiveEmpty = 0;
-  for (let start = 1; start <= MAX_PAGES; start += CONCURRENCY) {
-    const batch = [];
-    for (let p = start; p < start + CONCURRENCY && p <= MAX_PAGES; p++) {
-      batch.push(fetchPage(p));
-    }
-    const results = await Promise.all(batch);
-    const hadItems = results.some(r => r === true);
-    if (!hadItems) {
-      consecutiveEmpty += CONCURRENCY;
-      if (consecutiveEmpty >= 6) {
-        console.log('%c[Football Scraper] No more pages, stopping.', 'color:#fa0');
-        break;
+  for (const pass of SORT_PASSES) {
+    console.log(`%c[Football Scraper] Pass: ${pass.label}`, 'color:#aaa');
+    let consecutiveEmpty = 0;
+    for (let start = 1; start <= MAX_PAGES; start += CONCURRENCY) {
+      const batch = [];
+      for (let p = start; p < start + CONCURRENCY && p <= MAX_PAGES; p++) {
+        batch.push(fetchPage(pass.url, pass.label, p));
       }
-    } else {
-      consecutiveEmpty = 0;
-    }
-    if (start + CONCURRENCY <= MAX_PAGES) {
-      await new Promise(r => setTimeout(r, DELAY));
+      const results = await Promise.all(batch);
+      const hadItems = results.some(r => r === true);
+      if (!hadItems) {
+        consecutiveEmpty += CONCURRENCY;
+        if (consecutiveEmpty >= 6) {
+          console.log(`%c[Football Scraper] No more pages for ${pass.label}, moving on.`, 'color:#fa0');
+          break;
+        }
+      } else {
+        consecutiveEmpty = 0;
+      }
+      if (start + CONCURRENCY <= MAX_PAGES) {
+        await new Promise(r => setTimeout(r, DELAY));
+      }
     }
   }
 

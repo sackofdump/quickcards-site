@@ -1,0 +1,13 @@
+New listings + quantities:
+
+2.) NEW EBAY CSV - REPLACE CSV
+
+  node C:/qce/refresh-inventory.js
+  node C:/qce/import-csv.js "C:/qce/ebaycsv.csv"
+
+
+New listings only (single qty)
+node C:/qce/refresh-inventory.js
+
+Make sure not to overwrite qtys with "old" ebaycsv file.
+Run football-scraper for new fball cards
