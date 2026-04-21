@@ -631,7 +631,7 @@ function renderJustDropped() {
     const idA = parseInt(a.url?.match(/\/itm\/(\d+)/)?.[1] || '0');
     const idB = parseInt(b.url?.match(/\/itm\/(\d+)/)?.[1] || '0');
     return idB - idA;
-  }).slice(0, 12);
+  }).slice(0, 20).sort((a, b) => b.price - a.price);
 
   track.innerHTML = items.map(p => {
     const hasImage = !!p.image;
