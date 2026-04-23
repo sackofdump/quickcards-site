@@ -15229,7 +15229,7 @@ window.products = [
   },
   {
     "id": 1270,
-    "name": "Munetaka Murakami (RC) GRAND SLAM - 2026 MLB Topps NOW�� - Card 94 PRE-SALE",
+    "name": "Munetaka Murakami (RC) GRAND SLAM - 2026 MLB Topps NOW® - Card 94 PRE-SALE",
     "price": 8.46,
     "image": "https://i.ebayimg.com/images/g/tHwAAeSw8iBp4-JL/s-l300.png",
     "url": "https://www.ebay.com/itm/168316913287",
