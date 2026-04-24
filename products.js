@@ -90002,7 +90002,7 @@ window.products = [
   {
     "id": 7501,
     "name": "CHOOSE YOUR COLOR!  BREAST CANCER AWARNESS PINS - COLLECTIBLE PERFECT GIFT,",
-    "price": 0,
+    "price": 8.09,
     "image": "https://i.ebayimg.com/images/g/vaYAAOSw7K9k2maz/s-l300.png",
     "url": "https://www.ebay.com/itm/166286939065",
     "category": "pins",
@@ -90014,7 +90014,7 @@ window.products = [
   {
     "id": 7502,
     "name": "PICK YOUR GHOST HALLOWEEN PIN! BROOCH SCARY BOO COLLECTIBLE KIDS ADULTS",
-    "price": 0,
+    "price": 8.09,
     "image": "https://i.ebayimg.com/images/g/eloAAOSwdWtk2mVT/s-l300.png",
     "url": "https://www.ebay.com/itm/166286939063",
     "category": "pins",
@@ -90026,7 +90026,7 @@ window.products = [
   {
     "id": 7503,
     "name": "PICK YOUR COLOR!  DOCTOR STETHOSCOPE - PINS JEWELRY PERFECT GIFT FOR DOCTORS,",
-    "price": 0,
+    "price": 8.09,
     "image": "https://i.ebayimg.com/images/g/GsQAAOSwzdZk2lqH/s-l300.png",
     "url": "https://www.ebay.com/itm/166286939059",
     "category": "pins",
