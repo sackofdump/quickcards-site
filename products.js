@@ -38361,7 +38361,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 7
+    "stock": 4
   },
   {
     "id": 3198,
@@ -38373,7 +38373,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 7
+    "stock": 4
   },
   {
     "id": 3199,
@@ -38385,7 +38385,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 7
+    "stock": 4
   },
   {
     "id": 3200,
@@ -38397,7 +38397,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 7
+    "stock": 4
   },
   {
     "id": 3201,
@@ -38409,7 +38409,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 7
+    "stock": 4
   },
   {
     "id": 3202,
@@ -38421,7 +38421,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 7
+    "stock": 4
   },
   {
     "id": 3203,
@@ -38433,7 +38433,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 7
+    "stock": 4
   },
   {
     "id": 3204,
@@ -38445,7 +38445,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 7
+    "stock": 4
   },
   {
     "id": 3205,
@@ -38457,7 +38457,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 7
+    "stock": 4
   },
   {
     "id": 3206,
@@ -38469,7 +38469,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 7
+    "stock": 4
   },
   {
     "id": 3207,
@@ -38481,7 +38481,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 7
+    "stock": 4
   },
   {
     "id": 3208,
@@ -38493,7 +38493,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 7
+    "stock": 4
   },
   {
     "id": 3209,
@@ -38505,7 +38505,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 7
+    "stock": 4
   },
   {
     "id": 3210,
@@ -38517,7 +38517,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 7
+    "stock": 4
   },
   {
     "id": 3211,
@@ -38529,7 +38529,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 7
+    "stock": 4
   },
   {
     "id": 3212,
@@ -38541,7 +38541,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 7
+    "stock": 4
   },
   {
     "id": 3213,
@@ -38553,7 +38553,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 7
+    "stock": 4
   },
   {
     "id": 3214,
@@ -38565,7 +38565,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 7
+    "stock": 4
   },
   {
     "id": 3215,
@@ -38577,7 +38577,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 7
+    "stock": 4
   },
   {
     "id": 3216,
@@ -38589,7 +38589,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 7
+    "stock": 4
   },
   {
     "id": 3217,
@@ -38601,7 +38601,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 7
+    "stock": 4
   },
   {
     "id": 3218,
@@ -38613,7 +38613,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 7
+    "stock": 4
   },
   {
     "id": 3219,
@@ -38625,7 +38625,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 7
+    "stock": 4
   },
   {
     "id": 3220,
@@ -38637,7 +38637,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 7
+    "stock": 4
   },
   {
     "id": 3221,
@@ -38649,7 +38649,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 7
+    "stock": 4
   },
   {
     "id": 3222,
@@ -38661,7 +38661,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 7
+    "stock": 4
   },
   {
     "id": 3223,
@@ -38673,7 +38673,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 7
+    "stock": 4
   },
   {
     "id": 3224,
@@ -38685,7 +38685,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 7
+    "stock": 4
   },
   {
     "id": 3225,
@@ -38697,7 +38697,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 7
+    "stock": 4
   },
   {
     "id": 3226,
@@ -38709,7 +38709,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 7
+    "stock": 4
   },
   {
     "id": 3227,
@@ -38721,7 +38721,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 7
+    "stock": 4
   },
   {
     "id": 3228,
@@ -38733,7 +38733,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 7
+    "stock": 4
   },
   {
     "id": 3229,
@@ -38745,7 +38745,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 7
+    "stock": 4
   },
   {
     "id": 3230,
@@ -38757,7 +38757,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 7
+    "stock": 4
   },
   {
     "id": 3231,
@@ -38769,7 +38769,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 7
+    "stock": 4
   },
   {
     "id": 3232,
@@ -38781,7 +38781,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 7
+    "stock": 4
   },
   {
     "id": 3233,
@@ -38793,7 +38793,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 7
+    "stock": 4
   },
   {
     "id": 3234,
@@ -38805,7 +38805,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 7
+    "stock": 4
   },
   {
     "id": 3235,
@@ -38817,7 +38817,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 7
+    "stock": 4
   },
   {
     "id": 3236,
@@ -38829,7 +38829,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 7
+    "stock": 4
   },
   {
     "id": 3237,
@@ -38841,7 +38841,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 7
+    "stock": 4
   },
   {
     "id": 3238,
@@ -38853,7 +38853,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 7
+    "stock": 4
   },
   {
     "id": 3239,
@@ -38865,7 +38865,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 7
+    "stock": 4
   },
   {
     "id": 3240,
@@ -38877,7 +38877,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 7
+    "stock": 4
   },
   {
     "id": 3241,
@@ -38889,7 +38889,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 7
+    "stock": 4
   },
   {
     "id": 3242,
@@ -38901,7 +38901,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 7
+    "stock": 4
   },
   {
     "id": 3243,
@@ -38913,7 +38913,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 7
+    "stock": 4
   },
   {
     "id": 3244,
@@ -38925,7 +38925,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 7
+    "stock": 4
   },
   {
     "id": 3245,
@@ -38937,7 +38937,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 7
+    "stock": 4
   },
   {
     "id": 3246,
@@ -38949,7 +38949,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 7
+    "stock": 4
   },
   {
     "id": 3247,
@@ -38961,7 +38961,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 7
+    "stock": 4
   },
   {
     "id": 3248,
@@ -38973,7 +38973,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 7
+    "stock": 4
   },
   {
     "id": 3249,
@@ -38985,7 +38985,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 7
+    "stock": 4
   },
   {
     "id": 3250,
@@ -38997,7 +38997,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 7
+    "stock": 4
   },
   {
     "id": 3251,
@@ -39009,7 +39009,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 7
+    "stock": 4
   },
   {
     "id": 3252,
@@ -39021,7 +39021,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 7
+    "stock": 4
   },
   {
     "id": 3253,
@@ -39033,7 +39033,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 7
+    "stock": 4
   },
   {
     "id": 3254,
@@ -39045,7 +39045,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 7
+    "stock": 4
   },
   {
     "id": 3255,
@@ -39057,7 +39057,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 7
+    "stock": 4
   },
   {
     "id": 3256,
@@ -39069,7 +39069,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 7
+    "stock": 4
   },
   {
     "id": 3257,
@@ -39081,7 +39081,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 7
+    "stock": 4
   },
   {
     "id": 3258,
@@ -39093,7 +39093,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 7
+    "stock": 4
   },
   {
     "id": 3259,
@@ -39105,7 +39105,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 7
+    "stock": 4
   },
   {
     "id": 3260,
@@ -39117,7 +39117,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 7
+    "stock": 4
   },
   {
     "id": 3261,
@@ -39129,7 +39129,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 7
+    "stock": 4
   },
   {
     "id": 3262,
@@ -39141,7 +39141,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 7
+    "stock": 4
   },
   {
     "id": 3263,
@@ -39153,7 +39153,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 7
+    "stock": 4
   },
   {
     "id": 3264,
@@ -39165,7 +39165,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 7
+    "stock": 4
   },
   {
     "id": 3265,
@@ -39177,7 +39177,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 7
+    "stock": 4
   },
   {
     "id": 3266,
@@ -39189,7 +39189,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 7
+    "stock": 4
   },
   {
     "id": 3267,
@@ -39201,7 +39201,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 7
+    "stock": 4
   },
   {
     "id": 3268,
@@ -39213,7 +39213,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 7
+    "stock": 4
   },
   {
     "id": 3269,
@@ -39225,7 +39225,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 7
+    "stock": 4
   },
   {
     "id": 3270,
@@ -39237,7 +39237,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 7
+    "stock": 4
   },
   {
     "id": 3271,
@@ -39249,7 +39249,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 7
+    "stock": 4
   },
   {
     "id": 3272,
@@ -39261,7 +39261,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 7
+    "stock": 4
   },
   {
     "id": 3273,
@@ -39273,7 +39273,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 7
+    "stock": 4
   },
   {
     "id": 3274,
@@ -39285,7 +39285,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 7
+    "stock": 4
   },
   {
     "id": 3275,
@@ -39297,7 +39297,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 7
+    "stock": 4
   },
   {
     "id": 3276,
@@ -39309,7 +39309,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 7
+    "stock": 4
   },
   {
     "id": 3277,
@@ -39321,7 +39321,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 7
+    "stock": 4
   },
   {
     "id": 3278,
@@ -39333,7 +39333,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 7
+    "stock": 4
   },
   {
     "id": 3279,
@@ -39345,7 +39345,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 7
+    "stock": 4
   },
   {
     "id": 3280,
@@ -39357,7 +39357,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 7
+    "stock": 4
   },
   {
     "id": 3281,
@@ -39369,7 +39369,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 7
+    "stock": 4
   },
   {
     "id": 3282,
@@ -39381,7 +39381,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 7
+    "stock": 4
   },
   {
     "id": 3283,
@@ -39393,7 +39393,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 7
+    "stock": 4
   },
   {
     "id": 3284,
@@ -39405,7 +39405,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 7
+    "stock": 4
   },
   {
     "id": 3285,
@@ -39417,7 +39417,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 7
+    "stock": 4
   },
   {
     "id": 3286,
@@ -39429,7 +39429,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 7
+    "stock": 4
   },
   {
     "id": 3287,
@@ -39441,7 +39441,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 7
+    "stock": 4
   },
   {
     "id": 3288,
@@ -39453,7 +39453,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 7
+    "stock": 4
   },
   {
     "id": 3289,
@@ -39465,7 +39465,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 7
+    "stock": 4
   },
   {
     "id": 3290,
@@ -39477,7 +39477,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 7
+    "stock": 4
   },
   {
     "id": 3291,
@@ -39489,7 +39489,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 7
+    "stock": 4
   },
   {
     "id": 3292,
@@ -39501,7 +39501,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 7
+    "stock": 4
   },
   {
     "id": 3293,
@@ -39513,7 +39513,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 7
+    "stock": 4
   },
   {
     "id": 3294,
@@ -39525,7 +39525,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 7
+    "stock": 4
   },
   {
     "id": 3295,
@@ -39537,7 +39537,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 7
+    "stock": 4
   },
   {
     "id": 3296,
@@ -39549,7 +39549,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 7
+    "stock": 4
   },
   {
     "id": 3297,
@@ -39561,7 +39561,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 7
+    "stock": 4
   },
   {
     "id": 3298,
@@ -39573,7 +39573,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 7
+    "stock": 4
   },
   {
     "id": 3299,
@@ -39585,7 +39585,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 7
+    "stock": 4
   },
   {
     "id": 3300,
@@ -39597,7 +39597,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 7
+    "stock": 4
   },
   {
     "id": 3301,
@@ -39609,7 +39609,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 7
+    "stock": 4
   },
   {
     "id": 3302,
@@ -39621,7 +39621,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 7
+    "stock": 4
   },
   {
     "id": 3303,
@@ -39633,7 +39633,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 7
+    "stock": 4
   },
   {
     "id": 3304,
@@ -39645,7 +39645,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 7
+    "stock": 4
   },
   {
     "id": 3305,
@@ -39657,7 +39657,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 7
+    "stock": 4
   },
   {
     "id": 3306,
@@ -39669,7 +39669,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 7
+    "stock": 4
   },
   {
     "id": 3307,
@@ -39681,7 +39681,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 7
+    "stock": 4
   },
   {
     "id": 3308,
@@ -39693,7 +39693,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 7
+    "stock": 4
   },
   {
     "id": 3309,
@@ -39705,7 +39705,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 7
+    "stock": 4
   },
   {
     "id": 3310,
@@ -39717,7 +39717,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 7
+    "stock": 4
   },
   {
     "id": 3311,
@@ -39729,7 +39729,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 7
+    "stock": 4
   },
   {
     "id": 3312,
@@ -39741,10 +39741,286 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 7
+    "stock": 4
   },
   {
     "id": 3313,
+    "name": "Chase Burns (RC) - 2026 MLB Living Set® - Card 920 Rookie PRE-SALE",
+    "price": 6.75,
+    "image": "https://i.ebayimg.com/images/g/2FMAAeSwoKZp19JR/s-l300.png",
+    "url": "https://www.ebay.com/itm/168297773764",
+    "category": "baseball",
+    "badge": null,
+    "discount": null,
+    "numbered": false,
+    "stock": 4
+  },
+  {
+    "id": 3314,
+    "name": "Chase Burns (RC) - 2026 MLB Living Set® - Card 920 Rookie PRE-SALE",
+    "price": 6.75,
+    "image": "https://i.ebayimg.com/images/g/2FMAAeSwoKZp19JR/s-l300.png",
+    "url": "https://www.ebay.com/itm/168297773764",
+    "category": "baseball",
+    "badge": null,
+    "discount": null,
+    "numbered": false,
+    "stock": 4
+  },
+  {
+    "id": 3315,
+    "name": "Chase Burns (RC) - 2026 MLB Living Set® - Card 920 Rookie PRE-SALE",
+    "price": 6.75,
+    "image": "https://i.ebayimg.com/images/g/2FMAAeSwoKZp19JR/s-l300.png",
+    "url": "https://www.ebay.com/itm/168297773764",
+    "category": "baseball",
+    "badge": null,
+    "discount": null,
+    "numbered": false,
+    "stock": 4
+  },
+  {
+    "id": 3316,
+    "name": "Chase Burns (RC) - 2026 MLB Living Set® - Card 920 Rookie PRE-SALE",
+    "price": 6.75,
+    "image": "https://i.ebayimg.com/images/g/2FMAAeSwoKZp19JR/s-l300.png",
+    "url": "https://www.ebay.com/itm/168297773764",
+    "category": "baseball",
+    "badge": null,
+    "discount": null,
+    "numbered": false,
+    "stock": 4
+  },
+  {
+    "id": 3317,
+    "name": "Chase Burns (RC) - 2026 MLB Living Set® - Card 920 Rookie PRE-SALE",
+    "price": 6.75,
+    "image": "https://i.ebayimg.com/images/g/2FMAAeSwoKZp19JR/s-l300.png",
+    "url": "https://www.ebay.com/itm/168297773764",
+    "category": "baseball",
+    "badge": null,
+    "discount": null,
+    "numbered": false,
+    "stock": 4
+  },
+  {
+    "id": 3318,
+    "name": "Chase Burns (RC) - 2026 MLB Living Set® - Card 920 Rookie PRE-SALE",
+    "price": 6.75,
+    "image": "https://i.ebayimg.com/images/g/2FMAAeSwoKZp19JR/s-l300.png",
+    "url": "https://www.ebay.com/itm/168297773764",
+    "category": "baseball",
+    "badge": null,
+    "discount": null,
+    "numbered": false,
+    "stock": 4
+  },
+  {
+    "id": 3319,
+    "name": "Chase Burns (RC) - 2026 MLB Living Set® - Card 920 Rookie PRE-SALE",
+    "price": 6.75,
+    "image": "https://i.ebayimg.com/images/g/2FMAAeSwoKZp19JR/s-l300.png",
+    "url": "https://www.ebay.com/itm/168297773764",
+    "category": "baseball",
+    "badge": null,
+    "discount": null,
+    "numbered": false,
+    "stock": 4
+  },
+  {
+    "id": 3320,
+    "name": "Chase Burns (RC) - 2026 MLB Living Set® - Card 920 Rookie PRE-SALE",
+    "price": 6.75,
+    "image": "https://i.ebayimg.com/images/g/2FMAAeSwoKZp19JR/s-l300.png",
+    "url": "https://www.ebay.com/itm/168297773764",
+    "category": "baseball",
+    "badge": null,
+    "discount": null,
+    "numbered": false,
+    "stock": 4
+  },
+  {
+    "id": 3321,
+    "name": "Chase Burns (RC) - 2026 MLB Living Set® - Card 920 Rookie PRE-SALE",
+    "price": 6.75,
+    "image": "https://i.ebayimg.com/images/g/2FMAAeSwoKZp19JR/s-l300.png",
+    "url": "https://www.ebay.com/itm/168297773764",
+    "category": "baseball",
+    "badge": null,
+    "discount": null,
+    "numbered": false,
+    "stock": 4
+  },
+  {
+    "id": 3322,
+    "name": "Chase Burns (RC) - 2026 MLB Living Set® - Card 920 Rookie PRE-SALE",
+    "price": 6.75,
+    "image": "https://i.ebayimg.com/images/g/2FMAAeSwoKZp19JR/s-l300.png",
+    "url": "https://www.ebay.com/itm/168297773764",
+    "category": "baseball",
+    "badge": null,
+    "discount": null,
+    "numbered": false,
+    "stock": 4
+  },
+  {
+    "id": 3323,
+    "name": "Chase Burns (RC) - 2026 MLB Living Set® - Card 920 Rookie PRE-SALE",
+    "price": 6.75,
+    "image": "https://i.ebayimg.com/images/g/2FMAAeSwoKZp19JR/s-l300.png",
+    "url": "https://www.ebay.com/itm/168297773764",
+    "category": "baseball",
+    "badge": null,
+    "discount": null,
+    "numbered": false,
+    "stock": 4
+  },
+  {
+    "id": 3324,
+    "name": "Chase Burns (RC) - 2026 MLB Living Set® - Card 920 Rookie PRE-SALE",
+    "price": 6.75,
+    "image": "https://i.ebayimg.com/images/g/2FMAAeSwoKZp19JR/s-l300.png",
+    "url": "https://www.ebay.com/itm/168297773764",
+    "category": "baseball",
+    "badge": null,
+    "discount": null,
+    "numbered": false,
+    "stock": 4
+  },
+  {
+    "id": 3325,
+    "name": "Chase Burns (RC) - 2026 MLB Living Set® - Card 920 Rookie PRE-SALE",
+    "price": 6.75,
+    "image": "https://i.ebayimg.com/images/g/2FMAAeSwoKZp19JR/s-l300.png",
+    "url": "https://www.ebay.com/itm/168297773764",
+    "category": "baseball",
+    "badge": null,
+    "discount": null,
+    "numbered": false,
+    "stock": 4
+  },
+  {
+    "id": 3326,
+    "name": "Chase Burns (RC) - 2026 MLB Living Set® - Card 920 Rookie PRE-SALE",
+    "price": 6.75,
+    "image": "https://i.ebayimg.com/images/g/2FMAAeSwoKZp19JR/s-l300.png",
+    "url": "https://www.ebay.com/itm/168297773764",
+    "category": "baseball",
+    "badge": null,
+    "discount": null,
+    "numbered": false,
+    "stock": 4
+  },
+  {
+    "id": 3327,
+    "name": "Chase Burns (RC) - 2026 MLB Living Set® - Card 920 Rookie PRE-SALE",
+    "price": 6.75,
+    "image": "https://i.ebayimg.com/images/g/2FMAAeSwoKZp19JR/s-l300.png",
+    "url": "https://www.ebay.com/itm/168297773764",
+    "category": "baseball",
+    "badge": null,
+    "discount": null,
+    "numbered": false,
+    "stock": 4
+  },
+  {
+    "id": 3328,
+    "name": "Chase Burns (RC) - 2026 MLB Living Set® - Card 920 Rookie PRE-SALE",
+    "price": 6.75,
+    "image": "https://i.ebayimg.com/images/g/2FMAAeSwoKZp19JR/s-l300.png",
+    "url": "https://www.ebay.com/itm/168297773764",
+    "category": "baseball",
+    "badge": null,
+    "discount": null,
+    "numbered": false,
+    "stock": 4
+  },
+  {
+    "id": 3329,
+    "name": "Chase Burns (RC) - 2026 MLB Living Set® - Card 920 Rookie PRE-SALE",
+    "price": 6.75,
+    "image": "https://i.ebayimg.com/images/g/2FMAAeSwoKZp19JR/s-l300.png",
+    "url": "https://www.ebay.com/itm/168297773764",
+    "category": "baseball",
+    "badge": null,
+    "discount": null,
+    "numbered": false,
+    "stock": 4
+  },
+  {
+    "id": 3330,
+    "name": "Chase Burns (RC) - 2026 MLB Living Set® - Card 920 Rookie PRE-SALE",
+    "price": 6.75,
+    "image": "https://i.ebayimg.com/images/g/2FMAAeSwoKZp19JR/s-l300.png",
+    "url": "https://www.ebay.com/itm/168297773764",
+    "category": "baseball",
+    "badge": null,
+    "discount": null,
+    "numbered": false,
+    "stock": 4
+  },
+  {
+    "id": 3331,
+    "name": "Chase Burns (RC) - 2026 MLB Living Set® - Card 920 Rookie PRE-SALE",
+    "price": 6.75,
+    "image": "https://i.ebayimg.com/images/g/2FMAAeSwoKZp19JR/s-l300.png",
+    "url": "https://www.ebay.com/itm/168297773764",
+    "category": "baseball",
+    "badge": null,
+    "discount": null,
+    "numbered": false,
+    "stock": 4
+  },
+  {
+    "id": 3332,
+    "name": "Chase Burns (RC) - 2026 MLB Living Set® - Card 920 Rookie PRE-SALE",
+    "price": 6.75,
+    "image": "https://i.ebayimg.com/images/g/2FMAAeSwoKZp19JR/s-l300.png",
+    "url": "https://www.ebay.com/itm/168297773764",
+    "category": "baseball",
+    "badge": null,
+    "discount": null,
+    "numbered": false,
+    "stock": 4
+  },
+  {
+    "id": 3333,
+    "name": "Chase Burns (RC) - 2026 MLB Living Set® - Card 920 Rookie PRE-SALE",
+    "price": 6.75,
+    "image": "https://i.ebayimg.com/images/g/2FMAAeSwoKZp19JR/s-l300.png",
+    "url": "https://www.ebay.com/itm/168297773764",
+    "category": "baseball",
+    "badge": null,
+    "discount": null,
+    "numbered": false,
+    "stock": 4
+  },
+  {
+    "id": 3334,
+    "name": "Chase Burns (RC) - 2026 MLB Living Set® - Card 920 Rookie PRE-SALE",
+    "price": 6.75,
+    "image": "https://i.ebayimg.com/images/g/2FMAAeSwoKZp19JR/s-l300.png",
+    "url": "https://www.ebay.com/itm/168297773764",
+    "category": "baseball",
+    "badge": null,
+    "discount": null,
+    "numbered": false,
+    "stock": 4
+  },
+  {
+    "id": 3335,
+    "name": "Chase Burns (RC) - 2026 MLB Living Set® - Card 920 Rookie PRE-SALE",
+    "price": 6.75,
+    "image": "https://i.ebayimg.com/images/g/2FMAAeSwoKZp19JR/s-l300.png",
+    "url": "https://www.ebay.com/itm/168297773764",
+    "category": "baseball",
+    "badge": null,
+    "discount": null,
+    "numbered": false,
+    "stock": 4
+  },
+  {
+    "id": 3336,
     "name": "Truffletoot - Plushie Garten of Banban Characters Gift For Kids! ~9\" x 7\"",
     "price": 32.3,
     "image": "https://i.ebayimg.com/images/g/EpoAAeSwS3xp18BM/s-l300.jpg",
@@ -39756,7 +40032,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 3314,
+    "id": 3337,
     "name": "Shinnosuke Ogasawara (RC) #32 PINK - 2026 Topps Series 1 - MLB Baseball Card",
     "price": 1.9,
     "image": "https://i.ebayimg.com/images/g/9tYAAeSwPO5pzdps/s-l300.jpg",
@@ -39768,7 +40044,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 3315,
+    "id": 3338,
     "name": "/2026* Lazaro Estrada (RC) #299 Parallel - 2026 Topps Heritage MLB",
     "price": 1.9,
     "image": "https://i.ebayimg.com/images/g/Ir8AAeSw4itpzcA4/s-l300.jpg",
@@ -39780,7 +40056,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 3316,
+    "id": 3339,
     "name": "Raleigh, Judge, Pasquantino #211 SILVER SPARKLE - 2026 Topps Series 1 - MLB",
     "price": 1.9,
     "image": "https://i.ebayimg.com/images/g/dAUAAeSwmGVpzai-/s-l300.jpg",
@@ -39792,7 +40068,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 3317,
+    "id": 3340,
     "name": "Brady Singer #282 PINK SAND GLITTER - 2026 Topps Series 1 - MLB Baseball Card",
     "price": 2.38,
     "image": "https://i.ebayimg.com/images/g/3-oAAeSwti5pzaNo/s-l300.jpg",
@@ -39804,287 +40080,11 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 3318,
+    "id": 3341,
     "name": "/2026* Ryan Pepiot #313 - 2026 Topps Series 1 - MLB Baseball Card Parallel",
     "price": 2.38,
     "image": "https://i.ebayimg.com/images/g/8UAAAeSwYFppzaM9/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168296028307",
-    "category": "baseball",
-    "badge": null,
-    "discount": null,
-    "numbered": false,
-    "stock": 1
-  },
-  {
-    "id": 3319,
-    "name": "Jacob Misiorowski RC Brewers 2026 Topps MLB Living Set Card 916 Baseball Miz",
-    "price": 5.97,
-    "image": "https://i.ebayimg.com/images/g/jcAAAeSw~upp1EVp/s-l300.jpg",
-    "url": "https://www.ebay.com/itm/168291658931",
-    "category": "baseball",
-    "badge": null,
-    "discount": null,
-    "numbered": false,
-    "stock": 1
-  },
-  {
-    "id": 3320,
-    "name": "Jacob Misiorowski RC Brewers 2026 Topps MLB Living Set Card 916 Baseball Miz",
-    "price": 5.97,
-    "image": "https://i.ebayimg.com/images/g/jcAAAeSw~upp1EVp/s-l300.jpg",
-    "url": "https://www.ebay.com/itm/168291658931",
-    "category": "baseball",
-    "badge": null,
-    "discount": null,
-    "numbered": false,
-    "stock": 1
-  },
-  {
-    "id": 3321,
-    "name": "Jacob Misiorowski RC Brewers 2026 Topps MLB Living Set Card 916 Baseball Miz",
-    "price": 5.97,
-    "image": "https://i.ebayimg.com/images/g/jcAAAeSw~upp1EVp/s-l300.jpg",
-    "url": "https://www.ebay.com/itm/168291658931",
-    "category": "baseball",
-    "badge": null,
-    "discount": null,
-    "numbered": false,
-    "stock": 1
-  },
-  {
-    "id": 3322,
-    "name": "Jacob Misiorowski RC Brewers 2026 Topps MLB Living Set Card 916 Baseball Miz",
-    "price": 5.97,
-    "image": "https://i.ebayimg.com/images/g/jcAAAeSw~upp1EVp/s-l300.jpg",
-    "url": "https://www.ebay.com/itm/168291658931",
-    "category": "baseball",
-    "badge": null,
-    "discount": null,
-    "numbered": false,
-    "stock": 1
-  },
-  {
-    "id": 3323,
-    "name": "Jacob Misiorowski RC Brewers 2026 Topps MLB Living Set Card 916 Baseball Miz",
-    "price": 5.97,
-    "image": "https://i.ebayimg.com/images/g/jcAAAeSw~upp1EVp/s-l300.jpg",
-    "url": "https://www.ebay.com/itm/168291658931",
-    "category": "baseball",
-    "badge": null,
-    "discount": null,
-    "numbered": false,
-    "stock": 1
-  },
-  {
-    "id": 3324,
-    "name": "Jacob Misiorowski RC Brewers 2026 Topps MLB Living Set Card 916 Baseball Miz",
-    "price": 5.97,
-    "image": "https://i.ebayimg.com/images/g/jcAAAeSw~upp1EVp/s-l300.jpg",
-    "url": "https://www.ebay.com/itm/168291658931",
-    "category": "baseball",
-    "badge": null,
-    "discount": null,
-    "numbered": false,
-    "stock": 1
-  },
-  {
-    "id": 3325,
-    "name": "Jacob Misiorowski RC Brewers 2026 Topps MLB Living Set Card 916 Baseball Miz",
-    "price": 5.97,
-    "image": "https://i.ebayimg.com/images/g/jcAAAeSw~upp1EVp/s-l300.jpg",
-    "url": "https://www.ebay.com/itm/168291658931",
-    "category": "baseball",
-    "badge": null,
-    "discount": null,
-    "numbered": false,
-    "stock": 1
-  },
-  {
-    "id": 3326,
-    "name": "Jacob Misiorowski RC Brewers 2026 Topps MLB Living Set Card 916 Baseball Miz",
-    "price": 5.97,
-    "image": "https://i.ebayimg.com/images/g/jcAAAeSw~upp1EVp/s-l300.jpg",
-    "url": "https://www.ebay.com/itm/168291658931",
-    "category": "baseball",
-    "badge": null,
-    "discount": null,
-    "numbered": false,
-    "stock": 1
-  },
-  {
-    "id": 3327,
-    "name": "Jacob Misiorowski RC Brewers 2026 Topps MLB Living Set Card 916 Baseball Miz",
-    "price": 5.97,
-    "image": "https://i.ebayimg.com/images/g/jcAAAeSw~upp1EVp/s-l300.jpg",
-    "url": "https://www.ebay.com/itm/168291658931",
-    "category": "baseball",
-    "badge": null,
-    "discount": null,
-    "numbered": false,
-    "stock": 1
-  },
-  {
-    "id": 3328,
-    "name": "Jacob Misiorowski RC Brewers 2026 Topps MLB Living Set Card 916 Baseball Miz",
-    "price": 5.97,
-    "image": "https://i.ebayimg.com/images/g/jcAAAeSw~upp1EVp/s-l300.jpg",
-    "url": "https://www.ebay.com/itm/168291658931",
-    "category": "baseball",
-    "badge": null,
-    "discount": null,
-    "numbered": false,
-    "stock": 1
-  },
-  {
-    "id": 3329,
-    "name": "Jacob Misiorowski RC Brewers 2026 Topps MLB Living Set Card 916 Baseball Miz",
-    "price": 5.97,
-    "image": "https://i.ebayimg.com/images/g/jcAAAeSw~upp1EVp/s-l300.jpg",
-    "url": "https://www.ebay.com/itm/168291658931",
-    "category": "baseball",
-    "badge": null,
-    "discount": null,
-    "numbered": false,
-    "stock": 1
-  },
-  {
-    "id": 3330,
-    "name": "Jacob Misiorowski RC Brewers 2026 Topps MLB Living Set Card 916 Baseball Miz",
-    "price": 5.97,
-    "image": "https://i.ebayimg.com/images/g/jcAAAeSw~upp1EVp/s-l300.jpg",
-    "url": "https://www.ebay.com/itm/168291658931",
-    "category": "baseball",
-    "badge": null,
-    "discount": null,
-    "numbered": false,
-    "stock": 1
-  },
-  {
-    "id": 3331,
-    "name": "Jacob Misiorowski RC Brewers 2026 Topps MLB Living Set Card 916 Baseball Miz",
-    "price": 5.97,
-    "image": "https://i.ebayimg.com/images/g/jcAAAeSw~upp1EVp/s-l300.jpg",
-    "url": "https://www.ebay.com/itm/168291658931",
-    "category": "baseball",
-    "badge": null,
-    "discount": null,
-    "numbered": false,
-    "stock": 1
-  },
-  {
-    "id": 3332,
-    "name": "Jacob Misiorowski RC Brewers 2026 Topps MLB Living Set Card 916 Baseball Miz",
-    "price": 5.97,
-    "image": "https://i.ebayimg.com/images/g/jcAAAeSw~upp1EVp/s-l300.jpg",
-    "url": "https://www.ebay.com/itm/168291658931",
-    "category": "baseball",
-    "badge": null,
-    "discount": null,
-    "numbered": false,
-    "stock": 1
-  },
-  {
-    "id": 3333,
-    "name": "Jacob Misiorowski RC Brewers 2026 Topps MLB Living Set Card 916 Baseball Miz",
-    "price": 5.97,
-    "image": "https://i.ebayimg.com/images/g/jcAAAeSw~upp1EVp/s-l300.jpg",
-    "url": "https://www.ebay.com/itm/168291658931",
-    "category": "baseball",
-    "badge": null,
-    "discount": null,
-    "numbered": false,
-    "stock": 1
-  },
-  {
-    "id": 3334,
-    "name": "Jacob Misiorowski RC Brewers 2026 Topps MLB Living Set Card 916 Baseball Miz",
-    "price": 5.97,
-    "image": "https://i.ebayimg.com/images/g/jcAAAeSw~upp1EVp/s-l300.jpg",
-    "url": "https://www.ebay.com/itm/168291658931",
-    "category": "baseball",
-    "badge": null,
-    "discount": null,
-    "numbered": false,
-    "stock": 1
-  },
-  {
-    "id": 3335,
-    "name": "Jacob Misiorowski RC Brewers 2026 Topps MLB Living Set Card 916 Baseball Miz",
-    "price": 5.97,
-    "image": "https://i.ebayimg.com/images/g/jcAAAeSw~upp1EVp/s-l300.jpg",
-    "url": "https://www.ebay.com/itm/168291658931",
-    "category": "baseball",
-    "badge": null,
-    "discount": null,
-    "numbered": false,
-    "stock": 1
-  },
-  {
-    "id": 3336,
-    "name": "Jacob Misiorowski RC Brewers 2026 Topps MLB Living Set Card 916 Baseball Miz",
-    "price": 5.97,
-    "image": "https://i.ebayimg.com/images/g/jcAAAeSw~upp1EVp/s-l300.jpg",
-    "url": "https://www.ebay.com/itm/168291658931",
-    "category": "baseball",
-    "badge": null,
-    "discount": null,
-    "numbered": false,
-    "stock": 1
-  },
-  {
-    "id": 3337,
-    "name": "Jacob Misiorowski RC Brewers 2026 Topps MLB Living Set Card 916 Baseball Miz",
-    "price": 5.97,
-    "image": "https://i.ebayimg.com/images/g/jcAAAeSw~upp1EVp/s-l300.jpg",
-    "url": "https://www.ebay.com/itm/168291658931",
-    "category": "baseball",
-    "badge": null,
-    "discount": null,
-    "numbered": false,
-    "stock": 1
-  },
-  {
-    "id": 3338,
-    "name": "Jacob Misiorowski RC Brewers 2026 Topps MLB Living Set Card 916 Baseball Miz",
-    "price": 5.97,
-    "image": "https://i.ebayimg.com/images/g/jcAAAeSw~upp1EVp/s-l300.jpg",
-    "url": "https://www.ebay.com/itm/168291658931",
-    "category": "baseball",
-    "badge": null,
-    "discount": null,
-    "numbered": false,
-    "stock": 1
-  },
-  {
-    "id": 3339,
-    "name": "Jacob Misiorowski RC Brewers 2026 Topps MLB Living Set Card 916 Baseball Miz",
-    "price": 5.97,
-    "image": "https://i.ebayimg.com/images/g/jcAAAeSw~upp1EVp/s-l300.jpg",
-    "url": "https://www.ebay.com/itm/168291658931",
-    "category": "baseball",
-    "badge": null,
-    "discount": null,
-    "numbered": false,
-    "stock": 1
-  },
-  {
-    "id": 3340,
-    "name": "Jacob Misiorowski RC Brewers 2026 Topps MLB Living Set Card 916 Baseball Miz",
-    "price": 5.97,
-    "image": "https://i.ebayimg.com/images/g/jcAAAeSw~upp1EVp/s-l300.jpg",
-    "url": "https://www.ebay.com/itm/168291658931",
-    "category": "baseball",
-    "badge": null,
-    "discount": null,
-    "numbered": false,
-    "stock": 1
-  },
-  {
-    "id": 3341,
-    "name": "Jacob Misiorowski RC Brewers 2026 Topps MLB Living Set Card 916 Baseball Miz",
-    "price": 5.97,
-    "image": "https://i.ebayimg.com/images/g/jcAAAeSw~upp1EVp/s-l300.jpg",
-    "url": "https://www.ebay.com/itm/168291658931",
     "category": "baseball",
     "badge": null,
     "discount": null,
@@ -40657,6 +40657,282 @@ window.products = [
   },
   {
     "id": 3389,
+    "name": "Jacob Misiorowski RC Brewers 2026 Topps MLB Living Set Card 916 Baseball Miz",
+    "price": 5.97,
+    "image": "https://i.ebayimg.com/images/g/jcAAAeSw~upp1EVp/s-l300.jpg",
+    "url": "https://www.ebay.com/itm/168291658931",
+    "category": "baseball",
+    "badge": null,
+    "discount": null,
+    "numbered": false,
+    "stock": 1
+  },
+  {
+    "id": 3390,
+    "name": "Jacob Misiorowski RC Brewers 2026 Topps MLB Living Set Card 916 Baseball Miz",
+    "price": 5.97,
+    "image": "https://i.ebayimg.com/images/g/jcAAAeSw~upp1EVp/s-l300.jpg",
+    "url": "https://www.ebay.com/itm/168291658931",
+    "category": "baseball",
+    "badge": null,
+    "discount": null,
+    "numbered": false,
+    "stock": 1
+  },
+  {
+    "id": 3391,
+    "name": "Jacob Misiorowski RC Brewers 2026 Topps MLB Living Set Card 916 Baseball Miz",
+    "price": 5.97,
+    "image": "https://i.ebayimg.com/images/g/jcAAAeSw~upp1EVp/s-l300.jpg",
+    "url": "https://www.ebay.com/itm/168291658931",
+    "category": "baseball",
+    "badge": null,
+    "discount": null,
+    "numbered": false,
+    "stock": 1
+  },
+  {
+    "id": 3392,
+    "name": "Jacob Misiorowski RC Brewers 2026 Topps MLB Living Set Card 916 Baseball Miz",
+    "price": 5.97,
+    "image": "https://i.ebayimg.com/images/g/jcAAAeSw~upp1EVp/s-l300.jpg",
+    "url": "https://www.ebay.com/itm/168291658931",
+    "category": "baseball",
+    "badge": null,
+    "discount": null,
+    "numbered": false,
+    "stock": 1
+  },
+  {
+    "id": 3393,
+    "name": "Jacob Misiorowski RC Brewers 2026 Topps MLB Living Set Card 916 Baseball Miz",
+    "price": 5.97,
+    "image": "https://i.ebayimg.com/images/g/jcAAAeSw~upp1EVp/s-l300.jpg",
+    "url": "https://www.ebay.com/itm/168291658931",
+    "category": "baseball",
+    "badge": null,
+    "discount": null,
+    "numbered": false,
+    "stock": 1
+  },
+  {
+    "id": 3394,
+    "name": "Jacob Misiorowski RC Brewers 2026 Topps MLB Living Set Card 916 Baseball Miz",
+    "price": 5.97,
+    "image": "https://i.ebayimg.com/images/g/jcAAAeSw~upp1EVp/s-l300.jpg",
+    "url": "https://www.ebay.com/itm/168291658931",
+    "category": "baseball",
+    "badge": null,
+    "discount": null,
+    "numbered": false,
+    "stock": 1
+  },
+  {
+    "id": 3395,
+    "name": "Jacob Misiorowski RC Brewers 2026 Topps MLB Living Set Card 916 Baseball Miz",
+    "price": 5.97,
+    "image": "https://i.ebayimg.com/images/g/jcAAAeSw~upp1EVp/s-l300.jpg",
+    "url": "https://www.ebay.com/itm/168291658931",
+    "category": "baseball",
+    "badge": null,
+    "discount": null,
+    "numbered": false,
+    "stock": 1
+  },
+  {
+    "id": 3396,
+    "name": "Jacob Misiorowski RC Brewers 2026 Topps MLB Living Set Card 916 Baseball Miz",
+    "price": 5.97,
+    "image": "https://i.ebayimg.com/images/g/jcAAAeSw~upp1EVp/s-l300.jpg",
+    "url": "https://www.ebay.com/itm/168291658931",
+    "category": "baseball",
+    "badge": null,
+    "discount": null,
+    "numbered": false,
+    "stock": 1
+  },
+  {
+    "id": 3397,
+    "name": "Jacob Misiorowski RC Brewers 2026 Topps MLB Living Set Card 916 Baseball Miz",
+    "price": 5.97,
+    "image": "https://i.ebayimg.com/images/g/jcAAAeSw~upp1EVp/s-l300.jpg",
+    "url": "https://www.ebay.com/itm/168291658931",
+    "category": "baseball",
+    "badge": null,
+    "discount": null,
+    "numbered": false,
+    "stock": 1
+  },
+  {
+    "id": 3398,
+    "name": "Jacob Misiorowski RC Brewers 2026 Topps MLB Living Set Card 916 Baseball Miz",
+    "price": 5.97,
+    "image": "https://i.ebayimg.com/images/g/jcAAAeSw~upp1EVp/s-l300.jpg",
+    "url": "https://www.ebay.com/itm/168291658931",
+    "category": "baseball",
+    "badge": null,
+    "discount": null,
+    "numbered": false,
+    "stock": 1
+  },
+  {
+    "id": 3399,
+    "name": "Jacob Misiorowski RC Brewers 2026 Topps MLB Living Set Card 916 Baseball Miz",
+    "price": 5.97,
+    "image": "https://i.ebayimg.com/images/g/jcAAAeSw~upp1EVp/s-l300.jpg",
+    "url": "https://www.ebay.com/itm/168291658931",
+    "category": "baseball",
+    "badge": null,
+    "discount": null,
+    "numbered": false,
+    "stock": 1
+  },
+  {
+    "id": 3400,
+    "name": "Jacob Misiorowski RC Brewers 2026 Topps MLB Living Set Card 916 Baseball Miz",
+    "price": 5.97,
+    "image": "https://i.ebayimg.com/images/g/jcAAAeSw~upp1EVp/s-l300.jpg",
+    "url": "https://www.ebay.com/itm/168291658931",
+    "category": "baseball",
+    "badge": null,
+    "discount": null,
+    "numbered": false,
+    "stock": 1
+  },
+  {
+    "id": 3401,
+    "name": "Jacob Misiorowski RC Brewers 2026 Topps MLB Living Set Card 916 Baseball Miz",
+    "price": 5.97,
+    "image": "https://i.ebayimg.com/images/g/jcAAAeSw~upp1EVp/s-l300.jpg",
+    "url": "https://www.ebay.com/itm/168291658931",
+    "category": "baseball",
+    "badge": null,
+    "discount": null,
+    "numbered": false,
+    "stock": 1
+  },
+  {
+    "id": 3402,
+    "name": "Jacob Misiorowski RC Brewers 2026 Topps MLB Living Set Card 916 Baseball Miz",
+    "price": 5.97,
+    "image": "https://i.ebayimg.com/images/g/jcAAAeSw~upp1EVp/s-l300.jpg",
+    "url": "https://www.ebay.com/itm/168291658931",
+    "category": "baseball",
+    "badge": null,
+    "discount": null,
+    "numbered": false,
+    "stock": 1
+  },
+  {
+    "id": 3403,
+    "name": "Jacob Misiorowski RC Brewers 2026 Topps MLB Living Set Card 916 Baseball Miz",
+    "price": 5.97,
+    "image": "https://i.ebayimg.com/images/g/jcAAAeSw~upp1EVp/s-l300.jpg",
+    "url": "https://www.ebay.com/itm/168291658931",
+    "category": "baseball",
+    "badge": null,
+    "discount": null,
+    "numbered": false,
+    "stock": 1
+  },
+  {
+    "id": 3404,
+    "name": "Jacob Misiorowski RC Brewers 2026 Topps MLB Living Set Card 916 Baseball Miz",
+    "price": 5.97,
+    "image": "https://i.ebayimg.com/images/g/jcAAAeSw~upp1EVp/s-l300.jpg",
+    "url": "https://www.ebay.com/itm/168291658931",
+    "category": "baseball",
+    "badge": null,
+    "discount": null,
+    "numbered": false,
+    "stock": 1
+  },
+  {
+    "id": 3405,
+    "name": "Jacob Misiorowski RC Brewers 2026 Topps MLB Living Set Card 916 Baseball Miz",
+    "price": 5.97,
+    "image": "https://i.ebayimg.com/images/g/jcAAAeSw~upp1EVp/s-l300.jpg",
+    "url": "https://www.ebay.com/itm/168291658931",
+    "category": "baseball",
+    "badge": null,
+    "discount": null,
+    "numbered": false,
+    "stock": 1
+  },
+  {
+    "id": 3406,
+    "name": "Jacob Misiorowski RC Brewers 2026 Topps MLB Living Set Card 916 Baseball Miz",
+    "price": 5.97,
+    "image": "https://i.ebayimg.com/images/g/jcAAAeSw~upp1EVp/s-l300.jpg",
+    "url": "https://www.ebay.com/itm/168291658931",
+    "category": "baseball",
+    "badge": null,
+    "discount": null,
+    "numbered": false,
+    "stock": 1
+  },
+  {
+    "id": 3407,
+    "name": "Jacob Misiorowski RC Brewers 2026 Topps MLB Living Set Card 916 Baseball Miz",
+    "price": 5.97,
+    "image": "https://i.ebayimg.com/images/g/jcAAAeSw~upp1EVp/s-l300.jpg",
+    "url": "https://www.ebay.com/itm/168291658931",
+    "category": "baseball",
+    "badge": null,
+    "discount": null,
+    "numbered": false,
+    "stock": 1
+  },
+  {
+    "id": 3408,
+    "name": "Jacob Misiorowski RC Brewers 2026 Topps MLB Living Set Card 916 Baseball Miz",
+    "price": 5.97,
+    "image": "https://i.ebayimg.com/images/g/jcAAAeSw~upp1EVp/s-l300.jpg",
+    "url": "https://www.ebay.com/itm/168291658931",
+    "category": "baseball",
+    "badge": null,
+    "discount": null,
+    "numbered": false,
+    "stock": 1
+  },
+  {
+    "id": 3409,
+    "name": "Jacob Misiorowski RC Brewers 2026 Topps MLB Living Set Card 916 Baseball Miz",
+    "price": 5.97,
+    "image": "https://i.ebayimg.com/images/g/jcAAAeSw~upp1EVp/s-l300.jpg",
+    "url": "https://www.ebay.com/itm/168291658931",
+    "category": "baseball",
+    "badge": null,
+    "discount": null,
+    "numbered": false,
+    "stock": 1
+  },
+  {
+    "id": 3410,
+    "name": "Jacob Misiorowski RC Brewers 2026 Topps MLB Living Set Card 916 Baseball Miz",
+    "price": 5.97,
+    "image": "https://i.ebayimg.com/images/g/jcAAAeSw~upp1EVp/s-l300.jpg",
+    "url": "https://www.ebay.com/itm/168291658931",
+    "category": "baseball",
+    "badge": null,
+    "discount": null,
+    "numbered": false,
+    "stock": 1
+  },
+  {
+    "id": 3411,
+    "name": "Jacob Misiorowski RC Brewers 2026 Topps MLB Living Set Card 916 Baseball Miz",
+    "price": 5.97,
+    "image": "https://i.ebayimg.com/images/g/jcAAAeSw~upp1EVp/s-l300.jpg",
+    "url": "https://www.ebay.com/itm/168291658931",
+    "category": "baseball",
+    "badge": null,
+    "discount": null,
+    "numbered": false,
+    "stock": 1
+  },
+  {
+    "id": 3412,
     "name": "Mike Trout #GH-14 - 2026 Topps Series 1 - MLB Baseball Card",
     "price": 1.9,
     "image": "https://i.ebayimg.com/images/g/MnEAAeSw5yJp0E2D/s-l300.jpg",
@@ -40668,7 +40944,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 3390,
+    "id": 3413,
     "name": "Pete Crow-Armstrong #GH-1 - 2026 Topps Series 1 - MLB Baseball Card",
     "price": 1.9,
     "image": "https://i.ebayimg.com/images/g/8h8AAeSwQTBp0E1t/s-l300.jpg",
@@ -40680,7 +40956,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 3391,
+    "id": 3414,
     "name": "Bobby Witt Jr. #TP-16 - 2026 Topps Series 1 - MLB Baseball Card",
     "price": 1.9,
     "image": "https://i.ebayimg.com/images/g/414AAeSw-2Bp0E1C/s-l300.jpg",
@@ -40692,7 +40968,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 3392,
+    "id": 3415,
     "name": "Julio Rodriguez #TP-21 - 2026 Topps Series 1 - MLB Baseball Card",
     "price": 1.9,
     "image": "https://i.ebayimg.com/images/g/lugAAeSwebtp0E0k/s-l300.jpg",
@@ -40704,7 +40980,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 3393,
+    "id": 3416,
     "name": "Vladimir Guerrero Jr. #TP-17 - 2026 Topps Series 1 - MLB Baseball Card",
     "price": 1.9,
     "image": "https://i.ebayimg.com/images/g/xoIAAeSwEllp0E0N/s-l300.jpg",
@@ -40716,7 +40992,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 3394,
+    "id": 3417,
     "name": "Bobby Witt Jr. #T91-3 - 2026 Topps Series 1 - MLB Baseball Card",
     "price": 1.9,
     "image": "https://i.ebayimg.com/images/g/8lwAAeSw~rFp0Ey9/s-l300.jpg",
@@ -40728,7 +41004,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 3395,
+    "id": 3418,
     "name": "Ryan Ritter (RC) #T91-26 - 2026 Topps Series 1 - MLB Baseball Card",
     "price": 1.9,
     "image": "https://i.ebayimg.com/images/g/WCoAAeSw3~5p0Eyn/s-l300.jpg",
@@ -40740,7 +41016,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 3396,
+    "id": 3419,
     "name": "Manny Machado #T91-23 - 2026 Topps Series 1 - MLB Baseball Card",
     "price": 1.9,
     "image": "https://i.ebayimg.com/images/g/OP8AAeSwarpp0EyS/s-l300.jpg",
@@ -40752,7 +41028,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 3397,
+    "id": 3420,
     "name": "Cal Raleigh #T91-88 - 2026 Topps Series 1 - MLB Baseball Card",
     "price": 1.9,
     "image": "https://i.ebayimg.com/images/g/-bkAAeSwf7Jp0Ex7/s-l300.jpg",
@@ -40764,7 +41040,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 3398,
+    "id": 3421,
     "name": "Mark McGwire #T91-44 - 2026 Topps Series 1 - MLB Baseball Card",
     "price": 1.9,
     "image": "https://i.ebayimg.com/images/g/L4kAAeSwi2Fp0Exm/s-l300.jpg",
@@ -40776,7 +41052,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 3399,
+    "id": 3422,
     "name": "Otto Kemp (RC) #T91-57 - 2026 Topps Series 1 - MLB Baseball Card",
     "price": 2.38,
     "image": "https://i.ebayimg.com/images/g/8DcAAeSwU4Jp0ExH/s-l300.jpg",
@@ -40788,7 +41064,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 3400,
+    "id": 3423,
     "name": "Brice Matthews (RC) #T91-28 - 2026 Topps Series 1 - MLB Baseball Card",
     "price": 1.9,
     "image": "https://i.ebayimg.com/images/g/UvIAAeSwjStp0Ewx/s-l300.jpg",
@@ -40800,7 +41076,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 3401,
+    "id": 3424,
     "name": "Aaron Judge #BTP-18 - 2026 Topps Series 1 - MLB Baseball Card",
     "price": 1.9,
     "image": "https://i.ebayimg.com/images/g/Vq4AAeSwqP5p0EwZ/s-l300.jpg",
@@ -40812,7 +41088,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 3402,
+    "id": 3425,
     "name": "Jac Caglianone (RC) #BTP-22 - 2026 Topps Series 1 - MLB Baseball Card",
     "price": 2.38,
     "image": "https://i.ebayimg.com/images/g/wdgAAeSwfDRp0Ev3/s-l300.jpg",
@@ -40824,7 +41100,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 3403,
+    "id": 3426,
     "name": "Vladimir Guerrero Jr. #PAS-17 - 2026 Topps Series 1 - MLB Baseball Card",
     "price": 1.9,
     "image": "https://i.ebayimg.com/images/g/9vUAAeSwZLZp0EvX/s-l300.jpg",
@@ -40836,7 +41112,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 3404,
+    "id": 3427,
     "name": "Elly De La Cruz #PAS-15 - 2026 Topps Series 1 - MLB Baseball Card",
     "price": 1.9,
     "image": "https://i.ebayimg.com/images/g/tjgAAeSwvpRp0EvE/s-l300.jpg",
@@ -40848,7 +41124,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 3405,
+    "id": 3428,
     "name": "Chris Sale #PAS-22 2026 Topps Series 1 - MLB Baseball Card",
     "price": 1.9,
     "image": "https://i.ebayimg.com/images/g/9dsAAeSwjX9p0Eul/s-l300.jpg",
@@ -40860,7 +41136,7 @@ window.products = [
     "stock": 2
   },
   {
-    "id": 3406,
+    "id": 3429,
     "name": "Bryce Harper #PAS-10 2026 Topps Series 1 - MLB Baseball Card",
     "price": 1.9,
     "image": "https://i.ebayimg.com/images/g/8EkAAeSwLTtp0EuI/s-l300.jpg",
@@ -40872,7 +41148,7 @@ window.products = [
     "stock": 2
   },
   {
-    "id": 3407,
+    "id": 3430,
     "name": "Pete Crow-Armstrong #8B-12  8-BIT 2026 Topps Series 1 - MLB Baseball Card",
     "price": 1.9,
     "image": "https://i.ebayimg.com/images/g/rxQAAeSw1Xtp0Etk/s-l300.jpg",
@@ -40884,7 +41160,7 @@ window.products = [
     "stock": 3
   },
   {
-    "id": 3408,
+    "id": 3431,
     "name": "Owen Caissie #8B-18  8-BIT 2026 Topps Series 1 - MLB Baseball Card",
     "price": 1.9,
     "image": "https://i.ebayimg.com/images/g/uWoAAeSwnjxp0EsO/s-l300.jpg",
@@ -40896,7 +41172,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 3409,
+    "id": 3432,
     "name": "Bobby Witt Jr. #8B-19 8-BIT 2026 Topps Series 1 - MLB Baseball Card",
     "price": 1.9,
     "image": "https://i.ebayimg.com/images/g/NiEAAeSwG4pp0Erx/s-l300.jpg",
@@ -40908,7 +41184,7 @@ window.products = [
     "stock": 2
   },
   {
-    "id": 3410,
+    "id": 3433,
     "name": "Aaron Judge #8B-10 8-BIT 2026 Topps Series 1 - MLB Baseball Card",
     "price": 1.9,
     "image": "https://i.ebayimg.com/images/g/54QAAeSw9lFp0ErP/s-l300.jpg",
@@ -40920,7 +41196,7 @@ window.products = [
     "stock": 2
   },
   {
-    "id": 3411,
+    "id": 3434,
     "name": "Kyle Teel (RC) #8B-4 8-BIT 2026 Topps Series 1 - MLB Baseball Card",
     "price": 1.9,
     "image": "https://i.ebayimg.com/images/g/8qgAAeSwyElp0Eqt/s-l300.jpg",
@@ -40932,7 +41208,7 @@ window.products = [
     "stock": 2
   },
   {
-    "id": 3412,
+    "id": 3435,
     "name": "Vladimir Guerrero Jr. #GD-12 - 2026 Topps Series 1 - MLB Baseball Card",
     "price": 1.9,
     "image": "https://i.ebayimg.com/images/g/Pn4AAeSw9Chp0Ep6/s-l300.jpg",
@@ -40944,7 +41220,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 3413,
+    "id": 3436,
     "name": "Corbin Carroll #GD-14 - 2026 Topps Series 1 - MLB Baseball Card",
     "price": 1.9,
     "image": "https://i.ebayimg.com/images/g/P60AAeSwc~pp0Epi/s-l300.jpg",
@@ -40956,7 +41232,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 3414,
+    "id": 3437,
     "name": "Brice Turang #105 SILVER SPARKLE - 2026 Topps Series 1 - MLB Baseball Card",
     "price": 1.9,
     "image": "https://i.ebayimg.com/images/g/zysAAeSwGwtp0EpF/s-l300.jpg",
@@ -40968,7 +41244,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 3415,
+    "id": 3438,
     "name": "Luke Keaschall #3 SILVER SPARKLE - 2026 Topps Series 1 - MLB Baseball Card",
     "price": 1.9,
     "image": "https://i.ebayimg.com/images/g/0-QAAeSwXXlp0EnX/s-l300.jpg",
@@ -40980,7 +41256,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 3416,
+    "id": 3439,
     "name": "Clay Holmes #276 SILVER SPARKLE - 2026 Topps Series 1 - MLB Baseball Card",
     "price": 1.9,
     "image": "https://i.ebayimg.com/images/g/QSMAAeSwMihp0EmE/s-l300.jpg",
@@ -40992,7 +41268,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 3417,
+    "id": 3440,
     "name": "Kumar Rocker #336 SILVER SPARKLE - 2026 Topps Series 1 - MLB Baseball Card",
     "price": 1.9,
     "image": "https://i.ebayimg.com/images/g/pgwAAeSwdylp0Elo/s-l300.jpg",
@@ -41004,7 +41280,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 3418,
+    "id": 3441,
     "name": "Jeffrey Springs #87 SILVER SPARKLE - 2026 Topps Series 1 - MLB Baseball Card",
     "price": 1.9,
     "image": "https://i.ebayimg.com/images/g/w-oAAeSwLDpp0Eks/s-l300.jpg",
@@ -41016,7 +41292,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 3419,
+    "id": 3442,
     "name": "Ben Lively #109 SILVER SPARKLE - 2026 Topps Series 1 - MLB Baseball Card",
     "price": 1.9,
     "image": "https://i.ebayimg.com/images/g/LwwAAeSw-g1p0EkY/s-l300.jpg",
@@ -41028,7 +41304,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 3420,
+    "id": 3443,
     "name": "Carlos Cortes (RC) #249 SILVER SPARKLE - 2026 Topps Series 1 - MLB Baseball Card",
     "price": 1.9,
     "image": "https://i.ebayimg.com/images/g/OqgAAeSwFVNp0EkD/s-l300.jpg",
@@ -41040,7 +41316,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 3421,
+    "id": 3444,
     "name": "Bradgley Rodriguez (RC) #42 SILVER SPARKLE - 2026 Topps Series 1 - MLB Baseball",
     "price": 1.9,
     "image": "https://i.ebayimg.com/images/g/yrEAAeSwjmJp0EjB/s-l300.jpg",
@@ -41052,7 +41328,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 3422,
+    "id": 3445,
     "name": "Josh Jung #98 SILVER SPARKLE - 2026 Topps Series 1 - MLB Baseball Card",
     "price": 1.9,
     "image": "https://i.ebayimg.com/images/g/tp8AAeSwnuZp0Eii/s-l300.jpg",
@@ -41064,7 +41340,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 3423,
+    "id": 3446,
     "name": "Jordan Beck #12 SILVER SPARKLE - 2026 Topps Series 1 - MLB Baseball Card",
     "price": 1.9,
     "image": "https://i.ebayimg.com/images/g/jhMAAeSwjb1p0EiM/s-l300.jpg",
@@ -41076,7 +41352,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 3424,
+    "id": 3447,
     "name": "Jeremiah Jackson (RC) #277 SILVER SPARKLE - 2026 Topps Series 1 - MLB Baseball C",
     "price": 2.14,
     "image": "https://i.ebayimg.com/images/g/v4IAAeSwxGxp0Eh2/s-l300.jpg",
@@ -41088,7 +41364,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 3425,
+    "id": 3448,
     "name": "Luke Raley #142 SILVER SPARKLE - 2026 Topps Series 1 - MLB Baseball Card",
     "price": 1.9,
     "image": "https://i.ebayimg.com/images/g/vmsAAeSw3bpp0Ehb/s-l300.jpg",
@@ -41100,7 +41376,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 3426,
+    "id": 3449,
     "name": "Philadelphia Phillies #295 SILVER SPARKLE - 2026 Topps Series 1 - MLB Baseball C",
     "price": 2.61,
     "image": "https://i.ebayimg.com/images/g/3gkAAeSw4DRp0Eg~/s-l300.jpg",
@@ -41112,7 +41388,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 3427,
+    "id": 3450,
     "name": "Jackson Merrill #229 SILVER SPARKLE - 2026 Topps Series 1 - MLB Baseball Card",
     "price": 1.9,
     "image": "https://i.ebayimg.com/images/g/lXIAAeSww7Fp0Egp/s-l300.jpg",
@@ -41124,7 +41400,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 3428,
+    "id": 3451,
     "name": "Tommy Edman #222 SILVER SPARKLE - 2026 Topps Series 1 - MLB Baseball Card",
     "price": 1.9,
     "image": "https://i.ebayimg.com/images/g/yvAAAeSwaKxp0EgU/s-l300.jpg",
@@ -41136,7 +41412,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 3429,
+    "id": 3452,
     "name": "Vladimir Guerrero Jr. #20 SILVER SPARKLE - 2026 Topps Series 1 - MLB Baseball Ca",
     "price": 1.9,
     "image": "https://i.ebayimg.com/images/g/sEUAAeSwnuZp0EgA/s-l300.jpg",
@@ -41148,7 +41424,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 3430,
+    "id": 3453,
     "name": "Jonah Tong (RC) #4 SILVER SPARKLE - 2026 Topps Series 1 - MLB Baseball Card",
     "price": 2.38,
     "image": "https://i.ebayimg.com/images/g/LawAAeSwu~dp0Efe/s-l300.jpg",
@@ -41160,7 +41436,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 3431,
+    "id": 3454,
     "name": "Paul Skenes #100 SILVER SPARKLE - 2026 Topps Series 1 - MLB Baseball Card",
     "price": 3.8,
     "image": "https://i.ebayimg.com/images/g/FkIAAeSwzj5p0Ee~/s-l300.jpg",
@@ -41172,7 +41448,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 3432,
+    "id": 3455,
     "name": "Bryan Abreu #231 SILVER SPARKLE - 2026 Topps Series 1 - MLB Baseball Card",
     "price": 1.9,
     "image": "https://i.ebayimg.com/images/g/xEgAAeSwAlpp0Eel/s-l300.jpg",
@@ -41184,7 +41460,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 3433,
+    "id": 3456,
     "name": "Jonathan India #237 SILVER SPARKLE - 2026 Topps Series 1 - MLB Baseball Card",
     "price": 1.9,
     "image": "https://i.ebayimg.com/images/g/GlwAAeSwpLhp0EeL/s-l300.jpg",
@@ -41196,7 +41472,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 3434,
+    "id": 3457,
     "name": "Addison Barger #241 SILVER SPARKLE - 2026 Topps Series 1 - MLB Baseball Card",
     "price": 1.9,
     "image": "https://i.ebayimg.com/images/g/FyEAAeSw28pp0Ed3/s-l300.jpg",
@@ -41208,7 +41484,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 3435,
+    "id": 3458,
     "name": "Dylan Beavers (RC) #339 SILVER SPARKLE - 2026 Topps Series 1 - MLB Baseball Card",
     "price": 1.9,
     "image": "https://i.ebayimg.com/images/g/1E8AAeSw4DRp0Ecn/s-l300.jpg",
@@ -41220,7 +41496,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 3436,
+    "id": 3459,
     "name": "Brady Singer #282 SILVER SPARKLE - 2026 Topps Series 1 - MLB Baseball Card",
     "price": 1.9,
     "image": "https://i.ebayimg.com/images/g/MfMAAeSwWENp0Eb3/s-l300.jpg",
@@ -41232,7 +41508,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 3437,
+    "id": 3460,
     "name": "Masataka Yoshida #65 SILVER SPARKLE - 2026 Topps Series 1 - MLB Baseball Card",
     "price": 1.9,
     "image": "https://i.ebayimg.com/images/g/tAYAAeSwaO1p0Ebf/s-l300.jpg",
@@ -41244,7 +41520,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 3438,
+    "id": 3461,
     "name": "Brandon Marsh #335 SILVER SPARKLE - 2026 Topps Series 1 - MLB Baseball Card",
     "price": 1.9,
     "image": "https://i.ebayimg.com/images/g/wewAAeSwf7Jp0EbD/s-l300.jpg",
@@ -41256,7 +41532,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 3439,
+    "id": 3462,
     "name": "Clayton Kershaw #22 SILVER SPARKLE - 2026 Topps Series 1 - MLB Baseball Card",
     "price": 2.38,
     "image": "https://i.ebayimg.com/images/g/0foAAeSw7rpp0Eap/s-l300.jpg",
@@ -41268,7 +41544,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 3440,
+    "id": 3463,
     "name": "Kris Bubic #58 SILVER SPARKLE - 2026 Topps Series 1 - MLB Baseball Card",
     "price": 1.9,
     "image": "https://i.ebayimg.com/images/g/s4IAAeSwAnhp0EaR/s-l300.jpg",
@@ -41280,7 +41556,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 3441,
+    "id": 3464,
     "name": "Eric Lauer #175 SILVER SPARKLE - 2026 Topps Series 1 - MLB Baseball Card",
     "price": 1.9,
     "image": "https://i.ebayimg.com/images/g/J08AAeSwaMJp0EZ3/s-l300.jpg",
@@ -41292,7 +41568,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 3442,
+    "id": 3465,
     "name": "Sonny Gray #40 SILVER SPARKLE - 2026 Topps Series 1 - MLB Baseball Card",
     "price": 1.9,
     "image": "https://i.ebayimg.com/images/g/kH4AAeSwYrZp0EZd/s-l300.jpg",
@@ -41304,7 +41580,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 3443,
+    "id": 3466,
     "name": "Boston Red Sox #198 SILVER SPARKLE - 2026 Topps Series 1 - MLB Baseball Card",
     "price": 4.75,
     "image": "https://i.ebayimg.com/images/g/JmAAAeSwcalp0EYc/s-l300.jpg",
@@ -41316,7 +41592,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 3444,
+    "id": 3467,
     "name": "Jose Altuve #278 SILVER SPARKLE - 2026 Topps Series 1 - MLB Baseball Card",
     "price": 1.9,
     "image": "https://i.ebayimg.com/images/g/KQAAAeSwENFp0EYA/s-l300.jpg",
@@ -41328,7 +41604,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 3445,
+    "id": 3468,
     "name": "Carson Whisenhunt (RC) #184 OPENING DAY FOIL - 2026 Topps Series 1 - MLB Basebal",
     "price": 3.56,
     "image": "https://i.ebayimg.com/images/g/8QEAAeSwTIlpz-Mr/s-l300.jpg",
@@ -41340,7 +41616,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 3446,
+    "id": 3469,
     "name": "Nick Pivetta #9 OPENING DAY FOIL - 2026 Topps Series 1 - MLB Baseball Card",
     "price": 2.61,
     "image": "https://i.ebayimg.com/images/g/YcUAAeSwyZRpz-MM/s-l300.jpg",
@@ -41352,7 +41628,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 3447,
+    "id": 3470,
     "name": "Jose Altuve #278 OPENING DAY FOIL - 2026 Topps Series 1 - MLB Baseball Card",
     "price": 2.61,
     "image": "https://i.ebayimg.com/images/g/HMoAAeSwe3dpz-KM/s-l300.jpg",
@@ -41364,7 +41640,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 3448,
+    "id": 3471,
     "name": "Warming Bernabel #55 OPENING DAY FOIL - 2026 Topps Series 1 - MLB Baseball Card",
     "price": 2.61,
     "image": "https://i.ebayimg.com/images/g/GtYAAeSw6sppz-Jt/s-l300.jpg",
@@ -41376,7 +41652,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 3449,
+    "id": 3472,
     "name": "Kyle Freeland #106 REFRACTOR - 2026 Topps Series 1 - MLB Baseball Card",
     "price": 1.9,
     "image": "https://i.ebayimg.com/images/g/A0EAAeSwXEhpz-JK/s-l300.jpg",
@@ -41388,7 +41664,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 3450,
+    "id": 3473,
     "name": "Spencer Schwellenbach #306 REFRACTOR - 2026 Topps Series 1 - MLB Baseball Card",
     "price": 1.9,
     "image": "https://i.ebayimg.com/images/g/ZXwAAeSwRL1pz-I2/s-l300.jpg",
@@ -41400,7 +41676,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 3451,
+    "id": 3474,
     "name": "Royce Lewis #115 REFRACTOR - 2026 Topps Series 1 - MLB Baseball Card",
     "price": 1.9,
     "image": "https://i.ebayimg.com/images/g/I2MAAeSwg3Npz-Ih/s-l300.jpg",
@@ -41412,7 +41688,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 3452,
+    "id": 3475,
     "name": "Yusei Kikuchi #173 REFRACTOR - 2026 Topps Series 1 - MLB Baseball Card",
     "price": 1.9,
     "image": "https://i.ebayimg.com/images/g/EUIAAeSwx2dpz-IN/s-l300.jpg",
@@ -41424,7 +41700,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 3453,
+    "id": 3476,
     "name": "Adam Frazier #181 REFRACTOR - 2026 Topps Series 1 - MLB Baseball Card",
     "price": 1.9,
     "image": "https://i.ebayimg.com/images/g/IoIAAeSwjX9pz-H4/s-l300.jpg",
@@ -41436,7 +41712,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 3454,
+    "id": 3477,
     "name": "Mauricio Dubon #191 REFRACTOR - 2026 Topps Series 1 - MLB Baseball Card",
     "price": 1.9,
     "image": "https://i.ebayimg.com/images/g/DnoAAeSwjbFpz-Hm/s-l300.jpg",
@@ -41448,7 +41724,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 3455,
+    "id": 3478,
     "name": "Wikelman Gonzalez #167 REFRACTOR - 2026 Topps Series 1 - MLB Baseball Card",
     "price": 1.9,
     "image": "https://i.ebayimg.com/images/g/F~4AAeSwin9pz-HM/s-l300.jpg",
@@ -41460,7 +41736,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 3456,
+    "id": 3479,
     "name": "Matthew Boyd #51 REFRACTOR - 2026 Topps Series 1 - MLB Baseball Card",
     "price": 2.85,
     "image": "https://i.ebayimg.com/images/g/5L4AAeSw3htpz-Gz/s-l300.jpg",
@@ -41472,7 +41748,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 3457,
+    "id": 3480,
     "name": "Kyle Freeland #106 SAND GLITTER - 2026 Topps Series 1 - MLB Baseball Card",
     "price": 1.9,
     "image": "https://i.ebayimg.com/images/g/HhgAAeSw2YFpz-GZ/s-l300.jpg",
@@ -41484,7 +41760,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 3458,
+    "id": 3481,
     "name": "Fernando Tatis Jr. #333 SAND GLITTER - 2026 Topps Series 1 - MLB Baseball Card",
     "price": 1.9,
     "image": "https://i.ebayimg.com/images/g/GOAAAeSwV3Rpz-CR/s-l300.jpg",
@@ -41496,7 +41772,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 3459,
+    "id": 3482,
     "name": "Yusei Kikuchi #173 SAND GLITTER - 2026 Topps Series 1 - MLB Baseball Card",
     "price": 1.9,
     "image": "https://i.ebayimg.com/images/g/A34AAeSw3bppz-B-/s-l300.jpg",
@@ -41508,7 +41784,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 3460,
+    "id": 3483,
     "name": "Cesar Prieto (RC) #95 SAND GLITTER - 2026 Topps Series 1 - MLB Baseball Card",
     "price": 1.9,
     "image": "https://i.ebayimg.com/images/g/HAQAAeSwSSBpz-BM/s-l300.jpg",
@@ -41520,7 +41796,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 3461,
+    "id": 3484,
     "name": "Adam Frazier #181 SAND GLITTER - 2026 Topps Series 1 - MLB Baseball Card",
     "price": 1.9,
     "image": "https://i.ebayimg.com/images/g/EmgAAeSw0vBpz-A2/s-l300.jpg",
@@ -41532,7 +41808,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 3462,
+    "id": 3485,
     "name": "San Diego Padres #292 SAND GLITTER - 2026 Topps Series 1 - MLB Baseball Card",
     "price": 1.9,
     "image": "https://i.ebayimg.com/images/g/8UkAAeSwridpz-Ak/s-l300.jpg",
@@ -41544,7 +41820,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 3463,
+    "id": 3486,
     "name": "Mauricio Dubon #191 SAND GLITTER - 2026 Topps Series 1 - MLB Baseball Card",
     "price": 1.9,
     "image": "https://i.ebayimg.com/images/g/AQoAAeSwsl9pz-AS/s-l300.jpg",
@@ -41556,7 +41832,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 3464,
+    "id": 3487,
     "name": "Daulton Varsho #2 SAND GLITTER - 2026 Topps Series 1 - MLB Baseball Card",
     "price": 1.9,
     "image": "https://i.ebayimg.com/images/g/G44AAeSwiPdpz9~2/s-l300.jpg",
@@ -41568,7 +41844,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 3465,
+    "id": 3488,
     "name": "Shohei Ohtani #GD-2 - 2026 Topps Series 1 - MLB Baseball Card",
     "price": 2.85,
     "image": "https://i.ebayimg.com/images/g/dNIAAeSwlK5pz9~W/s-l300.jpg",
@@ -41580,7 +41856,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 3466,
+    "id": 3489,
     "name": "Elly De La Cruz #GD-1 - 2026 Topps Series 1 - MLB Baseball Card",
     "price": 1.9,
     "image": "https://i.ebayimg.com/images/g/AAEAAeSw0Wxpz9-k/s-l300.jpg",
@@ -41592,7 +41868,7 @@ window.products = [
     "stock": 2
   },
   {
-    "id": 3467,
+    "id": 3490,
     "name": "Bobby Witt Jr. #GD-11 - 2026 Topps Series 1 - MLB Baseball Card",
     "price": 1.9,
     "image": "https://i.ebayimg.com/images/g/WKwAAeSw9hFpz9-F/s-l300.jpg",
@@ -41604,7 +41880,7 @@ window.products = [
     "stock": 3
   },
   {
-    "id": 3468,
+    "id": 3491,
     "name": "Clark #M-18 Cubs MASCOT - 2026 Topps Series 1 - MLB Baseball Card",
     "price": 1.9,
     "image": "https://i.ebayimg.com/images/g/B~cAAeSwgyhpz99U/s-l300.jpg",
@@ -41616,7 +41892,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 3469,
+    "id": 3492,
     "name": "Rangers Captain #M-12 MASCOT - 2026 Topps Series 1 - MLB Baseball Card",
     "price": 1.9,
     "image": "https://i.ebayimg.com/images/g/Sm0AAeSwh91pz99A/s-l300.jpg",
@@ -41628,7 +41904,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 3470,
+    "id": 3493,
     "name": "Mariner Moose #M-8 MASCOT - 2026 Topps Series 1 - MLB Baseball Card",
     "price": 1.9,
     "image": "https://i.ebayimg.com/images/g/CLMAAeSwaO1pz98p/s-l300.jpg",
@@ -41640,7 +41916,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 3471,
+    "id": 3494,
     "name": "Rosie Red #M-6 MASCOT - 2026 Topps Series 1 - MLB Baseball Card",
     "price": 1.9,
     "image": "https://i.ebayimg.com/images/g/U4UAAeSw9w5pz98T/s-l300.jpg",
@@ -41652,7 +41928,7 @@ window.products = [
     "stock": 2
   },
   {
-    "id": 3472,
+    "id": 3495,
     "name": "Roman Anthony (RC) #8B-2 - 2026 Topps Series 1 - MLB Baseball Card",
     "price": 3.8,
     "image": "https://i.ebayimg.com/images/g/J2wAAeSwlBhpz977/s-l300.jpg",
@@ -41664,7 +41940,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 3473,
+    "id": 3496,
     "name": "Shohei Ohtani #8B-7 - 2026 Topps Series 1 - MLB Baseball Card",
     "price": 2.85,
     "image": "https://i.ebayimg.com/images/g/1zAAAeSwCEdpz97b/s-l300.jpg",
@@ -41676,7 +41952,7 @@ window.products = [
     "stock": 2
   },
   {
-    "id": 3474,
+    "id": 3497,
     "name": "Shohei Ohtani #PAS-9 - 2026 Topps Series 1 - MLB Baseball Card",
     "price": 2.85,
     "image": "https://i.ebayimg.com/images/g/bewAAeSwPMBpz96~/s-l300.jpg",
@@ -41688,7 +41964,7 @@ window.products = [
     "stock": 2
   },
   {
-    "id": 3475,
+    "id": 3498,
     "name": "Shohei Ohtani #T91-100 - 2026 Topps Series 1 - MLB Baseball Card",
     "price": 2.85,
     "image": "https://i.ebayimg.com/images/g/cZsAAeSwajlpzcEl/s-l300.jpg",
@@ -41700,7 +41976,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 3476,
+    "id": 3499,
     "name": "Josh Smith #169 REFRACTOR - 2026 Topps Series 1 - MLB Baseball Card",
     "price": 1.9,
     "image": "https://i.ebayimg.com/images/g/58cAAeSw0SNpzauv/s-l300.jpg",
@@ -41712,7 +41988,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 3477,
+    "id": 3500,
     "name": "Riley Greene #209 REFRACTOR - 2026 Topps Series 1 - MLB Baseball Card",
     "price": 1.9,
     "image": "https://i.ebayimg.com/images/g/wwAAAeSwkhFpzauH/s-l300.jpg",
@@ -41724,7 +42000,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 3478,
+    "id": 3501,
     "name": "Grant Taylor (RC) #49 REFRACTOR - 2026 Topps Series 1 - MLB Baseball Card",
     "price": 2.85,
     "image": "https://i.ebayimg.com/images/g/yLsAAeSwzMVpzatq/s-l300.jpg",
@@ -41736,7 +42012,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 3479,
+    "id": 3502,
     "name": "Carson Williams (RC) #25 REFRACTOR - 2026 Topps Series 1 - MLB Baseball Card",
     "price": 1.9,
     "image": "https://i.ebayimg.com/images/g/nQkAAeSwgXdpzatJ/s-l300.jpg",
@@ -41748,7 +42024,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 3480,
+    "id": 3503,
     "name": "Victor Robles #160 REFRACTOR - 2026 Topps Series 1 - MLB Baseball Card",
     "price": 1.9,
     "image": "https://i.ebayimg.com/images/g/JwQAAeSwcN1pzas0/s-l300.jpg",
@@ -41760,7 +42036,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 3481,
+    "id": 3504,
     "name": "Dalton Rushing #103 REFRACTOR - 2026 Topps Series 1 - MLB Baseball Card",
     "price": 1.9,
     "image": "https://i.ebayimg.com/images/g/I-oAAeSwnQRpzasU/s-l300.jpg",
@@ -41772,7 +42048,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 3482,
+    "id": 3505,
     "name": "Michael Wacha #190 REFRACTOR - 2026 Topps Series 1 - MLB Baseball Card",
     "price": 1.9,
     "image": "https://i.ebayimg.com/images/g/19AAAeSwoB1pzarO/s-l300.jpg",
@@ -41784,7 +42060,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 3483,
+    "id": 3506,
     "name": "Ian Seymour (RC) #165 SAND GLITTER - 2026 Topps Series 1 - MLB Baseball Card",
     "price": 2.85,
     "image": "https://i.ebayimg.com/images/g/lrEAAeSwArlpzaqu/s-l300.jpg",
@@ -41796,7 +42072,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 3484,
+    "id": 3507,
     "name": "Josh Smith #169 SILVER SPARKLE - 2026 Topps Series 1 - MLB Baseball Card",
     "price": 1.9,
     "image": "https://i.ebayimg.com/images/g/kjgAAeSwN~9pzaqT/s-l300.jpg",
@@ -41808,7 +42084,7 @@ window.products = [
     "stock": 2
   },
   {
-    "id": 3485,
+    "id": 3508,
     "name": "Sean Burke #137 SILVER SPARKLE - 2026 Topps Series 1 - MLB Baseball Card",
     "price": 2.85,
     "image": "https://i.ebayimg.com/images/g/xs0AAeSwh-xpzap5/s-l300.jpg",
@@ -41820,7 +42096,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 3486,
+    "id": 3509,
     "name": "Riley Greene #209 SILVER SPARKLE - 2026 Topps Series 1 - MLB Baseball Card",
     "price": 1.9,
     "image": "https://i.ebayimg.com/images/g/lxsAAeSwBZRpzapa/s-l300.jpg",
@@ -41832,7 +42108,7 @@ window.products = [
     "stock": 2
   },
   {
-    "id": 3487,
+    "id": 3510,
     "name": "Drew Gilbert (RC) #155 SILVER SPARKLE - 2026 Topps Series 1 - MLB Baseball Card",
     "price": 1.9,
     "image": "https://i.ebayimg.com/images/g/xksAAeSwjStpzapH/s-l300.jpg",
@@ -41844,7 +42120,7 @@ window.products = [
     "stock": 2
   },
   {
-    "id": 3488,
+    "id": 3511,
     "name": "Jack Leiter #208 SILVER SPARKLE - 2026 Topps Series 1 - MLB Baseball Card",
     "price": 1.9,
     "image": "https://i.ebayimg.com/images/g/jE8AAeSwPSxpzaoi/s-l300.jpg",
@@ -41856,7 +42132,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 3489,
+    "id": 3512,
     "name": "Zach Maxwell (RC) #143 SILVER SPARKLE - 2026 Topps Series 1 - MLB Baseball Card",
     "price": 1.9,
     "image": "https://i.ebayimg.com/images/g/lIwAAeSwBZRpzaoL/s-l300.jpg",
@@ -41868,7 +42144,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 3490,
+    "id": 3513,
     "name": "Alejandro Kirk #301 SILVER SPARKLE - 2026 Topps Series 1 - MLB Baseball Card",
     "price": 1.9,
     "image": "https://i.ebayimg.com/images/g/jYgAAeSwN~9pzan0/s-l300.jpg",
@@ -41880,7 +42156,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 3491,
+    "id": 3514,
     "name": "Jorge Soler #162 SILVER SPARKLE - 2026 Topps Series 1 - MLB Baseball Card",
     "price": 1.9,
     "image": "https://i.ebayimg.com/images/g/gKgAAeSwK6JpzanY/s-l300.jpg",
@@ -41892,7 +42168,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 3492,
+    "id": 3515,
     "name": "Hunter Brown #264 SILVER SPARKLE - 2026 Topps Series 1 - MLB Baseball Card",
     "price": 1.9,
     "image": "https://i.ebayimg.com/images/g/EVoAAeSwgV5pzajh/s-l300.jpg",
@@ -41904,7 +42180,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 3493,
+    "id": 3516,
     "name": "Marcelo Mayer #269 SILVER SPARKLE - 2026 Topps Series 1 - MLB Baseball Card",
     "price": 1.9,
     "image": "https://i.ebayimg.com/images/g/gcMAAeSwc3FpzaiP/s-l300.jpg",
@@ -41916,7 +42192,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 3494,
+    "id": 3517,
     "name": "Ryne Nelson #114 SILVER SPARKLE - 2026 Topps Series 1 - MLB Baseball Card",
     "price": 1.9,
     "image": "https://i.ebayimg.com/images/g/09QAAeSw0SNpzahh/s-l300.jpg",
@@ -41928,7 +42204,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 3495,
+    "id": 3518,
     "name": "Fernando Tatis Jr. #333 SILVER SPARKLE - 2026 Topps Series 1 - MLB Baseball Card",
     "price": 1.9,
     "image": "https://i.ebayimg.com/images/g/wVoAAeSw6sppzahM/s-l300.jpg",
@@ -41940,7 +42216,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 3496,
+    "id": 3519,
     "name": "Cesar Prieto (RC) #95 SILVER SPARKLE - 2026 Topps Series 1 - MLB Baseball Card",
     "price": 1.9,
     "image": "https://i.ebayimg.com/images/g/vT4AAeSw8tFpzag1/s-l300.jpg",
@@ -41952,7 +42228,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 3497,
+    "id": 3520,
     "name": "Adolis Garcia #318 SILVER SPARKLE - 2026 Topps Series 1 - MLB Baseball Card",
     "price": 1.9,
     "image": "https://i.ebayimg.com/images/g/1eIAAeSwg3Npzaga/s-l300.jpg",
@@ -41964,7 +42240,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 3498,
+    "id": 3521,
     "name": "Carson Whisenhunt (RC) #184 SILVER SPARKLE - 2026 Topps Series 1 - MLB Baseball",
     "price": 1.9,
     "image": "https://i.ebayimg.com/images/g/ePoAAeSwMihpzafv/s-l300.jpg",
@@ -41976,7 +42252,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 3499,
+    "id": 3522,
     "name": "Tyler Freeman #199 SILVER SPARKLE - 2026 Topps Series 1 - MLB Baseball Card",
     "price": 1.9,
     "image": "https://i.ebayimg.com/images/g/7~wAAeSwb89pzae2/s-l300.jpg",
@@ -41988,7 +42264,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 3500,
+    "id": 3523,
     "name": "MacKenzie Gore #14 SAND GLITTER - 2026 Topps Series 1 - MLB Baseball Card",
     "price": 1.9,
     "image": "https://i.ebayimg.com/images/g/xq4AAeSwIXxpzaef/s-l300.jpg",
@@ -42000,7 +42276,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 3501,
+    "id": 3524,
     "name": "Ceddanne Rafaela #101 SAND GLITTER - 2026 Topps Series 1 - MLB Baseball Card",
     "price": 1.9,
     "image": "https://i.ebayimg.com/images/g/r9AAAeSwcZRpzaeF/s-l300.jpg",
@@ -42012,7 +42288,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 3502,
+    "id": 3525,
     "name": "Ben Williamson #226 SILVER SPARKLE - 2026 Topps Series 1 - MLB Baseball Card",
     "price": 1.9,
     "image": "https://i.ebayimg.com/images/g/ruoAAeSwcZRpzadk/s-l300.jpg",
@@ -42024,7 +42300,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 3503,
+    "id": 3526,
     "name": "Patrick Bailey #7 SILVER SPARKLE - 2026 Topps Series 1 - MLB Baseball Card",
     "price": 1.9,
     "image": "https://i.ebayimg.com/images/g/rDMAAeSwf1VpzadE/s-l300.jpg",
@@ -42036,7 +42312,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 3504,
+    "id": 3527,
     "name": "Tyler Stephenson #174 SILVER SPARKLE - 2026 Topps Series 1 - MLB Baseball Card",
     "price": 1.9,
     "image": "https://i.ebayimg.com/images/g/pvQAAeSwUEtpzacn/s-l300.jpg",
@@ -42048,7 +42324,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 3505,
+    "id": 3528,
     "name": "Warming Bernabel (RC) #55 SILVER SPARKLE - 2026 Topps Series 1 - MLB Baseball",
     "price": 1.9,
     "image": "https://i.ebayimg.com/images/g/tXoAAeSwV3Rpzabc/s-l300.jpg",
@@ -42060,7 +42336,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 3506,
+    "id": 3529,
     "name": "Kyle Manzardo #309 SILVER SPARKLE - 2026 Topps Series 1 - MLB Baseball Card",
     "price": 1.9,
     "image": "https://i.ebayimg.com/images/g/stEAAeSw3-dpzaa8/s-l300.jpg",
@@ -42072,7 +42348,7 @@ window.products = [
     "stock": 2
   },
   {
-    "id": 3507,
+    "id": 3530,
     "name": "Travis Adams (RC) #149 SILVER SPARKLE - 2026 Topps Series 1 - MLB Baseball Card",
     "price": 1.9,
     "image": "https://i.ebayimg.com/images/g/nUAAAeSwkhFpzaZ-/s-l300.jpg",
@@ -42084,7 +42360,7 @@ window.products = [
     "stock": 2
   },
   {
-    "id": 3508,
+    "id": 3531,
     "name": "Logan Webb #69 SILVER SPARKLE - 2026 Topps Series 1 - MLB Baseball Card",
     "price": 1.9,
     "image": "https://i.ebayimg.com/images/g/zHcAAeSwWENpzaZh/s-l300.jpg",
@@ -42096,7 +42372,7 @@ window.products = [
     "stock": 2
   },
   {
-    "id": 3509,
+    "id": 3532,
     "name": "Victor Robles #160 SILVER SPARKLE - 2026 Topps Series 1 - MLB Baseball Card",
     "price": 1.9,
     "image": "https://i.ebayimg.com/images/g/8NsAAeSwi2FpzaY4/s-l300.jpg",
@@ -42108,7 +42384,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 3510,
+    "id": 3533,
     "name": "Jonah Heim #78 SILVER SPARKLE - 2026 Topps Series 1 - MLB Baseball Card",
     "price": 1.9,
     "image": "https://i.ebayimg.com/images/g/8LYAAeSwgHhpzaYi/s-l300.jpg",
@@ -42120,7 +42396,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 3511,
+    "id": 3534,
     "name": "Mickey Moniak #195 SILVER SPARKLE - 2026 Topps Series 1 - MLB Baseball Card",
     "price": 1.9,
     "image": "https://i.ebayimg.com/images/g/bjsAAeSwkXVpzaWk/s-l300.jpg",
@@ -42132,7 +42408,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 3512,
+    "id": 3535,
     "name": "Shinnosuke Ogasawara (RC) #32 SILVER SPARKLE - 2026 Topps Series 1 - MLB Basebal",
     "price": 1.9,
     "image": "https://i.ebayimg.com/images/g/BcsAAeSww7FpzaWN/s-l300.jpg",
@@ -42144,7 +42420,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 3513,
+    "id": 3536,
     "name": "Landen Roupp #29 SILVER SPARKLE - 2026 Topps Series 1 - MLB Baseball Card",
     "price": 1.9,
     "image": "https://i.ebayimg.com/images/g/-~UAAeSwEZ5pzaVq/s-l300.jpg",
@@ -42156,7 +42432,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 3514,
+    "id": 3537,
     "name": "Troy Johnston (RC) #317 SILVER SPARKLE - 2026 Topps Series 1 - MLB Baseball Card",
     "price": 1.9,
     "image": "https://i.ebayimg.com/images/g/r3IAAeSwYnNpzaVQ/s-l300.jpg",
@@ -42168,7 +42444,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 3515,
+    "id": 3538,
     "name": "Romy Gonzalez #294 SAND GLITTER - 2026 Topps Series 1 - MLB Baseball Card",
     "price": 1.9,
     "image": "https://i.ebayimg.com/images/g/spgAAeSwWtdpzaUv/s-l300.jpg",
@@ -42180,7 +42456,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 3516,
+    "id": 3539,
     "name": "Matt Strahm #298 SAND GLITTER - 2026 Topps Series 1 - MLB Baseball Card",
     "price": 1.9,
     "image": "https://i.ebayimg.com/images/g/tFoAAeSwFVNpzaUa/s-l300.jpg",
@@ -42192,7 +42468,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 3517,
+    "id": 3540,
     "name": "David Bednar #228 SAND GLITTER - 2026 Topps Series 1 - MLB Baseball Card",
     "price": 1.9,
     "image": "https://i.ebayimg.com/images/g/k4AAAeSw-g1pzaUH/s-l300.jpg",
@@ -42204,7 +42480,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 3518,
+    "id": 3541,
     "name": "William Contreras #192 SAND GLITTER - 2026 Topps Series 1 - MLB Baseball Card",
     "price": 1.9,
     "image": "https://i.ebayimg.com/images/g/-REAAeSwvpRpzaTu/s-l300.jpg",
@@ -42216,7 +42492,7 @@ window.products = [
     "stock": 2
   },
   {
-    "id": 3519,
+    "id": 3542,
     "name": "Colson Montogmery (RC) #T91-4 - 2026 Topps Series 1 - MLB Baseball Card",
     "price": 1.9,
     "image": "https://i.ebayimg.com/images/g/tdMAAeSwQHtpzaTY/s-l300.jpg",
@@ -42228,7 +42504,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 3520,
+    "id": 3543,
     "name": "Ronald Acuna Jr. #T91-84 - 2026 Topps Series 1 - MLB Baseball Card",
     "price": 1.9,
     "image": "https://i.ebayimg.com/images/g/3cEAAeSw3JRpzaS8/s-l300.jpg",
@@ -42240,7 +42516,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 3521,
+    "id": 3544,
     "name": "Tarik Skubal #T91-79 - 2026 Topps Series 1 - MLB Baseball Card",
     "price": 1.9,
     "image": "https://i.ebayimg.com/images/g/pKMAAeSwAnhpzaSq/s-l300.jpg",
@@ -42252,7 +42528,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 3522,
+    "id": 3545,
     "name": "C.J. Kayfus (RC) #T91-90 - 2026 Topps Series 1 - MLB Baseball Card",
     "price": 1.9,
     "image": "https://i.ebayimg.com/images/g/~38AAeSwlONpzaSR/s-l300.jpg",
@@ -42264,7 +42540,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 3523,
+    "id": 3546,
     "name": "Kirby Puckett #T91-94 - 2026 Topps Series 1 - MLB Baseball Card",
     "price": 1.66,
     "image": "https://i.ebayimg.com/images/g/pQwAAeSwSSBpzaR4/s-l300.jpg",
@@ -42276,7 +42552,7 @@ window.products = [
     "stock": 2
   },
   {
-    "id": 3524,
+    "id": 3547,
     "name": "Bobby Witt Jr. #GH-18 - 2026 Topps Series 1 - MLB Baseball Card",
     "price": 1.9,
     "image": "https://i.ebayimg.com/images/g/j1QAAeSwzMVpzaPw/s-l300.jpg",
@@ -42288,7 +42564,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 3525,
+    "id": 3548,
     "name": "Bryce Harper #GH-10 - 2026 Topps Series 1 - MLB Baseball Card",
     "price": 1.9,
     "image": "https://i.ebayimg.com/images/g/w5IAAeSwvKppzaPc/s-l300.jpg",
@@ -42300,7 +42576,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 3526,
+    "id": 3549,
     "name": "Aaron Judge #TP-18 - 2026 Topps Series 1 - MLB Baseball Card",
     "price": 1.9,
     "image": "https://i.ebayimg.com/images/g/rTcAAeSw9lFpzaPI/s-l300.jpg",
@@ -42312,7 +42588,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 3527,
+    "id": 3550,
     "name": "Corbin Carroll #BTP-6 - 2026 Topps Series 1 - MLB Baseball Card",
     "price": 1.9,
     "image": "https://i.ebayimg.com/images/g/g7MAAeSwxRxpzaO0/s-l300.jpg",
@@ -42324,7 +42600,7 @@ window.products = [
     "stock": 2
   },
   {
-    "id": 3528,
+    "id": 3551,
     "name": "Tarik Skubal #SMLB-29 - 2026 Topps Series 1 - MLB Baseball Card",
     "price": 1.43,
     "image": "https://i.ebayimg.com/images/g/990AAeSw0GlpzaOi/s-l300.jpg",
@@ -42336,7 +42612,7 @@ window.products = [
     "stock": 3
   },
   {
-    "id": 3529,
+    "id": 3552,
     "name": "Samuel Basallo (RC) #TOG-10 - 2026 Topps Series 1 - MLB Baseball Card",
     "price": 1.66,
     "image": "https://i.ebayimg.com/images/g/mmQAAeSwEKZpzaOM/s-l300.jpg",
@@ -42348,7 +42624,7 @@ window.products = [
     "stock": 2
   },
   {
-    "id": 3530,
+    "id": 3553,
     "name": "Kyle Stowers #293 OPENING DAY FOIL - 2026 Topps Series 1 - MLB Baseball Card",
     "price": 3.8,
     "image": "https://i.ebayimg.com/images/g/4zoAAeSw-YFpzaLF/s-l300.jpg",
@@ -42360,7 +42636,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 3531,
+    "id": 3554,
     "name": "Spencer Strider #79 OPENING DAY FOIL - 2026 Topps Series 1 - MLB Baseball Card",
     "price": 3.8,
     "image": "https://i.ebayimg.com/images/g/iuMAAeSwX0FpzaKo/s-l300.jpg",
@@ -42372,7 +42648,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 3532,
+    "id": 3555,
     "name": "Taylor Trammell #124 OPENING DAY FOIL - 2026 Topps Series 1 - MLB Baseball Card",
     "price": 2.85,
     "image": "https://i.ebayimg.com/images/g/cR0AAeSw2RtpzaKL/s-l300.jpg",
@@ -42384,7 +42660,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 3533,
+    "id": 3556,
     "name": "Trea Turner #322 OPENING DAY FOIL - 2026 Topps Series 1 - MLB Baseball Card",
     "price": 4.75,
     "image": "https://i.ebayimg.com/images/g/H8IAAeSw7rppzaJk/s-l300.jpg",
@@ -42396,7 +42672,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 3534,
+    "id": 3557,
     "name": "Jack Hughes USA GOLDEN GOAL Hockey - 2026 Olympics Topps NOW® - Card 18 IN HAND",
     "price": 6.84,
     "image": "https://i.ebayimg.com/images/g/O~AAAeSwXMRpm1dX/s-l300.png",
@@ -42408,7 +42684,7 @@ window.products = [
     "stock": 10
   },
   {
-    "id": 3535,
+    "id": 3558,
     "name": "James Wood #T91-16 - 2026 Topps Series 1 - MLB Baseball Card",
     "price": 1.9,
     "image": "https://i.ebayimg.com/images/g/oGsAAeSwSqlpyZ8q/s-l300.jpg",
@@ -42420,7 +42696,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 3536,
+    "id": 3559,
     "name": "Don Mattingly #T91-68 - 2026 Topps Series 1 - MLB Baseball Card",
     "price": 1.9,
     "image": "https://i.ebayimg.com/images/g/stEAAeSw1VppyZ8Y/s-l300.jpg",
@@ -42432,7 +42708,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 3537,
+    "id": 3560,
     "name": "Nolan Ryan #T91-97 - 2026 Topps Series 1 - MLB Baseball Card",
     "price": 1.66,
     "image": "https://i.ebayimg.com/images/g/uFUAAeSwbzppyZ7-/s-l300.jpg",
@@ -42444,7 +42720,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 3538,
+    "id": 3561,
     "name": "Fernando Tatis Jr. #T91-8 - 2026 Topps Series 1 - MLB Baseball Card",
     "price": 1.66,
     "image": "https://i.ebayimg.com/images/g/wR4AAeSw5rNpyZ7s/s-l300.jpg",
@@ -42456,7 +42732,7 @@ window.products = [
     "stock": 2
   },
   {
-    "id": 3539,
+    "id": 3562,
     "name": "Aaron Judge #GH-2 - 2026 Topps Series 1 - MLB Baseball Card",
     "price": 1.9,
     "image": "https://i.ebayimg.com/images/g/MKIAAeSwgV5pyZ7Z/s-l300.jpg",
@@ -42468,7 +42744,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 3540,
+    "id": 3563,
     "name": "Cal Raleigh #TP-24 - 2026 Topps Series 1 - MLB Baseball Card",
     "price": 1.9,
     "image": "https://i.ebayimg.com/images/g/MEEAAeSwgV5pyZ7G/s-l300.jpg",
@@ -42480,7 +42756,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 3541,
+    "id": 3564,
     "name": "Mike Trout #BTP-1 - 2026 Topps Series 1 - MLB Baseball Card",
     "price": 1.9,
     "image": "https://i.ebayimg.com/images/g/pT0AAeSwjX1pyZ6c/s-l300.jpg",
@@ -42492,7 +42768,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 3542,
+    "id": 3565,
     "name": "Pete Crow-Armstrong #GD-4 - 2026 Topps Series 1 - MLB Baseball Card",
     "price": 1.43,
     "image": "https://i.ebayimg.com/images/g/m5IAAeSw28ppyZ6I/s-l300.jpg",
@@ -42504,7 +42780,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 3543,
+    "id": 3566,
     "name": "Fernando Tatis Jr. #GD-8 - 2026 Topps Series 1 - MLB Baseball Card",
     "price": 1.43,
     "image": "https://i.ebayimg.com/images/g/o7EAAeSwjX1pyZ5L/s-l300.jpg",
@@ -42516,7 +42792,7 @@ window.products = [
     "stock": 2
   },
   {
-    "id": 3544,
+    "id": 3567,
     "name": "Aaron Judge #GD-7 - 2026 Topps Series 1 - MLB Baseball Card",
     "price": 2.85,
     "image": "https://i.ebayimg.com/images/g/0zQAAeSwi5hpyZ4Y/s-l300.jpg",
@@ -42528,7 +42804,7 @@ window.products = [
     "stock": 3
   },
   {
-    "id": 3545,
+    "id": 3568,
     "name": "Javier Baez #GD-3 - 2026 Topps Series 1 - MLB Baseball Card",
     "price": 1.9,
     "image": "https://i.ebayimg.com/images/g/sWgAAeSwf1VpyZ37/s-l300.jpg",
@@ -42540,7 +42816,7 @@ window.products = [
     "stock": 2
   },
   {
-    "id": 3546,
+    "id": 3569,
     "name": "Samuel Basallo (RC) #8B-20 - 2026 Topps Series 1 - MLB Baseball Card",
     "price": 1.9,
     "image": "https://i.ebayimg.com/images/g/vJAAAeSw3-dpyZ3I/s-l300.jpg",
@@ -42552,7 +42828,7 @@ window.products = [
     "stock": 2
   },
   {
-    "id": 3547,
+    "id": 3570,
     "name": "Nick Kurtz #8B-6 - 2026 Topps Series 1 - MLB Baseball Card",
     "price": 1.66,
     "image": "https://i.ebayimg.com/images/g/rrUAAeSwLydpyZ2Z/s-l300.jpg",
@@ -42564,7 +42840,7 @@ window.products = [
     "stock": 2
   },
   {
-    "id": 3548,
+    "id": 3571,
     "name": "Kyle Schwarber #8B-25 - 2026 Topps Series 1 - MLB Baseball Card",
     "price": 1.9,
     "image": "https://i.ebayimg.com/images/g/uN4AAeSwLTxpyZ2G/s-l300.jpg",
@@ -42576,7 +42852,7 @@ window.products = [
     "stock": 2
   },
   {
-    "id": 3549,
+    "id": 3572,
     "name": "Sluggerrr #M-9 Kansas City Royals MASCOT - 2026 Topps Series 1 - MLB Baseball Ca",
     "price": 1.9,
     "image": "https://i.ebayimg.com/images/g/wFsAAeSwM~tpyZ1t/s-l300.jpg",
@@ -42588,7 +42864,7 @@ window.products = [
     "stock": 2
   },
   {
-    "id": 3550,
+    "id": 3573,
     "name": "Blooper #M-23 Braves MASCOT - 2026 Topps Series 1 - MLB Baseball Card",
     "price": 1.9,
     "image": "https://i.ebayimg.com/images/g/qbkAAeSw7rhpyZ1J/s-l300.jpg",
@@ -42600,7 +42876,7 @@ window.products = [
     "stock": 3
   },
   {
-    "id": 3551,
+    "id": 3574,
     "name": "Freebird #M-21 Cardinals MASCOT - 2026 Topps Series 1 - MLB Baseball Card",
     "price": 1.9,
     "image": "https://i.ebayimg.com/images/g/lpcAAeSwQ15pyZ0t/s-l300.jpg",
@@ -42612,7 +42888,7 @@ window.products = [
     "stock": 2
   },
   {
-    "id": 3552,
+    "id": 3575,
     "name": "Nolan Arenado #PAS-7 - 2026 Topps Series 1 - MLB Baseball Card",
     "price": 1.66,
     "image": "https://i.ebayimg.com/images/g/JjYAAeSwnBhpyZ0A/s-l300.jpg",
@@ -42624,7 +42900,7 @@ window.products = [
     "stock": 3
   },
   {
-    "id": 3553,
+    "id": 3576,
     "name": "Ronald Acuna Jr. #PAS-2 - 2026 Topps Series 1 - MLB Baseball Card",
     "price": 1.66,
     "image": "https://i.ebayimg.com/images/g/vZUAAeSwO05pyZzq/s-l300.jpg",
@@ -42636,7 +42912,7 @@ window.products = [
     "stock": 2
   },
   {
-    "id": 3554,
+    "id": 3577,
     "name": "Mike Trout #PAS-1 - 2026 Topps Series 1 - MLB Baseball Card",
     "price": 2.85,
     "image": "https://i.ebayimg.com/images/g/yC4AAeSw~ZdpyZzS/s-l300.jpg",
@@ -42648,7 +42924,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 3555,
+    "id": 3578,
     "name": "Manny Machado #PAS-24 - 2026 Topps Series 1 - MLB Baseball Card",
     "price": 1.66,
     "image": "https://i.ebayimg.com/images/g/sM0AAeSwAVRpyZy5/s-l300.jpg",
@@ -42660,7 +42936,7 @@ window.products = [
     "stock": 2
   },
   {
-    "id": 3556,
+    "id": 3579,
     "name": "Jose Altuve #PAS-4 - 2026 Topps Series 1 - MLB Baseball Card",
     "price": 1.9,
     "image": "https://i.ebayimg.com/images/g/sbAAAeSwTmlpyZyj/s-l300.jpg",
@@ -42672,7 +42948,7 @@ window.products = [
     "stock": 2
   },
   {
-    "id": 3557,
+    "id": 3580,
     "name": "Ronny Henriquez #290 SILVER SPARKLE - 2026 Topps Series 1 - MLB Baseball Card",
     "price": 1.9,
     "image": "https://i.ebayimg.com/images/g/vNAAAeSwFVNpyZx7/s-l300.jpg",
@@ -42684,7 +42960,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 3558,
+    "id": 3581,
     "name": "Edward Cabrera #288 SILVER SPARKLE - 2026 Topps Series 1 - MLB Baseball Card",
     "price": 1.9,
     "image": "https://i.ebayimg.com/images/g/1DIAAeSwLM5pyZxI/s-l300.jpg",
@@ -42696,7 +42972,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 3559,
+    "id": 3582,
     "name": "Milwaukee Brewers #107 SILVER SPARKLE - 2026 Topps Series 1 - MLB Baseball Card",
     "price": 2.85,
     "image": "https://i.ebayimg.com/images/g/-MYAAeSwnjxpyZwu/s-l300.jpg",
@@ -42708,7 +42984,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 3560,
+    "id": 3583,
     "name": "Joe Ryan #54 SILVER SPARKLE - 2026 Topps Series 1 - MLB Baseball Card",
     "price": 1.9,
     "image": "https://i.ebayimg.com/images/g/sjIAAeSw9lFpyZwY/s-l300.jpg",
@@ -42720,7 +42996,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 3561,
+    "id": 3584,
     "name": "Tarik Skubal #300 SILVER SPARKLE - 2026 Topps Series 1 - MLB Baseball Card",
     "price": 2.85,
     "image": "https://i.ebayimg.com/images/g/m9MAAeSwUxBpyZv-/s-l300.jpg",
@@ -42732,7 +43008,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 3562,
+    "id": 3585,
     "name": "Coby Mayo #72 SILVER SPARKLE - 2026 Topps Series 1 - MLB Baseball Card",
     "price": 1.9,
     "image": "https://i.ebayimg.com/images/g/zwgAAeSwthdpyZvs/s-l300.jpg",
@@ -42744,7 +43020,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 3563,
+    "id": 3586,
     "name": "Jordan Beck #12 SAND GLITTER - 2026 Topps Series 1 - MLB Baseball Card",
     "price": 1.9,
     "image": "https://i.ebayimg.com/images/g/wOcAAeSweARpyZvT/s-l300.jpg",
@@ -42756,7 +43032,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 3564,
+    "id": 3587,
     "name": "Ramon Urias #343 SILVER SPARKLE - 2026 Topps Series 1 - MLB Baseball Card",
     "price": 1.9,
     "image": "https://i.ebayimg.com/images/g/q0cAAeSw8tFpyZu-/s-l300.jpg",
@@ -42768,7 +43044,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 3565,
+    "id": 3588,
     "name": "Schwarber, Ohtani, Soto #84 SILVER SPARKLE - 2026 Topps Series 1 - MLB Baseball",
     "price": 4.75,
     "image": "https://i.ebayimg.com/images/g/ubgAAeSwgyhpyZul/s-l300.jpg",
@@ -42780,7 +43056,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 3566,
+    "id": 3589,
     "name": "Jacob Wilson #240 SAND GLITTER - 2026 Topps Series 1 - MLB Baseball Card",
     "price": 1.9,
     "image": "https://i.ebayimg.com/images/g/9vQAAeSwYrZpyZto/s-l300.jpg",
@@ -42792,7 +43068,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 3567,
+    "id": 3590,
     "name": "Will Warren #176 SILVER SPARKLE - 2026 Topps Series 1 - MLB Baseball Card",
     "price": 1.9,
     "image": "https://i.ebayimg.com/images/g/tGQAAeSwt~9pyZtP/s-l300.jpg",
@@ -42804,7 +43080,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 3568,
+    "id": 3591,
     "name": "Edmundo Sosa #289 SILVER SPARKLE - 2026 Topps Series 1 - MLB Baseball Card",
     "price": 1.9,
     "image": "https://i.ebayimg.com/images/g/qTQAAeSwoB1pyZs6/s-l300.jpg",
@@ -42816,7 +43092,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 3569,
+    "id": 3592,
     "name": "Bo Naylor #188 SILVER SPARKLE - 2026 Topps Series 1 - MLB Baseball Card",
     "price": 1.9,
     "image": "https://i.ebayimg.com/images/g/lY0AAeSwmGVpyZsl/s-l300.jpg",
@@ -42828,7 +43104,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 3570,
+    "id": 3593,
     "name": "Sean Murphy #30 SILVER SPARKLE - 2026 Topps Series 1 - MLB Baseball Card",
     "price": 1.9,
     "image": "https://i.ebayimg.com/images/g/FlQAAeSwRL1pyZsN/s-l300.jpg",
@@ -42840,7 +43116,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 3571,
+    "id": 3594,
     "name": "Jacob Melton (RC) #148 SILVER SPARKLE - 2026 Topps Series 1 - MLB Baseball Card",
     "price": 1.9,
     "image": "https://i.ebayimg.com/images/g/moYAAeSwx2dpyZro/s-l300.jpg",
@@ -42852,7 +43128,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 3572,
+    "id": 3595,
     "name": "Jack Perkins (RC) #206 SILVER SPARKLE - 2026 Topps Series 1 - MLB Baseball Card",
     "price": 2.85,
     "image": "https://i.ebayimg.com/images/g/kG4AAeSwbzppyZZ~/s-l300.jpg",
@@ -42864,7 +43140,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 3573,
+    "id": 3596,
     "name": "Corey Seager #96 OPENING DAY FOIL - 2026 Topps Series 1 - MLB Baseball Card",
     "price": 6.65,
     "image": "https://i.ebayimg.com/images/g/j7oAAeSwQONpyZY1/s-l300.jpg",
@@ -42876,7 +43152,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 3574,
+    "id": 3597,
     "name": "Byron Buxton #255 OPENING DAY FOIL - 2026 Topps Series 1 - MLB Baseball Card",
     "price": 4.75,
     "image": "https://i.ebayimg.com/images/g/1h0AAeSwcN1pyZX8/s-l300.jpg",
@@ -42888,7 +43164,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 3575,
+    "id": 3598,
     "name": "Max Schuemann #225 REFRACTOR - 2026 Topps Series 1 - MLB Baseball Card",
     "price": 1.9,
     "image": "https://i.ebayimg.com/images/g/jPoAAeSw~rFpyZV4/s-l300.jpg",
@@ -42900,7 +43176,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 3576,
+    "id": 3599,
     "name": "Ronny Mauricio #159 REFRACTOR - 2026 Topps Series 1 - MLB Baseball Card",
     "price": 1.9,
     "image": "https://i.ebayimg.com/images/g/icgAAeSwQONpyZVZ/s-l300.jpg",
@@ -42912,7 +43188,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 3577,
+    "id": 3600,
     "name": "Roman Anthony (RC) #SMLB-25 - 2026 Topps Series 1 - MLB Baseball Card",
     "price": 2.85,
     "image": "https://i.ebayimg.com/images/g/8SYAAeSwf7JpyZU3/s-l300.jpg",
@@ -42924,7 +43200,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 3578,
+    "id": 3601,
     "name": "Shohei Ohtani #TP-1 - 2026 Topps Series 1 - MLB Baseball Card",
     "price": 1.9,
     "image": "https://i.ebayimg.com/images/g/x1EAAeSwJE9pyZUS/s-l300.jpg",
@@ -42936,283 +43212,283 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 3579,
-    "name": "Shohei Ohtani #ATT-9 - 2026 Topps Series 1 - MLB Baseball Card",
-    "price": 2.85,
-    "image": null,
-    "url": "https://www.ebay.com/itm/168272010289",
-    "category": "baseball",
-    "badge": null,
-    "discount": null,
-    "numbered": false,
-    "stock": 0
-  },
-  {
-    "id": 3580,
-    "name": "Shohei Ohtani #ATT-9 - 2026 Topps Series 1 - MLB Baseball Card",
-    "price": 2.85,
-    "image": null,
-    "url": "https://www.ebay.com/itm/168272010289",
-    "category": "baseball",
-    "badge": null,
-    "discount": null,
-    "numbered": false,
-    "stock": 0
-  },
-  {
-    "id": 3581,
-    "name": "Shohei Ohtani #ATT-9 - 2026 Topps Series 1 - MLB Baseball Card",
-    "price": 2.85,
-    "image": null,
-    "url": "https://www.ebay.com/itm/168272010289",
-    "category": "baseball",
-    "badge": null,
-    "discount": null,
-    "numbered": false,
-    "stock": 0
-  },
-  {
-    "id": 3582,
-    "name": "Shohei Ohtani #ATT-9 - 2026 Topps Series 1 - MLB Baseball Card",
-    "price": 2.85,
-    "image": null,
-    "url": "https://www.ebay.com/itm/168272010289",
-    "category": "baseball",
-    "badge": null,
-    "discount": null,
-    "numbered": false,
-    "stock": 0
-  },
-  {
-    "id": 3583,
-    "name": "Shohei Ohtani #ATT-9 - 2026 Topps Series 1 - MLB Baseball Card",
-    "price": 2.85,
-    "image": null,
-    "url": "https://www.ebay.com/itm/168272010289",
-    "category": "baseball",
-    "badge": null,
-    "discount": null,
-    "numbered": false,
-    "stock": 0
-  },
-  {
-    "id": 3584,
-    "name": "Shohei Ohtani #ATT-9 - 2026 Topps Series 1 - MLB Baseball Card",
-    "price": 2.85,
-    "image": null,
-    "url": "https://www.ebay.com/itm/168272010289",
-    "category": "baseball",
-    "badge": null,
-    "discount": null,
-    "numbered": false,
-    "stock": 0
-  },
-  {
-    "id": 3585,
-    "name": "Shohei Ohtani #ATT-9 - 2026 Topps Series 1 - MLB Baseball Card",
-    "price": 2.85,
-    "image": null,
-    "url": "https://www.ebay.com/itm/168272010289",
-    "category": "baseball",
-    "badge": null,
-    "discount": null,
-    "numbered": false,
-    "stock": 0
-  },
-  {
-    "id": 3586,
-    "name": "Shohei Ohtani #ATT-9 - 2026 Topps Series 1 - MLB Baseball Card",
-    "price": 2.85,
-    "image": null,
-    "url": "https://www.ebay.com/itm/168272010289",
-    "category": "baseball",
-    "badge": null,
-    "discount": null,
-    "numbered": false,
-    "stock": 0
-  },
-  {
-    "id": 3587,
-    "name": "Shohei Ohtani #ATT-9 - 2026 Topps Series 1 - MLB Baseball Card",
-    "price": 2.85,
-    "image": null,
-    "url": "https://www.ebay.com/itm/168272010289",
-    "category": "baseball",
-    "badge": null,
-    "discount": null,
-    "numbered": false,
-    "stock": 0
-  },
-  {
-    "id": 3588,
-    "name": "Shohei Ohtani #ATT-9 - 2026 Topps Series 1 - MLB Baseball Card",
-    "price": 2.85,
-    "image": null,
-    "url": "https://www.ebay.com/itm/168272010289",
-    "category": "baseball",
-    "badge": null,
-    "discount": null,
-    "numbered": false,
-    "stock": 0
-  },
-  {
-    "id": 3589,
-    "name": "Shohei Ohtani #ATT-9 - 2026 Topps Series 1 - MLB Baseball Card",
-    "price": 2.85,
-    "image": null,
-    "url": "https://www.ebay.com/itm/168272010289",
-    "category": "baseball",
-    "badge": null,
-    "discount": null,
-    "numbered": false,
-    "stock": 0
-  },
-  {
-    "id": 3590,
-    "name": "Shohei Ohtani #ATT-9 - 2026 Topps Series 1 - MLB Baseball Card",
-    "price": 2.85,
-    "image": null,
-    "url": "https://www.ebay.com/itm/168272010289",
-    "category": "baseball",
-    "badge": null,
-    "discount": null,
-    "numbered": false,
-    "stock": 0
-  },
-  {
-    "id": 3591,
-    "name": "Shohei Ohtani #ATT-9 - 2026 Topps Series 1 - MLB Baseball Card",
-    "price": 2.85,
-    "image": null,
-    "url": "https://www.ebay.com/itm/168272010289",
-    "category": "baseball",
-    "badge": null,
-    "discount": null,
-    "numbered": false,
-    "stock": 0
-  },
-  {
-    "id": 3592,
-    "name": "Shohei Ohtani #ATT-9 - 2026 Topps Series 1 - MLB Baseball Card",
-    "price": 2.85,
-    "image": null,
-    "url": "https://www.ebay.com/itm/168272010289",
-    "category": "baseball",
-    "badge": null,
-    "discount": null,
-    "numbered": false,
-    "stock": 0
-  },
-  {
-    "id": 3593,
-    "name": "Shohei Ohtani #ATT-9 - 2026 Topps Series 1 - MLB Baseball Card",
-    "price": 2.85,
-    "image": null,
-    "url": "https://www.ebay.com/itm/168272010289",
-    "category": "baseball",
-    "badge": null,
-    "discount": null,
-    "numbered": false,
-    "stock": 0
-  },
-  {
-    "id": 3594,
-    "name": "Shohei Ohtani #ATT-9 - 2026 Topps Series 1 - MLB Baseball Card",
-    "price": 2.85,
-    "image": null,
-    "url": "https://www.ebay.com/itm/168272010289",
-    "category": "baseball",
-    "badge": null,
-    "discount": null,
-    "numbered": false,
-    "stock": 0
-  },
-  {
-    "id": 3595,
-    "name": "Shohei Ohtani #ATT-9 - 2026 Topps Series 1 - MLB Baseball Card",
-    "price": 2.85,
-    "image": null,
-    "url": "https://www.ebay.com/itm/168272010289",
-    "category": "baseball",
-    "badge": null,
-    "discount": null,
-    "numbered": false,
-    "stock": 0
-  },
-  {
-    "id": 3596,
-    "name": "Shohei Ohtani #ATT-9 - 2026 Topps Series 1 - MLB Baseball Card",
-    "price": 2.85,
-    "image": null,
-    "url": "https://www.ebay.com/itm/168272010289",
-    "category": "baseball",
-    "badge": null,
-    "discount": null,
-    "numbered": false,
-    "stock": 0
-  },
-  {
-    "id": 3597,
-    "name": "Shohei Ohtani #ATT-9 - 2026 Topps Series 1 - MLB Baseball Card",
-    "price": 2.85,
-    "image": null,
-    "url": "https://www.ebay.com/itm/168272010289",
-    "category": "baseball",
-    "badge": null,
-    "discount": null,
-    "numbered": false,
-    "stock": 0
-  },
-  {
-    "id": 3598,
-    "name": "Shohei Ohtani #ATT-9 - 2026 Topps Series 1 - MLB Baseball Card",
-    "price": 2.85,
-    "image": null,
-    "url": "https://www.ebay.com/itm/168272010289",
-    "category": "baseball",
-    "badge": null,
-    "discount": null,
-    "numbered": false,
-    "stock": 0
-  },
-  {
-    "id": 3599,
-    "name": "Shohei Ohtani #ATT-9 - 2026 Topps Series 1 - MLB Baseball Card",
-    "price": 2.85,
-    "image": null,
-    "url": "https://www.ebay.com/itm/168272010289",
-    "category": "baseball",
-    "badge": null,
-    "discount": null,
-    "numbered": false,
-    "stock": 0
-  },
-  {
-    "id": 3600,
-    "name": "Shohei Ohtani #ATT-9 - 2026 Topps Series 1 - MLB Baseball Card",
-    "price": 2.85,
-    "image": null,
-    "url": "https://www.ebay.com/itm/168272010289",
-    "category": "baseball",
-    "badge": null,
-    "discount": null,
-    "numbered": false,
-    "stock": 0
-  },
-  {
-    "id": 3601,
-    "name": "Shohei Ohtani #ATT-9 - 2026 Topps Series 1 - MLB Baseball Card",
-    "price": 2.85,
-    "image": null,
-    "url": "https://www.ebay.com/itm/168272010289",
-    "category": "baseball",
-    "badge": null,
-    "discount": null,
-    "numbered": false,
-    "stock": 0
-  },
-  {
     "id": 3602,
+    "name": "Shohei Ohtani #ATT-9 - 2026 Topps Series 1 - MLB Baseball Card",
+    "price": 2.85,
+    "image": null,
+    "url": "https://www.ebay.com/itm/168272010289",
+    "category": "baseball",
+    "badge": null,
+    "discount": null,
+    "numbered": false,
+    "stock": 0
+  },
+  {
+    "id": 3603,
+    "name": "Shohei Ohtani #ATT-9 - 2026 Topps Series 1 - MLB Baseball Card",
+    "price": 2.85,
+    "image": null,
+    "url": "https://www.ebay.com/itm/168272010289",
+    "category": "baseball",
+    "badge": null,
+    "discount": null,
+    "numbered": false,
+    "stock": 0
+  },
+  {
+    "id": 3604,
+    "name": "Shohei Ohtani #ATT-9 - 2026 Topps Series 1 - MLB Baseball Card",
+    "price": 2.85,
+    "image": null,
+    "url": "https://www.ebay.com/itm/168272010289",
+    "category": "baseball",
+    "badge": null,
+    "discount": null,
+    "numbered": false,
+    "stock": 0
+  },
+  {
+    "id": 3605,
+    "name": "Shohei Ohtani #ATT-9 - 2026 Topps Series 1 - MLB Baseball Card",
+    "price": 2.85,
+    "image": null,
+    "url": "https://www.ebay.com/itm/168272010289",
+    "category": "baseball",
+    "badge": null,
+    "discount": null,
+    "numbered": false,
+    "stock": 0
+  },
+  {
+    "id": 3606,
+    "name": "Shohei Ohtani #ATT-9 - 2026 Topps Series 1 - MLB Baseball Card",
+    "price": 2.85,
+    "image": null,
+    "url": "https://www.ebay.com/itm/168272010289",
+    "category": "baseball",
+    "badge": null,
+    "discount": null,
+    "numbered": false,
+    "stock": 0
+  },
+  {
+    "id": 3607,
+    "name": "Shohei Ohtani #ATT-9 - 2026 Topps Series 1 - MLB Baseball Card",
+    "price": 2.85,
+    "image": null,
+    "url": "https://www.ebay.com/itm/168272010289",
+    "category": "baseball",
+    "badge": null,
+    "discount": null,
+    "numbered": false,
+    "stock": 0
+  },
+  {
+    "id": 3608,
+    "name": "Shohei Ohtani #ATT-9 - 2026 Topps Series 1 - MLB Baseball Card",
+    "price": 2.85,
+    "image": null,
+    "url": "https://www.ebay.com/itm/168272010289",
+    "category": "baseball",
+    "badge": null,
+    "discount": null,
+    "numbered": false,
+    "stock": 0
+  },
+  {
+    "id": 3609,
+    "name": "Shohei Ohtani #ATT-9 - 2026 Topps Series 1 - MLB Baseball Card",
+    "price": 2.85,
+    "image": null,
+    "url": "https://www.ebay.com/itm/168272010289",
+    "category": "baseball",
+    "badge": null,
+    "discount": null,
+    "numbered": false,
+    "stock": 0
+  },
+  {
+    "id": 3610,
+    "name": "Shohei Ohtani #ATT-9 - 2026 Topps Series 1 - MLB Baseball Card",
+    "price": 2.85,
+    "image": null,
+    "url": "https://www.ebay.com/itm/168272010289",
+    "category": "baseball",
+    "badge": null,
+    "discount": null,
+    "numbered": false,
+    "stock": 0
+  },
+  {
+    "id": 3611,
+    "name": "Shohei Ohtani #ATT-9 - 2026 Topps Series 1 - MLB Baseball Card",
+    "price": 2.85,
+    "image": null,
+    "url": "https://www.ebay.com/itm/168272010289",
+    "category": "baseball",
+    "badge": null,
+    "discount": null,
+    "numbered": false,
+    "stock": 0
+  },
+  {
+    "id": 3612,
+    "name": "Shohei Ohtani #ATT-9 - 2026 Topps Series 1 - MLB Baseball Card",
+    "price": 2.85,
+    "image": null,
+    "url": "https://www.ebay.com/itm/168272010289",
+    "category": "baseball",
+    "badge": null,
+    "discount": null,
+    "numbered": false,
+    "stock": 0
+  },
+  {
+    "id": 3613,
+    "name": "Shohei Ohtani #ATT-9 - 2026 Topps Series 1 - MLB Baseball Card",
+    "price": 2.85,
+    "image": null,
+    "url": "https://www.ebay.com/itm/168272010289",
+    "category": "baseball",
+    "badge": null,
+    "discount": null,
+    "numbered": false,
+    "stock": 0
+  },
+  {
+    "id": 3614,
+    "name": "Shohei Ohtani #ATT-9 - 2026 Topps Series 1 - MLB Baseball Card",
+    "price": 2.85,
+    "image": null,
+    "url": "https://www.ebay.com/itm/168272010289",
+    "category": "baseball",
+    "badge": null,
+    "discount": null,
+    "numbered": false,
+    "stock": 0
+  },
+  {
+    "id": 3615,
+    "name": "Shohei Ohtani #ATT-9 - 2026 Topps Series 1 - MLB Baseball Card",
+    "price": 2.85,
+    "image": null,
+    "url": "https://www.ebay.com/itm/168272010289",
+    "category": "baseball",
+    "badge": null,
+    "discount": null,
+    "numbered": false,
+    "stock": 0
+  },
+  {
+    "id": 3616,
+    "name": "Shohei Ohtani #ATT-9 - 2026 Topps Series 1 - MLB Baseball Card",
+    "price": 2.85,
+    "image": null,
+    "url": "https://www.ebay.com/itm/168272010289",
+    "category": "baseball",
+    "badge": null,
+    "discount": null,
+    "numbered": false,
+    "stock": 0
+  },
+  {
+    "id": 3617,
+    "name": "Shohei Ohtani #ATT-9 - 2026 Topps Series 1 - MLB Baseball Card",
+    "price": 2.85,
+    "image": null,
+    "url": "https://www.ebay.com/itm/168272010289",
+    "category": "baseball",
+    "badge": null,
+    "discount": null,
+    "numbered": false,
+    "stock": 0
+  },
+  {
+    "id": 3618,
+    "name": "Shohei Ohtani #ATT-9 - 2026 Topps Series 1 - MLB Baseball Card",
+    "price": 2.85,
+    "image": null,
+    "url": "https://www.ebay.com/itm/168272010289",
+    "category": "baseball",
+    "badge": null,
+    "discount": null,
+    "numbered": false,
+    "stock": 0
+  },
+  {
+    "id": 3619,
+    "name": "Shohei Ohtani #ATT-9 - 2026 Topps Series 1 - MLB Baseball Card",
+    "price": 2.85,
+    "image": null,
+    "url": "https://www.ebay.com/itm/168272010289",
+    "category": "baseball",
+    "badge": null,
+    "discount": null,
+    "numbered": false,
+    "stock": 0
+  },
+  {
+    "id": 3620,
+    "name": "Shohei Ohtani #ATT-9 - 2026 Topps Series 1 - MLB Baseball Card",
+    "price": 2.85,
+    "image": null,
+    "url": "https://www.ebay.com/itm/168272010289",
+    "category": "baseball",
+    "badge": null,
+    "discount": null,
+    "numbered": false,
+    "stock": 0
+  },
+  {
+    "id": 3621,
+    "name": "Shohei Ohtani #ATT-9 - 2026 Topps Series 1 - MLB Baseball Card",
+    "price": 2.85,
+    "image": null,
+    "url": "https://www.ebay.com/itm/168272010289",
+    "category": "baseball",
+    "badge": null,
+    "discount": null,
+    "numbered": false,
+    "stock": 0
+  },
+  {
+    "id": 3622,
+    "name": "Shohei Ohtani #ATT-9 - 2026 Topps Series 1 - MLB Baseball Card",
+    "price": 2.85,
+    "image": null,
+    "url": "https://www.ebay.com/itm/168272010289",
+    "category": "baseball",
+    "badge": null,
+    "discount": null,
+    "numbered": false,
+    "stock": 0
+  },
+  {
+    "id": 3623,
+    "name": "Shohei Ohtani #ATT-9 - 2026 Topps Series 1 - MLB Baseball Card",
+    "price": 2.85,
+    "image": null,
+    "url": "https://www.ebay.com/itm/168272010289",
+    "category": "baseball",
+    "badge": null,
+    "discount": null,
+    "numbered": false,
+    "stock": 0
+  },
+  {
+    "id": 3624,
+    "name": "Shohei Ohtani #ATT-9 - 2026 Topps Series 1 - MLB Baseball Card",
+    "price": 2.85,
+    "image": null,
+    "url": "https://www.ebay.com/itm/168272010289",
+    "category": "baseball",
+    "badge": null,
+    "discount": null,
+    "numbered": false,
+    "stock": 0
+  },
+  {
+    "id": 3625,
     "name": "/150* BLUE Drew Rasmussen #64 - 2026 Topps Series 1 - MLB Baseball Card",
     "price": 4.75,
     "image": "https://i.ebayimg.com/images/g/qKIAAeSwkhFpyZS7/s-l300.jpg",
@@ -43224,7 +43500,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 3603,
+    "id": 3626,
     "name": "Chipper Jones #T91-13 - 2026 Topps Series 1 - MLB Baseball Card",
     "price": 1.9,
     "image": "https://i.ebayimg.com/images/g/qakAAeSwU4JpyZSU/s-l300.jpg",
@@ -43236,7 +43512,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 3604,
+    "id": 3627,
     "name": "Chase Burns (RC) #T91-73 - 2026 Topps Series 1 - MLB Baseball Card",
     "price": 1.9,
     "image": "https://i.ebayimg.com/images/g/lcwAAeSwRXppyZR4/s-l300.jpg",
@@ -43248,7 +43524,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 3605,
+    "id": 3628,
     "name": "Shohei Ohtani #GH-17  - 2026 Topps Series 1 - MLB Baseball Card",
     "price": 1.9,
     "image": "https://i.ebayimg.com/images/g/1h4AAeSwvqRpyZRg/s-l300.jpg",
@@ -43260,7 +43536,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 3606,
+    "id": 3629,
     "name": "/2026* Devin Williams #239  - 2026 Topps Series 1 - MLB Baseball Card",
     "price": 3.8,
     "image": "https://i.ebayimg.com/images/g/hVYAAeSwXEhpyZQh/s-l300.jpg",
@@ -43272,7 +43548,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 3607,
+    "id": 3630,
     "name": "Max Muncy #GH-24 REFRACTOR  - 2026 Topps Series 1 - MLB Baseball Card",
     "price": 4.75,
     "image": "https://i.ebayimg.com/images/g/8acAAeSwnXZpyZPz/s-l300.jpg",
@@ -43284,7 +43560,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 3608,
+    "id": 3631,
     "name": "Drew Gilbert (RC) #155 REFRACTOR - 2026 Topps Series 1 - MLB Baseball Card",
     "price": 2.38,
     "image": "https://i.ebayimg.com/images/g/iOIAAeSwyL1pyZOR/s-l300.jpg",
@@ -43296,7 +43572,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 3609,
+    "id": 3632,
     "name": "Bubba Chandler (RC) #8B-22 - 2026 Topps Series 1 - MLB Baseball Card",
     "price": 2.85,
     "image": "https://i.ebayimg.com/images/g/~BYAAeSwG4ppyZME/s-l300.jpg",
@@ -43308,7 +43584,7 @@ window.products = [
     "stock": 3
   },
   {
-    "id": 3610,
+    "id": 3633,
     "name": "Mookie Betts #GD-16 - 2026 Topps Series 1 - MLB Baseball Card",
     "price": 1.9,
     "image": "https://i.ebayimg.com/images/g/e8gAAeSwAVRpyZLL/s-l300.jpg",
@@ -43320,7 +43596,7 @@ window.products = [
     "stock": 2
   },
   {
-    "id": 3611,
+    "id": 3634,
     "name": "Barrell Brewers #M-27 MASCOT - 2026 Topps Series 1 - MLB Baseball Card",
     "price": 2.85,
     "image": "https://i.ebayimg.com/images/g/2ygAAeSwucRpyZKd/s-l300.jpg",
@@ -43332,7 +43608,7 @@ window.products = [
     "stock": 3
   },
   {
-    "id": 3612,
+    "id": 3635,
     "name": "Francisco Lindor #PAS-5 - 2026 Topps Series 1 - MLB Baseball Card",
     "price": 1.9,
     "image": "https://i.ebayimg.com/images/g/qRMAAeSwcdJpyZIs/s-l300.jpg",
@@ -43344,7 +43620,7 @@ window.products = [
     "stock": 3
   },
   {
-    "id": 3613,
+    "id": 3636,
     "name": "Teoscar Hernandez #251 SILVER SPARKLE - 2026 Topps Series 1 - MLB Baseball Card",
     "price": 2.38,
     "image": "https://i.ebayimg.com/images/g/hhQAAeSwVklpyZIR/s-l300.jpg",
@@ -43356,7 +43632,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 3614,
+    "id": 3637,
     "name": "Gunnar Henderson #46 SILVER SPARKLE - 2026 Topps Series 1 - MLB Baseball Card",
     "price": 1.9,
     "image": "https://i.ebayimg.com/images/g/vlcAAeSwYZ9pyZHo/s-l300.jpg",
@@ -43368,7 +43644,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 3615,
+    "id": 3638,
     "name": "James Wood #349 SILVER SPARKLE - 2026 Topps Series 1 - MLB Baseball Card",
     "price": 2.85,
     "image": "https://i.ebayimg.com/images/g/zYQAAeSwUatpyZGv/s-l300.jpg",
@@ -43380,7 +43656,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 3616,
+    "id": 3639,
     "name": "Blake Snell #340 SILVER SPARKLE - 2026 Topps Series 1 - MLB Baseball Card",
     "price": 1.9,
     "image": "https://i.ebayimg.com/images/g/cSUAAeSwIXFpyZGV/s-l300.jpg",
@@ -43392,7 +43668,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 3617,
+    "id": 3640,
     "name": "Kansas City Royals #34 SILVER SPARKLE - 2026 Topps Series 1 - MLB Baseball Card",
     "price": 2.14,
     "image": "https://i.ebayimg.com/images/g/mk0AAeSwU4JpyZF-/s-l300.jpg",
@@ -43404,7 +43680,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 3618,
+    "id": 3641,
     "name": "Didier Fuentes (RC) #243 SAND GLITTER - 2026 Topps Series 1 - MLB Baseball Card",
     "price": 2.85,
     "image": "https://i.ebayimg.com/images/g/d~8AAeSwXEhpyZFN/s-l300.jpg",
@@ -43416,7 +43692,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 3619,
+    "id": 3642,
     "name": "Jacob Misiorowski (RC) 11K OPENING DAY - 2026 MLB Topps NOW®  Card 4 IN-HAND",
     "price": 6.08,
     "image": "https://i.ebayimg.com/images/g/CGkAAeSw7Axpx3H~/s-l300.png",
@@ -43428,7 +43704,7 @@ window.products = [
     "stock": 7
   },
   {
-    "id": 3620,
+    "id": 3643,
     "name": "Shohei Ohtani #TOG-1 - 2026 Topps Series 1 - MLB Baseball",
     "price": 2.85,
     "image": "https://i.ebayimg.com/images/g/pCsAAeSwjStpxc2q/s-l300.jpg",
@@ -43440,7 +43716,7 @@ window.products = [
     "stock": 3
   },
   {
-    "id": 3621,
+    "id": 3644,
     "name": "Jazz Chisholm Jr. #GD-9 - 2026 Topps Series 1 - MLB Baseball",
     "price": 1.36,
     "image": "https://i.ebayimg.com/images/g/rwMAAeSwJQ1pxc2Q/s-l300.jpg",
@@ -43452,7 +43728,7 @@ window.products = [
     "stock": 4
   },
   {
-    "id": 3622,
+    "id": 3645,
     "name": "Francisco Lindor #GD-10 - 2026 Topps Series 1 - MLB Baseball",
     "price": 2.03,
     "image": "https://i.ebayimg.com/images/g/d4cAAeSwf1Vpxc18/s-l300.jpg",
@@ -43464,7 +43740,7 @@ window.products = [
     "stock": 4
   },
   {
-    "id": 3623,
+    "id": 3646,
     "name": "Gunnar Henderson #GD-13 - 2026 Topps Series 1 - MLB Baseball",
     "price": 1.43,
     "image": "https://i.ebayimg.com/images/g/GsoAAeSw5o1pxc1g/s-l300.jpg",
@@ -43476,7 +43752,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 3624,
+    "id": 3647,
     "name": "Andrew McCutchen #GD-19 - 2026 Topps Series 1 - MLB Baseball",
     "price": 1.43,
     "image": "https://i.ebayimg.com/images/g/etMAAeSwCEdpxc1L/s-l300.jpg",
@@ -43488,7 +43764,7 @@ window.products = [
     "stock": 3
   },
   {
-    "id": 3625,
+    "id": 3648,
     "name": "Matt Chapman #GD-17 - 2026 Topps Series 1 - MLB Baseball",
     "price": 1.36,
     "image": "https://i.ebayimg.com/images/g/9KkAAeSwjr1pxc03/s-l300.jpg",
@@ -43500,7 +43776,7 @@ window.products = [
     "stock": 5
   },
   {
-    "id": 3626,
+    "id": 3649,
     "name": "Shoeless Joe Jackson #T91-27 - 2026 Topps Series 1 - MLB Baseball",
     "price": 4.75,
     "image": "https://i.ebayimg.com/images/g/86YAAeSwWyhpxc0e/s-l300.jpg",
@@ -43512,7 +43788,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 3627,
+    "id": 3650,
     "name": "Jose Altuve #T91-7 - 2026 Topps Series 1 - MLB Baseball",
     "price": 1.9,
     "image": "https://i.ebayimg.com/images/g/kCoAAeSwg0Bpxczl/s-l300.jpg",
@@ -43524,7 +43800,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 3628,
+    "id": 3651,
     "name": "Randy Johnson #TP-25 - 2026 Topps Series 1 - MLB Baseball",
     "price": 1.9,
     "image": "https://i.ebayimg.com/images/g/plUAAeSwdj5pxczI/s-l300.jpg",
@@ -43536,7 +43812,7 @@ window.products = [
     "stock": 2
   },
   {
-    "id": 3629,
+    "id": 3652,
     "name": "Dylan Beavers (RC) #T91-24 - 2026 Topps Series 1 - MLB Baseball",
     "price": 1.9,
     "image": "https://i.ebayimg.com/images/g/uTIAAeSwx~hpxcyt/s-l300.jpg",
@@ -43548,7 +43824,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 3630,
+    "id": 3653,
     "name": "Dean Kremer #19 REFRACTOR - 2026 Topps Series 1 - MLB Baseball",
     "price": 1.9,
     "image": "https://i.ebayimg.com/images/g/tjQAAeSwLTtpxcyF/s-l300.jpg",
@@ -43560,7 +43836,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 3631,
+    "id": 3654,
     "name": "Bobby Witt Jr. #PAS-18 - 2026 Topps Series 1 - MLB Baseball",
     "price": 2.38,
     "image": "https://i.ebayimg.com/images/g/8l0AAeSwXXlpxcxn/s-l300.jpg",
@@ -43572,7 +43848,7 @@ window.products = [
     "stock": 3
   },
   {
-    "id": 3632,
+    "id": 3655,
     "name": "Kyle Tucker #PAS-3 - 2026 Topps Series 1 - MLB Baseball",
     "price": 1.81,
     "image": "https://i.ebayimg.com/images/g/r~QAAeSwmGVpxcxT/s-l300.jpg",
@@ -43584,7 +43860,7 @@ window.products = [
     "stock": 5
   },
   {
-    "id": 3633,
+    "id": 3656,
     "name": "Aaron Judge #PAS-14 - 2026 Topps Series 1 - MLB Baseball",
     "price": 2.71,
     "image": "https://i.ebayimg.com/images/g/okYAAeSwmFBpxcxB/s-l300.jpg",
@@ -43596,7 +43872,7 @@ window.products = [
     "stock": 4
   },
   {
-    "id": 3634,
+    "id": 3657,
     "name": "Mookie Betts #PAS-11 - 2026 Topps Series 1 - MLB Baseball",
     "price": 2.71,
     "image": "https://i.ebayimg.com/images/g/Do0AAeSw-cBpxcwt/s-l300.jpg",
@@ -43608,7 +43884,7 @@ window.products = [
     "stock": 4
   },
   {
-    "id": 3635,
+    "id": 3658,
     "name": "Pete Crow-Armstrong #PAS-23 - 2026 Topps Series 1 - MLB Baseball",
     "price": 2.14,
     "image": "https://i.ebayimg.com/images/g/n4sAAeSwvlZpxcv5/s-l300.jpg",
@@ -43620,7 +43896,7 @@ window.products = [
     "stock": 2
   },
   {
-    "id": 3636,
+    "id": 3659,
     "name": "Pete Alonso #PAS-19 - 2026 Topps Series 1 - MLB Baseball",
     "price": 1.9,
     "image": "https://i.ebayimg.com/images/g/uEQAAeSwkFNpxcvl/s-l300.jpg",
@@ -43632,7 +43908,7 @@ window.products = [
     "stock": 3
   },
   {
-    "id": 3637,
+    "id": 3660,
     "name": "Fernando Tatis Jr. #PAS-13 - 2026 Topps Series 1 - MLB Baseball",
     "price": 1.9,
     "image": "https://i.ebayimg.com/images/g/z10AAeSw6o1pxcvR/s-l300.jpg",
@@ -43644,7 +43920,7 @@ window.products = [
     "stock": 3
   },
   {
-    "id": 3638,
+    "id": 3661,
     "name": "Clayton Kershaw #PAS-6 - 2026 Topps Series 1 - MLB Baseball",
     "price": 1.81,
     "image": "https://i.ebayimg.com/images/g/dOAAAeSwM~tpxcu7/s-l300.jpg",
@@ -43656,7 +43932,7 @@ window.products = [
     "stock": 5
   },
   {
-    "id": 3639,
+    "id": 3662,
     "name": "Angel Martinez #244 SILVER SPARKLE - 2026 Topps Series 1 - MLB Baseball",
     "price": 4.75,
     "image": "https://i.ebayimg.com/images/g/iHkAAeSw33xpxcud/s-l300.jpg",
@@ -43668,7 +43944,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 3640,
+    "id": 3663,
     "name": "Slider #M-25 GUARDIANS MASCOT - 2026 Topps Series 1 - MLB Baseball",
     "price": 1.81,
     "image": "https://i.ebayimg.com/images/g/f8oAAeSwEOBpxct9/s-l300.jpg",
@@ -43680,7 +43956,7 @@ window.products = [
     "stock": 4
   },
   {
-    "id": 3641,
+    "id": 3664,
     "name": "Bernie Brewer #M-5 BREWERS MASCOT - 2026 Topps Series 1 - MLB Baseball",
     "price": 2.85,
     "image": "https://i.ebayimg.com/images/g/lscAAeSwc~ppxctq/s-l300.jpg",
@@ -43692,7 +43968,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 3642,
+    "id": 3665,
     "name": "Wally The Green Monster #M2 RED SOX MASCOT - 2026 Topps Series 1 - MLB Baseball",
     "price": 2.71,
     "image": "https://i.ebayimg.com/images/g/rm8AAeSwZJ9pxctF/s-l300.jpg",
@@ -43704,7 +43980,7 @@ window.products = [
     "stock": 5
   },
   {
-    "id": 3643,
+    "id": 3666,
     "name": "Mr. Met #M-11 METS MASCOT - 2026 Topps Series 1 - MLB Baseball Card",
     "price": 3.61,
     "image": "https://i.ebayimg.com/images/g/qCMAAeSwAnhpxcsn/s-l300.jpg",
@@ -43716,7 +43992,7 @@ window.products = [
     "stock": 4
   },
   {
-    "id": 3644,
+    "id": 3667,
     "name": "Raymond #M-22 RAYS MASCOT - 2026 Topps Series 1 - MLB Baseball Card",
     "price": 2.85,
     "image": "https://i.ebayimg.com/images/g/X1kAAeSwtRBpxcsS/s-l300.jpg",
@@ -43728,7 +44004,7 @@ window.products = [
     "stock": 2
   },
   {
-    "id": 3645,
+    "id": 3668,
     "name": "Swinging Friar #M-29 PADRES MASCOT - 2026 Topps Series 1 - MLB Baseball Card",
     "price": 1.9,
     "image": "https://i.ebayimg.com/images/g/a84AAeSwt~9pxcr8/s-l300.jpg",
@@ -43740,7 +44016,7 @@ window.products = [
     "stock": 3
   },
   {
-    "id": 3646,
+    "id": 3669,
     "name": "Dinger #M-4 ROCKIES MASCOT - 2026 Topps Series 1 - MLB Baseball Card",
     "price": 2.03,
     "image": "https://i.ebayimg.com/images/g/7yQAAeSwPxVpxcrd/s-l300.jpg",
@@ -43752,7 +44028,7 @@ window.products = [
     "stock": 5
   },
   {
-    "id": 3647,
+    "id": 3670,
     "name": "Baxter #M-1 DIAMONDBACKS MASCOT - 2026 Topps Series 1 - MLB Baseball Card",
     "price": 1.81,
     "image": "https://i.ebayimg.com/images/g/qB4AAeSwx~hpxcq~/s-l300.jpg",
@@ -43764,7 +44040,7 @@ window.products = [
     "stock": 5
   },
   {
-    "id": 3648,
+    "id": 3671,
     "name": "Elly De La Cruz #8B-24 - 8 BIT BALLERS - 2026 Topps Series 1 - MLB Baseball Card",
     "price": 1.58,
     "image": "https://i.ebayimg.com/images/g/A3YAAeSwM9xpxcpi/s-l300.jpg",
@@ -43776,7 +44052,7 @@ window.products = [
     "stock": 5
   },
   {
-    "id": 3649,
+    "id": 3672,
     "name": "Rickey Henderson #8B-17 - 8 BIT BALLERS - 2026 Topps Series 1 - MLB Baseball Car",
     "price": 3.16,
     "image": "https://i.ebayimg.com/images/g/kVIAAeSwVpNpxcny/s-l300.jpg",
@@ -43788,7 +44064,7 @@ window.products = [
     "stock": 4
   },
   {
-    "id": 3650,
+    "id": 3673,
     "name": "Alex Freeland (RC) #8B-21 - 8 BIT BALLERS - 2026 Topps Series 1 - MLB Baseball C",
     "price": 3.33,
     "image": "https://i.ebayimg.com/images/g/umsAAeSwNtJpxcnQ/s-l300.jpg",
@@ -43800,7 +44076,7 @@ window.products = [
     "stock": 3
   },
   {
-    "id": 3651,
+    "id": 3674,
     "name": "Jacob Misiorowski (RC) #8B-5 - 8 BIT BALLERS - 2026 Topps Series 1 - MLB Basebal",
     "price": 5.42,
     "image": "https://i.ebayimg.com/images/g/~c4AAeSwOchpxcmy/s-l300.jpg",
@@ -43812,7 +44088,7 @@ window.products = [
     "stock": 4
   },
   {
-    "id": 3652,
+    "id": 3675,
     "name": "Carson Williams (RC) #8B-23 - 8 BIT BALLERS - 2026 Topps Series 1 - MLB Baseball",
     "price": 1.9,
     "image": "https://i.ebayimg.com/images/g/uNIAAeSwNtJpxcmW/s-l300.jpg",
@@ -43824,7 +44100,7 @@ window.products = [
     "stock": 2
   },
   {
-    "id": 3653,
+    "id": 3676,
     "name": "Cal Ripken Jr. #8B-15 - 8 BIT BALLERS - 2026 Topps Series 1 - MLB Baseball Card",
     "price": 2.85,
     "image": "https://i.ebayimg.com/images/g/BGYAAeSwgV5pxcl8/s-l300.jpg",
@@ -43836,7 +44112,7 @@ window.products = [
     "stock": 2
   },
   {
-    "id": 3654,
+    "id": 3677,
     "name": "Chase Burns (RC) #8B-3 - 8 BIT BALLERS - 2026 Topps Series 1 - MLB Baseball Card",
     "price": 1.81,
     "image": "https://i.ebayimg.com/images/g/niAAAeSwfDRpxclg/s-l300.jpg",
@@ -43848,7 +44124,7 @@ window.products = [
     "stock": 4
   },
   {
-    "id": 3655,
+    "id": 3678,
     "name": "Shea Langeliers #305 SILVER SPARKLE - 2026 Topps Series 1 - MLB Baseball Card",
     "price": 2.85,
     "image": "https://i.ebayimg.com/images/g/-BoAAeSwgHhpxckx/s-l300.jpg",
@@ -43860,7 +44136,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 3656,
+    "id": 3679,
     "name": "Rafael Devers #219 SAND GLITTER - 2026 Topps Series 1 - MLB Baseball Card",
     "price": 1.9,
     "image": "https://i.ebayimg.com/images/g/wPgAAeSw61dpxckN/s-l300.jpg",
@@ -43872,7 +44148,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 3657,
+    "id": 3680,
     "name": "Cody Freeman (RC) #224 SILVER SPARKLE - 2026 Topps Series 1 - MLB Baseball Card",
     "price": 4.75,
     "image": "https://i.ebayimg.com/images/g/hlYAAeSwjStpxcjz/s-l300.jpg",
@@ -43884,7 +44160,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 3658,
+    "id": 3681,
     "name": "Kris Bubic #58 SAND GLITTER - 2026 Topps Series 1 - MLB Baseball Card",
     "price": 1.9,
     "image": "https://i.ebayimg.com/images/g/gJkAAeSwbzppxcjR/s-l300.jpg",
@@ -43896,7 +44172,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 3659,
+    "id": 3682,
     "name": "Cristopher Sanchez #325 SILVER SPARKLE - 2026 Topps Series 1 - MLB Baseball Card",
     "price": 3.8,
     "image": "https://i.ebayimg.com/images/g/zN8AAeSw2Rtpxcin/s-l300.jpg",
@@ -43908,7 +44184,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 3660,
+    "id": 3683,
     "name": "Trevor Rogers #80 SILVER SPARKLE - 2026 Topps Series 1 - MLB Baseball Card",
     "price": 1.9,
     "image": "https://i.ebayimg.com/images/g/1PQAAeSwERVpxciD/s-l300.jpg",
@@ -43920,7 +44196,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 3661,
+    "id": 3684,
     "name": "Jakob Marsee (RC) #37 SILVER SPARKLE - 2026 Topps Series 1 - MLB Baseball Card",
     "price": 4.75,
     "image": "https://i.ebayimg.com/images/g/-1IAAeSw86lpxchn/s-l300.jpg",
@@ -43932,7 +44208,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 3662,
+    "id": 3685,
     "name": "Chad Patrick #217 SILVER SPARKLE - 2026 Topps Series 1 - MLB Baseball Card",
     "price": 4.75,
     "image": "https://i.ebayimg.com/images/g/bzgAAeSwgGNpxchN/s-l300.jpg",
@@ -43944,7 +44220,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 3663,
+    "id": 3686,
     "name": "Jamal Murray #AS20 Blue Foil - 1st Selection - NBA Team World Basketball Card",
     "price": 4.75,
     "image": "https://i.ebayimg.com/images/g/Fa0AAeSwCFVpvHZ8/s-l300.jpg",
@@ -43956,7 +44232,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 3664,
+    "id": 3687,
     "name": "Bryce Harper #TP-19 - 2026 Topps Series 1 - MLB Baseball Card",
     "price": 2.85,
     "image": "https://i.ebayimg.com/images/g/IBYAAeSwq4FpxbJk/s-l300.jpg",
@@ -43968,7 +44244,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 3665,
+    "id": 3688,
     "name": "T.C. Bear #M-10 Twins Mascot - 2026 Topps Series 1 - MLB Baseball Card",
     "price": 1.9,
     "image": "https://i.ebayimg.com/images/g/QuMAAeSwnQRpxbJL/s-l300.jpg",
@@ -43980,7 +44256,7 @@ window.products = [
     "stock": 3
   },
   {
-    "id": 3666,
+    "id": 3689,
     "name": "Pirate Parrot #M-17 Pirates Mascot - 2026 Topps Series 1 - MLB Baseball Card",
     "price": 1.81,
     "image": "https://i.ebayimg.com/images/g/NvwAAeSwgHhpxbI2/s-l300.jpg",
@@ -43992,7 +44268,7 @@ window.products = [
     "stock": 4
   },
   {
-    "id": 3667,
+    "id": 3690,
     "name": "Billy The Marlin #M-30 Marlins Mascot - 2026 Topps Series 1 - MLB Baseball Card",
     "price": 1.81,
     "image": "https://i.ebayimg.com/images/g/3CcAAeSwrudpxbIa/s-l300.jpg",
@@ -44004,7 +44280,7 @@ window.products = [
     "stock": 4
   },
   {
-    "id": 3668,
+    "id": 3691,
     "name": "Mascot #M-24 Orioles Mascot - 2026 Topps Series 1 - MLB Baseball Card",
     "price": 1.81,
     "image": "https://i.ebayimg.com/images/g/6RAAAeSwYFppxbID/s-l300.jpg",
@@ -44016,7 +44292,7 @@ window.products = [
     "stock": 4
   },
   {
-    "id": 3669,
+    "id": 3692,
     "name": "Screech #M-13 Nationals Mascot - 2026 Topps Series 1 - MLB Baseball Card",
     "price": 1.81,
     "image": "https://i.ebayimg.com/images/g/puQAAeSw7rhpxbHg/s-l300.jpg",
@@ -44026,282 +44302,6 @@ window.products = [
     "discount": null,
     "numbered": false,
     "stock": 4
-  },
-  {
-    "id": 3670,
-    "name": "Paws #M-15 Tigers Mascot - 2026 Topps Series 1 - MLB Baseball Card",
-    "price": 1.9,
-    "image": "https://i.ebayimg.com/images/g/NKcAAeSw3JRpxbHK/s-l300.jpg",
-    "url": "https://www.ebay.com/itm/168265301063",
-    "category": "baseball",
-    "badge": null,
-    "discount": null,
-    "numbered": false,
-    "stock": 1
-  },
-  {
-    "id": 3671,
-    "name": "Paws #M-15 Tigers Mascot - 2026 Topps Series 1 - MLB Baseball Card",
-    "price": 1.9,
-    "image": "https://i.ebayimg.com/images/g/NKcAAeSw3JRpxbHK/s-l300.jpg",
-    "url": "https://www.ebay.com/itm/168265301063",
-    "category": "baseball",
-    "badge": null,
-    "discount": null,
-    "numbered": false,
-    "stock": 1
-  },
-  {
-    "id": 3672,
-    "name": "Paws #M-15 Tigers Mascot - 2026 Topps Series 1 - MLB Baseball Card",
-    "price": 1.9,
-    "image": "https://i.ebayimg.com/images/g/NKcAAeSw3JRpxbHK/s-l300.jpg",
-    "url": "https://www.ebay.com/itm/168265301063",
-    "category": "baseball",
-    "badge": null,
-    "discount": null,
-    "numbered": false,
-    "stock": 1
-  },
-  {
-    "id": 3673,
-    "name": "Paws #M-15 Tigers Mascot - 2026 Topps Series 1 - MLB Baseball Card",
-    "price": 1.9,
-    "image": "https://i.ebayimg.com/images/g/NKcAAeSw3JRpxbHK/s-l300.jpg",
-    "url": "https://www.ebay.com/itm/168265301063",
-    "category": "baseball",
-    "badge": null,
-    "discount": null,
-    "numbered": false,
-    "stock": 1
-  },
-  {
-    "id": 3674,
-    "name": "Paws #M-15 Tigers Mascot - 2026 Topps Series 1 - MLB Baseball Card",
-    "price": 1.9,
-    "image": "https://i.ebayimg.com/images/g/NKcAAeSw3JRpxbHK/s-l300.jpg",
-    "url": "https://www.ebay.com/itm/168265301063",
-    "category": "baseball",
-    "badge": null,
-    "discount": null,
-    "numbered": false,
-    "stock": 1
-  },
-  {
-    "id": 3675,
-    "name": "Paws #M-15 Tigers Mascot - 2026 Topps Series 1 - MLB Baseball Card",
-    "price": 1.9,
-    "image": "https://i.ebayimg.com/images/g/NKcAAeSw3JRpxbHK/s-l300.jpg",
-    "url": "https://www.ebay.com/itm/168265301063",
-    "category": "baseball",
-    "badge": null,
-    "discount": null,
-    "numbered": false,
-    "stock": 1
-  },
-  {
-    "id": 3676,
-    "name": "Paws #M-15 Tigers Mascot - 2026 Topps Series 1 - MLB Baseball Card",
-    "price": 1.9,
-    "image": "https://i.ebayimg.com/images/g/NKcAAeSw3JRpxbHK/s-l300.jpg",
-    "url": "https://www.ebay.com/itm/168265301063",
-    "category": "baseball",
-    "badge": null,
-    "discount": null,
-    "numbered": false,
-    "stock": 1
-  },
-  {
-    "id": 3677,
-    "name": "Paws #M-15 Tigers Mascot - 2026 Topps Series 1 - MLB Baseball Card",
-    "price": 1.9,
-    "image": "https://i.ebayimg.com/images/g/NKcAAeSw3JRpxbHK/s-l300.jpg",
-    "url": "https://www.ebay.com/itm/168265301063",
-    "category": "baseball",
-    "badge": null,
-    "discount": null,
-    "numbered": false,
-    "stock": 1
-  },
-  {
-    "id": 3678,
-    "name": "Paws #M-15 Tigers Mascot - 2026 Topps Series 1 - MLB Baseball Card",
-    "price": 1.9,
-    "image": "https://i.ebayimg.com/images/g/NKcAAeSw3JRpxbHK/s-l300.jpg",
-    "url": "https://www.ebay.com/itm/168265301063",
-    "category": "baseball",
-    "badge": null,
-    "discount": null,
-    "numbered": false,
-    "stock": 1
-  },
-  {
-    "id": 3679,
-    "name": "Paws #M-15 Tigers Mascot - 2026 Topps Series 1 - MLB Baseball Card",
-    "price": 1.9,
-    "image": "https://i.ebayimg.com/images/g/NKcAAeSw3JRpxbHK/s-l300.jpg",
-    "url": "https://www.ebay.com/itm/168265301063",
-    "category": "baseball",
-    "badge": null,
-    "discount": null,
-    "numbered": false,
-    "stock": 1
-  },
-  {
-    "id": 3680,
-    "name": "Paws #M-15 Tigers Mascot - 2026 Topps Series 1 - MLB Baseball Card",
-    "price": 1.9,
-    "image": "https://i.ebayimg.com/images/g/NKcAAeSw3JRpxbHK/s-l300.jpg",
-    "url": "https://www.ebay.com/itm/168265301063",
-    "category": "baseball",
-    "badge": null,
-    "discount": null,
-    "numbered": false,
-    "stock": 1
-  },
-  {
-    "id": 3681,
-    "name": "Paws #M-15 Tigers Mascot - 2026 Topps Series 1 - MLB Baseball Card",
-    "price": 1.9,
-    "image": "https://i.ebayimg.com/images/g/NKcAAeSw3JRpxbHK/s-l300.jpg",
-    "url": "https://www.ebay.com/itm/168265301063",
-    "category": "baseball",
-    "badge": null,
-    "discount": null,
-    "numbered": false,
-    "stock": 1
-  },
-  {
-    "id": 3682,
-    "name": "Paws #M-15 Tigers Mascot - 2026 Topps Series 1 - MLB Baseball Card",
-    "price": 1.9,
-    "image": "https://i.ebayimg.com/images/g/NKcAAeSw3JRpxbHK/s-l300.jpg",
-    "url": "https://www.ebay.com/itm/168265301063",
-    "category": "baseball",
-    "badge": null,
-    "discount": null,
-    "numbered": false,
-    "stock": 1
-  },
-  {
-    "id": 3683,
-    "name": "Paws #M-15 Tigers Mascot - 2026 Topps Series 1 - MLB Baseball Card",
-    "price": 1.9,
-    "image": "https://i.ebayimg.com/images/g/NKcAAeSw3JRpxbHK/s-l300.jpg",
-    "url": "https://www.ebay.com/itm/168265301063",
-    "category": "baseball",
-    "badge": null,
-    "discount": null,
-    "numbered": false,
-    "stock": 1
-  },
-  {
-    "id": 3684,
-    "name": "Paws #M-15 Tigers Mascot - 2026 Topps Series 1 - MLB Baseball Card",
-    "price": 1.9,
-    "image": "https://i.ebayimg.com/images/g/NKcAAeSw3JRpxbHK/s-l300.jpg",
-    "url": "https://www.ebay.com/itm/168265301063",
-    "category": "baseball",
-    "badge": null,
-    "discount": null,
-    "numbered": false,
-    "stock": 1
-  },
-  {
-    "id": 3685,
-    "name": "Paws #M-15 Tigers Mascot - 2026 Topps Series 1 - MLB Baseball Card",
-    "price": 1.9,
-    "image": "https://i.ebayimg.com/images/g/NKcAAeSw3JRpxbHK/s-l300.jpg",
-    "url": "https://www.ebay.com/itm/168265301063",
-    "category": "baseball",
-    "badge": null,
-    "discount": null,
-    "numbered": false,
-    "stock": 1
-  },
-  {
-    "id": 3686,
-    "name": "Paws #M-15 Tigers Mascot - 2026 Topps Series 1 - MLB Baseball Card",
-    "price": 1.9,
-    "image": "https://i.ebayimg.com/images/g/NKcAAeSw3JRpxbHK/s-l300.jpg",
-    "url": "https://www.ebay.com/itm/168265301063",
-    "category": "baseball",
-    "badge": null,
-    "discount": null,
-    "numbered": false,
-    "stock": 1
-  },
-  {
-    "id": 3687,
-    "name": "Paws #M-15 Tigers Mascot - 2026 Topps Series 1 - MLB Baseball Card",
-    "price": 1.9,
-    "image": "https://i.ebayimg.com/images/g/NKcAAeSw3JRpxbHK/s-l300.jpg",
-    "url": "https://www.ebay.com/itm/168265301063",
-    "category": "baseball",
-    "badge": null,
-    "discount": null,
-    "numbered": false,
-    "stock": 1
-  },
-  {
-    "id": 3688,
-    "name": "Paws #M-15 Tigers Mascot - 2026 Topps Series 1 - MLB Baseball Card",
-    "price": 1.9,
-    "image": "https://i.ebayimg.com/images/g/NKcAAeSw3JRpxbHK/s-l300.jpg",
-    "url": "https://www.ebay.com/itm/168265301063",
-    "category": "baseball",
-    "badge": null,
-    "discount": null,
-    "numbered": false,
-    "stock": 1
-  },
-  {
-    "id": 3689,
-    "name": "Paws #M-15 Tigers Mascot - 2026 Topps Series 1 - MLB Baseball Card",
-    "price": 1.9,
-    "image": "https://i.ebayimg.com/images/g/NKcAAeSw3JRpxbHK/s-l300.jpg",
-    "url": "https://www.ebay.com/itm/168265301063",
-    "category": "baseball",
-    "badge": null,
-    "discount": null,
-    "numbered": false,
-    "stock": 1
-  },
-  {
-    "id": 3690,
-    "name": "Paws #M-15 Tigers Mascot - 2026 Topps Series 1 - MLB Baseball Card",
-    "price": 1.9,
-    "image": "https://i.ebayimg.com/images/g/NKcAAeSw3JRpxbHK/s-l300.jpg",
-    "url": "https://www.ebay.com/itm/168265301063",
-    "category": "baseball",
-    "badge": null,
-    "discount": null,
-    "numbered": false,
-    "stock": 1
-  },
-  {
-    "id": 3691,
-    "name": "Paws #M-15 Tigers Mascot - 2026 Topps Series 1 - MLB Baseball Card",
-    "price": 1.9,
-    "image": "https://i.ebayimg.com/images/g/NKcAAeSw3JRpxbHK/s-l300.jpg",
-    "url": "https://www.ebay.com/itm/168265301063",
-    "category": "baseball",
-    "badge": null,
-    "discount": null,
-    "numbered": false,
-    "stock": 1
-  },
-  {
-    "id": 3692,
-    "name": "Paws #M-15 Tigers Mascot - 2026 Topps Series 1 - MLB Baseball Card",
-    "price": 1.9,
-    "image": "https://i.ebayimg.com/images/g/NKcAAeSw3JRpxbHK/s-l300.jpg",
-    "url": "https://www.ebay.com/itm/168265301063",
-    "category": "baseball",
-    "badge": null,
-    "discount": null,
-    "numbered": false,
-    "stock": 1
   },
   {
     "id": 3693,
@@ -44593,6 +44593,282 @@ window.products = [
   },
   {
     "id": 3717,
+    "name": "Paws #M-15 Tigers Mascot - 2026 Topps Series 1 - MLB Baseball Card",
+    "price": 1.9,
+    "image": "https://i.ebayimg.com/images/g/NKcAAeSw3JRpxbHK/s-l300.jpg",
+    "url": "https://www.ebay.com/itm/168265301063",
+    "category": "baseball",
+    "badge": null,
+    "discount": null,
+    "numbered": false,
+    "stock": 1
+  },
+  {
+    "id": 3718,
+    "name": "Paws #M-15 Tigers Mascot - 2026 Topps Series 1 - MLB Baseball Card",
+    "price": 1.9,
+    "image": "https://i.ebayimg.com/images/g/NKcAAeSw3JRpxbHK/s-l300.jpg",
+    "url": "https://www.ebay.com/itm/168265301063",
+    "category": "baseball",
+    "badge": null,
+    "discount": null,
+    "numbered": false,
+    "stock": 1
+  },
+  {
+    "id": 3719,
+    "name": "Paws #M-15 Tigers Mascot - 2026 Topps Series 1 - MLB Baseball Card",
+    "price": 1.9,
+    "image": "https://i.ebayimg.com/images/g/NKcAAeSw3JRpxbHK/s-l300.jpg",
+    "url": "https://www.ebay.com/itm/168265301063",
+    "category": "baseball",
+    "badge": null,
+    "discount": null,
+    "numbered": false,
+    "stock": 1
+  },
+  {
+    "id": 3720,
+    "name": "Paws #M-15 Tigers Mascot - 2026 Topps Series 1 - MLB Baseball Card",
+    "price": 1.9,
+    "image": "https://i.ebayimg.com/images/g/NKcAAeSw3JRpxbHK/s-l300.jpg",
+    "url": "https://www.ebay.com/itm/168265301063",
+    "category": "baseball",
+    "badge": null,
+    "discount": null,
+    "numbered": false,
+    "stock": 1
+  },
+  {
+    "id": 3721,
+    "name": "Paws #M-15 Tigers Mascot - 2026 Topps Series 1 - MLB Baseball Card",
+    "price": 1.9,
+    "image": "https://i.ebayimg.com/images/g/NKcAAeSw3JRpxbHK/s-l300.jpg",
+    "url": "https://www.ebay.com/itm/168265301063",
+    "category": "baseball",
+    "badge": null,
+    "discount": null,
+    "numbered": false,
+    "stock": 1
+  },
+  {
+    "id": 3722,
+    "name": "Paws #M-15 Tigers Mascot - 2026 Topps Series 1 - MLB Baseball Card",
+    "price": 1.9,
+    "image": "https://i.ebayimg.com/images/g/NKcAAeSw3JRpxbHK/s-l300.jpg",
+    "url": "https://www.ebay.com/itm/168265301063",
+    "category": "baseball",
+    "badge": null,
+    "discount": null,
+    "numbered": false,
+    "stock": 1
+  },
+  {
+    "id": 3723,
+    "name": "Paws #M-15 Tigers Mascot - 2026 Topps Series 1 - MLB Baseball Card",
+    "price": 1.9,
+    "image": "https://i.ebayimg.com/images/g/NKcAAeSw3JRpxbHK/s-l300.jpg",
+    "url": "https://www.ebay.com/itm/168265301063",
+    "category": "baseball",
+    "badge": null,
+    "discount": null,
+    "numbered": false,
+    "stock": 1
+  },
+  {
+    "id": 3724,
+    "name": "Paws #M-15 Tigers Mascot - 2026 Topps Series 1 - MLB Baseball Card",
+    "price": 1.9,
+    "image": "https://i.ebayimg.com/images/g/NKcAAeSw3JRpxbHK/s-l300.jpg",
+    "url": "https://www.ebay.com/itm/168265301063",
+    "category": "baseball",
+    "badge": null,
+    "discount": null,
+    "numbered": false,
+    "stock": 1
+  },
+  {
+    "id": 3725,
+    "name": "Paws #M-15 Tigers Mascot - 2026 Topps Series 1 - MLB Baseball Card",
+    "price": 1.9,
+    "image": "https://i.ebayimg.com/images/g/NKcAAeSw3JRpxbHK/s-l300.jpg",
+    "url": "https://www.ebay.com/itm/168265301063",
+    "category": "baseball",
+    "badge": null,
+    "discount": null,
+    "numbered": false,
+    "stock": 1
+  },
+  {
+    "id": 3726,
+    "name": "Paws #M-15 Tigers Mascot - 2026 Topps Series 1 - MLB Baseball Card",
+    "price": 1.9,
+    "image": "https://i.ebayimg.com/images/g/NKcAAeSw3JRpxbHK/s-l300.jpg",
+    "url": "https://www.ebay.com/itm/168265301063",
+    "category": "baseball",
+    "badge": null,
+    "discount": null,
+    "numbered": false,
+    "stock": 1
+  },
+  {
+    "id": 3727,
+    "name": "Paws #M-15 Tigers Mascot - 2026 Topps Series 1 - MLB Baseball Card",
+    "price": 1.9,
+    "image": "https://i.ebayimg.com/images/g/NKcAAeSw3JRpxbHK/s-l300.jpg",
+    "url": "https://www.ebay.com/itm/168265301063",
+    "category": "baseball",
+    "badge": null,
+    "discount": null,
+    "numbered": false,
+    "stock": 1
+  },
+  {
+    "id": 3728,
+    "name": "Paws #M-15 Tigers Mascot - 2026 Topps Series 1 - MLB Baseball Card",
+    "price": 1.9,
+    "image": "https://i.ebayimg.com/images/g/NKcAAeSw3JRpxbHK/s-l300.jpg",
+    "url": "https://www.ebay.com/itm/168265301063",
+    "category": "baseball",
+    "badge": null,
+    "discount": null,
+    "numbered": false,
+    "stock": 1
+  },
+  {
+    "id": 3729,
+    "name": "Paws #M-15 Tigers Mascot - 2026 Topps Series 1 - MLB Baseball Card",
+    "price": 1.9,
+    "image": "https://i.ebayimg.com/images/g/NKcAAeSw3JRpxbHK/s-l300.jpg",
+    "url": "https://www.ebay.com/itm/168265301063",
+    "category": "baseball",
+    "badge": null,
+    "discount": null,
+    "numbered": false,
+    "stock": 1
+  },
+  {
+    "id": 3730,
+    "name": "Paws #M-15 Tigers Mascot - 2026 Topps Series 1 - MLB Baseball Card",
+    "price": 1.9,
+    "image": "https://i.ebayimg.com/images/g/NKcAAeSw3JRpxbHK/s-l300.jpg",
+    "url": "https://www.ebay.com/itm/168265301063",
+    "category": "baseball",
+    "badge": null,
+    "discount": null,
+    "numbered": false,
+    "stock": 1
+  },
+  {
+    "id": 3731,
+    "name": "Paws #M-15 Tigers Mascot - 2026 Topps Series 1 - MLB Baseball Card",
+    "price": 1.9,
+    "image": "https://i.ebayimg.com/images/g/NKcAAeSw3JRpxbHK/s-l300.jpg",
+    "url": "https://www.ebay.com/itm/168265301063",
+    "category": "baseball",
+    "badge": null,
+    "discount": null,
+    "numbered": false,
+    "stock": 1
+  },
+  {
+    "id": 3732,
+    "name": "Paws #M-15 Tigers Mascot - 2026 Topps Series 1 - MLB Baseball Card",
+    "price": 1.9,
+    "image": "https://i.ebayimg.com/images/g/NKcAAeSw3JRpxbHK/s-l300.jpg",
+    "url": "https://www.ebay.com/itm/168265301063",
+    "category": "baseball",
+    "badge": null,
+    "discount": null,
+    "numbered": false,
+    "stock": 1
+  },
+  {
+    "id": 3733,
+    "name": "Paws #M-15 Tigers Mascot - 2026 Topps Series 1 - MLB Baseball Card",
+    "price": 1.9,
+    "image": "https://i.ebayimg.com/images/g/NKcAAeSw3JRpxbHK/s-l300.jpg",
+    "url": "https://www.ebay.com/itm/168265301063",
+    "category": "baseball",
+    "badge": null,
+    "discount": null,
+    "numbered": false,
+    "stock": 1
+  },
+  {
+    "id": 3734,
+    "name": "Paws #M-15 Tigers Mascot - 2026 Topps Series 1 - MLB Baseball Card",
+    "price": 1.9,
+    "image": "https://i.ebayimg.com/images/g/NKcAAeSw3JRpxbHK/s-l300.jpg",
+    "url": "https://www.ebay.com/itm/168265301063",
+    "category": "baseball",
+    "badge": null,
+    "discount": null,
+    "numbered": false,
+    "stock": 1
+  },
+  {
+    "id": 3735,
+    "name": "Paws #M-15 Tigers Mascot - 2026 Topps Series 1 - MLB Baseball Card",
+    "price": 1.9,
+    "image": "https://i.ebayimg.com/images/g/NKcAAeSw3JRpxbHK/s-l300.jpg",
+    "url": "https://www.ebay.com/itm/168265301063",
+    "category": "baseball",
+    "badge": null,
+    "discount": null,
+    "numbered": false,
+    "stock": 1
+  },
+  {
+    "id": 3736,
+    "name": "Paws #M-15 Tigers Mascot - 2026 Topps Series 1 - MLB Baseball Card",
+    "price": 1.9,
+    "image": "https://i.ebayimg.com/images/g/NKcAAeSw3JRpxbHK/s-l300.jpg",
+    "url": "https://www.ebay.com/itm/168265301063",
+    "category": "baseball",
+    "badge": null,
+    "discount": null,
+    "numbered": false,
+    "stock": 1
+  },
+  {
+    "id": 3737,
+    "name": "Paws #M-15 Tigers Mascot - 2026 Topps Series 1 - MLB Baseball Card",
+    "price": 1.9,
+    "image": "https://i.ebayimg.com/images/g/NKcAAeSw3JRpxbHK/s-l300.jpg",
+    "url": "https://www.ebay.com/itm/168265301063",
+    "category": "baseball",
+    "badge": null,
+    "discount": null,
+    "numbered": false,
+    "stock": 1
+  },
+  {
+    "id": 3738,
+    "name": "Paws #M-15 Tigers Mascot - 2026 Topps Series 1 - MLB Baseball Card",
+    "price": 1.9,
+    "image": "https://i.ebayimg.com/images/g/NKcAAeSw3JRpxbHK/s-l300.jpg",
+    "url": "https://www.ebay.com/itm/168265301063",
+    "category": "baseball",
+    "badge": null,
+    "discount": null,
+    "numbered": false,
+    "stock": 1
+  },
+  {
+    "id": 3739,
+    "name": "Paws #M-15 Tigers Mascot - 2026 Topps Series 1 - MLB Baseball Card",
+    "price": 1.9,
+    "image": "https://i.ebayimg.com/images/g/NKcAAeSw3JRpxbHK/s-l300.jpg",
+    "url": "https://www.ebay.com/itm/168265301063",
+    "category": "baseball",
+    "badge": null,
+    "discount": null,
+    "numbered": false,
+    "stock": 1
+  },
+  {
+    "id": 3740,
     "name": "Orbit #M-20 Astros Mascot - 2026 Topps Series 1 - MLB Baseball Card",
     "price": 1.81,
     "image": "https://i.ebayimg.com/images/g/OqsAAeSw5o1pxbGu/s-l300.jpg",
@@ -44604,7 +44880,7 @@ window.products = [
     "stock": 5
   },
   {
-    "id": 3718,
+    "id": 3741,
     "name": "Mascot #M-16 Athletics Mascot - 2026 Topps Series 1 - MLB Baseball Card",
     "price": 1.81,
     "image": "https://i.ebayimg.com/images/g/9S0AAeSwXBNpxbGS/s-l300.jpg",
@@ -44616,7 +44892,7 @@ window.products = [
     "stock": 4
   },
   {
-    "id": 3719,
+    "id": 3742,
     "name": "Ace #M-28 Torono Blue Jays MASCOT - 2026 Topps Series 1 - MLB Baseball Card",
     "price": 1.9,
     "image": "https://i.ebayimg.com/images/g/20UAAeSwENFpxbFk/s-l300.jpg",
@@ -44628,7 +44904,7 @@ window.products = [
     "stock": 3
   },
   {
-    "id": 3720,
+    "id": 3743,
     "name": "Lawrence Butler #324 Silver Sparkle - 2026 Topps Series 1 - MLB Baseball Card",
     "price": 1.9,
     "image": "https://i.ebayimg.com/images/g/LiwAAeSwf7JpxbEV/s-l300.jpg",
@@ -44640,7 +44916,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 3721,
+    "id": 3744,
     "name": "Nolan Schanuel #43 Silver Sparkle - 2026 Topps Series 1 - MLB Baseball Card",
     "price": 2.85,
     "image": "https://i.ebayimg.com/images/g/q0AAAeSwgZNpxbD6/s-l300.jpg",
@@ -44652,7 +44928,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 3722,
+    "id": 3745,
     "name": "Schwarber Alonso Soto #11 Silver Sparkle - 2026 Topps Series 1 - MLB Baseball Ca",
     "price": 1.9,
     "image": "https://i.ebayimg.com/images/g/FEQAAeSwi5hpxbDf/s-l300.jpg",
@@ -44664,7 +44940,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 3723,
+    "id": 3746,
     "name": "Kristian Campbell #125 Silver Sparkle - 2026 Topps Series 1 - MLB Baseball Card",
     "price": 2.85,
     "image": "https://i.ebayimg.com/images/g/1L8AAeSw0SNpxbDA/s-l300.jpg",
@@ -44676,7 +44952,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 3724,
+    "id": 3747,
     "name": "Toronto Blue Jays #113 Silver Sparkle - 2026 Topps Series 1 - MLB Baseball Card",
     "price": 3.8,
     "image": "https://i.ebayimg.com/images/g/DkQAAeSwcVRpxbCX/s-l300.jpg",
@@ -44688,7 +44964,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 3725,
+    "id": 3748,
     "name": "Michael McGreevy #161 Silver Sparkle - 2026 Topps Series 1 - MLB Baseball Card",
     "price": 1.9,
     "image": "https://i.ebayimg.com/images/g/2sIAAeSwjb1pxbCD/s-l300.jpg",
@@ -44700,7 +44976,7 @@ window.products = [
     "stock": 2
   },
   {
-    "id": 3726,
+    "id": 3749,
     "name": "Bailey Ober #31 Silver Sparkle - 2026 Topps Series 1 - MLB Baseball Card",
     "price": 1.9,
     "image": "https://i.ebayimg.com/images/g/2VUAAeSwjb1pxbBh/s-l300.jpg",
@@ -44712,7 +44988,7 @@ window.products = [
     "stock": 2
   },
   {
-    "id": 3727,
+    "id": 3750,
     "name": "Jhoan Duran #83 Silver Sparkle - 2026 Topps Series 1 - MLB Baseball Card",
     "price": 4.75,
     "image": "https://i.ebayimg.com/images/g/xhoAAeSwQ15pxbBJ/s-l300.jpg",
@@ -44724,7 +45000,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 3728,
+    "id": 3751,
     "name": "Bryce Harper #8B-11 8 Bit Ballers - 2026 Topps Series 1 - MLB Baseball Card",
     "price": 1.81,
     "image": "https://i.ebayimg.com/images/g/8EoAAeSw9lFpxbAW/s-l300.jpg",
@@ -44736,7 +45012,7 @@ window.products = [
     "stock": 4
   },
   {
-    "id": 3729,
+    "id": 3752,
     "name": "Mike Trout #8B-8 8 Bit Ballers - 2026 Topps Series 1 - MLB Baseball Card",
     "price": 1.9,
     "image": "https://i.ebayimg.com/images/g/ox8AAeSwt~9pxbAE/s-l300.jpg",
@@ -44748,7 +45024,7 @@ window.products = [
     "stock": 3
   },
   {
-    "id": 3730,
+    "id": 3753,
     "name": "Nolan Ryan #8B-16 8 Bit Ballers - 2026 Topps Series 1 - MLB Baseball Card",
     "price": 2.85,
     "image": "https://i.ebayimg.com/images/g/O78AAeSwXZ5pxa~w/s-l300.jpg",
@@ -44760,7 +45036,7 @@ window.products = [
     "stock": 3
   },
   {
-    "id": 3731,
+    "id": 3754,
     "name": "Derek Jeter #8B-14 8 Bit Ballers - 2026 Topps Series 1 - MLB Baseball Card",
     "price": 1.58,
     "image": "https://i.ebayimg.com/images/g/DpIAAeSwuTxpxa~c/s-l300.jpg",
@@ -44772,7 +45048,7 @@ window.products = [
     "stock": 5
   },
   {
-    "id": 3732,
+    "id": 3755,
     "name": "Jac Coglianone (RC) #8B-1 8 Bit Ballers - 2026 Topps Series 1 MLB Baseball Card",
     "price": 2.71,
     "image": "https://i.ebayimg.com/images/g/y74AAeSwTP1pxa~C/s-l300.jpg",
@@ -44784,7 +45060,7 @@ window.products = [
     "stock": 4
   },
   {
-    "id": 3733,
+    "id": 3756,
     "name": "Ronald Acuna Jr. #8B-9 8 Bit Ballers - 2026 Topps Series 1 - MLB Baseball Card",
     "price": 1.58,
     "image": "https://i.ebayimg.com/images/g/zKoAAeSw3ulpxa-a/s-l300.jpg",
@@ -44796,7 +45072,7 @@ window.products = [
     "stock": 5
   },
   {
-    "id": 3734,
+    "id": 3757,
     "name": "Ken Griffey Jr. #8B-13 8 Bit Ballers - 2026 Topps Series 1 - MLB Baseball Card",
     "price": 1.66,
     "image": "https://i.ebayimg.com/images/g/3kMAAeSwdylpxa-E/s-l300.jpg",
@@ -44808,7 +45084,7 @@ window.products = [
     "stock": 2
   },
   {
-    "id": 3735,
+    "id": 3758,
     "name": "Jose Ramirez #PAS-16 - 2026 Topps Series 1 - MLB Baseball Card",
     "price": 1.58,
     "image": "https://i.ebayimg.com/images/g/3L4AAeSwdylpxa9d/s-l300.jpg",
@@ -44820,7 +45096,7 @@ window.products = [
     "stock": 4
   },
   {
-    "id": 3736,
+    "id": 3759,
     "name": "Paul Skenes #PAS-20 - 2026 Topps Series 1 - MLB Baseball Card",
     "price": 1.76,
     "image": "https://i.ebayimg.com/images/g/khUAAeSwjStpxa86/s-l300.jpg",
@@ -44832,7 +45108,7 @@ window.products = [
     "stock": 4
   },
   {
-    "id": 3737,
+    "id": 3760,
     "name": "Tarik Skubal #PAS-21 - 2026 Topps Series 1 - MLB Baseball Card",
     "price": 1.58,
     "image": "https://i.ebayimg.com/images/g/xjsAAeSw0SNpxa8D/s-l300.jpg",
@@ -44844,7 +45120,7 @@ window.products = [
     "stock": 5
   },
   {
-    "id": 3738,
+    "id": 3761,
     "name": "Juan Soto #PAS-12 - 2026 Topps Series 1 - MLB Baseball Card",
     "price": 1.66,
     "image": "https://i.ebayimg.com/images/g/vA4AAeSwSqppxa7v/s-l300.jpg",
@@ -44856,7 +45132,7 @@ window.products = [
     "stock": 3
   },
   {
-    "id": 3739,
+    "id": 3762,
     "name": "Freddie Freeman #PAS-8 - 2026 Topps Series 1 - MLB Baseball Card",
     "price": 1.58,
     "image": "https://i.ebayimg.com/images/g/imUAAeSw59Bpxa7K/s-l300.jpg",
@@ -44868,7 +45144,7 @@ window.products = [
     "stock": 4
   },
   {
-    "id": 3740,
+    "id": 3763,
     "name": "Ronald Acuna Jr. #GD-6 - 2026 Topps Series 1 - MLB Baseball Card",
     "price": 1.36,
     "image": "https://i.ebayimg.com/images/g/jjgAAeSwoONpxa6L/s-l300.jpg",
@@ -44880,7 +45156,7 @@ window.products = [
     "stock": 4
   },
   {
-    "id": 3741,
+    "id": 3764,
     "name": "Julio Rodriguez #GD-5 - 2026 Topps Series 1 - MLB Baseball Card",
     "price": 1.36,
     "image": "https://i.ebayimg.com/images/g/2T4AAeSwrzppxa5w/s-l300.jpg",
@@ -44892,7 +45168,7 @@ window.products = [
     "stock": 4
   },
   {
-    "id": 3742,
+    "id": 3765,
     "name": "Jose Ramirez #GD-18 - 2026 Topps Series 1 - MLB Baseball Card",
     "price": 1.36,
     "image": "https://i.ebayimg.com/images/g/HlwAAeSw86lpxa5X/s-l300.jpg",
@@ -44902,282 +45178,6 @@ window.products = [
     "discount": null,
     "numbered": false,
     "stock": 5
-  },
-  {
-    "id": 3743,
-    "name": "Jackson Chourio #GD-15 - 2026 Topps Series 1 - MLB Baseball Card",
-    "price": 1.43,
-    "image": "https://i.ebayimg.com/images/g/IU4AAeSwsSFpxa41/s-l300.jpg",
-    "url": "https://www.ebay.com/itm/168265263197",
-    "category": "baseball",
-    "badge": null,
-    "discount": null,
-    "numbered": false,
-    "stock": 1
-  },
-  {
-    "id": 3744,
-    "name": "Jackson Chourio #GD-15 - 2026 Topps Series 1 - MLB Baseball Card",
-    "price": 1.43,
-    "image": "https://i.ebayimg.com/images/g/IU4AAeSwsSFpxa41/s-l300.jpg",
-    "url": "https://www.ebay.com/itm/168265263197",
-    "category": "baseball",
-    "badge": null,
-    "discount": null,
-    "numbered": false,
-    "stock": 1
-  },
-  {
-    "id": 3745,
-    "name": "Jackson Chourio #GD-15 - 2026 Topps Series 1 - MLB Baseball Card",
-    "price": 1.43,
-    "image": "https://i.ebayimg.com/images/g/IU4AAeSwsSFpxa41/s-l300.jpg",
-    "url": "https://www.ebay.com/itm/168265263197",
-    "category": "baseball",
-    "badge": null,
-    "discount": null,
-    "numbered": false,
-    "stock": 1
-  },
-  {
-    "id": 3746,
-    "name": "Jackson Chourio #GD-15 - 2026 Topps Series 1 - MLB Baseball Card",
-    "price": 1.43,
-    "image": "https://i.ebayimg.com/images/g/IU4AAeSwsSFpxa41/s-l300.jpg",
-    "url": "https://www.ebay.com/itm/168265263197",
-    "category": "baseball",
-    "badge": null,
-    "discount": null,
-    "numbered": false,
-    "stock": 1
-  },
-  {
-    "id": 3747,
-    "name": "Jackson Chourio #GD-15 - 2026 Topps Series 1 - MLB Baseball Card",
-    "price": 1.43,
-    "image": "https://i.ebayimg.com/images/g/IU4AAeSwsSFpxa41/s-l300.jpg",
-    "url": "https://www.ebay.com/itm/168265263197",
-    "category": "baseball",
-    "badge": null,
-    "discount": null,
-    "numbered": false,
-    "stock": 1
-  },
-  {
-    "id": 3748,
-    "name": "Jackson Chourio #GD-15 - 2026 Topps Series 1 - MLB Baseball Card",
-    "price": 1.43,
-    "image": "https://i.ebayimg.com/images/g/IU4AAeSwsSFpxa41/s-l300.jpg",
-    "url": "https://www.ebay.com/itm/168265263197",
-    "category": "baseball",
-    "badge": null,
-    "discount": null,
-    "numbered": false,
-    "stock": 1
-  },
-  {
-    "id": 3749,
-    "name": "Jackson Chourio #GD-15 - 2026 Topps Series 1 - MLB Baseball Card",
-    "price": 1.43,
-    "image": "https://i.ebayimg.com/images/g/IU4AAeSwsSFpxa41/s-l300.jpg",
-    "url": "https://www.ebay.com/itm/168265263197",
-    "category": "baseball",
-    "badge": null,
-    "discount": null,
-    "numbered": false,
-    "stock": 1
-  },
-  {
-    "id": 3750,
-    "name": "Jackson Chourio #GD-15 - 2026 Topps Series 1 - MLB Baseball Card",
-    "price": 1.43,
-    "image": "https://i.ebayimg.com/images/g/IU4AAeSwsSFpxa41/s-l300.jpg",
-    "url": "https://www.ebay.com/itm/168265263197",
-    "category": "baseball",
-    "badge": null,
-    "discount": null,
-    "numbered": false,
-    "stock": 1
-  },
-  {
-    "id": 3751,
-    "name": "Jackson Chourio #GD-15 - 2026 Topps Series 1 - MLB Baseball Card",
-    "price": 1.43,
-    "image": "https://i.ebayimg.com/images/g/IU4AAeSwsSFpxa41/s-l300.jpg",
-    "url": "https://www.ebay.com/itm/168265263197",
-    "category": "baseball",
-    "badge": null,
-    "discount": null,
-    "numbered": false,
-    "stock": 1
-  },
-  {
-    "id": 3752,
-    "name": "Jackson Chourio #GD-15 - 2026 Topps Series 1 - MLB Baseball Card",
-    "price": 1.43,
-    "image": "https://i.ebayimg.com/images/g/IU4AAeSwsSFpxa41/s-l300.jpg",
-    "url": "https://www.ebay.com/itm/168265263197",
-    "category": "baseball",
-    "badge": null,
-    "discount": null,
-    "numbered": false,
-    "stock": 1
-  },
-  {
-    "id": 3753,
-    "name": "Jackson Chourio #GD-15 - 2026 Topps Series 1 - MLB Baseball Card",
-    "price": 1.43,
-    "image": "https://i.ebayimg.com/images/g/IU4AAeSwsSFpxa41/s-l300.jpg",
-    "url": "https://www.ebay.com/itm/168265263197",
-    "category": "baseball",
-    "badge": null,
-    "discount": null,
-    "numbered": false,
-    "stock": 1
-  },
-  {
-    "id": 3754,
-    "name": "Jackson Chourio #GD-15 - 2026 Topps Series 1 - MLB Baseball Card",
-    "price": 1.43,
-    "image": "https://i.ebayimg.com/images/g/IU4AAeSwsSFpxa41/s-l300.jpg",
-    "url": "https://www.ebay.com/itm/168265263197",
-    "category": "baseball",
-    "badge": null,
-    "discount": null,
-    "numbered": false,
-    "stock": 1
-  },
-  {
-    "id": 3755,
-    "name": "Jackson Chourio #GD-15 - 2026 Topps Series 1 - MLB Baseball Card",
-    "price": 1.43,
-    "image": "https://i.ebayimg.com/images/g/IU4AAeSwsSFpxa41/s-l300.jpg",
-    "url": "https://www.ebay.com/itm/168265263197",
-    "category": "baseball",
-    "badge": null,
-    "discount": null,
-    "numbered": false,
-    "stock": 1
-  },
-  {
-    "id": 3756,
-    "name": "Jackson Chourio #GD-15 - 2026 Topps Series 1 - MLB Baseball Card",
-    "price": 1.43,
-    "image": "https://i.ebayimg.com/images/g/IU4AAeSwsSFpxa41/s-l300.jpg",
-    "url": "https://www.ebay.com/itm/168265263197",
-    "category": "baseball",
-    "badge": null,
-    "discount": null,
-    "numbered": false,
-    "stock": 1
-  },
-  {
-    "id": 3757,
-    "name": "Jackson Chourio #GD-15 - 2026 Topps Series 1 - MLB Baseball Card",
-    "price": 1.43,
-    "image": "https://i.ebayimg.com/images/g/IU4AAeSwsSFpxa41/s-l300.jpg",
-    "url": "https://www.ebay.com/itm/168265263197",
-    "category": "baseball",
-    "badge": null,
-    "discount": null,
-    "numbered": false,
-    "stock": 1
-  },
-  {
-    "id": 3758,
-    "name": "Jackson Chourio #GD-15 - 2026 Topps Series 1 - MLB Baseball Card",
-    "price": 1.43,
-    "image": "https://i.ebayimg.com/images/g/IU4AAeSwsSFpxa41/s-l300.jpg",
-    "url": "https://www.ebay.com/itm/168265263197",
-    "category": "baseball",
-    "badge": null,
-    "discount": null,
-    "numbered": false,
-    "stock": 1
-  },
-  {
-    "id": 3759,
-    "name": "Jackson Chourio #GD-15 - 2026 Topps Series 1 - MLB Baseball Card",
-    "price": 1.43,
-    "image": "https://i.ebayimg.com/images/g/IU4AAeSwsSFpxa41/s-l300.jpg",
-    "url": "https://www.ebay.com/itm/168265263197",
-    "category": "baseball",
-    "badge": null,
-    "discount": null,
-    "numbered": false,
-    "stock": 1
-  },
-  {
-    "id": 3760,
-    "name": "Jackson Chourio #GD-15 - 2026 Topps Series 1 - MLB Baseball Card",
-    "price": 1.43,
-    "image": "https://i.ebayimg.com/images/g/IU4AAeSwsSFpxa41/s-l300.jpg",
-    "url": "https://www.ebay.com/itm/168265263197",
-    "category": "baseball",
-    "badge": null,
-    "discount": null,
-    "numbered": false,
-    "stock": 1
-  },
-  {
-    "id": 3761,
-    "name": "Jackson Chourio #GD-15 - 2026 Topps Series 1 - MLB Baseball Card",
-    "price": 1.43,
-    "image": "https://i.ebayimg.com/images/g/IU4AAeSwsSFpxa41/s-l300.jpg",
-    "url": "https://www.ebay.com/itm/168265263197",
-    "category": "baseball",
-    "badge": null,
-    "discount": null,
-    "numbered": false,
-    "stock": 1
-  },
-  {
-    "id": 3762,
-    "name": "Jackson Chourio #GD-15 - 2026 Topps Series 1 - MLB Baseball Card",
-    "price": 1.43,
-    "image": "https://i.ebayimg.com/images/g/IU4AAeSwsSFpxa41/s-l300.jpg",
-    "url": "https://www.ebay.com/itm/168265263197",
-    "category": "baseball",
-    "badge": null,
-    "discount": null,
-    "numbered": false,
-    "stock": 1
-  },
-  {
-    "id": 3763,
-    "name": "Jackson Chourio #GD-15 - 2026 Topps Series 1 - MLB Baseball Card",
-    "price": 1.43,
-    "image": "https://i.ebayimg.com/images/g/IU4AAeSwsSFpxa41/s-l300.jpg",
-    "url": "https://www.ebay.com/itm/168265263197",
-    "category": "baseball",
-    "badge": null,
-    "discount": null,
-    "numbered": false,
-    "stock": 1
-  },
-  {
-    "id": 3764,
-    "name": "Jackson Chourio #GD-15 - 2026 Topps Series 1 - MLB Baseball Card",
-    "price": 1.43,
-    "image": "https://i.ebayimg.com/images/g/IU4AAeSwsSFpxa41/s-l300.jpg",
-    "url": "https://www.ebay.com/itm/168265263197",
-    "category": "baseball",
-    "badge": null,
-    "discount": null,
-    "numbered": false,
-    "stock": 1
-  },
-  {
-    "id": 3765,
-    "name": "Jackson Chourio #GD-15 - 2026 Topps Series 1 - MLB Baseball Card",
-    "price": 1.43,
-    "image": "https://i.ebayimg.com/images/g/IU4AAeSwsSFpxa41/s-l300.jpg",
-    "url": "https://www.ebay.com/itm/168265263197",
-    "category": "baseball",
-    "badge": null,
-    "discount": null,
-    "numbered": false,
-    "stock": 1
   },
   {
     "id": 3766,
@@ -45193,6 +45193,282 @@ window.products = [
   },
   {
     "id": 3767,
+    "name": "Jackson Chourio #GD-15 - 2026 Topps Series 1 - MLB Baseball Card",
+    "price": 1.43,
+    "image": "https://i.ebayimg.com/images/g/IU4AAeSwsSFpxa41/s-l300.jpg",
+    "url": "https://www.ebay.com/itm/168265263197",
+    "category": "baseball",
+    "badge": null,
+    "discount": null,
+    "numbered": false,
+    "stock": 1
+  },
+  {
+    "id": 3768,
+    "name": "Jackson Chourio #GD-15 - 2026 Topps Series 1 - MLB Baseball Card",
+    "price": 1.43,
+    "image": "https://i.ebayimg.com/images/g/IU4AAeSwsSFpxa41/s-l300.jpg",
+    "url": "https://www.ebay.com/itm/168265263197",
+    "category": "baseball",
+    "badge": null,
+    "discount": null,
+    "numbered": false,
+    "stock": 1
+  },
+  {
+    "id": 3769,
+    "name": "Jackson Chourio #GD-15 - 2026 Topps Series 1 - MLB Baseball Card",
+    "price": 1.43,
+    "image": "https://i.ebayimg.com/images/g/IU4AAeSwsSFpxa41/s-l300.jpg",
+    "url": "https://www.ebay.com/itm/168265263197",
+    "category": "baseball",
+    "badge": null,
+    "discount": null,
+    "numbered": false,
+    "stock": 1
+  },
+  {
+    "id": 3770,
+    "name": "Jackson Chourio #GD-15 - 2026 Topps Series 1 - MLB Baseball Card",
+    "price": 1.43,
+    "image": "https://i.ebayimg.com/images/g/IU4AAeSwsSFpxa41/s-l300.jpg",
+    "url": "https://www.ebay.com/itm/168265263197",
+    "category": "baseball",
+    "badge": null,
+    "discount": null,
+    "numbered": false,
+    "stock": 1
+  },
+  {
+    "id": 3771,
+    "name": "Jackson Chourio #GD-15 - 2026 Topps Series 1 - MLB Baseball Card",
+    "price": 1.43,
+    "image": "https://i.ebayimg.com/images/g/IU4AAeSwsSFpxa41/s-l300.jpg",
+    "url": "https://www.ebay.com/itm/168265263197",
+    "category": "baseball",
+    "badge": null,
+    "discount": null,
+    "numbered": false,
+    "stock": 1
+  },
+  {
+    "id": 3772,
+    "name": "Jackson Chourio #GD-15 - 2026 Topps Series 1 - MLB Baseball Card",
+    "price": 1.43,
+    "image": "https://i.ebayimg.com/images/g/IU4AAeSwsSFpxa41/s-l300.jpg",
+    "url": "https://www.ebay.com/itm/168265263197",
+    "category": "baseball",
+    "badge": null,
+    "discount": null,
+    "numbered": false,
+    "stock": 1
+  },
+  {
+    "id": 3773,
+    "name": "Jackson Chourio #GD-15 - 2026 Topps Series 1 - MLB Baseball Card",
+    "price": 1.43,
+    "image": "https://i.ebayimg.com/images/g/IU4AAeSwsSFpxa41/s-l300.jpg",
+    "url": "https://www.ebay.com/itm/168265263197",
+    "category": "baseball",
+    "badge": null,
+    "discount": null,
+    "numbered": false,
+    "stock": 1
+  },
+  {
+    "id": 3774,
+    "name": "Jackson Chourio #GD-15 - 2026 Topps Series 1 - MLB Baseball Card",
+    "price": 1.43,
+    "image": "https://i.ebayimg.com/images/g/IU4AAeSwsSFpxa41/s-l300.jpg",
+    "url": "https://www.ebay.com/itm/168265263197",
+    "category": "baseball",
+    "badge": null,
+    "discount": null,
+    "numbered": false,
+    "stock": 1
+  },
+  {
+    "id": 3775,
+    "name": "Jackson Chourio #GD-15 - 2026 Topps Series 1 - MLB Baseball Card",
+    "price": 1.43,
+    "image": "https://i.ebayimg.com/images/g/IU4AAeSwsSFpxa41/s-l300.jpg",
+    "url": "https://www.ebay.com/itm/168265263197",
+    "category": "baseball",
+    "badge": null,
+    "discount": null,
+    "numbered": false,
+    "stock": 1
+  },
+  {
+    "id": 3776,
+    "name": "Jackson Chourio #GD-15 - 2026 Topps Series 1 - MLB Baseball Card",
+    "price": 1.43,
+    "image": "https://i.ebayimg.com/images/g/IU4AAeSwsSFpxa41/s-l300.jpg",
+    "url": "https://www.ebay.com/itm/168265263197",
+    "category": "baseball",
+    "badge": null,
+    "discount": null,
+    "numbered": false,
+    "stock": 1
+  },
+  {
+    "id": 3777,
+    "name": "Jackson Chourio #GD-15 - 2026 Topps Series 1 - MLB Baseball Card",
+    "price": 1.43,
+    "image": "https://i.ebayimg.com/images/g/IU4AAeSwsSFpxa41/s-l300.jpg",
+    "url": "https://www.ebay.com/itm/168265263197",
+    "category": "baseball",
+    "badge": null,
+    "discount": null,
+    "numbered": false,
+    "stock": 1
+  },
+  {
+    "id": 3778,
+    "name": "Jackson Chourio #GD-15 - 2026 Topps Series 1 - MLB Baseball Card",
+    "price": 1.43,
+    "image": "https://i.ebayimg.com/images/g/IU4AAeSwsSFpxa41/s-l300.jpg",
+    "url": "https://www.ebay.com/itm/168265263197",
+    "category": "baseball",
+    "badge": null,
+    "discount": null,
+    "numbered": false,
+    "stock": 1
+  },
+  {
+    "id": 3779,
+    "name": "Jackson Chourio #GD-15 - 2026 Topps Series 1 - MLB Baseball Card",
+    "price": 1.43,
+    "image": "https://i.ebayimg.com/images/g/IU4AAeSwsSFpxa41/s-l300.jpg",
+    "url": "https://www.ebay.com/itm/168265263197",
+    "category": "baseball",
+    "badge": null,
+    "discount": null,
+    "numbered": false,
+    "stock": 1
+  },
+  {
+    "id": 3780,
+    "name": "Jackson Chourio #GD-15 - 2026 Topps Series 1 - MLB Baseball Card",
+    "price": 1.43,
+    "image": "https://i.ebayimg.com/images/g/IU4AAeSwsSFpxa41/s-l300.jpg",
+    "url": "https://www.ebay.com/itm/168265263197",
+    "category": "baseball",
+    "badge": null,
+    "discount": null,
+    "numbered": false,
+    "stock": 1
+  },
+  {
+    "id": 3781,
+    "name": "Jackson Chourio #GD-15 - 2026 Topps Series 1 - MLB Baseball Card",
+    "price": 1.43,
+    "image": "https://i.ebayimg.com/images/g/IU4AAeSwsSFpxa41/s-l300.jpg",
+    "url": "https://www.ebay.com/itm/168265263197",
+    "category": "baseball",
+    "badge": null,
+    "discount": null,
+    "numbered": false,
+    "stock": 1
+  },
+  {
+    "id": 3782,
+    "name": "Jackson Chourio #GD-15 - 2026 Topps Series 1 - MLB Baseball Card",
+    "price": 1.43,
+    "image": "https://i.ebayimg.com/images/g/IU4AAeSwsSFpxa41/s-l300.jpg",
+    "url": "https://www.ebay.com/itm/168265263197",
+    "category": "baseball",
+    "badge": null,
+    "discount": null,
+    "numbered": false,
+    "stock": 1
+  },
+  {
+    "id": 3783,
+    "name": "Jackson Chourio #GD-15 - 2026 Topps Series 1 - MLB Baseball Card",
+    "price": 1.43,
+    "image": "https://i.ebayimg.com/images/g/IU4AAeSwsSFpxa41/s-l300.jpg",
+    "url": "https://www.ebay.com/itm/168265263197",
+    "category": "baseball",
+    "badge": null,
+    "discount": null,
+    "numbered": false,
+    "stock": 1
+  },
+  {
+    "id": 3784,
+    "name": "Jackson Chourio #GD-15 - 2026 Topps Series 1 - MLB Baseball Card",
+    "price": 1.43,
+    "image": "https://i.ebayimg.com/images/g/IU4AAeSwsSFpxa41/s-l300.jpg",
+    "url": "https://www.ebay.com/itm/168265263197",
+    "category": "baseball",
+    "badge": null,
+    "discount": null,
+    "numbered": false,
+    "stock": 1
+  },
+  {
+    "id": 3785,
+    "name": "Jackson Chourio #GD-15 - 2026 Topps Series 1 - MLB Baseball Card",
+    "price": 1.43,
+    "image": "https://i.ebayimg.com/images/g/IU4AAeSwsSFpxa41/s-l300.jpg",
+    "url": "https://www.ebay.com/itm/168265263197",
+    "category": "baseball",
+    "badge": null,
+    "discount": null,
+    "numbered": false,
+    "stock": 1
+  },
+  {
+    "id": 3786,
+    "name": "Jackson Chourio #GD-15 - 2026 Topps Series 1 - MLB Baseball Card",
+    "price": 1.43,
+    "image": "https://i.ebayimg.com/images/g/IU4AAeSwsSFpxa41/s-l300.jpg",
+    "url": "https://www.ebay.com/itm/168265263197",
+    "category": "baseball",
+    "badge": null,
+    "discount": null,
+    "numbered": false,
+    "stock": 1
+  },
+  {
+    "id": 3787,
+    "name": "Jackson Chourio #GD-15 - 2026 Topps Series 1 - MLB Baseball Card",
+    "price": 1.43,
+    "image": "https://i.ebayimg.com/images/g/IU4AAeSwsSFpxa41/s-l300.jpg",
+    "url": "https://www.ebay.com/itm/168265263197",
+    "category": "baseball",
+    "badge": null,
+    "discount": null,
+    "numbered": false,
+    "stock": 1
+  },
+  {
+    "id": 3788,
+    "name": "Jackson Chourio #GD-15 - 2026 Topps Series 1 - MLB Baseball Card",
+    "price": 1.43,
+    "image": "https://i.ebayimg.com/images/g/IU4AAeSwsSFpxa41/s-l300.jpg",
+    "url": "https://www.ebay.com/itm/168265263197",
+    "category": "baseball",
+    "badge": null,
+    "discount": null,
+    "numbered": false,
+    "stock": 1
+  },
+  {
+    "id": 3789,
+    "name": "Jackson Chourio #GD-15 - 2026 Topps Series 1 - MLB Baseball Card",
+    "price": 1.43,
+    "image": "https://i.ebayimg.com/images/g/IU4AAeSwsSFpxa41/s-l300.jpg",
+    "url": "https://www.ebay.com/itm/168265263197",
+    "category": "baseball",
+    "badge": null,
+    "discount": null,
+    "numbered": false,
+    "stock": 1
+  },
+  {
+    "id": 3790,
     "name": "Carlos Correa #GD-20 - 2026 Topps Series 1 - MLB Baseball Card",
     "price": 1.43,
     "image": "https://i.ebayimg.com/images/g/-EQAAeSwV5dpxa4a/s-l300.jpg",
@@ -45204,7 +45480,7 @@ window.products = [
     "stock": 3
   },
   {
-    "id": 3768,
+    "id": 3791,
     "name": "Jose Ramirez #ATT-4 - 2026 Topps Series 1 - MLB Baseball Card",
     "price": 1.9,
     "image": "https://i.ebayimg.com/images/g/Hw4AAeSwsSFpxa4A/s-l300.jpg",
@@ -45216,7 +45492,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 3769,
+    "id": 3792,
     "name": "Gunnar Henderson #46 REFRACTOR - 2026 Topps Series 1 - MLB Baseball Card",
     "price": 2.85,
     "image": "https://i.ebayimg.com/images/g/1R0AAeSwGB9pxa3g/s-l300.jpg",
@@ -45228,7 +45504,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 3770,
+    "id": 3793,
     "name": "Kansas City Royals #34 REFRACTOR - 2026 Topps Series 1 - MLB Baseball Card",
     "price": 4.75,
     "image": "https://i.ebayimg.com/images/g/r5wAAeSwSqppxa28/s-l300.jpg",
@@ -45240,7 +45516,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 3771,
+    "id": 3794,
     "name": "Cole Young (RC) #142 - BASE CARD - 2026 Topps Heritage MLB Baseball",
     "price": 1.66,
     "image": "https://i.ebayimg.com/images/g/NPIAAeSw8eJpxX85/s-l300.jpg",
@@ -45252,7 +45528,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 3772,
+    "id": 3795,
     "name": "Carter Jensen (RC) #199 - BASE CARD - 2026 Topps Heritage MLB Baseball",
     "price": 1.81,
     "image": "https://i.ebayimg.com/images/g/TfEAAeSwVklpxX7z/s-l300.jpg",
@@ -45264,7 +45540,7 @@ window.products = [
     "stock": 5
   },
   {
-    "id": 3773,
+    "id": 3796,
     "name": "Kyle Teel (RC) #182 - BASE CARD - 2026 Topps Heritage MLB Baseball",
     "price": 1.66,
     "image": "https://i.ebayimg.com/images/g/d-UAAeSw2RtpxX7U/s-l300.jpg",
@@ -45274,282 +45550,6 @@ window.products = [
     "discount": null,
     "numbered": false,
     "stock": 2
-  },
-  {
-    "id": 3774,
-    "name": "Aaron Judge #10 - BASE CARD - 2026 Topps Heritage MLB Baseball",
-    "price": 2.38,
-    "image": "https://i.ebayimg.com/images/g/U5sAAeSwFVNpxX6N/s-l300.jpg",
-    "url": "https://www.ebay.com/itm/168264891775",
-    "category": "baseball",
-    "badge": null,
-    "discount": null,
-    "numbered": false,
-    "stock": 0
-  },
-  {
-    "id": 3775,
-    "name": "Aaron Judge #10 - BASE CARD - 2026 Topps Heritage MLB Baseball",
-    "price": 2.38,
-    "image": "https://i.ebayimg.com/images/g/U5sAAeSwFVNpxX6N/s-l300.jpg",
-    "url": "https://www.ebay.com/itm/168264891775",
-    "category": "baseball",
-    "badge": null,
-    "discount": null,
-    "numbered": false,
-    "stock": 0
-  },
-  {
-    "id": 3776,
-    "name": "Aaron Judge #10 - BASE CARD - 2026 Topps Heritage MLB Baseball",
-    "price": 2.38,
-    "image": "https://i.ebayimg.com/images/g/U5sAAeSwFVNpxX6N/s-l300.jpg",
-    "url": "https://www.ebay.com/itm/168264891775",
-    "category": "baseball",
-    "badge": null,
-    "discount": null,
-    "numbered": false,
-    "stock": 0
-  },
-  {
-    "id": 3777,
-    "name": "Aaron Judge #10 - BASE CARD - 2026 Topps Heritage MLB Baseball",
-    "price": 2.38,
-    "image": "https://i.ebayimg.com/images/g/U5sAAeSwFVNpxX6N/s-l300.jpg",
-    "url": "https://www.ebay.com/itm/168264891775",
-    "category": "baseball",
-    "badge": null,
-    "discount": null,
-    "numbered": false,
-    "stock": 0
-  },
-  {
-    "id": 3778,
-    "name": "Aaron Judge #10 - BASE CARD - 2026 Topps Heritage MLB Baseball",
-    "price": 2.38,
-    "image": "https://i.ebayimg.com/images/g/U5sAAeSwFVNpxX6N/s-l300.jpg",
-    "url": "https://www.ebay.com/itm/168264891775",
-    "category": "baseball",
-    "badge": null,
-    "discount": null,
-    "numbered": false,
-    "stock": 0
-  },
-  {
-    "id": 3779,
-    "name": "Aaron Judge #10 - BASE CARD - 2026 Topps Heritage MLB Baseball",
-    "price": 2.38,
-    "image": "https://i.ebayimg.com/images/g/U5sAAeSwFVNpxX6N/s-l300.jpg",
-    "url": "https://www.ebay.com/itm/168264891775",
-    "category": "baseball",
-    "badge": null,
-    "discount": null,
-    "numbered": false,
-    "stock": 0
-  },
-  {
-    "id": 3780,
-    "name": "Aaron Judge #10 - BASE CARD - 2026 Topps Heritage MLB Baseball",
-    "price": 2.38,
-    "image": "https://i.ebayimg.com/images/g/U5sAAeSwFVNpxX6N/s-l300.jpg",
-    "url": "https://www.ebay.com/itm/168264891775",
-    "category": "baseball",
-    "badge": null,
-    "discount": null,
-    "numbered": false,
-    "stock": 0
-  },
-  {
-    "id": 3781,
-    "name": "Aaron Judge #10 - BASE CARD - 2026 Topps Heritage MLB Baseball",
-    "price": 2.38,
-    "image": "https://i.ebayimg.com/images/g/U5sAAeSwFVNpxX6N/s-l300.jpg",
-    "url": "https://www.ebay.com/itm/168264891775",
-    "category": "baseball",
-    "badge": null,
-    "discount": null,
-    "numbered": false,
-    "stock": 0
-  },
-  {
-    "id": 3782,
-    "name": "Aaron Judge #10 - BASE CARD - 2026 Topps Heritage MLB Baseball",
-    "price": 2.38,
-    "image": "https://i.ebayimg.com/images/g/U5sAAeSwFVNpxX6N/s-l300.jpg",
-    "url": "https://www.ebay.com/itm/168264891775",
-    "category": "baseball",
-    "badge": null,
-    "discount": null,
-    "numbered": false,
-    "stock": 0
-  },
-  {
-    "id": 3783,
-    "name": "Aaron Judge #10 - BASE CARD - 2026 Topps Heritage MLB Baseball",
-    "price": 2.38,
-    "image": "https://i.ebayimg.com/images/g/U5sAAeSwFVNpxX6N/s-l300.jpg",
-    "url": "https://www.ebay.com/itm/168264891775",
-    "category": "baseball",
-    "badge": null,
-    "discount": null,
-    "numbered": false,
-    "stock": 0
-  },
-  {
-    "id": 3784,
-    "name": "Aaron Judge #10 - BASE CARD - 2026 Topps Heritage MLB Baseball",
-    "price": 2.38,
-    "image": "https://i.ebayimg.com/images/g/U5sAAeSwFVNpxX6N/s-l300.jpg",
-    "url": "https://www.ebay.com/itm/168264891775",
-    "category": "baseball",
-    "badge": null,
-    "discount": null,
-    "numbered": false,
-    "stock": 0
-  },
-  {
-    "id": 3785,
-    "name": "Aaron Judge #10 - BASE CARD - 2026 Topps Heritage MLB Baseball",
-    "price": 2.38,
-    "image": "https://i.ebayimg.com/images/g/U5sAAeSwFVNpxX6N/s-l300.jpg",
-    "url": "https://www.ebay.com/itm/168264891775",
-    "category": "baseball",
-    "badge": null,
-    "discount": null,
-    "numbered": false,
-    "stock": 0
-  },
-  {
-    "id": 3786,
-    "name": "Aaron Judge #10 - BASE CARD - 2026 Topps Heritage MLB Baseball",
-    "price": 2.38,
-    "image": "https://i.ebayimg.com/images/g/U5sAAeSwFVNpxX6N/s-l300.jpg",
-    "url": "https://www.ebay.com/itm/168264891775",
-    "category": "baseball",
-    "badge": null,
-    "discount": null,
-    "numbered": false,
-    "stock": 0
-  },
-  {
-    "id": 3787,
-    "name": "Aaron Judge #10 - BASE CARD - 2026 Topps Heritage MLB Baseball",
-    "price": 2.38,
-    "image": "https://i.ebayimg.com/images/g/U5sAAeSwFVNpxX6N/s-l300.jpg",
-    "url": "https://www.ebay.com/itm/168264891775",
-    "category": "baseball",
-    "badge": null,
-    "discount": null,
-    "numbered": false,
-    "stock": 0
-  },
-  {
-    "id": 3788,
-    "name": "Aaron Judge #10 - BASE CARD - 2026 Topps Heritage MLB Baseball",
-    "price": 2.38,
-    "image": "https://i.ebayimg.com/images/g/U5sAAeSwFVNpxX6N/s-l300.jpg",
-    "url": "https://www.ebay.com/itm/168264891775",
-    "category": "baseball",
-    "badge": null,
-    "discount": null,
-    "numbered": false,
-    "stock": 0
-  },
-  {
-    "id": 3789,
-    "name": "Aaron Judge #10 - BASE CARD - 2026 Topps Heritage MLB Baseball",
-    "price": 2.38,
-    "image": "https://i.ebayimg.com/images/g/U5sAAeSwFVNpxX6N/s-l300.jpg",
-    "url": "https://www.ebay.com/itm/168264891775",
-    "category": "baseball",
-    "badge": null,
-    "discount": null,
-    "numbered": false,
-    "stock": 0
-  },
-  {
-    "id": 3790,
-    "name": "Aaron Judge #10 - BASE CARD - 2026 Topps Heritage MLB Baseball",
-    "price": 2.38,
-    "image": "https://i.ebayimg.com/images/g/U5sAAeSwFVNpxX6N/s-l300.jpg",
-    "url": "https://www.ebay.com/itm/168264891775",
-    "category": "baseball",
-    "badge": null,
-    "discount": null,
-    "numbered": false,
-    "stock": 0
-  },
-  {
-    "id": 3791,
-    "name": "Aaron Judge #10 - BASE CARD - 2026 Topps Heritage MLB Baseball",
-    "price": 2.38,
-    "image": "https://i.ebayimg.com/images/g/U5sAAeSwFVNpxX6N/s-l300.jpg",
-    "url": "https://www.ebay.com/itm/168264891775",
-    "category": "baseball",
-    "badge": null,
-    "discount": null,
-    "numbered": false,
-    "stock": 0
-  },
-  {
-    "id": 3792,
-    "name": "Aaron Judge #10 - BASE CARD - 2026 Topps Heritage MLB Baseball",
-    "price": 2.38,
-    "image": "https://i.ebayimg.com/images/g/U5sAAeSwFVNpxX6N/s-l300.jpg",
-    "url": "https://www.ebay.com/itm/168264891775",
-    "category": "baseball",
-    "badge": null,
-    "discount": null,
-    "numbered": false,
-    "stock": 0
-  },
-  {
-    "id": 3793,
-    "name": "Aaron Judge #10 - BASE CARD - 2026 Topps Heritage MLB Baseball",
-    "price": 2.38,
-    "image": "https://i.ebayimg.com/images/g/U5sAAeSwFVNpxX6N/s-l300.jpg",
-    "url": "https://www.ebay.com/itm/168264891775",
-    "category": "baseball",
-    "badge": null,
-    "discount": null,
-    "numbered": false,
-    "stock": 0
-  },
-  {
-    "id": 3794,
-    "name": "Aaron Judge #10 - BASE CARD - 2026 Topps Heritage MLB Baseball",
-    "price": 2.38,
-    "image": "https://i.ebayimg.com/images/g/U5sAAeSwFVNpxX6N/s-l300.jpg",
-    "url": "https://www.ebay.com/itm/168264891775",
-    "category": "baseball",
-    "badge": null,
-    "discount": null,
-    "numbered": false,
-    "stock": 0
-  },
-  {
-    "id": 3795,
-    "name": "Aaron Judge #10 - BASE CARD - 2026 Topps Heritage MLB Baseball",
-    "price": 2.38,
-    "image": "https://i.ebayimg.com/images/g/U5sAAeSwFVNpxX6N/s-l300.jpg",
-    "url": "https://www.ebay.com/itm/168264891775",
-    "category": "baseball",
-    "badge": null,
-    "discount": null,
-    "numbered": false,
-    "stock": 0
-  },
-  {
-    "id": 3796,
-    "name": "Aaron Judge #10 - BASE CARD - 2026 Topps Heritage MLB Baseball",
-    "price": 2.38,
-    "image": "https://i.ebayimg.com/images/g/U5sAAeSwFVNpxX6N/s-l300.jpg",
-    "url": "https://www.ebay.com/itm/168264891775",
-    "category": "baseball",
-    "badge": null,
-    "discount": null,
-    "numbered": false,
-    "stock": 0
   },
   {
     "id": 3797,
@@ -45565,6 +45565,282 @@ window.products = [
   },
   {
     "id": 3798,
+    "name": "Aaron Judge #10 - BASE CARD - 2026 Topps Heritage MLB Baseball",
+    "price": 2.38,
+    "image": "https://i.ebayimg.com/images/g/U5sAAeSwFVNpxX6N/s-l300.jpg",
+    "url": "https://www.ebay.com/itm/168264891775",
+    "category": "baseball",
+    "badge": null,
+    "discount": null,
+    "numbered": false,
+    "stock": 0
+  },
+  {
+    "id": 3799,
+    "name": "Aaron Judge #10 - BASE CARD - 2026 Topps Heritage MLB Baseball",
+    "price": 2.38,
+    "image": "https://i.ebayimg.com/images/g/U5sAAeSwFVNpxX6N/s-l300.jpg",
+    "url": "https://www.ebay.com/itm/168264891775",
+    "category": "baseball",
+    "badge": null,
+    "discount": null,
+    "numbered": false,
+    "stock": 0
+  },
+  {
+    "id": 3800,
+    "name": "Aaron Judge #10 - BASE CARD - 2026 Topps Heritage MLB Baseball",
+    "price": 2.38,
+    "image": "https://i.ebayimg.com/images/g/U5sAAeSwFVNpxX6N/s-l300.jpg",
+    "url": "https://www.ebay.com/itm/168264891775",
+    "category": "baseball",
+    "badge": null,
+    "discount": null,
+    "numbered": false,
+    "stock": 0
+  },
+  {
+    "id": 3801,
+    "name": "Aaron Judge #10 - BASE CARD - 2026 Topps Heritage MLB Baseball",
+    "price": 2.38,
+    "image": "https://i.ebayimg.com/images/g/U5sAAeSwFVNpxX6N/s-l300.jpg",
+    "url": "https://www.ebay.com/itm/168264891775",
+    "category": "baseball",
+    "badge": null,
+    "discount": null,
+    "numbered": false,
+    "stock": 0
+  },
+  {
+    "id": 3802,
+    "name": "Aaron Judge #10 - BASE CARD - 2026 Topps Heritage MLB Baseball",
+    "price": 2.38,
+    "image": "https://i.ebayimg.com/images/g/U5sAAeSwFVNpxX6N/s-l300.jpg",
+    "url": "https://www.ebay.com/itm/168264891775",
+    "category": "baseball",
+    "badge": null,
+    "discount": null,
+    "numbered": false,
+    "stock": 0
+  },
+  {
+    "id": 3803,
+    "name": "Aaron Judge #10 - BASE CARD - 2026 Topps Heritage MLB Baseball",
+    "price": 2.38,
+    "image": "https://i.ebayimg.com/images/g/U5sAAeSwFVNpxX6N/s-l300.jpg",
+    "url": "https://www.ebay.com/itm/168264891775",
+    "category": "baseball",
+    "badge": null,
+    "discount": null,
+    "numbered": false,
+    "stock": 0
+  },
+  {
+    "id": 3804,
+    "name": "Aaron Judge #10 - BASE CARD - 2026 Topps Heritage MLB Baseball",
+    "price": 2.38,
+    "image": "https://i.ebayimg.com/images/g/U5sAAeSwFVNpxX6N/s-l300.jpg",
+    "url": "https://www.ebay.com/itm/168264891775",
+    "category": "baseball",
+    "badge": null,
+    "discount": null,
+    "numbered": false,
+    "stock": 0
+  },
+  {
+    "id": 3805,
+    "name": "Aaron Judge #10 - BASE CARD - 2026 Topps Heritage MLB Baseball",
+    "price": 2.38,
+    "image": "https://i.ebayimg.com/images/g/U5sAAeSwFVNpxX6N/s-l300.jpg",
+    "url": "https://www.ebay.com/itm/168264891775",
+    "category": "baseball",
+    "badge": null,
+    "discount": null,
+    "numbered": false,
+    "stock": 0
+  },
+  {
+    "id": 3806,
+    "name": "Aaron Judge #10 - BASE CARD - 2026 Topps Heritage MLB Baseball",
+    "price": 2.38,
+    "image": "https://i.ebayimg.com/images/g/U5sAAeSwFVNpxX6N/s-l300.jpg",
+    "url": "https://www.ebay.com/itm/168264891775",
+    "category": "baseball",
+    "badge": null,
+    "discount": null,
+    "numbered": false,
+    "stock": 0
+  },
+  {
+    "id": 3807,
+    "name": "Aaron Judge #10 - BASE CARD - 2026 Topps Heritage MLB Baseball",
+    "price": 2.38,
+    "image": "https://i.ebayimg.com/images/g/U5sAAeSwFVNpxX6N/s-l300.jpg",
+    "url": "https://www.ebay.com/itm/168264891775",
+    "category": "baseball",
+    "badge": null,
+    "discount": null,
+    "numbered": false,
+    "stock": 0
+  },
+  {
+    "id": 3808,
+    "name": "Aaron Judge #10 - BASE CARD - 2026 Topps Heritage MLB Baseball",
+    "price": 2.38,
+    "image": "https://i.ebayimg.com/images/g/U5sAAeSwFVNpxX6N/s-l300.jpg",
+    "url": "https://www.ebay.com/itm/168264891775",
+    "category": "baseball",
+    "badge": null,
+    "discount": null,
+    "numbered": false,
+    "stock": 0
+  },
+  {
+    "id": 3809,
+    "name": "Aaron Judge #10 - BASE CARD - 2026 Topps Heritage MLB Baseball",
+    "price": 2.38,
+    "image": "https://i.ebayimg.com/images/g/U5sAAeSwFVNpxX6N/s-l300.jpg",
+    "url": "https://www.ebay.com/itm/168264891775",
+    "category": "baseball",
+    "badge": null,
+    "discount": null,
+    "numbered": false,
+    "stock": 0
+  },
+  {
+    "id": 3810,
+    "name": "Aaron Judge #10 - BASE CARD - 2026 Topps Heritage MLB Baseball",
+    "price": 2.38,
+    "image": "https://i.ebayimg.com/images/g/U5sAAeSwFVNpxX6N/s-l300.jpg",
+    "url": "https://www.ebay.com/itm/168264891775",
+    "category": "baseball",
+    "badge": null,
+    "discount": null,
+    "numbered": false,
+    "stock": 0
+  },
+  {
+    "id": 3811,
+    "name": "Aaron Judge #10 - BASE CARD - 2026 Topps Heritage MLB Baseball",
+    "price": 2.38,
+    "image": "https://i.ebayimg.com/images/g/U5sAAeSwFVNpxX6N/s-l300.jpg",
+    "url": "https://www.ebay.com/itm/168264891775",
+    "category": "baseball",
+    "badge": null,
+    "discount": null,
+    "numbered": false,
+    "stock": 0
+  },
+  {
+    "id": 3812,
+    "name": "Aaron Judge #10 - BASE CARD - 2026 Topps Heritage MLB Baseball",
+    "price": 2.38,
+    "image": "https://i.ebayimg.com/images/g/U5sAAeSwFVNpxX6N/s-l300.jpg",
+    "url": "https://www.ebay.com/itm/168264891775",
+    "category": "baseball",
+    "badge": null,
+    "discount": null,
+    "numbered": false,
+    "stock": 0
+  },
+  {
+    "id": 3813,
+    "name": "Aaron Judge #10 - BASE CARD - 2026 Topps Heritage MLB Baseball",
+    "price": 2.38,
+    "image": "https://i.ebayimg.com/images/g/U5sAAeSwFVNpxX6N/s-l300.jpg",
+    "url": "https://www.ebay.com/itm/168264891775",
+    "category": "baseball",
+    "badge": null,
+    "discount": null,
+    "numbered": false,
+    "stock": 0
+  },
+  {
+    "id": 3814,
+    "name": "Aaron Judge #10 - BASE CARD - 2026 Topps Heritage MLB Baseball",
+    "price": 2.38,
+    "image": "https://i.ebayimg.com/images/g/U5sAAeSwFVNpxX6N/s-l300.jpg",
+    "url": "https://www.ebay.com/itm/168264891775",
+    "category": "baseball",
+    "badge": null,
+    "discount": null,
+    "numbered": false,
+    "stock": 0
+  },
+  {
+    "id": 3815,
+    "name": "Aaron Judge #10 - BASE CARD - 2026 Topps Heritage MLB Baseball",
+    "price": 2.38,
+    "image": "https://i.ebayimg.com/images/g/U5sAAeSwFVNpxX6N/s-l300.jpg",
+    "url": "https://www.ebay.com/itm/168264891775",
+    "category": "baseball",
+    "badge": null,
+    "discount": null,
+    "numbered": false,
+    "stock": 0
+  },
+  {
+    "id": 3816,
+    "name": "Aaron Judge #10 - BASE CARD - 2026 Topps Heritage MLB Baseball",
+    "price": 2.38,
+    "image": "https://i.ebayimg.com/images/g/U5sAAeSwFVNpxX6N/s-l300.jpg",
+    "url": "https://www.ebay.com/itm/168264891775",
+    "category": "baseball",
+    "badge": null,
+    "discount": null,
+    "numbered": false,
+    "stock": 0
+  },
+  {
+    "id": 3817,
+    "name": "Aaron Judge #10 - BASE CARD - 2026 Topps Heritage MLB Baseball",
+    "price": 2.38,
+    "image": "https://i.ebayimg.com/images/g/U5sAAeSwFVNpxX6N/s-l300.jpg",
+    "url": "https://www.ebay.com/itm/168264891775",
+    "category": "baseball",
+    "badge": null,
+    "discount": null,
+    "numbered": false,
+    "stock": 0
+  },
+  {
+    "id": 3818,
+    "name": "Aaron Judge #10 - BASE CARD - 2026 Topps Heritage MLB Baseball",
+    "price": 2.38,
+    "image": "https://i.ebayimg.com/images/g/U5sAAeSwFVNpxX6N/s-l300.jpg",
+    "url": "https://www.ebay.com/itm/168264891775",
+    "category": "baseball",
+    "badge": null,
+    "discount": null,
+    "numbered": false,
+    "stock": 0
+  },
+  {
+    "id": 3819,
+    "name": "Aaron Judge #10 - BASE CARD - 2026 Topps Heritage MLB Baseball",
+    "price": 2.38,
+    "image": "https://i.ebayimg.com/images/g/U5sAAeSwFVNpxX6N/s-l300.jpg",
+    "url": "https://www.ebay.com/itm/168264891775",
+    "category": "baseball",
+    "badge": null,
+    "discount": null,
+    "numbered": false,
+    "stock": 0
+  },
+  {
+    "id": 3820,
+    "name": "Aaron Judge #10 - BASE CARD - 2026 Topps Heritage MLB Baseball",
+    "price": 2.38,
+    "image": "https://i.ebayimg.com/images/g/U5sAAeSwFVNpxX6N/s-l300.jpg",
+    "url": "https://www.ebay.com/itm/168264891775",
+    "category": "baseball",
+    "badge": null,
+    "discount": null,
+    "numbered": false,
+    "stock": 0
+  },
+  {
+    "id": 3821,
     "name": "Bobby Witt Jr. #160 - BASE CARD - 2026 Topps Heritage MLB Baseball",
     "price": 1.58,
     "image": "https://i.ebayimg.com/images/g/e2UAAeSwqlJpxX5v/s-l300.jpg",
@@ -45576,7 +45852,7 @@ window.products = [
     "stock": 7
   },
   {
-    "id": 3799,
+    "id": 3822,
     "name": "Clayton Kershaw #190 - BASE CARD - 2026 Topps Heritage MLB Baseball",
     "price": 1.66,
     "image": "https://i.ebayimg.com/images/g/NmIAAeSw2mBpxX5Z/s-l300.jpg",
@@ -45588,7 +45864,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 3800,
+    "id": 3823,
     "name": "Jac Caglianone (RC) #136 - BASE CARD - 2026 Topps Heritage MLB Baseball",
     "price": 1.81,
     "image": "https://i.ebayimg.com/images/g/S60AAeSwaRppxX4v/s-l300.jpg",
@@ -45600,7 +45876,7 @@ window.products = [
     "stock": 5
   },
   {
-    "id": 3801,
+    "id": 3824,
     "name": "Nick Kurtz #275 - BASE CARD - 2026 Topps Heritage MLB Baseball",
     "price": 1.58,
     "image": "https://i.ebayimg.com/images/g/LlYAAeSw3htpxX39/s-l300.jpg",
@@ -45612,7 +45888,7 @@ window.products = [
     "stock": 6
   },
   {
-    "id": 3802,
+    "id": 3825,
     "name": "Paul Skenes #33 - BASE CARD - 2026 Topps Heritage MLB Baseball",
     "price": 1.66,
     "image": "https://i.ebayimg.com/images/g/e48AAeSwsaxpxX3i/s-l300.jpg",
@@ -45624,7 +45900,7 @@ window.products = [
     "stock": 2
   },
   {
-    "id": 3803,
+    "id": 3826,
     "name": "Jonah Tong (RC) #137 - BASE CARD - 2026 Topps Heritage MLB Baseball",
     "price": 1.66,
     "image": "https://i.ebayimg.com/images/g/Tk4AAeSwYFxpxX26/s-l300.jpg",
@@ -45636,7 +45912,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 3804,
+    "id": 3827,
     "name": "Trey Yesavage (RC) #245 - BASE CARD - 2026 Topps Heritage MLB Baseball",
     "price": 1.67,
     "image": "https://i.ebayimg.com/images/g/SssAAeSwxGxpxX2U/s-l300.jpg",
@@ -45648,7 +45924,7 @@ window.products = [
     "stock": 4
   },
   {
-    "id": 3805,
+    "id": 3828,
     "name": "Bradgley Rodriguez (RC) #148 - BASE CARD - 2026 Topps Heritage MLB Baseball",
     "price": 1.66,
     "image": "https://i.ebayimg.com/images/g/a-oAAeSwqaJpxX1z/s-l300.jpg",
@@ -45660,7 +45936,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 3806,
+    "id": 3829,
     "name": "Chase Burns (RC) #212 - BASE CARD - 2026 Topps Heritage MLB Baseball",
     "price": 1.58,
     "image": "https://i.ebayimg.com/images/g/Pt0AAeSwEcFpxX1N/s-l300.jpg",
@@ -45672,7 +45948,7 @@ window.products = [
     "stock": 5
   },
   {
-    "id": 3807,
+    "id": 3830,
     "name": "Samuel Basallo (RC) #175 - BASE CARD - 2026 Topps Heritage MLB Baseball",
     "price": 1.66,
     "image": "https://i.ebayimg.com/images/g/PGUAAeSwLTtpxX0y/s-l300.jpg",
@@ -45684,7 +45960,7 @@ window.products = [
     "stock": 2
   },
   {
-    "id": 3808,
+    "id": 3831,
     "name": "Cole Wilcox (RC) #155 - BASE CARD - 2026 Topps Heritage MLB Baseball",
     "price": 1.66,
     "image": "https://i.ebayimg.com/images/g/OS8AAeSwJHtpxXzl/s-l300.jpg",
@@ -45696,7 +45972,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 3809,
+    "id": 3832,
     "name": "Carson Whisenhunt (RC) #79 - BASE CARD - 2026 Topps Heritage MLB Baseball",
     "price": 1.66,
     "image": "https://i.ebayimg.com/images/g/MmAAAeSw7PFpxXy6/s-l300.jpg",
@@ -45708,7 +45984,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 3810,
+    "id": 3833,
     "name": "Andrew Hoffman (RC) #211 - BASE CARD - 2026 Topps Heritage MLB Baseball",
     "price": 1.66,
     "image": "https://i.ebayimg.com/images/g/OycAAeSwGwtpxXyU/s-l300.jpg",
@@ -45720,7 +45996,7 @@ window.products = [
     "stock": 3
   },
   {
-    "id": 3811,
+    "id": 3834,
     "name": "Brandon Sproat (RC) #118 - BASE CARD - 2026 Topps Heritage MLB Baseball",
     "price": 1.9,
     "image": "https://i.ebayimg.com/images/g/H8MAAeSwb1ZpxXxz/s-l300.jpg",
@@ -45732,7 +46008,7 @@ window.products = [
     "stock": 2
   },
   {
-    "id": 3812,
+    "id": 3835,
     "name": "Christian Montes De Oca (RC) #205 - BASE CARD - 2026 Topps Heritage MLB Baseball",
     "price": 1.9,
     "image": "https://i.ebayimg.com/images/g/WS0AAeSwmFBpxXxb/s-l300.jpg",
@@ -45744,7 +46020,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 3813,
+    "id": 3836,
     "name": "Payton Tolle (RC) #386 - BASE CARD - 2026 Topps Heritage MLB Baseball",
     "price": 1.81,
     "image": "https://i.ebayimg.com/images/g/WmIAAeSwjOxpxXwy/s-l300.jpg",
@@ -45756,7 +46032,7 @@ window.products = [
     "stock": 4
   },
   {
-    "id": 3814,
+    "id": 3837,
     "name": "Carson Williams (RC) #161 - BASE CARD - 2026 Topps Heritage MLB Baseball",
     "price": 1.9,
     "image": "https://i.ebayimg.com/images/g/QbcAAeSwdQBpxXwI/s-l300.jpg",
@@ -45768,7 +46044,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 3815,
+    "id": 3838,
     "name": "Yoshinobu Yamamoto #371 - BASE CARD - 2026 Topps Heritage MLB Baseball",
     "price": 1.9,
     "image": "https://i.ebayimg.com/images/g/grYAAeSwgV5pxXvs/s-l300.jpg",
@@ -45780,7 +46056,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 3816,
+    "id": 3839,
     "name": "Bubba Chandler (RC) #265 - BASE CARD - 2026 Topps Heritage MLB Baseball",
     "price": 1.81,
     "image": "https://i.ebayimg.com/images/g/G9YAAeSwSqlpxXu8/s-l300.jpg",
@@ -45792,7 +46068,7 @@ window.products = [
     "stock": 8
   },
   {
-    "id": 3817,
+    "id": 3840,
     "name": "Jacob Wilson #17 - BASE CARD - 2026 Topps Heritage MLB Baseball",
     "price": 1.9,
     "image": "https://i.ebayimg.com/images/g/dWwAAeSwOchpxXue/s-l300.jpg",
@@ -45804,7 +46080,7 @@ window.products = [
     "stock": 2
   },
   {
-    "id": 3818,
+    "id": 3841,
     "name": "Trea Turner #183 REFRACTOR - 2026 Topps Heritage MLB Baseball Card",
     "price": 4.75,
     "image": "https://i.ebayimg.com/images/g/e1YAAeSwLM5pxIRL/s-l300.jpg",
@@ -45816,7 +46092,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 3819,
+    "id": 3842,
     "name": "Austin Riley #271 REFRACTOR - 2026 Topps Heritage MLB Baseball Card",
     "price": 1.9,
     "image": "https://i.ebayimg.com/images/g/S9UAAeSwin9pxIQy/s-l300.jpg",
@@ -45828,7 +46104,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 3820,
+    "id": 3843,
     "name": "Brandon Pfaadt #126 Blue Sparkle - 2026 Topps Heritage MLB Baseball Card",
     "price": 2.61,
     "image": "https://i.ebayimg.com/images/g/CHYAAeSwdbdpxIQH/s-l300.jpg",
@@ -45840,7 +46116,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 3821,
+    "id": 3844,
     "name": "Cade Cavalli #68 Blue Sparkle - 2026 Topps Heritage MLB Baseball Card",
     "price": 1.9,
     "image": "https://i.ebayimg.com/images/g/BvoAAeSw33xpxIPx/s-l300.jpg",
@@ -45852,7 +46128,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 3822,
+    "id": 3845,
     "name": "Luis Rengifo #149 Blue Sparkle - 2026 Topps Heritage MLB Baseball Card",
     "price": 1.9,
     "image": "https://i.ebayimg.com/images/g/BPoAAeSwYXZpxIPd/s-l300.jpg",
@@ -45864,7 +46140,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 3823,
+    "id": 3846,
     "name": "Bryan Reynolds #173 Blue Sparkle - 2026 Topps Heritage MLB Baseball Card",
     "price": 1.9,
     "image": "https://i.ebayimg.com/images/g/e-sAAeSw4TBpxIPD/s-l300.jpg",
@@ -45876,7 +46152,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 3824,
+    "id": 3847,
     "name": "Spencer Horwitz #266 Blue Sparkle - 2026 Topps Heritage MLB Baseball Card",
     "price": 1.9,
     "image": "https://i.ebayimg.com/images/g/76MAAeSw8eJpxIOb/s-l300.jpg",
@@ -45888,7 +46164,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 3825,
+    "id": 3848,
     "name": "Michael Busch #305 Blue Sparkle - 2026 Topps Heritage MLB Baseball Card",
     "price": 1.9,
     "image": "https://i.ebayimg.com/images/g/gQwAAeSwcdJpxIOC/s-l300.jpg",
@@ -45900,7 +46176,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 3826,
+    "id": 3849,
     "name": "Lane Thomas #285 Blue Sparkle - 2026 Topps Heritage MLB Baseball Card",
     "price": 1.9,
     "image": "https://i.ebayimg.com/images/g/ILYAAeSwJQppxINt/s-l300.jpg",
@@ -45912,7 +46188,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 3827,
+    "id": 3850,
     "name": "Kyle Stowers #395 Blue Sparkle - 2026 Topps Heritage MLB Baseball Card",
     "price": 2.85,
     "image": "https://i.ebayimg.com/images/g/~m4AAeSw3~5pxINN/s-l300.jpg",
@@ -45924,7 +46200,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 3828,
+    "id": 3851,
     "name": "RELIC Ezequiel Tovar #CCR-ET - 2026 Topps Heritage MLB Baseball Card",
     "price": 4.75,
     "image": "https://i.ebayimg.com/images/g/SUEAAeSwe3dpxIMy/s-l300.jpg",
@@ -45936,7 +46212,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 3829,
+    "id": 3852,
     "name": "Ben Rice #189 CHROME - 2026 Topps Heritage MLB Baseball Card",
     "price": 1.9,
     "image": "https://i.ebayimg.com/images/g/G-4AAeSwVuJpxIL0/s-l300.jpg",
@@ -45948,7 +46224,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 3830,
+    "id": 3853,
     "name": "Wilyer Abreu #362 CHROME - 2026 Topps Heritage MLB Baseball Card",
     "price": 1.9,
     "image": "https://i.ebayimg.com/images/g/TnYAAeSwOzRpxILd/s-l300.jpg",
@@ -45960,7 +46236,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 3831,
+    "id": 3854,
     "name": "Victor Mesa Jr. #257 CHROME - 2026 Topps Heritage MLB Baseball Card",
     "price": 1.9,
     "image": "https://i.ebayimg.com/images/g/~IMAAeSwK4tpxILH/s-l300.jpg",
@@ -45972,7 +46248,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 3832,
+    "id": 3855,
     "name": "Willson Contreras #156 CHROME - 2026 Topps Heritage MLB Baseball Card",
     "price": 1.9,
     "image": "https://i.ebayimg.com/images/g/98gAAeSwXsFpxIKy/s-l300.jpg",
@@ -45984,7 +46260,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 3833,
+    "id": 3856,
     "name": "Leading Firemen #8 CHROME - 2026 Topps Heritage MLB Baseball Card",
     "price": 1.9,
     "image": "https://i.ebayimg.com/images/g/9SUAAeSw59BpxIJz/s-l300.jpg",
@@ -45996,7 +46272,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 3834,
+    "id": 3857,
     "name": "Kyle Teel (RC) #RA-KT Dark Gray Border - 2026 Topps Heritage MLB Baseball Card",
     "price": 2.85,
     "image": "https://i.ebayimg.com/images/g/NiAAAeSwBP5pxIJU/s-l300.jpg",
@@ -46008,7 +46284,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 3835,
+    "id": 3858,
     "name": "Brayan Rocchio #368 Dark Gray Border - 2026 Topps Heritage MLB Baseball Card",
     "price": 1.9,
     "image": "https://i.ebayimg.com/images/g/bFYAAeSwU4JpxII0/s-l300.jpg",
@@ -46020,7 +46296,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 3836,
+    "id": 3859,
     "name": "Max Fried #130 Dark Gray Border - 2026 Topps Heritage MLB Baseball Card",
     "price": 1.9,
     "image": "https://i.ebayimg.com/images/g/Rs4AAeSwnhhpxIIc/s-l300.jpg",
@@ -46032,7 +46308,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 3837,
+    "id": 3860,
     "name": "Luis Castillo #24 Dark Gray Border - 2026 Topps Heritage MLB Baseball Card",
     "price": 1.9,
     "image": "https://i.ebayimg.com/images/g/HMUAAeSwJQ1pxIIH/s-l300.jpg",
@@ -46044,7 +46320,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 3838,
+    "id": 3861,
     "name": "Taylor Ward #258 Dark Gray Border - 2026 Topps Heritage MLB Baseball Card",
     "price": 2.61,
     "image": "https://i.ebayimg.com/images/g/9eYAAeSw39BpxIHR/s-l300.jpg",
@@ -46056,7 +46332,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 3839,
+    "id": 3862,
     "name": "Chase Dollander #91 Dark Gray Border - 2026 Topps Heritage MLB Baseball Card",
     "price": 1.9,
     "image": "https://i.ebayimg.com/images/g/GacAAeSwdj5pxIG-/s-l300.jpg",
@@ -46068,7 +46344,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 3840,
+    "id": 3863,
     "name": "Andrew Hoffman (RC) #211 Dark Gray Border - 2026 Topps Heritage MLB Baseball Car",
     "price": 2.85,
     "image": "https://i.ebayimg.com/images/g/Yo0AAeSwXXlpxIGT/s-l300.jpg",
@@ -46080,7 +46356,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 3841,
+    "id": 3864,
     "name": "Rookie Pitchers #391 Dark Gray Border - 2026 Topps Heritage MLB Baseball Card",
     "price": 2.85,
     "image": "https://i.ebayimg.com/images/g/99IAAeSwvohpxIFv/s-l300.jpg",
@@ -46092,7 +46368,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 3842,
+    "id": 3865,
     "name": "Trea Turner #TE-TT - 2026 Topps Heritage MLB Baseball Card",
     "price": 1.9,
     "image": "https://i.ebayimg.com/images/g/5y8AAeSw9ChpxIDE/s-l300.jpg",
@@ -46104,7 +46380,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 3843,
+    "id": 3866,
     "name": "Cade Cavalli #68 CHROME - 2026 Topps Heritage MLB Baseball Card",
     "price": 1.9,
     "image": "https://i.ebayimg.com/images/g/pTkAAeSwlcZpxG30/s-l300.jpg",
@@ -46116,7 +46392,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 3844,
+    "id": 3867,
     "name": "Lane Thomas #285 CHROME - 2026 Topps Heritage MLB Baseball Card",
     "price": 1.9,
     "image": "https://i.ebayimg.com/images/g/dVkAAeSw0SNpxG3a/s-l300.jpg",
@@ -46128,7 +46404,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 3845,
+    "id": 3868,
     "name": "David Bednar #207 CHROME - 2026 Topps Heritage MLB Baseball Card",
     "price": 1.9,
     "image": "https://i.ebayimg.com/images/g/d1AAAeSwASBpxG3B/s-l300.jpg",
@@ -46140,7 +46416,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 3846,
+    "id": 3869,
     "name": "Michael A. Taylor #45 CHROME  - 2026 Topps Heritage MLB Baseball Card",
     "price": 1.9,
     "image": "https://i.ebayimg.com/images/g/flMAAeSwrudpxG2H/s-l300.jpg",
@@ -46152,7 +46428,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 3847,
+    "id": 3870,
     "name": "Christian Yelich #332 REFRACTOR  - 2026 Topps Heritage MLB Baseball Card",
     "price": 2.85,
     "image": "https://i.ebayimg.com/images/g/0KIAAeSw-2BpxG1u/s-l300.jpg",
@@ -46164,7 +46440,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 3848,
+    "id": 3871,
     "name": "Corey Seager #302 REFRACTOR  - 2026 Topps Heritage MLB Baseball Card",
     "price": 2.85,
     "image": "https://i.ebayimg.com/images/g/tmcAAeSwFqRpxGz6/s-l300.jpg",
@@ -46176,7 +46452,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 3849,
+    "id": 3872,
     "name": "Kris Bryant #22 Blue Sparkle - 2026 Topps Heritage MLB Baseball Card",
     "price": 1.9,
     "image": "https://i.ebayimg.com/images/g/b5AAAeSwdbdpxGzX/s-l300.jpg",
@@ -46188,7 +46464,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 3850,
+    "id": 3873,
     "name": "C.J. Kayfus (RC) #364 Blue Sparkle - 2026 Topps Heritage MLB Baseball Card",
     "price": 2.85,
     "image": "https://i.ebayimg.com/images/g/k2IAAeSwQ15pxGxP/s-l300.jpg",
@@ -46200,7 +46476,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 3851,
+    "id": 3874,
     "name": "Bryson Stott #382 Blue Sparkle - 2026 Topps Heritage MLB Baseball Card",
     "price": 2.85,
     "image": "https://i.ebayimg.com/images/g/bgkAAeSwaeRpxGwY/s-l300.jpg",
@@ -46212,7 +46488,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 3852,
+    "id": 3875,
     "name": "Emmet Sheehan #178 Dark Gray Border - 2026 Topps Heritage MLB Baseball Card",
     "price": 1.9,
     "image": "https://i.ebayimg.com/images/g/NfIAAeSwlK5pxGv5/s-l300.jpg",
@@ -46224,7 +46500,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 3853,
+    "id": 3876,
     "name": "Colton Cowser #338 Dark Gray Border - 2026 Topps Heritage MLB Baseball Card",
     "price": 2.38,
     "image": "https://i.ebayimg.com/images/g/x-YAAeSwq4FpxGvG/s-l300.jpg",
@@ -46236,7 +46512,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 3854,
+    "id": 3877,
     "name": "Bo Naylor #256 Dark Gray Border - 2026 Topps Heritage MLB Baseball Card",
     "price": 1.9,
     "image": "https://i.ebayimg.com/images/g/W~0AAeSwxSVpxGuw/s-l300.jpg",
@@ -46248,7 +46524,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 3855,
+    "id": 3878,
     "name": "Bryce Harper #72 Dark Gray Border - 2026 Topps Heritage MLB Baseball Card",
     "price": 2.61,
     "image": "https://i.ebayimg.com/images/g/wSAAAeSwcVRpxGt9/s-l300.jpg",
@@ -46260,7 +46536,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 3856,
+    "id": 3879,
     "name": "Orion Kerkering #300 Dark Gray Border - 2026 Topps Heritage MLB Baseball Card",
     "price": 1.9,
     "image": "https://i.ebayimg.com/images/g/qhAAAeSwOzRpxGto/s-l300.jpg",
@@ -46272,7 +46548,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 3857,
+    "id": 3880,
     "name": "James Wood #295 Dark Gray Border - 2026 Topps Heritage MLB Baseball Card",
     "price": 1.9,
     "image": "https://i.ebayimg.com/images/g/sk0AAeSwPsppxGtG/s-l300.jpg",
@@ -46284,7 +46560,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 3858,
+    "id": 3881,
     "name": "Leading Firemen #8 Dark Gray Border - 2026 Topps Heritage MLB Baseball Card",
     "price": 1.9,
     "image": "https://i.ebayimg.com/images/g/nPkAAeSwSSBpxGsv/s-l300.jpg",
@@ -46296,7 +46572,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 3859,
+    "id": 3882,
     "name": "Brady House (RC) #TE-BH - 2026 Topps Heritage MLB Baseball Card",
     "price": 2.38,
     "image": "https://i.ebayimg.com/images/g/V8cAAeSwXsFpxGsL/s-l300.jpg",
@@ -46308,7 +46584,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 3860,
+    "id": 3883,
     "name": "Junior Caminero #TE-JC - 2026 Topps Heritage MLB Baseball Card",
     "price": 1.9,
     "image": "https://i.ebayimg.com/images/g/iykAAeSwK6JpxGru/s-l300.jpg",
@@ -46320,7 +46596,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 3861,
+    "id": 3884,
     "name": "Bobby Witt Jr. #RA-BW - 2026 Topps Heritage MLB Baseball Card",
     "price": 2.85,
     "image": "https://i.ebayimg.com/images/g/l4EAAeSwAnhpxGrD/s-l300.jpg",
@@ -46332,7 +46608,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 3862,
+    "id": 3885,
     "name": "Jose Altuve #11 Blue Sparkle - 2026 Topps Heritage MLB Baseball Card",
     "price": 1.9,
     "image": "https://i.ebayimg.com/images/g/tHMAAeSwQTBpwyqX/s-l300.jpg",
@@ -46344,7 +46620,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 3863,
+    "id": 3886,
     "name": "Riley Greene #152 Blue Sparkle - 2026 Topps Heritage MLB Baseball Card",
     "price": 1.9,
     "image": "https://i.ebayimg.com/images/g/tskAAeSwPxVpwyoJ/s-l300.jpg",
@@ -46356,7 +46632,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 3864,
+    "id": 3887,
     "name": "JJ Bleday #236 Blue Sparkle - 2026 Topps Heritage MLB Baseball Card",
     "price": 1.9,
     "image": "https://i.ebayimg.com/images/g/vY0AAeSwsSFpwynx/s-l300.jpg",
@@ -46368,7 +46644,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 3865,
+    "id": 3888,
     "name": "Brett Baty #19 Blue Sparkle - 2026 Topps Heritage MLB Baseball Card",
     "price": 1.9,
     "image": "https://i.ebayimg.com/images/g/maQAAeSwIXFpwynX/s-l300.jpg",
@@ -46380,287 +46656,11 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 3866,
+    "id": 3889,
     "name": "Nick Castellanos #363 Blue Sparkle - 2026 Topps Heritage MLB Baseball Card",
     "price": 1.9,
     "image": "https://i.ebayimg.com/images/g/s0MAAeSw4TBpwym5/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168260028276",
-    "category": "baseball",
-    "badge": null,
-    "discount": null,
-    "numbered": false,
-    "stock": 1
-  },
-  {
-    "id": 3867,
-    "name": "LA Dodgers #311 Blue Sparkle - 2026 Topps Heritage MLB Baseball Card",
-    "price": 5.7,
-    "image": "https://i.ebayimg.com/images/g/umgAAeSwEhNpwymb/s-l300.jpg",
-    "url": "https://www.ebay.com/itm/168260027510",
-    "category": "baseball",
-    "badge": null,
-    "discount": null,
-    "numbered": false,
-    "stock": 1
-  },
-  {
-    "id": 3868,
-    "name": "LA Dodgers #311 Blue Sparkle - 2026 Topps Heritage MLB Baseball Card",
-    "price": 5.7,
-    "image": "https://i.ebayimg.com/images/g/umgAAeSwEhNpwymb/s-l300.jpg",
-    "url": "https://www.ebay.com/itm/168260027510",
-    "category": "baseball",
-    "badge": null,
-    "discount": null,
-    "numbered": false,
-    "stock": 1
-  },
-  {
-    "id": 3869,
-    "name": "LA Dodgers #311 Blue Sparkle - 2026 Topps Heritage MLB Baseball Card",
-    "price": 5.7,
-    "image": "https://i.ebayimg.com/images/g/umgAAeSwEhNpwymb/s-l300.jpg",
-    "url": "https://www.ebay.com/itm/168260027510",
-    "category": "baseball",
-    "badge": null,
-    "discount": null,
-    "numbered": false,
-    "stock": 1
-  },
-  {
-    "id": 3870,
-    "name": "LA Dodgers #311 Blue Sparkle - 2026 Topps Heritage MLB Baseball Card",
-    "price": 5.7,
-    "image": "https://i.ebayimg.com/images/g/umgAAeSwEhNpwymb/s-l300.jpg",
-    "url": "https://www.ebay.com/itm/168260027510",
-    "category": "baseball",
-    "badge": null,
-    "discount": null,
-    "numbered": false,
-    "stock": 1
-  },
-  {
-    "id": 3871,
-    "name": "LA Dodgers #311 Blue Sparkle - 2026 Topps Heritage MLB Baseball Card",
-    "price": 5.7,
-    "image": "https://i.ebayimg.com/images/g/umgAAeSwEhNpwymb/s-l300.jpg",
-    "url": "https://www.ebay.com/itm/168260027510",
-    "category": "baseball",
-    "badge": null,
-    "discount": null,
-    "numbered": false,
-    "stock": 1
-  },
-  {
-    "id": 3872,
-    "name": "LA Dodgers #311 Blue Sparkle - 2026 Topps Heritage MLB Baseball Card",
-    "price": 5.7,
-    "image": "https://i.ebayimg.com/images/g/umgAAeSwEhNpwymb/s-l300.jpg",
-    "url": "https://www.ebay.com/itm/168260027510",
-    "category": "baseball",
-    "badge": null,
-    "discount": null,
-    "numbered": false,
-    "stock": 1
-  },
-  {
-    "id": 3873,
-    "name": "LA Dodgers #311 Blue Sparkle - 2026 Topps Heritage MLB Baseball Card",
-    "price": 5.7,
-    "image": "https://i.ebayimg.com/images/g/umgAAeSwEhNpwymb/s-l300.jpg",
-    "url": "https://www.ebay.com/itm/168260027510",
-    "category": "baseball",
-    "badge": null,
-    "discount": null,
-    "numbered": false,
-    "stock": 1
-  },
-  {
-    "id": 3874,
-    "name": "LA Dodgers #311 Blue Sparkle - 2026 Topps Heritage MLB Baseball Card",
-    "price": 5.7,
-    "image": "https://i.ebayimg.com/images/g/umgAAeSwEhNpwymb/s-l300.jpg",
-    "url": "https://www.ebay.com/itm/168260027510",
-    "category": "baseball",
-    "badge": null,
-    "discount": null,
-    "numbered": false,
-    "stock": 1
-  },
-  {
-    "id": 3875,
-    "name": "LA Dodgers #311 Blue Sparkle - 2026 Topps Heritage MLB Baseball Card",
-    "price": 5.7,
-    "image": "https://i.ebayimg.com/images/g/umgAAeSwEhNpwymb/s-l300.jpg",
-    "url": "https://www.ebay.com/itm/168260027510",
-    "category": "baseball",
-    "badge": null,
-    "discount": null,
-    "numbered": false,
-    "stock": 1
-  },
-  {
-    "id": 3876,
-    "name": "LA Dodgers #311 Blue Sparkle - 2026 Topps Heritage MLB Baseball Card",
-    "price": 5.7,
-    "image": "https://i.ebayimg.com/images/g/umgAAeSwEhNpwymb/s-l300.jpg",
-    "url": "https://www.ebay.com/itm/168260027510",
-    "category": "baseball",
-    "badge": null,
-    "discount": null,
-    "numbered": false,
-    "stock": 1
-  },
-  {
-    "id": 3877,
-    "name": "LA Dodgers #311 Blue Sparkle - 2026 Topps Heritage MLB Baseball Card",
-    "price": 5.7,
-    "image": "https://i.ebayimg.com/images/g/umgAAeSwEhNpwymb/s-l300.jpg",
-    "url": "https://www.ebay.com/itm/168260027510",
-    "category": "baseball",
-    "badge": null,
-    "discount": null,
-    "numbered": false,
-    "stock": 1
-  },
-  {
-    "id": 3878,
-    "name": "LA Dodgers #311 Blue Sparkle - 2026 Topps Heritage MLB Baseball Card",
-    "price": 5.7,
-    "image": "https://i.ebayimg.com/images/g/umgAAeSwEhNpwymb/s-l300.jpg",
-    "url": "https://www.ebay.com/itm/168260027510",
-    "category": "baseball",
-    "badge": null,
-    "discount": null,
-    "numbered": false,
-    "stock": 1
-  },
-  {
-    "id": 3879,
-    "name": "LA Dodgers #311 Blue Sparkle - 2026 Topps Heritage MLB Baseball Card",
-    "price": 5.7,
-    "image": "https://i.ebayimg.com/images/g/umgAAeSwEhNpwymb/s-l300.jpg",
-    "url": "https://www.ebay.com/itm/168260027510",
-    "category": "baseball",
-    "badge": null,
-    "discount": null,
-    "numbered": false,
-    "stock": 1
-  },
-  {
-    "id": 3880,
-    "name": "LA Dodgers #311 Blue Sparkle - 2026 Topps Heritage MLB Baseball Card",
-    "price": 5.7,
-    "image": "https://i.ebayimg.com/images/g/umgAAeSwEhNpwymb/s-l300.jpg",
-    "url": "https://www.ebay.com/itm/168260027510",
-    "category": "baseball",
-    "badge": null,
-    "discount": null,
-    "numbered": false,
-    "stock": 1
-  },
-  {
-    "id": 3881,
-    "name": "LA Dodgers #311 Blue Sparkle - 2026 Topps Heritage MLB Baseball Card",
-    "price": 5.7,
-    "image": "https://i.ebayimg.com/images/g/umgAAeSwEhNpwymb/s-l300.jpg",
-    "url": "https://www.ebay.com/itm/168260027510",
-    "category": "baseball",
-    "badge": null,
-    "discount": null,
-    "numbered": false,
-    "stock": 1
-  },
-  {
-    "id": 3882,
-    "name": "LA Dodgers #311 Blue Sparkle - 2026 Topps Heritage MLB Baseball Card",
-    "price": 5.7,
-    "image": "https://i.ebayimg.com/images/g/umgAAeSwEhNpwymb/s-l300.jpg",
-    "url": "https://www.ebay.com/itm/168260027510",
-    "category": "baseball",
-    "badge": null,
-    "discount": null,
-    "numbered": false,
-    "stock": 1
-  },
-  {
-    "id": 3883,
-    "name": "LA Dodgers #311 Blue Sparkle - 2026 Topps Heritage MLB Baseball Card",
-    "price": 5.7,
-    "image": "https://i.ebayimg.com/images/g/umgAAeSwEhNpwymb/s-l300.jpg",
-    "url": "https://www.ebay.com/itm/168260027510",
-    "category": "baseball",
-    "badge": null,
-    "discount": null,
-    "numbered": false,
-    "stock": 1
-  },
-  {
-    "id": 3884,
-    "name": "LA Dodgers #311 Blue Sparkle - 2026 Topps Heritage MLB Baseball Card",
-    "price": 5.7,
-    "image": "https://i.ebayimg.com/images/g/umgAAeSwEhNpwymb/s-l300.jpg",
-    "url": "https://www.ebay.com/itm/168260027510",
-    "category": "baseball",
-    "badge": null,
-    "discount": null,
-    "numbered": false,
-    "stock": 1
-  },
-  {
-    "id": 3885,
-    "name": "LA Dodgers #311 Blue Sparkle - 2026 Topps Heritage MLB Baseball Card",
-    "price": 5.7,
-    "image": "https://i.ebayimg.com/images/g/umgAAeSwEhNpwymb/s-l300.jpg",
-    "url": "https://www.ebay.com/itm/168260027510",
-    "category": "baseball",
-    "badge": null,
-    "discount": null,
-    "numbered": false,
-    "stock": 1
-  },
-  {
-    "id": 3886,
-    "name": "LA Dodgers #311 Blue Sparkle - 2026 Topps Heritage MLB Baseball Card",
-    "price": 5.7,
-    "image": "https://i.ebayimg.com/images/g/umgAAeSwEhNpwymb/s-l300.jpg",
-    "url": "https://www.ebay.com/itm/168260027510",
-    "category": "baseball",
-    "badge": null,
-    "discount": null,
-    "numbered": false,
-    "stock": 1
-  },
-  {
-    "id": 3887,
-    "name": "LA Dodgers #311 Blue Sparkle - 2026 Topps Heritage MLB Baseball Card",
-    "price": 5.7,
-    "image": "https://i.ebayimg.com/images/g/umgAAeSwEhNpwymb/s-l300.jpg",
-    "url": "https://www.ebay.com/itm/168260027510",
-    "category": "baseball",
-    "badge": null,
-    "discount": null,
-    "numbered": false,
-    "stock": 1
-  },
-  {
-    "id": 3888,
-    "name": "LA Dodgers #311 Blue Sparkle - 2026 Topps Heritage MLB Baseball Card",
-    "price": 5.7,
-    "image": "https://i.ebayimg.com/images/g/umgAAeSwEhNpwymb/s-l300.jpg",
-    "url": "https://www.ebay.com/itm/168260027510",
-    "category": "baseball",
-    "badge": null,
-    "discount": null,
-    "numbered": false,
-    "stock": 1
-  },
-  {
-    "id": 3889,
-    "name": "LA Dodgers #311 Blue Sparkle - 2026 Topps Heritage MLB Baseball Card",
-    "price": 5.7,
-    "image": "https://i.ebayimg.com/images/g/umgAAeSwEhNpwymb/s-l300.jpg",
-    "url": "https://www.ebay.com/itm/168260027510",
     "category": "baseball",
     "badge": null,
     "discount": null,
@@ -46681,6 +46681,282 @@ window.products = [
   },
   {
     "id": 3891,
+    "name": "LA Dodgers #311 Blue Sparkle - 2026 Topps Heritage MLB Baseball Card",
+    "price": 5.7,
+    "image": "https://i.ebayimg.com/images/g/umgAAeSwEhNpwymb/s-l300.jpg",
+    "url": "https://www.ebay.com/itm/168260027510",
+    "category": "baseball",
+    "badge": null,
+    "discount": null,
+    "numbered": false,
+    "stock": 1
+  },
+  {
+    "id": 3892,
+    "name": "LA Dodgers #311 Blue Sparkle - 2026 Topps Heritage MLB Baseball Card",
+    "price": 5.7,
+    "image": "https://i.ebayimg.com/images/g/umgAAeSwEhNpwymb/s-l300.jpg",
+    "url": "https://www.ebay.com/itm/168260027510",
+    "category": "baseball",
+    "badge": null,
+    "discount": null,
+    "numbered": false,
+    "stock": 1
+  },
+  {
+    "id": 3893,
+    "name": "LA Dodgers #311 Blue Sparkle - 2026 Topps Heritage MLB Baseball Card",
+    "price": 5.7,
+    "image": "https://i.ebayimg.com/images/g/umgAAeSwEhNpwymb/s-l300.jpg",
+    "url": "https://www.ebay.com/itm/168260027510",
+    "category": "baseball",
+    "badge": null,
+    "discount": null,
+    "numbered": false,
+    "stock": 1
+  },
+  {
+    "id": 3894,
+    "name": "LA Dodgers #311 Blue Sparkle - 2026 Topps Heritage MLB Baseball Card",
+    "price": 5.7,
+    "image": "https://i.ebayimg.com/images/g/umgAAeSwEhNpwymb/s-l300.jpg",
+    "url": "https://www.ebay.com/itm/168260027510",
+    "category": "baseball",
+    "badge": null,
+    "discount": null,
+    "numbered": false,
+    "stock": 1
+  },
+  {
+    "id": 3895,
+    "name": "LA Dodgers #311 Blue Sparkle - 2026 Topps Heritage MLB Baseball Card",
+    "price": 5.7,
+    "image": "https://i.ebayimg.com/images/g/umgAAeSwEhNpwymb/s-l300.jpg",
+    "url": "https://www.ebay.com/itm/168260027510",
+    "category": "baseball",
+    "badge": null,
+    "discount": null,
+    "numbered": false,
+    "stock": 1
+  },
+  {
+    "id": 3896,
+    "name": "LA Dodgers #311 Blue Sparkle - 2026 Topps Heritage MLB Baseball Card",
+    "price": 5.7,
+    "image": "https://i.ebayimg.com/images/g/umgAAeSwEhNpwymb/s-l300.jpg",
+    "url": "https://www.ebay.com/itm/168260027510",
+    "category": "baseball",
+    "badge": null,
+    "discount": null,
+    "numbered": false,
+    "stock": 1
+  },
+  {
+    "id": 3897,
+    "name": "LA Dodgers #311 Blue Sparkle - 2026 Topps Heritage MLB Baseball Card",
+    "price": 5.7,
+    "image": "https://i.ebayimg.com/images/g/umgAAeSwEhNpwymb/s-l300.jpg",
+    "url": "https://www.ebay.com/itm/168260027510",
+    "category": "baseball",
+    "badge": null,
+    "discount": null,
+    "numbered": false,
+    "stock": 1
+  },
+  {
+    "id": 3898,
+    "name": "LA Dodgers #311 Blue Sparkle - 2026 Topps Heritage MLB Baseball Card",
+    "price": 5.7,
+    "image": "https://i.ebayimg.com/images/g/umgAAeSwEhNpwymb/s-l300.jpg",
+    "url": "https://www.ebay.com/itm/168260027510",
+    "category": "baseball",
+    "badge": null,
+    "discount": null,
+    "numbered": false,
+    "stock": 1
+  },
+  {
+    "id": 3899,
+    "name": "LA Dodgers #311 Blue Sparkle - 2026 Topps Heritage MLB Baseball Card",
+    "price": 5.7,
+    "image": "https://i.ebayimg.com/images/g/umgAAeSwEhNpwymb/s-l300.jpg",
+    "url": "https://www.ebay.com/itm/168260027510",
+    "category": "baseball",
+    "badge": null,
+    "discount": null,
+    "numbered": false,
+    "stock": 1
+  },
+  {
+    "id": 3900,
+    "name": "LA Dodgers #311 Blue Sparkle - 2026 Topps Heritage MLB Baseball Card",
+    "price": 5.7,
+    "image": "https://i.ebayimg.com/images/g/umgAAeSwEhNpwymb/s-l300.jpg",
+    "url": "https://www.ebay.com/itm/168260027510",
+    "category": "baseball",
+    "badge": null,
+    "discount": null,
+    "numbered": false,
+    "stock": 1
+  },
+  {
+    "id": 3901,
+    "name": "LA Dodgers #311 Blue Sparkle - 2026 Topps Heritage MLB Baseball Card",
+    "price": 5.7,
+    "image": "https://i.ebayimg.com/images/g/umgAAeSwEhNpwymb/s-l300.jpg",
+    "url": "https://www.ebay.com/itm/168260027510",
+    "category": "baseball",
+    "badge": null,
+    "discount": null,
+    "numbered": false,
+    "stock": 1
+  },
+  {
+    "id": 3902,
+    "name": "LA Dodgers #311 Blue Sparkle - 2026 Topps Heritage MLB Baseball Card",
+    "price": 5.7,
+    "image": "https://i.ebayimg.com/images/g/umgAAeSwEhNpwymb/s-l300.jpg",
+    "url": "https://www.ebay.com/itm/168260027510",
+    "category": "baseball",
+    "badge": null,
+    "discount": null,
+    "numbered": false,
+    "stock": 1
+  },
+  {
+    "id": 3903,
+    "name": "LA Dodgers #311 Blue Sparkle - 2026 Topps Heritage MLB Baseball Card",
+    "price": 5.7,
+    "image": "https://i.ebayimg.com/images/g/umgAAeSwEhNpwymb/s-l300.jpg",
+    "url": "https://www.ebay.com/itm/168260027510",
+    "category": "baseball",
+    "badge": null,
+    "discount": null,
+    "numbered": false,
+    "stock": 1
+  },
+  {
+    "id": 3904,
+    "name": "LA Dodgers #311 Blue Sparkle - 2026 Topps Heritage MLB Baseball Card",
+    "price": 5.7,
+    "image": "https://i.ebayimg.com/images/g/umgAAeSwEhNpwymb/s-l300.jpg",
+    "url": "https://www.ebay.com/itm/168260027510",
+    "category": "baseball",
+    "badge": null,
+    "discount": null,
+    "numbered": false,
+    "stock": 1
+  },
+  {
+    "id": 3905,
+    "name": "LA Dodgers #311 Blue Sparkle - 2026 Topps Heritage MLB Baseball Card",
+    "price": 5.7,
+    "image": "https://i.ebayimg.com/images/g/umgAAeSwEhNpwymb/s-l300.jpg",
+    "url": "https://www.ebay.com/itm/168260027510",
+    "category": "baseball",
+    "badge": null,
+    "discount": null,
+    "numbered": false,
+    "stock": 1
+  },
+  {
+    "id": 3906,
+    "name": "LA Dodgers #311 Blue Sparkle - 2026 Topps Heritage MLB Baseball Card",
+    "price": 5.7,
+    "image": "https://i.ebayimg.com/images/g/umgAAeSwEhNpwymb/s-l300.jpg",
+    "url": "https://www.ebay.com/itm/168260027510",
+    "category": "baseball",
+    "badge": null,
+    "discount": null,
+    "numbered": false,
+    "stock": 1
+  },
+  {
+    "id": 3907,
+    "name": "LA Dodgers #311 Blue Sparkle - 2026 Topps Heritage MLB Baseball Card",
+    "price": 5.7,
+    "image": "https://i.ebayimg.com/images/g/umgAAeSwEhNpwymb/s-l300.jpg",
+    "url": "https://www.ebay.com/itm/168260027510",
+    "category": "baseball",
+    "badge": null,
+    "discount": null,
+    "numbered": false,
+    "stock": 1
+  },
+  {
+    "id": 3908,
+    "name": "LA Dodgers #311 Blue Sparkle - 2026 Topps Heritage MLB Baseball Card",
+    "price": 5.7,
+    "image": "https://i.ebayimg.com/images/g/umgAAeSwEhNpwymb/s-l300.jpg",
+    "url": "https://www.ebay.com/itm/168260027510",
+    "category": "baseball",
+    "badge": null,
+    "discount": null,
+    "numbered": false,
+    "stock": 1
+  },
+  {
+    "id": 3909,
+    "name": "LA Dodgers #311 Blue Sparkle - 2026 Topps Heritage MLB Baseball Card",
+    "price": 5.7,
+    "image": "https://i.ebayimg.com/images/g/umgAAeSwEhNpwymb/s-l300.jpg",
+    "url": "https://www.ebay.com/itm/168260027510",
+    "category": "baseball",
+    "badge": null,
+    "discount": null,
+    "numbered": false,
+    "stock": 1
+  },
+  {
+    "id": 3910,
+    "name": "LA Dodgers #311 Blue Sparkle - 2026 Topps Heritage MLB Baseball Card",
+    "price": 5.7,
+    "image": "https://i.ebayimg.com/images/g/umgAAeSwEhNpwymb/s-l300.jpg",
+    "url": "https://www.ebay.com/itm/168260027510",
+    "category": "baseball",
+    "badge": null,
+    "discount": null,
+    "numbered": false,
+    "stock": 1
+  },
+  {
+    "id": 3911,
+    "name": "LA Dodgers #311 Blue Sparkle - 2026 Topps Heritage MLB Baseball Card",
+    "price": 5.7,
+    "image": "https://i.ebayimg.com/images/g/umgAAeSwEhNpwymb/s-l300.jpg",
+    "url": "https://www.ebay.com/itm/168260027510",
+    "category": "baseball",
+    "badge": null,
+    "discount": null,
+    "numbered": false,
+    "stock": 1
+  },
+  {
+    "id": 3912,
+    "name": "LA Dodgers #311 Blue Sparkle - 2026 Topps Heritage MLB Baseball Card",
+    "price": 5.7,
+    "image": "https://i.ebayimg.com/images/g/umgAAeSwEhNpwymb/s-l300.jpg",
+    "url": "https://www.ebay.com/itm/168260027510",
+    "category": "baseball",
+    "badge": null,
+    "discount": null,
+    "numbered": false,
+    "stock": 1
+  },
+  {
+    "id": 3913,
+    "name": "LA Dodgers #311 Blue Sparkle - 2026 Topps Heritage MLB Baseball Card",
+    "price": 5.7,
+    "image": "https://i.ebayimg.com/images/g/umgAAeSwEhNpwymb/s-l300.jpg",
+    "url": "https://www.ebay.com/itm/168260027510",
+    "category": "baseball",
+    "badge": null,
+    "discount": null,
+    "numbered": false,
+    "stock": 1
+  },
+  {
+    "id": 3914,
     "name": "Seiya Suzuki #241 REFRACTOR - 2026 Topps Heritage MLB Baseball Card",
     "price": 2.85,
     "image": "https://i.ebayimg.com/images/g/M6EAAeSwNOtpwylV/s-l300.jpg",
@@ -46692,7 +46968,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 3892,
+    "id": 3915,
     "name": "Carlos Estevez #314 REFRACTOR - 2026 Topps Heritage MLB Baseball Card",
     "price": 4.75,
     "image": "https://i.ebayimg.com/images/g/joAAAeSwx2dpwyk9/s-l300.jpg",
@@ -46704,7 +46980,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 3893,
+    "id": 3916,
     "name": "Carson Whisenhunt (RC) #79 REFRACTOR - 2026 Topps Heritage MLB Baseball Card",
     "price": 2.85,
     "image": "https://i.ebayimg.com/images/g/s6IAAeSwnXZpwyj7/s-l300.jpg",
@@ -46716,7 +46992,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 3894,
+    "id": 3917,
     "name": "Harry Ford (RC) #59 CHROME - 2026 Topps Heritage MLB Baseball Card",
     "price": 1.9,
     "image": "https://i.ebayimg.com/images/g/pfEAAeSwERVpwyhZ/s-l300.jpg",
@@ -46728,7 +47004,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 3895,
+    "id": 3918,
     "name": "Carter Jensen (RC) #199 CHROME - 2026 Topps Heritage MLB Baseball Card",
     "price": 6.65,
     "image": "https://i.ebayimg.com/images/g/iswAAeSwsl9pwygk/s-l300.jpg",
@@ -46740,7 +47016,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 3896,
+    "id": 3919,
     "name": "Kyle Bradish #16 CHROME - 2026 Topps Heritage MLB Baseball Card",
     "price": 1.9,
     "image": "https://i.ebayimg.com/images/g/Gv4AAeSwrdVpwyes/s-l300.jpg",
@@ -46752,7 +47028,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 3897,
+    "id": 3920,
     "name": "Mark Vientos #77 Dark Gray Border - 2026 Topps Heritage MLB Baseball Card",
     "price": 1.9,
     "image": "https://i.ebayimg.com/images/g/~YUAAeSw7rppwycx/s-l300.jpg",
@@ -46764,7 +47040,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 3898,
+    "id": 3921,
     "name": "Matt McLain #252 Dark Gray Border - 2026 Topps Heritage MLB Baseball Card",
     "price": 1.9,
     "image": "https://i.ebayimg.com/images/g/93EAAeSwN~9pwycX/s-l300.jpg",
@@ -46776,7 +47052,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 3899,
+    "id": 3922,
     "name": "Robert Hassell III #50 Dark Gray Border - 2026 Topps Heritage MLB Baseball Card",
     "price": 2.14,
     "image": "https://i.ebayimg.com/images/g/HDkAAeSwvwppwyb~/s-l300.jpg",
@@ -46788,7 +47064,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 3900,
+    "id": 3923,
     "name": "Andrew McCutchen #270 Dark Gray Border - 2026 Topps Heritage MLB Baseball Card",
     "price": 8.1,
     "image": "https://i.ebayimg.com/images/g/mwcAAeSwX0Fpwybe/s-l300.jpg",
@@ -46800,7 +47076,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 3901,
+    "id": 3924,
     "name": "Victor Robles #140 Dark Gray Border - 2026 Topps Heritage MLB Baseball Card",
     "price": 1.9,
     "image": "https://i.ebayimg.com/images/g/F-gAAeSwEllpwybF/s-l300.jpg",
@@ -46812,7 +47088,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 3902,
+    "id": 3925,
     "name": "Javier Baez #107 Dark Gray Border - 2026 Topps Heritage MLB Baseball Card",
     "price": 2.38,
     "image": "https://i.ebayimg.com/images/g/CYIAAeSwUEtpwyax/s-l300.jpg",
@@ -46824,7 +47100,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 3903,
+    "id": 3926,
     "name": "Mike Piazza #336 Dark Gray Border - 2026 Topps Heritage MLB Baseball Card",
     "price": 3.8,
     "image": "https://i.ebayimg.com/images/g/FjYAAeSw0SNpwyaR/s-l300.jpg",
@@ -46836,7 +47112,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 3904,
+    "id": 3927,
     "name": "Mookie Betts #12 Dark Gray Border - 2026 Topps Heritage MLB Baseball Card",
     "price": 1.9,
     "image": "https://i.ebayimg.com/images/g/AZIAAeSwOxhpwyZ0/s-l300.jpg",
@@ -46848,7 +47124,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 3905,
+    "id": 3928,
     "name": "Johnny Bench #RA-JB - 2026 Topps Heritage MLB Baseball Card",
     "price": 1.9,
     "image": "https://i.ebayimg.com/images/g/~poAAeSwu~dpwyX9/s-l300.jpg",
@@ -46860,7 +47136,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 3906,
+    "id": 3929,
     "name": "Matt Chapman #114 CHROME - 2026 Topps Heritage MLB Baseball Card",
     "price": 2.85,
     "image": "https://i.ebayimg.com/images/g/FoQAAeSw3mtpwhDl/s-l300.jpg",
@@ -46872,7 +47148,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 3907,
+    "id": 3930,
     "name": "Jeremy Pena #283 CHROME - 2026 Topps Heritage MLB Baseball Card",
     "price": 2.85,
     "image": "https://i.ebayimg.com/images/g/Dx8AAeSwW9tpwhDD/s-l300.jpg",
@@ -46884,7 +47160,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 3908,
+    "id": 3931,
     "name": "Jordan Lawlar #172 CHROME - 2026 Topps Heritage MLB Baseball Card",
     "price": 1.9,
     "image": "https://i.ebayimg.com/images/g/yaoAAeSwtnBpwhCM/s-l300.jpg",
@@ -46896,7 +47172,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 3909,
+    "id": 3932,
     "name": "Corbin Burnes #238 CHROME - 2026 Topps Heritage MLB Baseball Card",
     "price": 1.9,
     "image": "https://i.ebayimg.com/images/g/Fc8AAeSwwkppwhBw/s-l300.jpg",
@@ -46908,7 +47184,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 3910,
+    "id": 3933,
     "name": "Josh Hader #9 CHROME - 2026 Topps Heritage MLB Baseball Card",
     "price": 1.9,
     "image": "https://i.ebayimg.com/images/g/H7oAAeSwQ6lpwhBa/s-l300.jpg",
@@ -46920,7 +47196,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 3911,
+    "id": 3934,
     "name": "Mason Miller #65 CHROME - 2026 Topps Heritage MLB Baseball Card",
     "price": 2.85,
     "image": "https://i.ebayimg.com/images/g/D~8AAeSwEvxpwhBC/s-l300.jpg",
@@ -46932,7 +47208,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 3912,
+    "id": 3935,
     "name": "Vladimir Guerrero Jr. #46 Blue Sparkle - 2026 Topps Heritage MLB Baseball Card",
     "price": 1.9,
     "image": "https://i.ebayimg.com/images/g/2H4AAeSw6stpwhAT/s-l300.jpg",
@@ -46944,7 +47220,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 3913,
+    "id": 3936,
     "name": "Ramon Laureano #89 Blue Sparkle - 2026 Topps Heritage MLB Baseball Card",
     "price": 1.9,
     "image": "https://i.ebayimg.com/images/g/6VsAAeSwNQlpwg~6/s-l300.jpg",
@@ -46956,7 +47232,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 3914,
+    "id": 3937,
     "name": "Rookie Pitchers #387 Blue Sparkle - 2026 Topps Heritage MLB Baseball Card",
     "price": 2.85,
     "image": "https://i.ebayimg.com/images/g/7lwAAeSwCnlpwg~G/s-l300.jpg",
@@ -46968,7 +47244,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 3915,
+    "id": 3938,
     "name": "Byron Buxton #253 Blue Sparkle - 2026 Topps Heritage MLB Baseball Card",
     "price": 1.9,
     "image": "https://i.ebayimg.com/images/g/wo8AAeSwSoJpwg-E/s-l300.jpg",
@@ -46980,7 +47256,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 3916,
+    "id": 3939,
     "name": "Brent Rooker #103 Blue Sparkle - 2026 Topps Heritage MLB Baseball Card",
     "price": 1.9,
     "image": "https://i.ebayimg.com/images/g/BrsAAeSwihRpwg9k/s-l300.jpg",
@@ -46992,7 +47268,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 3917,
+    "id": 3940,
     "name": "Bradley Blalock #83 Blue Sparkle - 2026 Topps Heritage MLB Baseball Card",
     "price": 1.9,
     "image": "https://i.ebayimg.com/images/g/uIkAAeSwQiVpwg6y/s-l300.jpg",
@@ -47004,7 +47280,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 3918,
+    "id": 3941,
     "name": "Yusei Kikuchi #167 Blue Sparkle - 2026 Topps Heritage MLB Baseball Card",
     "price": 1.9,
     "image": "https://i.ebayimg.com/images/g/rx0AAeSwjaZpwg6a/s-l300.jpg",
@@ -47016,7 +47292,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 3919,
+    "id": 3942,
     "name": "Rod Carew #RA-RC - 2026 Topps Heritage MLB Baseball Card",
     "price": 1.9,
     "image": "https://i.ebayimg.com/images/g/oswAAeSwOi5pwg6E/s-l300.jpg",
@@ -47028,7 +47304,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 3920,
+    "id": 3943,
     "name": "Yainer Diaz #219 Dark Gray Border - 2026 Topps Heritage MLB Baseball Card",
     "price": 1.9,
     "image": "https://i.ebayimg.com/images/g/tV0AAeSwXslpwg5u/s-l300.jpg",
@@ -47040,7 +47316,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 3921,
+    "id": 3944,
     "name": "Ha-Seong Kim #125 Dark Gray Border - 2026 Topps Heritage MLB Baseball Card",
     "price": 1.9,
     "image": "https://i.ebayimg.com/images/g/E1gAAeSww8ppwg5S/s-l300.jpg",
@@ -47052,7 +47328,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 3922,
+    "id": 3945,
     "name": "Lawrence Butler #94 Dark Gray Border - 2026 Topps Heritage MLB Baseball Card",
     "price": 1.9,
     "image": "https://i.ebayimg.com/images/g/1EoAAeSw5wdpwg41/s-l300.jpg",
@@ -47062,282 +47338,6 @@ window.products = [
     "discount": null,
     "numbered": false,
     "stock": 1
-  },
-  {
-    "id": 3923,
-    "name": "Braxton Ashcraft #134 Dark Gray Border - 2026 Topps Heritage MLB Baseball Card",
-    "price": 1.9,
-    "image": "https://i.ebayimg.com/images/g/t14AAeSwu5tpwg4e/s-l300.jpg",
-    "url": "https://www.ebay.com/itm/168257808244",
-    "category": "baseball",
-    "badge": null,
-    "discount": null,
-    "numbered": false,
-    "stock": 0
-  },
-  {
-    "id": 3924,
-    "name": "Braxton Ashcraft #134 Dark Gray Border - 2026 Topps Heritage MLB Baseball Card",
-    "price": 1.9,
-    "image": "https://i.ebayimg.com/images/g/t14AAeSwu5tpwg4e/s-l300.jpg",
-    "url": "https://www.ebay.com/itm/168257808244",
-    "category": "baseball",
-    "badge": null,
-    "discount": null,
-    "numbered": false,
-    "stock": 0
-  },
-  {
-    "id": 3925,
-    "name": "Braxton Ashcraft #134 Dark Gray Border - 2026 Topps Heritage MLB Baseball Card",
-    "price": 1.9,
-    "image": "https://i.ebayimg.com/images/g/t14AAeSwu5tpwg4e/s-l300.jpg",
-    "url": "https://www.ebay.com/itm/168257808244",
-    "category": "baseball",
-    "badge": null,
-    "discount": null,
-    "numbered": false,
-    "stock": 0
-  },
-  {
-    "id": 3926,
-    "name": "Braxton Ashcraft #134 Dark Gray Border - 2026 Topps Heritage MLB Baseball Card",
-    "price": 1.9,
-    "image": "https://i.ebayimg.com/images/g/t14AAeSwu5tpwg4e/s-l300.jpg",
-    "url": "https://www.ebay.com/itm/168257808244",
-    "category": "baseball",
-    "badge": null,
-    "discount": null,
-    "numbered": false,
-    "stock": 0
-  },
-  {
-    "id": 3927,
-    "name": "Braxton Ashcraft #134 Dark Gray Border - 2026 Topps Heritage MLB Baseball Card",
-    "price": 1.9,
-    "image": "https://i.ebayimg.com/images/g/t14AAeSwu5tpwg4e/s-l300.jpg",
-    "url": "https://www.ebay.com/itm/168257808244",
-    "category": "baseball",
-    "badge": null,
-    "discount": null,
-    "numbered": false,
-    "stock": 0
-  },
-  {
-    "id": 3928,
-    "name": "Braxton Ashcraft #134 Dark Gray Border - 2026 Topps Heritage MLB Baseball Card",
-    "price": 1.9,
-    "image": "https://i.ebayimg.com/images/g/t14AAeSwu5tpwg4e/s-l300.jpg",
-    "url": "https://www.ebay.com/itm/168257808244",
-    "category": "baseball",
-    "badge": null,
-    "discount": null,
-    "numbered": false,
-    "stock": 0
-  },
-  {
-    "id": 3929,
-    "name": "Braxton Ashcraft #134 Dark Gray Border - 2026 Topps Heritage MLB Baseball Card",
-    "price": 1.9,
-    "image": "https://i.ebayimg.com/images/g/t14AAeSwu5tpwg4e/s-l300.jpg",
-    "url": "https://www.ebay.com/itm/168257808244",
-    "category": "baseball",
-    "badge": null,
-    "discount": null,
-    "numbered": false,
-    "stock": 0
-  },
-  {
-    "id": 3930,
-    "name": "Braxton Ashcraft #134 Dark Gray Border - 2026 Topps Heritage MLB Baseball Card",
-    "price": 1.9,
-    "image": "https://i.ebayimg.com/images/g/t14AAeSwu5tpwg4e/s-l300.jpg",
-    "url": "https://www.ebay.com/itm/168257808244",
-    "category": "baseball",
-    "badge": null,
-    "discount": null,
-    "numbered": false,
-    "stock": 0
-  },
-  {
-    "id": 3931,
-    "name": "Braxton Ashcraft #134 Dark Gray Border - 2026 Topps Heritage MLB Baseball Card",
-    "price": 1.9,
-    "image": "https://i.ebayimg.com/images/g/t14AAeSwu5tpwg4e/s-l300.jpg",
-    "url": "https://www.ebay.com/itm/168257808244",
-    "category": "baseball",
-    "badge": null,
-    "discount": null,
-    "numbered": false,
-    "stock": 0
-  },
-  {
-    "id": 3932,
-    "name": "Braxton Ashcraft #134 Dark Gray Border - 2026 Topps Heritage MLB Baseball Card",
-    "price": 1.9,
-    "image": "https://i.ebayimg.com/images/g/t14AAeSwu5tpwg4e/s-l300.jpg",
-    "url": "https://www.ebay.com/itm/168257808244",
-    "category": "baseball",
-    "badge": null,
-    "discount": null,
-    "numbered": false,
-    "stock": 0
-  },
-  {
-    "id": 3933,
-    "name": "Braxton Ashcraft #134 Dark Gray Border - 2026 Topps Heritage MLB Baseball Card",
-    "price": 1.9,
-    "image": "https://i.ebayimg.com/images/g/t14AAeSwu5tpwg4e/s-l300.jpg",
-    "url": "https://www.ebay.com/itm/168257808244",
-    "category": "baseball",
-    "badge": null,
-    "discount": null,
-    "numbered": false,
-    "stock": 0
-  },
-  {
-    "id": 3934,
-    "name": "Braxton Ashcraft #134 Dark Gray Border - 2026 Topps Heritage MLB Baseball Card",
-    "price": 1.9,
-    "image": "https://i.ebayimg.com/images/g/t14AAeSwu5tpwg4e/s-l300.jpg",
-    "url": "https://www.ebay.com/itm/168257808244",
-    "category": "baseball",
-    "badge": null,
-    "discount": null,
-    "numbered": false,
-    "stock": 0
-  },
-  {
-    "id": 3935,
-    "name": "Braxton Ashcraft #134 Dark Gray Border - 2026 Topps Heritage MLB Baseball Card",
-    "price": 1.9,
-    "image": "https://i.ebayimg.com/images/g/t14AAeSwu5tpwg4e/s-l300.jpg",
-    "url": "https://www.ebay.com/itm/168257808244",
-    "category": "baseball",
-    "badge": null,
-    "discount": null,
-    "numbered": false,
-    "stock": 0
-  },
-  {
-    "id": 3936,
-    "name": "Braxton Ashcraft #134 Dark Gray Border - 2026 Topps Heritage MLB Baseball Card",
-    "price": 1.9,
-    "image": "https://i.ebayimg.com/images/g/t14AAeSwu5tpwg4e/s-l300.jpg",
-    "url": "https://www.ebay.com/itm/168257808244",
-    "category": "baseball",
-    "badge": null,
-    "discount": null,
-    "numbered": false,
-    "stock": 0
-  },
-  {
-    "id": 3937,
-    "name": "Braxton Ashcraft #134 Dark Gray Border - 2026 Topps Heritage MLB Baseball Card",
-    "price": 1.9,
-    "image": "https://i.ebayimg.com/images/g/t14AAeSwu5tpwg4e/s-l300.jpg",
-    "url": "https://www.ebay.com/itm/168257808244",
-    "category": "baseball",
-    "badge": null,
-    "discount": null,
-    "numbered": false,
-    "stock": 0
-  },
-  {
-    "id": 3938,
-    "name": "Braxton Ashcraft #134 Dark Gray Border - 2026 Topps Heritage MLB Baseball Card",
-    "price": 1.9,
-    "image": "https://i.ebayimg.com/images/g/t14AAeSwu5tpwg4e/s-l300.jpg",
-    "url": "https://www.ebay.com/itm/168257808244",
-    "category": "baseball",
-    "badge": null,
-    "discount": null,
-    "numbered": false,
-    "stock": 0
-  },
-  {
-    "id": 3939,
-    "name": "Braxton Ashcraft #134 Dark Gray Border - 2026 Topps Heritage MLB Baseball Card",
-    "price": 1.9,
-    "image": "https://i.ebayimg.com/images/g/t14AAeSwu5tpwg4e/s-l300.jpg",
-    "url": "https://www.ebay.com/itm/168257808244",
-    "category": "baseball",
-    "badge": null,
-    "discount": null,
-    "numbered": false,
-    "stock": 0
-  },
-  {
-    "id": 3940,
-    "name": "Braxton Ashcraft #134 Dark Gray Border - 2026 Topps Heritage MLB Baseball Card",
-    "price": 1.9,
-    "image": "https://i.ebayimg.com/images/g/t14AAeSwu5tpwg4e/s-l300.jpg",
-    "url": "https://www.ebay.com/itm/168257808244",
-    "category": "baseball",
-    "badge": null,
-    "discount": null,
-    "numbered": false,
-    "stock": 0
-  },
-  {
-    "id": 3941,
-    "name": "Braxton Ashcraft #134 Dark Gray Border - 2026 Topps Heritage MLB Baseball Card",
-    "price": 1.9,
-    "image": "https://i.ebayimg.com/images/g/t14AAeSwu5tpwg4e/s-l300.jpg",
-    "url": "https://www.ebay.com/itm/168257808244",
-    "category": "baseball",
-    "badge": null,
-    "discount": null,
-    "numbered": false,
-    "stock": 0
-  },
-  {
-    "id": 3942,
-    "name": "Braxton Ashcraft #134 Dark Gray Border - 2026 Topps Heritage MLB Baseball Card",
-    "price": 1.9,
-    "image": "https://i.ebayimg.com/images/g/t14AAeSwu5tpwg4e/s-l300.jpg",
-    "url": "https://www.ebay.com/itm/168257808244",
-    "category": "baseball",
-    "badge": null,
-    "discount": null,
-    "numbered": false,
-    "stock": 0
-  },
-  {
-    "id": 3943,
-    "name": "Braxton Ashcraft #134 Dark Gray Border - 2026 Topps Heritage MLB Baseball Card",
-    "price": 1.9,
-    "image": "https://i.ebayimg.com/images/g/t14AAeSwu5tpwg4e/s-l300.jpg",
-    "url": "https://www.ebay.com/itm/168257808244",
-    "category": "baseball",
-    "badge": null,
-    "discount": null,
-    "numbered": false,
-    "stock": 0
-  },
-  {
-    "id": 3944,
-    "name": "Braxton Ashcraft #134 Dark Gray Border - 2026 Topps Heritage MLB Baseball Card",
-    "price": 1.9,
-    "image": "https://i.ebayimg.com/images/g/t14AAeSwu5tpwg4e/s-l300.jpg",
-    "url": "https://www.ebay.com/itm/168257808244",
-    "category": "baseball",
-    "badge": null,
-    "discount": null,
-    "numbered": false,
-    "stock": 0
-  },
-  {
-    "id": 3945,
-    "name": "Braxton Ashcraft #134 Dark Gray Border - 2026 Topps Heritage MLB Baseball Card",
-    "price": 1.9,
-    "image": "https://i.ebayimg.com/images/g/t14AAeSwu5tpwg4e/s-l300.jpg",
-    "url": "https://www.ebay.com/itm/168257808244",
-    "category": "baseball",
-    "badge": null,
-    "discount": null,
-    "numbered": false,
-    "stock": 0
   },
   {
     "id": 3946,
@@ -47353,6 +47353,282 @@ window.products = [
   },
   {
     "id": 3947,
+    "name": "Braxton Ashcraft #134 Dark Gray Border - 2026 Topps Heritage MLB Baseball Card",
+    "price": 1.9,
+    "image": "https://i.ebayimg.com/images/g/t14AAeSwu5tpwg4e/s-l300.jpg",
+    "url": "https://www.ebay.com/itm/168257808244",
+    "category": "baseball",
+    "badge": null,
+    "discount": null,
+    "numbered": false,
+    "stock": 0
+  },
+  {
+    "id": 3948,
+    "name": "Braxton Ashcraft #134 Dark Gray Border - 2026 Topps Heritage MLB Baseball Card",
+    "price": 1.9,
+    "image": "https://i.ebayimg.com/images/g/t14AAeSwu5tpwg4e/s-l300.jpg",
+    "url": "https://www.ebay.com/itm/168257808244",
+    "category": "baseball",
+    "badge": null,
+    "discount": null,
+    "numbered": false,
+    "stock": 0
+  },
+  {
+    "id": 3949,
+    "name": "Braxton Ashcraft #134 Dark Gray Border - 2026 Topps Heritage MLB Baseball Card",
+    "price": 1.9,
+    "image": "https://i.ebayimg.com/images/g/t14AAeSwu5tpwg4e/s-l300.jpg",
+    "url": "https://www.ebay.com/itm/168257808244",
+    "category": "baseball",
+    "badge": null,
+    "discount": null,
+    "numbered": false,
+    "stock": 0
+  },
+  {
+    "id": 3950,
+    "name": "Braxton Ashcraft #134 Dark Gray Border - 2026 Topps Heritage MLB Baseball Card",
+    "price": 1.9,
+    "image": "https://i.ebayimg.com/images/g/t14AAeSwu5tpwg4e/s-l300.jpg",
+    "url": "https://www.ebay.com/itm/168257808244",
+    "category": "baseball",
+    "badge": null,
+    "discount": null,
+    "numbered": false,
+    "stock": 0
+  },
+  {
+    "id": 3951,
+    "name": "Braxton Ashcraft #134 Dark Gray Border - 2026 Topps Heritage MLB Baseball Card",
+    "price": 1.9,
+    "image": "https://i.ebayimg.com/images/g/t14AAeSwu5tpwg4e/s-l300.jpg",
+    "url": "https://www.ebay.com/itm/168257808244",
+    "category": "baseball",
+    "badge": null,
+    "discount": null,
+    "numbered": false,
+    "stock": 0
+  },
+  {
+    "id": 3952,
+    "name": "Braxton Ashcraft #134 Dark Gray Border - 2026 Topps Heritage MLB Baseball Card",
+    "price": 1.9,
+    "image": "https://i.ebayimg.com/images/g/t14AAeSwu5tpwg4e/s-l300.jpg",
+    "url": "https://www.ebay.com/itm/168257808244",
+    "category": "baseball",
+    "badge": null,
+    "discount": null,
+    "numbered": false,
+    "stock": 0
+  },
+  {
+    "id": 3953,
+    "name": "Braxton Ashcraft #134 Dark Gray Border - 2026 Topps Heritage MLB Baseball Card",
+    "price": 1.9,
+    "image": "https://i.ebayimg.com/images/g/t14AAeSwu5tpwg4e/s-l300.jpg",
+    "url": "https://www.ebay.com/itm/168257808244",
+    "category": "baseball",
+    "badge": null,
+    "discount": null,
+    "numbered": false,
+    "stock": 0
+  },
+  {
+    "id": 3954,
+    "name": "Braxton Ashcraft #134 Dark Gray Border - 2026 Topps Heritage MLB Baseball Card",
+    "price": 1.9,
+    "image": "https://i.ebayimg.com/images/g/t14AAeSwu5tpwg4e/s-l300.jpg",
+    "url": "https://www.ebay.com/itm/168257808244",
+    "category": "baseball",
+    "badge": null,
+    "discount": null,
+    "numbered": false,
+    "stock": 0
+  },
+  {
+    "id": 3955,
+    "name": "Braxton Ashcraft #134 Dark Gray Border - 2026 Topps Heritage MLB Baseball Card",
+    "price": 1.9,
+    "image": "https://i.ebayimg.com/images/g/t14AAeSwu5tpwg4e/s-l300.jpg",
+    "url": "https://www.ebay.com/itm/168257808244",
+    "category": "baseball",
+    "badge": null,
+    "discount": null,
+    "numbered": false,
+    "stock": 0
+  },
+  {
+    "id": 3956,
+    "name": "Braxton Ashcraft #134 Dark Gray Border - 2026 Topps Heritage MLB Baseball Card",
+    "price": 1.9,
+    "image": "https://i.ebayimg.com/images/g/t14AAeSwu5tpwg4e/s-l300.jpg",
+    "url": "https://www.ebay.com/itm/168257808244",
+    "category": "baseball",
+    "badge": null,
+    "discount": null,
+    "numbered": false,
+    "stock": 0
+  },
+  {
+    "id": 3957,
+    "name": "Braxton Ashcraft #134 Dark Gray Border - 2026 Topps Heritage MLB Baseball Card",
+    "price": 1.9,
+    "image": "https://i.ebayimg.com/images/g/t14AAeSwu5tpwg4e/s-l300.jpg",
+    "url": "https://www.ebay.com/itm/168257808244",
+    "category": "baseball",
+    "badge": null,
+    "discount": null,
+    "numbered": false,
+    "stock": 0
+  },
+  {
+    "id": 3958,
+    "name": "Braxton Ashcraft #134 Dark Gray Border - 2026 Topps Heritage MLB Baseball Card",
+    "price": 1.9,
+    "image": "https://i.ebayimg.com/images/g/t14AAeSwu5tpwg4e/s-l300.jpg",
+    "url": "https://www.ebay.com/itm/168257808244",
+    "category": "baseball",
+    "badge": null,
+    "discount": null,
+    "numbered": false,
+    "stock": 0
+  },
+  {
+    "id": 3959,
+    "name": "Braxton Ashcraft #134 Dark Gray Border - 2026 Topps Heritage MLB Baseball Card",
+    "price": 1.9,
+    "image": "https://i.ebayimg.com/images/g/t14AAeSwu5tpwg4e/s-l300.jpg",
+    "url": "https://www.ebay.com/itm/168257808244",
+    "category": "baseball",
+    "badge": null,
+    "discount": null,
+    "numbered": false,
+    "stock": 0
+  },
+  {
+    "id": 3960,
+    "name": "Braxton Ashcraft #134 Dark Gray Border - 2026 Topps Heritage MLB Baseball Card",
+    "price": 1.9,
+    "image": "https://i.ebayimg.com/images/g/t14AAeSwu5tpwg4e/s-l300.jpg",
+    "url": "https://www.ebay.com/itm/168257808244",
+    "category": "baseball",
+    "badge": null,
+    "discount": null,
+    "numbered": false,
+    "stock": 0
+  },
+  {
+    "id": 3961,
+    "name": "Braxton Ashcraft #134 Dark Gray Border - 2026 Topps Heritage MLB Baseball Card",
+    "price": 1.9,
+    "image": "https://i.ebayimg.com/images/g/t14AAeSwu5tpwg4e/s-l300.jpg",
+    "url": "https://www.ebay.com/itm/168257808244",
+    "category": "baseball",
+    "badge": null,
+    "discount": null,
+    "numbered": false,
+    "stock": 0
+  },
+  {
+    "id": 3962,
+    "name": "Braxton Ashcraft #134 Dark Gray Border - 2026 Topps Heritage MLB Baseball Card",
+    "price": 1.9,
+    "image": "https://i.ebayimg.com/images/g/t14AAeSwu5tpwg4e/s-l300.jpg",
+    "url": "https://www.ebay.com/itm/168257808244",
+    "category": "baseball",
+    "badge": null,
+    "discount": null,
+    "numbered": false,
+    "stock": 0
+  },
+  {
+    "id": 3963,
+    "name": "Braxton Ashcraft #134 Dark Gray Border - 2026 Topps Heritage MLB Baseball Card",
+    "price": 1.9,
+    "image": "https://i.ebayimg.com/images/g/t14AAeSwu5tpwg4e/s-l300.jpg",
+    "url": "https://www.ebay.com/itm/168257808244",
+    "category": "baseball",
+    "badge": null,
+    "discount": null,
+    "numbered": false,
+    "stock": 0
+  },
+  {
+    "id": 3964,
+    "name": "Braxton Ashcraft #134 Dark Gray Border - 2026 Topps Heritage MLB Baseball Card",
+    "price": 1.9,
+    "image": "https://i.ebayimg.com/images/g/t14AAeSwu5tpwg4e/s-l300.jpg",
+    "url": "https://www.ebay.com/itm/168257808244",
+    "category": "baseball",
+    "badge": null,
+    "discount": null,
+    "numbered": false,
+    "stock": 0
+  },
+  {
+    "id": 3965,
+    "name": "Braxton Ashcraft #134 Dark Gray Border - 2026 Topps Heritage MLB Baseball Card",
+    "price": 1.9,
+    "image": "https://i.ebayimg.com/images/g/t14AAeSwu5tpwg4e/s-l300.jpg",
+    "url": "https://www.ebay.com/itm/168257808244",
+    "category": "baseball",
+    "badge": null,
+    "discount": null,
+    "numbered": false,
+    "stock": 0
+  },
+  {
+    "id": 3966,
+    "name": "Braxton Ashcraft #134 Dark Gray Border - 2026 Topps Heritage MLB Baseball Card",
+    "price": 1.9,
+    "image": "https://i.ebayimg.com/images/g/t14AAeSwu5tpwg4e/s-l300.jpg",
+    "url": "https://www.ebay.com/itm/168257808244",
+    "category": "baseball",
+    "badge": null,
+    "discount": null,
+    "numbered": false,
+    "stock": 0
+  },
+  {
+    "id": 3967,
+    "name": "Braxton Ashcraft #134 Dark Gray Border - 2026 Topps Heritage MLB Baseball Card",
+    "price": 1.9,
+    "image": "https://i.ebayimg.com/images/g/t14AAeSwu5tpwg4e/s-l300.jpg",
+    "url": "https://www.ebay.com/itm/168257808244",
+    "category": "baseball",
+    "badge": null,
+    "discount": null,
+    "numbered": false,
+    "stock": 0
+  },
+  {
+    "id": 3968,
+    "name": "Braxton Ashcraft #134 Dark Gray Border - 2026 Topps Heritage MLB Baseball Card",
+    "price": 1.9,
+    "image": "https://i.ebayimg.com/images/g/t14AAeSwu5tpwg4e/s-l300.jpg",
+    "url": "https://www.ebay.com/itm/168257808244",
+    "category": "baseball",
+    "badge": null,
+    "discount": null,
+    "numbered": false,
+    "stock": 0
+  },
+  {
+    "id": 3969,
+    "name": "Braxton Ashcraft #134 Dark Gray Border - 2026 Topps Heritage MLB Baseball Card",
+    "price": 1.9,
+    "image": "https://i.ebayimg.com/images/g/t14AAeSwu5tpwg4e/s-l300.jpg",
+    "url": "https://www.ebay.com/itm/168257808244",
+    "category": "baseball",
+    "badge": null,
+    "discount": null,
+    "numbered": false,
+    "stock": 0
+  },
+  {
+    "id": 3970,
     "name": "Lars Nootbaar #198 Dark Gray Border - 2026 Topps Heritage MLB Baseball Card",
     "price": 1.9,
     "image": "https://i.ebayimg.com/images/g/9ToAAeSwZcNpwg4K/s-l300.jpg",
@@ -47364,7 +47640,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 3948,
+    "id": 3971,
     "name": "Ryan McMahon #381 Dark Gray Border - 2026 Topps Heritage MLB Baseball Card",
     "price": 1.9,
     "image": "https://i.ebayimg.com/images/g/1yIAAeSwOyxpwg30/s-l300.jpg",
@@ -47376,7 +47652,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 3949,
+    "id": 3972,
     "name": "Andrew Abbott #31 Dark Gray Border - 2026 Topps Heritage MLB Baseball Card",
     "price": 1.9,
     "image": "https://i.ebayimg.com/images/g/BdAAAeSw7-tpwg3Z/s-l300.jpg",
@@ -47388,7 +47664,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 3950,
+    "id": 3973,
     "name": "Riley Greene #TE-RG - 2026 Topps Heritage MLB Baseball Card",
     "price": 2.38,
     "image": "https://i.ebayimg.com/images/g/mO8AAeSwIRVpwg2f/s-l300.jpg",
@@ -47400,7 +47676,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 3951,
+    "id": 3974,
     "name": "Nick Kurtz #RP-NK - 2026 Topps Heritage MLB Baseball Card",
     "price": 2.85,
     "image": "https://i.ebayimg.com/images/g/4BgAAeSwP5Npwg2C/s-l300.jpg",
@@ -47412,7 +47688,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 3952,
+    "id": 3975,
     "name": "RELIC Will Smith #CCR-WS - 2026 Topps Heritage MLB Baseball Card B",
     "price": 4.75,
     "image": "https://i.ebayimg.com/images/g/zTUAAeSwWv5pwg1i/s-l300.jpg",
@@ -47424,7 +47700,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 3953,
+    "id": 3976,
     "name": "Kyle Freeland #92 Dark Gray Border - 2026 Topps Heritage MLB Baseball Card",
     "price": 1.9,
     "image": "https://i.ebayimg.com/images/g/MkQAAeSwU61pwf4H/s-l300.jpg",
@@ -47436,7 +47712,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 3954,
+    "id": 3977,
     "name": "Kyle Schwarber #159 Dark Gray Border - 2026 Topps Heritage MLB Baseball Card",
     "price": 2.14,
     "image": "https://i.ebayimg.com/images/g/eQEAAeSwrmFpwf3x/s-l300.jpg",
@@ -47448,7 +47724,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 3955,
+    "id": 3978,
     "name": "Merrill Kelly #316 Dark Gray Border - 2026 Topps Heritage MLB Baseball Card",
     "price": 1.9,
     "image": "https://i.ebayimg.com/images/g/jD4AAeSwr1Zpwf3T/s-l300.jpg",
@@ -47460,7 +47736,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 3956,
+    "id": 3979,
     "name": "Juan Soto #306 Dark Gray Border - 2026 Topps Heritage MLB Baseball Card",
     "price": 2.85,
     "image": "https://i.ebayimg.com/images/g/aisAAeSwmJBpwf2w/s-l300.jpg",
@@ -47472,7 +47748,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 3957,
+    "id": 3980,
     "name": "Curtis Mead #303 Dark Gray Border - 2026 Topps Heritage MLB Baseball Card",
     "price": 1.9,
     "image": "https://i.ebayimg.com/images/g/KsMAAeSwfcVpwf2Q/s-l300.jpg",
@@ -47484,7 +47760,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 3958,
+    "id": 3981,
     "name": "Brenton Doyle #355 Dark Gray Border - 2026 Topps Heritage MLB Baseball Card",
     "price": 3.8,
     "image": "https://i.ebayimg.com/images/g/epAAAeSw-BZpwfxK/s-l300.jpg",
@@ -47496,7 +47772,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 3959,
+    "id": 3982,
     "name": "Luis Rengifo #149 Dark Gray Border - 2026 Topps Heritage MLB Baseball Card",
     "price": 1.9,
     "image": "https://i.ebayimg.com/images/g/jJ4AAeSwUoFpwfwy/s-l300.jpg",
@@ -47508,7 +47784,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 3960,
+    "id": 3983,
     "name": "Shohei Ohtani #RP-SO - 2026 Topps Heritage MLB Baseball Card",
     "price": 4.75,
     "image": "https://i.ebayimg.com/images/g/FRUAAeSwo41pwfuq/s-l300.jpg",
@@ -47520,7 +47796,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 3961,
+    "id": 3984,
     "name": "RELIC Ketel Marte #CCR-KM - 2026 Topps Heritage MLB Baseball Card",
     "price": 4.75,
     "image": "https://i.ebayimg.com/images/g/ZwYAAeSwZcNpwfuP/s-l300.jpg",
@@ -47532,7 +47808,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 3962,
+    "id": 3985,
     "name": "Randy Arozarena #286 CHROME - 2026 Topps Heritage MLB Baseball Card",
     "price": 1.9,
     "image": "https://i.ebayimg.com/images/g/MjAAAeSw9gJpwft2/s-l300.jpg",
@@ -47544,7 +47820,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 3963,
+    "id": 3986,
     "name": "Chris Sale #278 CHROME - 2026 Topps Heritage MLB Baseball Card",
     "price": 1.9,
     "image": "https://i.ebayimg.com/images/g/VGgAAeSwHYFpwftg/s-l300.jpg",
@@ -47556,7 +47832,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 3964,
+    "id": 3987,
     "name": "Clayton Kershaw #190 CHROME - 2026 Topps Heritage MLB Baseball Card",
     "price": 4.75,
     "image": "https://i.ebayimg.com/images/g/HvkAAeSwoSJpwftL/s-l300.jpg",
@@ -47568,7 +47844,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 3965,
+    "id": 3988,
     "name": "Logan Webb #82 CHROME - 2026 Topps Heritage MLB Baseball Card",
     "price": 1.9,
     "image": "https://i.ebayimg.com/images/g/EwwAAeSw8y5pwfsq/s-l300.jpg",
@@ -47580,7 +47856,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 3966,
+    "id": 3989,
     "name": "Seth Lugo #192 CHROME - 2026 Topps Heritage MLB Baseball Card",
     "price": 1.9,
     "image": "https://i.ebayimg.com/images/g/ap0AAeSwR0tpwfsE/s-l300.jpg",
@@ -47592,7 +47868,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 3967,
+    "id": 3990,
     "name": "Ozzie Albies #264 CHROME - 2026 Topps Heritage MLB Baseball Card",
     "price": 1.9,
     "image": "https://i.ebayimg.com/images/g/UbAAAeSwEJppwfrt/s-l300.jpg",
@@ -47604,7 +47880,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 3968,
+    "id": 3991,
     "name": "Edgar Quero #239 REFRACTOR - 2026 Topps Heritage MLB Baseball Card",
     "price": 3.8,
     "image": "https://i.ebayimg.com/images/g/cAcAAeSwWpxpwfrC/s-l300.jpg",
@@ -47616,7 +47892,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 3969,
+    "id": 3992,
     "name": "Matt Wallner #319 REFRACTOR - 2026 Topps Heritage MLB Baseball Card",
     "price": 1.9,
     "image": "https://i.ebayimg.com/images/g/gfsAAeSw2SVpwfql/s-l300.jpg",
@@ -47628,7 +47904,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 3970,
+    "id": 3993,
     "name": "Jackson Merrill #351 Blue Sparkle - 2026 Topps Heritage MLB Baseball Card",
     "price": 2.85,
     "image": "https://i.ebayimg.com/images/g/hxwAAeSwZUtpwfn7/s-l300.jpg",
@@ -47640,7 +47916,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 3971,
+    "id": 3994,
     "name": "Rookie Outfielders #392 Blue Sparkle - 2026 Topps Heritage MLB Baseball Card",
     "price": 2.61,
     "image": "https://i.ebayimg.com/images/g/LOIAAeSwS5ZpwfnY/s-l300.jpg",
@@ -47652,7 +47928,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 3972,
+    "id": 3995,
     "name": "Hunter Brown #170 Blue Sparkle - 2026 Topps Heritage MLB Baseball Card",
     "price": 1.9,
     "image": "https://i.ebayimg.com/images/g/LdkAAeSwBztpwfmo/s-l300.jpg",
@@ -47664,7 +47940,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 3973,
+    "id": 3996,
     "name": "Toronto Blue Jays #276 Blue Sparkle - 2026 Topps Heritage MLB Baseball Card",
     "price": 4.75,
     "image": "https://i.ebayimg.com/images/g/CysAAeSw6BppwflQ/s-l300.jpg",
@@ -47676,7 +47952,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 3974,
+    "id": 3997,
     "name": "James Wood #RP-JW - 2026 Topps Heritage MLB Baseball Card",
     "price": 1.9,
     "image": "https://i.ebayimg.com/images/g/RNgAAeSwif9pwfke/s-l300.jpg",
@@ -47688,7 +47964,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 3975,
+    "id": 3998,
     "name": "Jose Berrios #56 Blue Sparkle - 2026 Topps Heritage MLB Baseball Card",
     "price": 1.9,
     "image": "https://i.ebayimg.com/images/g/wmsAAeSw6QBpwepF/s-l300.jpg",
@@ -47700,7 +47976,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 3976,
+    "id": 3999,
     "name": "Noah Cameron #78 Blue Sparkle - 2026 Topps Heritage MLB Baseball Card",
     "price": 1.9,
     "image": "https://i.ebayimg.com/images/g/0EsAAeSwcoBpweol/s-l300.jpg",
@@ -47712,7 +47988,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 3977,
+    "id": 4000,
     "name": "Giancarlo Stanton #250 Blue Sparkle - 2026 Topps Heritage MLB Baseball Card",
     "price": 1.9,
     "image": "https://i.ebayimg.com/images/g/oJMAAeSwY0ppweoP/s-l300.jpg",
@@ -47724,7 +48000,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 3978,
+    "id": 4001,
     "name": "Anthony Seigler (RC) #128 Blue Sparkle - 2026 Topps Heritage MLB Baseball Card",
     "price": 2.85,
     "image": "https://i.ebayimg.com/images/g/sIMAAeSwottpwen1/s-l300.jpg",
@@ -47736,7 +48012,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 3979,
+    "id": 4002,
     "name": "Jhostynxon Garcia (RC) #112 Blue Sparkle - 2026 Topps Heritage MLB Baseball Card",
     "price": 2.85,
     "image": "https://i.ebayimg.com/images/g/~pIAAeSwQdppwenM/s-l300.jpg",
@@ -47748,7 +48024,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 3980,
+    "id": 4003,
     "name": "Jurickson Profar #51 Blue Sparkle - 2026 Topps Heritage MLB Baseball Card",
     "price": 1.9,
     "image": "https://i.ebayimg.com/images/g/v6MAAeSw~U5pwelU/s-l300.jpg",
@@ -47760,7 +48036,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 3981,
+    "id": 4004,
     "name": "Chris Sale #278 Blue Sparkle - 2026 Topps Heritage MLB Baseball Card",
     "price": 1.9,
     "image": "https://i.ebayimg.com/images/g/o1gAAeSw7VZpwek3/s-l300.jpg",
@@ -47772,7 +48048,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 3982,
+    "id": 4005,
     "name": "Lane Thomas #285 Dark Grey Border - 2026 Topps Heritage MLB Baseball Card",
     "price": 1.9,
     "image": "https://i.ebayimg.com/images/g/6eYAAeSwKyRpwejq/s-l300.jpg",
@@ -47784,7 +48060,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 3983,
+    "id": 4006,
     "name": "Cade Cavalli #68 Dark Gray Border - 2026 Topps Heritage MLB Baseball Card",
     "price": 1.9,
     "image": "https://i.ebayimg.com/images/g/vjgAAeSwNW5pweia/s-l300.jpg",
@@ -47796,7 +48072,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 3984,
+    "id": 4007,
     "name": "Connor Norby #30 Dark Gray Border - 2026 Topps Heritage MLB Baseball Card",
     "price": 1.9,
     "image": "https://i.ebayimg.com/images/g/BOAAAeSw2SVpweiB/s-l300.jpg",
@@ -47808,7 +48084,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 3985,
+    "id": 4008,
     "name": "Luis Gil #123 Dark Gray Border - 2026 Topps Heritage MLB Baseball Card",
     "price": 1.9,
     "image": "https://i.ebayimg.com/images/g/nKMAAeSwlQNpweg3/s-l300.jpg",
@@ -47820,7 +48096,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 3986,
+    "id": 4009,
     "name": "JJ Bleday #236 Dark Gray Border - 2026 Topps Heritage MLB Baseball Card",
     "price": 1.9,
     "image": "https://i.ebayimg.com/images/g/AmYAAeSwsAJpwef8/s-l300.jpg",
@@ -47832,7 +48108,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 3987,
+    "id": 4010,
     "name": "Freddy Peralta #291 CHROME - 2026 Topps Heritage MLB Baseball Card",
     "price": 2.85,
     "image": "https://i.ebayimg.com/images/g/9PUAAeSwj0RpwedT/s-l300.jpg",
@@ -47844,7 +48120,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 3988,
+    "id": 4011,
     "name": "Evan Carter #244 CHROME - 2026 Topps Heritage MLB Baseball Card",
     "price": 2.14,
     "image": "https://i.ebayimg.com/images/g/2fMAAeSwLoxpwecn/s-l300.jpg",
@@ -47856,7 +48132,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 3989,
+    "id": 4012,
     "name": "Royce Lewis #85 CHROME - 2026 Topps Heritage MLB Baseball Card",
     "price": 1.9,
     "image": "https://i.ebayimg.com/images/g/kCYAAeSwsdppweb8/s-l300.jpg",
@@ -47868,7 +48144,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 3990,
+    "id": 4013,
     "name": "Owen Caissie (RC) #88 CHROME - 2026 Topps Heritage MLB Baseball Card",
     "price": 6.65,
     "image": "https://i.ebayimg.com/images/g/zgwAAeSwihRpwebh/s-l300.jpg",
@@ -47880,7 +48156,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 3991,
+    "id": 4014,
     "name": "Kyle Teel (RC) #182 CHROME - 2026 Topps Heritage MLB Baseball Card",
     "price": 4.75,
     "image": "https://i.ebayimg.com/images/g/qWgAAeSw8otpwea6/s-l300.jpg",
@@ -47890,282 +48166,6 @@ window.products = [
     "discount": null,
     "numbered": false,
     "stock": 1
-  },
-  {
-    "id": 3992,
-    "name": "Dillon Dingler #73 REFRACTOR - 2026 Topps Heritage MLB Baseball Card",
-    "price": 2.85,
-    "image": "https://i.ebayimg.com/images/g/gSQAAeSwWD5pweZR/s-l300.jpg",
-    "url": "https://www.ebay.com/itm/168257537061",
-    "category": "baseball",
-    "badge": null,
-    "discount": null,
-    "numbered": false,
-    "stock": 0
-  },
-  {
-    "id": 3993,
-    "name": "Dillon Dingler #73 REFRACTOR - 2026 Topps Heritage MLB Baseball Card",
-    "price": 2.85,
-    "image": "https://i.ebayimg.com/images/g/gSQAAeSwWD5pweZR/s-l300.jpg",
-    "url": "https://www.ebay.com/itm/168257537061",
-    "category": "baseball",
-    "badge": null,
-    "discount": null,
-    "numbered": false,
-    "stock": 0
-  },
-  {
-    "id": 3994,
-    "name": "Dillon Dingler #73 REFRACTOR - 2026 Topps Heritage MLB Baseball Card",
-    "price": 2.85,
-    "image": "https://i.ebayimg.com/images/g/gSQAAeSwWD5pweZR/s-l300.jpg",
-    "url": "https://www.ebay.com/itm/168257537061",
-    "category": "baseball",
-    "badge": null,
-    "discount": null,
-    "numbered": false,
-    "stock": 0
-  },
-  {
-    "id": 3995,
-    "name": "Dillon Dingler #73 REFRACTOR - 2026 Topps Heritage MLB Baseball Card",
-    "price": 2.85,
-    "image": "https://i.ebayimg.com/images/g/gSQAAeSwWD5pweZR/s-l300.jpg",
-    "url": "https://www.ebay.com/itm/168257537061",
-    "category": "baseball",
-    "badge": null,
-    "discount": null,
-    "numbered": false,
-    "stock": 0
-  },
-  {
-    "id": 3996,
-    "name": "Dillon Dingler #73 REFRACTOR - 2026 Topps Heritage MLB Baseball Card",
-    "price": 2.85,
-    "image": "https://i.ebayimg.com/images/g/gSQAAeSwWD5pweZR/s-l300.jpg",
-    "url": "https://www.ebay.com/itm/168257537061",
-    "category": "baseball",
-    "badge": null,
-    "discount": null,
-    "numbered": false,
-    "stock": 0
-  },
-  {
-    "id": 3997,
-    "name": "Dillon Dingler #73 REFRACTOR - 2026 Topps Heritage MLB Baseball Card",
-    "price": 2.85,
-    "image": "https://i.ebayimg.com/images/g/gSQAAeSwWD5pweZR/s-l300.jpg",
-    "url": "https://www.ebay.com/itm/168257537061",
-    "category": "baseball",
-    "badge": null,
-    "discount": null,
-    "numbered": false,
-    "stock": 0
-  },
-  {
-    "id": 3998,
-    "name": "Dillon Dingler #73 REFRACTOR - 2026 Topps Heritage MLB Baseball Card",
-    "price": 2.85,
-    "image": "https://i.ebayimg.com/images/g/gSQAAeSwWD5pweZR/s-l300.jpg",
-    "url": "https://www.ebay.com/itm/168257537061",
-    "category": "baseball",
-    "badge": null,
-    "discount": null,
-    "numbered": false,
-    "stock": 0
-  },
-  {
-    "id": 3999,
-    "name": "Dillon Dingler #73 REFRACTOR - 2026 Topps Heritage MLB Baseball Card",
-    "price": 2.85,
-    "image": "https://i.ebayimg.com/images/g/gSQAAeSwWD5pweZR/s-l300.jpg",
-    "url": "https://www.ebay.com/itm/168257537061",
-    "category": "baseball",
-    "badge": null,
-    "discount": null,
-    "numbered": false,
-    "stock": 0
-  },
-  {
-    "id": 4000,
-    "name": "Dillon Dingler #73 REFRACTOR - 2026 Topps Heritage MLB Baseball Card",
-    "price": 2.85,
-    "image": "https://i.ebayimg.com/images/g/gSQAAeSwWD5pweZR/s-l300.jpg",
-    "url": "https://www.ebay.com/itm/168257537061",
-    "category": "baseball",
-    "badge": null,
-    "discount": null,
-    "numbered": false,
-    "stock": 0
-  },
-  {
-    "id": 4001,
-    "name": "Dillon Dingler #73 REFRACTOR - 2026 Topps Heritage MLB Baseball Card",
-    "price": 2.85,
-    "image": "https://i.ebayimg.com/images/g/gSQAAeSwWD5pweZR/s-l300.jpg",
-    "url": "https://www.ebay.com/itm/168257537061",
-    "category": "baseball",
-    "badge": null,
-    "discount": null,
-    "numbered": false,
-    "stock": 0
-  },
-  {
-    "id": 4002,
-    "name": "Dillon Dingler #73 REFRACTOR - 2026 Topps Heritage MLB Baseball Card",
-    "price": 2.85,
-    "image": "https://i.ebayimg.com/images/g/gSQAAeSwWD5pweZR/s-l300.jpg",
-    "url": "https://www.ebay.com/itm/168257537061",
-    "category": "baseball",
-    "badge": null,
-    "discount": null,
-    "numbered": false,
-    "stock": 0
-  },
-  {
-    "id": 4003,
-    "name": "Dillon Dingler #73 REFRACTOR - 2026 Topps Heritage MLB Baseball Card",
-    "price": 2.85,
-    "image": "https://i.ebayimg.com/images/g/gSQAAeSwWD5pweZR/s-l300.jpg",
-    "url": "https://www.ebay.com/itm/168257537061",
-    "category": "baseball",
-    "badge": null,
-    "discount": null,
-    "numbered": false,
-    "stock": 0
-  },
-  {
-    "id": 4004,
-    "name": "Dillon Dingler #73 REFRACTOR - 2026 Topps Heritage MLB Baseball Card",
-    "price": 2.85,
-    "image": "https://i.ebayimg.com/images/g/gSQAAeSwWD5pweZR/s-l300.jpg",
-    "url": "https://www.ebay.com/itm/168257537061",
-    "category": "baseball",
-    "badge": null,
-    "discount": null,
-    "numbered": false,
-    "stock": 0
-  },
-  {
-    "id": 4005,
-    "name": "Dillon Dingler #73 REFRACTOR - 2026 Topps Heritage MLB Baseball Card",
-    "price": 2.85,
-    "image": "https://i.ebayimg.com/images/g/gSQAAeSwWD5pweZR/s-l300.jpg",
-    "url": "https://www.ebay.com/itm/168257537061",
-    "category": "baseball",
-    "badge": null,
-    "discount": null,
-    "numbered": false,
-    "stock": 0
-  },
-  {
-    "id": 4006,
-    "name": "Dillon Dingler #73 REFRACTOR - 2026 Topps Heritage MLB Baseball Card",
-    "price": 2.85,
-    "image": "https://i.ebayimg.com/images/g/gSQAAeSwWD5pweZR/s-l300.jpg",
-    "url": "https://www.ebay.com/itm/168257537061",
-    "category": "baseball",
-    "badge": null,
-    "discount": null,
-    "numbered": false,
-    "stock": 0
-  },
-  {
-    "id": 4007,
-    "name": "Dillon Dingler #73 REFRACTOR - 2026 Topps Heritage MLB Baseball Card",
-    "price": 2.85,
-    "image": "https://i.ebayimg.com/images/g/gSQAAeSwWD5pweZR/s-l300.jpg",
-    "url": "https://www.ebay.com/itm/168257537061",
-    "category": "baseball",
-    "badge": null,
-    "discount": null,
-    "numbered": false,
-    "stock": 0
-  },
-  {
-    "id": 4008,
-    "name": "Dillon Dingler #73 REFRACTOR - 2026 Topps Heritage MLB Baseball Card",
-    "price": 2.85,
-    "image": "https://i.ebayimg.com/images/g/gSQAAeSwWD5pweZR/s-l300.jpg",
-    "url": "https://www.ebay.com/itm/168257537061",
-    "category": "baseball",
-    "badge": null,
-    "discount": null,
-    "numbered": false,
-    "stock": 0
-  },
-  {
-    "id": 4009,
-    "name": "Dillon Dingler #73 REFRACTOR - 2026 Topps Heritage MLB Baseball Card",
-    "price": 2.85,
-    "image": "https://i.ebayimg.com/images/g/gSQAAeSwWD5pweZR/s-l300.jpg",
-    "url": "https://www.ebay.com/itm/168257537061",
-    "category": "baseball",
-    "badge": null,
-    "discount": null,
-    "numbered": false,
-    "stock": 0
-  },
-  {
-    "id": 4010,
-    "name": "Dillon Dingler #73 REFRACTOR - 2026 Topps Heritage MLB Baseball Card",
-    "price": 2.85,
-    "image": "https://i.ebayimg.com/images/g/gSQAAeSwWD5pweZR/s-l300.jpg",
-    "url": "https://www.ebay.com/itm/168257537061",
-    "category": "baseball",
-    "badge": null,
-    "discount": null,
-    "numbered": false,
-    "stock": 0
-  },
-  {
-    "id": 4011,
-    "name": "Dillon Dingler #73 REFRACTOR - 2026 Topps Heritage MLB Baseball Card",
-    "price": 2.85,
-    "image": "https://i.ebayimg.com/images/g/gSQAAeSwWD5pweZR/s-l300.jpg",
-    "url": "https://www.ebay.com/itm/168257537061",
-    "category": "baseball",
-    "badge": null,
-    "discount": null,
-    "numbered": false,
-    "stock": 0
-  },
-  {
-    "id": 4012,
-    "name": "Dillon Dingler #73 REFRACTOR - 2026 Topps Heritage MLB Baseball Card",
-    "price": 2.85,
-    "image": "https://i.ebayimg.com/images/g/gSQAAeSwWD5pweZR/s-l300.jpg",
-    "url": "https://www.ebay.com/itm/168257537061",
-    "category": "baseball",
-    "badge": null,
-    "discount": null,
-    "numbered": false,
-    "stock": 0
-  },
-  {
-    "id": 4013,
-    "name": "Dillon Dingler #73 REFRACTOR - 2026 Topps Heritage MLB Baseball Card",
-    "price": 2.85,
-    "image": "https://i.ebayimg.com/images/g/gSQAAeSwWD5pweZR/s-l300.jpg",
-    "url": "https://www.ebay.com/itm/168257537061",
-    "category": "baseball",
-    "badge": null,
-    "discount": null,
-    "numbered": false,
-    "stock": 0
-  },
-  {
-    "id": 4014,
-    "name": "Dillon Dingler #73 REFRACTOR - 2026 Topps Heritage MLB Baseball Card",
-    "price": 2.85,
-    "image": "https://i.ebayimg.com/images/g/gSQAAeSwWD5pweZR/s-l300.jpg",
-    "url": "https://www.ebay.com/itm/168257537061",
-    "category": "baseball",
-    "badge": null,
-    "discount": null,
-    "numbered": false,
-    "stock": 0
   },
   {
     "id": 4015,
@@ -48181,6 +48181,282 @@ window.products = [
   },
   {
     "id": 4016,
+    "name": "Dillon Dingler #73 REFRACTOR - 2026 Topps Heritage MLB Baseball Card",
+    "price": 2.85,
+    "image": "https://i.ebayimg.com/images/g/gSQAAeSwWD5pweZR/s-l300.jpg",
+    "url": "https://www.ebay.com/itm/168257537061",
+    "category": "baseball",
+    "badge": null,
+    "discount": null,
+    "numbered": false,
+    "stock": 0
+  },
+  {
+    "id": 4017,
+    "name": "Dillon Dingler #73 REFRACTOR - 2026 Topps Heritage MLB Baseball Card",
+    "price": 2.85,
+    "image": "https://i.ebayimg.com/images/g/gSQAAeSwWD5pweZR/s-l300.jpg",
+    "url": "https://www.ebay.com/itm/168257537061",
+    "category": "baseball",
+    "badge": null,
+    "discount": null,
+    "numbered": false,
+    "stock": 0
+  },
+  {
+    "id": 4018,
+    "name": "Dillon Dingler #73 REFRACTOR - 2026 Topps Heritage MLB Baseball Card",
+    "price": 2.85,
+    "image": "https://i.ebayimg.com/images/g/gSQAAeSwWD5pweZR/s-l300.jpg",
+    "url": "https://www.ebay.com/itm/168257537061",
+    "category": "baseball",
+    "badge": null,
+    "discount": null,
+    "numbered": false,
+    "stock": 0
+  },
+  {
+    "id": 4019,
+    "name": "Dillon Dingler #73 REFRACTOR - 2026 Topps Heritage MLB Baseball Card",
+    "price": 2.85,
+    "image": "https://i.ebayimg.com/images/g/gSQAAeSwWD5pweZR/s-l300.jpg",
+    "url": "https://www.ebay.com/itm/168257537061",
+    "category": "baseball",
+    "badge": null,
+    "discount": null,
+    "numbered": false,
+    "stock": 0
+  },
+  {
+    "id": 4020,
+    "name": "Dillon Dingler #73 REFRACTOR - 2026 Topps Heritage MLB Baseball Card",
+    "price": 2.85,
+    "image": "https://i.ebayimg.com/images/g/gSQAAeSwWD5pweZR/s-l300.jpg",
+    "url": "https://www.ebay.com/itm/168257537061",
+    "category": "baseball",
+    "badge": null,
+    "discount": null,
+    "numbered": false,
+    "stock": 0
+  },
+  {
+    "id": 4021,
+    "name": "Dillon Dingler #73 REFRACTOR - 2026 Topps Heritage MLB Baseball Card",
+    "price": 2.85,
+    "image": "https://i.ebayimg.com/images/g/gSQAAeSwWD5pweZR/s-l300.jpg",
+    "url": "https://www.ebay.com/itm/168257537061",
+    "category": "baseball",
+    "badge": null,
+    "discount": null,
+    "numbered": false,
+    "stock": 0
+  },
+  {
+    "id": 4022,
+    "name": "Dillon Dingler #73 REFRACTOR - 2026 Topps Heritage MLB Baseball Card",
+    "price": 2.85,
+    "image": "https://i.ebayimg.com/images/g/gSQAAeSwWD5pweZR/s-l300.jpg",
+    "url": "https://www.ebay.com/itm/168257537061",
+    "category": "baseball",
+    "badge": null,
+    "discount": null,
+    "numbered": false,
+    "stock": 0
+  },
+  {
+    "id": 4023,
+    "name": "Dillon Dingler #73 REFRACTOR - 2026 Topps Heritage MLB Baseball Card",
+    "price": 2.85,
+    "image": "https://i.ebayimg.com/images/g/gSQAAeSwWD5pweZR/s-l300.jpg",
+    "url": "https://www.ebay.com/itm/168257537061",
+    "category": "baseball",
+    "badge": null,
+    "discount": null,
+    "numbered": false,
+    "stock": 0
+  },
+  {
+    "id": 4024,
+    "name": "Dillon Dingler #73 REFRACTOR - 2026 Topps Heritage MLB Baseball Card",
+    "price": 2.85,
+    "image": "https://i.ebayimg.com/images/g/gSQAAeSwWD5pweZR/s-l300.jpg",
+    "url": "https://www.ebay.com/itm/168257537061",
+    "category": "baseball",
+    "badge": null,
+    "discount": null,
+    "numbered": false,
+    "stock": 0
+  },
+  {
+    "id": 4025,
+    "name": "Dillon Dingler #73 REFRACTOR - 2026 Topps Heritage MLB Baseball Card",
+    "price": 2.85,
+    "image": "https://i.ebayimg.com/images/g/gSQAAeSwWD5pweZR/s-l300.jpg",
+    "url": "https://www.ebay.com/itm/168257537061",
+    "category": "baseball",
+    "badge": null,
+    "discount": null,
+    "numbered": false,
+    "stock": 0
+  },
+  {
+    "id": 4026,
+    "name": "Dillon Dingler #73 REFRACTOR - 2026 Topps Heritage MLB Baseball Card",
+    "price": 2.85,
+    "image": "https://i.ebayimg.com/images/g/gSQAAeSwWD5pweZR/s-l300.jpg",
+    "url": "https://www.ebay.com/itm/168257537061",
+    "category": "baseball",
+    "badge": null,
+    "discount": null,
+    "numbered": false,
+    "stock": 0
+  },
+  {
+    "id": 4027,
+    "name": "Dillon Dingler #73 REFRACTOR - 2026 Topps Heritage MLB Baseball Card",
+    "price": 2.85,
+    "image": "https://i.ebayimg.com/images/g/gSQAAeSwWD5pweZR/s-l300.jpg",
+    "url": "https://www.ebay.com/itm/168257537061",
+    "category": "baseball",
+    "badge": null,
+    "discount": null,
+    "numbered": false,
+    "stock": 0
+  },
+  {
+    "id": 4028,
+    "name": "Dillon Dingler #73 REFRACTOR - 2026 Topps Heritage MLB Baseball Card",
+    "price": 2.85,
+    "image": "https://i.ebayimg.com/images/g/gSQAAeSwWD5pweZR/s-l300.jpg",
+    "url": "https://www.ebay.com/itm/168257537061",
+    "category": "baseball",
+    "badge": null,
+    "discount": null,
+    "numbered": false,
+    "stock": 0
+  },
+  {
+    "id": 4029,
+    "name": "Dillon Dingler #73 REFRACTOR - 2026 Topps Heritage MLB Baseball Card",
+    "price": 2.85,
+    "image": "https://i.ebayimg.com/images/g/gSQAAeSwWD5pweZR/s-l300.jpg",
+    "url": "https://www.ebay.com/itm/168257537061",
+    "category": "baseball",
+    "badge": null,
+    "discount": null,
+    "numbered": false,
+    "stock": 0
+  },
+  {
+    "id": 4030,
+    "name": "Dillon Dingler #73 REFRACTOR - 2026 Topps Heritage MLB Baseball Card",
+    "price": 2.85,
+    "image": "https://i.ebayimg.com/images/g/gSQAAeSwWD5pweZR/s-l300.jpg",
+    "url": "https://www.ebay.com/itm/168257537061",
+    "category": "baseball",
+    "badge": null,
+    "discount": null,
+    "numbered": false,
+    "stock": 0
+  },
+  {
+    "id": 4031,
+    "name": "Dillon Dingler #73 REFRACTOR - 2026 Topps Heritage MLB Baseball Card",
+    "price": 2.85,
+    "image": "https://i.ebayimg.com/images/g/gSQAAeSwWD5pweZR/s-l300.jpg",
+    "url": "https://www.ebay.com/itm/168257537061",
+    "category": "baseball",
+    "badge": null,
+    "discount": null,
+    "numbered": false,
+    "stock": 0
+  },
+  {
+    "id": 4032,
+    "name": "Dillon Dingler #73 REFRACTOR - 2026 Topps Heritage MLB Baseball Card",
+    "price": 2.85,
+    "image": "https://i.ebayimg.com/images/g/gSQAAeSwWD5pweZR/s-l300.jpg",
+    "url": "https://www.ebay.com/itm/168257537061",
+    "category": "baseball",
+    "badge": null,
+    "discount": null,
+    "numbered": false,
+    "stock": 0
+  },
+  {
+    "id": 4033,
+    "name": "Dillon Dingler #73 REFRACTOR - 2026 Topps Heritage MLB Baseball Card",
+    "price": 2.85,
+    "image": "https://i.ebayimg.com/images/g/gSQAAeSwWD5pweZR/s-l300.jpg",
+    "url": "https://www.ebay.com/itm/168257537061",
+    "category": "baseball",
+    "badge": null,
+    "discount": null,
+    "numbered": false,
+    "stock": 0
+  },
+  {
+    "id": 4034,
+    "name": "Dillon Dingler #73 REFRACTOR - 2026 Topps Heritage MLB Baseball Card",
+    "price": 2.85,
+    "image": "https://i.ebayimg.com/images/g/gSQAAeSwWD5pweZR/s-l300.jpg",
+    "url": "https://www.ebay.com/itm/168257537061",
+    "category": "baseball",
+    "badge": null,
+    "discount": null,
+    "numbered": false,
+    "stock": 0
+  },
+  {
+    "id": 4035,
+    "name": "Dillon Dingler #73 REFRACTOR - 2026 Topps Heritage MLB Baseball Card",
+    "price": 2.85,
+    "image": "https://i.ebayimg.com/images/g/gSQAAeSwWD5pweZR/s-l300.jpg",
+    "url": "https://www.ebay.com/itm/168257537061",
+    "category": "baseball",
+    "badge": null,
+    "discount": null,
+    "numbered": false,
+    "stock": 0
+  },
+  {
+    "id": 4036,
+    "name": "Dillon Dingler #73 REFRACTOR - 2026 Topps Heritage MLB Baseball Card",
+    "price": 2.85,
+    "image": "https://i.ebayimg.com/images/g/gSQAAeSwWD5pweZR/s-l300.jpg",
+    "url": "https://www.ebay.com/itm/168257537061",
+    "category": "baseball",
+    "badge": null,
+    "discount": null,
+    "numbered": false,
+    "stock": 0
+  },
+  {
+    "id": 4037,
+    "name": "Dillon Dingler #73 REFRACTOR - 2026 Topps Heritage MLB Baseball Card",
+    "price": 2.85,
+    "image": "https://i.ebayimg.com/images/g/gSQAAeSwWD5pweZR/s-l300.jpg",
+    "url": "https://www.ebay.com/itm/168257537061",
+    "category": "baseball",
+    "badge": null,
+    "discount": null,
+    "numbered": false,
+    "stock": 0
+  },
+  {
+    "id": 4038,
+    "name": "Dillon Dingler #73 REFRACTOR - 2026 Topps Heritage MLB Baseball Card",
+    "price": 2.85,
+    "image": "https://i.ebayimg.com/images/g/gSQAAeSwWD5pweZR/s-l300.jpg",
+    "url": "https://www.ebay.com/itm/168257537061",
+    "category": "baseball",
+    "badge": null,
+    "discount": null,
+    "numbered": false,
+    "stock": 0
+  },
+  {
+    "id": 4039,
     "name": "Cole Wilcox (RC) #155 Blue Sparkle - 2026 Topps Heritage MLB Baseball",
     "price": 2.85,
     "image": "https://i.ebayimg.com/images/g/g1sAAeSwPKtpwb~K/s-l300.jpg",
@@ -48192,7 +48468,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 4017,
+    "id": 4040,
     "name": "Orion Kerkering #300 Blue Sparkle - 2026 Topps Heritage MLB Baseball",
     "price": 1.9,
     "image": "https://i.ebayimg.com/images/g/hnoAAeSwuAxpwb-0/s-l300.jpg",
@@ -48204,7 +48480,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 4018,
+    "id": 4041,
     "name": "Luis Arraez #293 Blue Sparkle - 2026 Topps Heritage MLB Baseball",
     "price": 1.9,
     "image": "https://i.ebayimg.com/images/g/n5gAAeSwvddpwb-X/s-l300.jpg",
@@ -48216,7 +48492,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 4019,
+    "id": 4042,
     "name": "Alec Burleson #165 Blue Sparkle - 2026 Topps Heritage MLB Baseball",
     "price": 2.14,
     "image": "https://i.ebayimg.com/images/g/c1AAAeSw4R1pwb97/s-l300.jpg",
@@ -48228,7 +48504,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 4020,
+    "id": 4043,
     "name": "Tarik Skubal #281 Blue Sparkle - 2026 Topps Heritage MLB Baseball",
     "price": 3.8,
     "image": "https://i.ebayimg.com/images/g/mR0AAeSw6V1pwb8k/s-l300.jpg",
@@ -48240,7 +48516,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 4021,
+    "id": 4044,
     "name": "Christian Javier #330 Blue Sparkle - 2026 Topps Heritage MLB Baseball",
     "price": 1.9,
     "image": "https://i.ebayimg.com/images/g/yOsAAeSwj0Rpwb8N/s-l300.jpg",
@@ -48252,7 +48528,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 4022,
+    "id": 4045,
     "name": "Jose Caballero #328 Blue Sparkle - 2026 Topps Heritage MLB Baseball",
     "price": 2.14,
     "image": "https://i.ebayimg.com/images/g/hsEAAeSwEE5pwb7X/s-l300.jpg",
@@ -48264,7 +48540,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 4023,
+    "id": 4046,
     "name": "Angel Martinez #177 Blue Sparkle - 2026 Topps Heritage MLB Baseball",
     "price": 2.14,
     "image": "https://i.ebayimg.com/images/g/b38AAeSwsdppwb5a/s-l300.jpg",
@@ -48276,7 +48552,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 4024,
+    "id": 4047,
     "name": "Max Muncy #105 Blue Sparkle - 2026 Topps Heritage MLB Baseball",
     "price": 2.14,
     "image": "https://i.ebayimg.com/images/g/an0AAeSw75ppwb4z/s-l300.jpg",
@@ -48286,282 +48562,6 @@ window.products = [
     "discount": null,
     "numbered": false,
     "stock": 1
-  },
-  {
-    "id": 4025,
-    "name": "Parker Messick (RC) #242 Blue Sparkle - 2026 Topps Heritage MLB Baseball",
-    "price": 2.85,
-    "image": null,
-    "url": "https://www.ebay.com/itm/168257233664",
-    "category": "baseball",
-    "badge": null,
-    "discount": null,
-    "numbered": false,
-    "stock": 0
-  },
-  {
-    "id": 4026,
-    "name": "Parker Messick (RC) #242 Blue Sparkle - 2026 Topps Heritage MLB Baseball",
-    "price": 2.85,
-    "image": null,
-    "url": "https://www.ebay.com/itm/168257233664",
-    "category": "baseball",
-    "badge": null,
-    "discount": null,
-    "numbered": false,
-    "stock": 0
-  },
-  {
-    "id": 4027,
-    "name": "Parker Messick (RC) #242 Blue Sparkle - 2026 Topps Heritage MLB Baseball",
-    "price": 2.85,
-    "image": null,
-    "url": "https://www.ebay.com/itm/168257233664",
-    "category": "baseball",
-    "badge": null,
-    "discount": null,
-    "numbered": false,
-    "stock": 0
-  },
-  {
-    "id": 4028,
-    "name": "Parker Messick (RC) #242 Blue Sparkle - 2026 Topps Heritage MLB Baseball",
-    "price": 2.85,
-    "image": null,
-    "url": "https://www.ebay.com/itm/168257233664",
-    "category": "baseball",
-    "badge": null,
-    "discount": null,
-    "numbered": false,
-    "stock": 0
-  },
-  {
-    "id": 4029,
-    "name": "Parker Messick (RC) #242 Blue Sparkle - 2026 Topps Heritage MLB Baseball",
-    "price": 2.85,
-    "image": null,
-    "url": "https://www.ebay.com/itm/168257233664",
-    "category": "baseball",
-    "badge": null,
-    "discount": null,
-    "numbered": false,
-    "stock": 0
-  },
-  {
-    "id": 4030,
-    "name": "Parker Messick (RC) #242 Blue Sparkle - 2026 Topps Heritage MLB Baseball",
-    "price": 2.85,
-    "image": null,
-    "url": "https://www.ebay.com/itm/168257233664",
-    "category": "baseball",
-    "badge": null,
-    "discount": null,
-    "numbered": false,
-    "stock": 0
-  },
-  {
-    "id": 4031,
-    "name": "Parker Messick (RC) #242 Blue Sparkle - 2026 Topps Heritage MLB Baseball",
-    "price": 2.85,
-    "image": null,
-    "url": "https://www.ebay.com/itm/168257233664",
-    "category": "baseball",
-    "badge": null,
-    "discount": null,
-    "numbered": false,
-    "stock": 0
-  },
-  {
-    "id": 4032,
-    "name": "Parker Messick (RC) #242 Blue Sparkle - 2026 Topps Heritage MLB Baseball",
-    "price": 2.85,
-    "image": null,
-    "url": "https://www.ebay.com/itm/168257233664",
-    "category": "baseball",
-    "badge": null,
-    "discount": null,
-    "numbered": false,
-    "stock": 0
-  },
-  {
-    "id": 4033,
-    "name": "Parker Messick (RC) #242 Blue Sparkle - 2026 Topps Heritage MLB Baseball",
-    "price": 2.85,
-    "image": null,
-    "url": "https://www.ebay.com/itm/168257233664",
-    "category": "baseball",
-    "badge": null,
-    "discount": null,
-    "numbered": false,
-    "stock": 0
-  },
-  {
-    "id": 4034,
-    "name": "Parker Messick (RC) #242 Blue Sparkle - 2026 Topps Heritage MLB Baseball",
-    "price": 2.85,
-    "image": null,
-    "url": "https://www.ebay.com/itm/168257233664",
-    "category": "baseball",
-    "badge": null,
-    "discount": null,
-    "numbered": false,
-    "stock": 0
-  },
-  {
-    "id": 4035,
-    "name": "Parker Messick (RC) #242 Blue Sparkle - 2026 Topps Heritage MLB Baseball",
-    "price": 2.85,
-    "image": null,
-    "url": "https://www.ebay.com/itm/168257233664",
-    "category": "baseball",
-    "badge": null,
-    "discount": null,
-    "numbered": false,
-    "stock": 0
-  },
-  {
-    "id": 4036,
-    "name": "Parker Messick (RC) #242 Blue Sparkle - 2026 Topps Heritage MLB Baseball",
-    "price": 2.85,
-    "image": null,
-    "url": "https://www.ebay.com/itm/168257233664",
-    "category": "baseball",
-    "badge": null,
-    "discount": null,
-    "numbered": false,
-    "stock": 0
-  },
-  {
-    "id": 4037,
-    "name": "Parker Messick (RC) #242 Blue Sparkle - 2026 Topps Heritage MLB Baseball",
-    "price": 2.85,
-    "image": null,
-    "url": "https://www.ebay.com/itm/168257233664",
-    "category": "baseball",
-    "badge": null,
-    "discount": null,
-    "numbered": false,
-    "stock": 0
-  },
-  {
-    "id": 4038,
-    "name": "Parker Messick (RC) #242 Blue Sparkle - 2026 Topps Heritage MLB Baseball",
-    "price": 2.85,
-    "image": null,
-    "url": "https://www.ebay.com/itm/168257233664",
-    "category": "baseball",
-    "badge": null,
-    "discount": null,
-    "numbered": false,
-    "stock": 0
-  },
-  {
-    "id": 4039,
-    "name": "Parker Messick (RC) #242 Blue Sparkle - 2026 Topps Heritage MLB Baseball",
-    "price": 2.85,
-    "image": null,
-    "url": "https://www.ebay.com/itm/168257233664",
-    "category": "baseball",
-    "badge": null,
-    "discount": null,
-    "numbered": false,
-    "stock": 0
-  },
-  {
-    "id": 4040,
-    "name": "Parker Messick (RC) #242 Blue Sparkle - 2026 Topps Heritage MLB Baseball",
-    "price": 2.85,
-    "image": null,
-    "url": "https://www.ebay.com/itm/168257233664",
-    "category": "baseball",
-    "badge": null,
-    "discount": null,
-    "numbered": false,
-    "stock": 0
-  },
-  {
-    "id": 4041,
-    "name": "Parker Messick (RC) #242 Blue Sparkle - 2026 Topps Heritage MLB Baseball",
-    "price": 2.85,
-    "image": null,
-    "url": "https://www.ebay.com/itm/168257233664",
-    "category": "baseball",
-    "badge": null,
-    "discount": null,
-    "numbered": false,
-    "stock": 0
-  },
-  {
-    "id": 4042,
-    "name": "Parker Messick (RC) #242 Blue Sparkle - 2026 Topps Heritage MLB Baseball",
-    "price": 2.85,
-    "image": null,
-    "url": "https://www.ebay.com/itm/168257233664",
-    "category": "baseball",
-    "badge": null,
-    "discount": null,
-    "numbered": false,
-    "stock": 0
-  },
-  {
-    "id": 4043,
-    "name": "Parker Messick (RC) #242 Blue Sparkle - 2026 Topps Heritage MLB Baseball",
-    "price": 2.85,
-    "image": null,
-    "url": "https://www.ebay.com/itm/168257233664",
-    "category": "baseball",
-    "badge": null,
-    "discount": null,
-    "numbered": false,
-    "stock": 0
-  },
-  {
-    "id": 4044,
-    "name": "Parker Messick (RC) #242 Blue Sparkle - 2026 Topps Heritage MLB Baseball",
-    "price": 2.85,
-    "image": null,
-    "url": "https://www.ebay.com/itm/168257233664",
-    "category": "baseball",
-    "badge": null,
-    "discount": null,
-    "numbered": false,
-    "stock": 0
-  },
-  {
-    "id": 4045,
-    "name": "Parker Messick (RC) #242 Blue Sparkle - 2026 Topps Heritage MLB Baseball",
-    "price": 2.85,
-    "image": null,
-    "url": "https://www.ebay.com/itm/168257233664",
-    "category": "baseball",
-    "badge": null,
-    "discount": null,
-    "numbered": false,
-    "stock": 0
-  },
-  {
-    "id": 4046,
-    "name": "Parker Messick (RC) #242 Blue Sparkle - 2026 Topps Heritage MLB Baseball",
-    "price": 2.85,
-    "image": null,
-    "url": "https://www.ebay.com/itm/168257233664",
-    "category": "baseball",
-    "badge": null,
-    "discount": null,
-    "numbered": false,
-    "stock": 0
-  },
-  {
-    "id": 4047,
-    "name": "Parker Messick (RC) #242 Blue Sparkle - 2026 Topps Heritage MLB Baseball",
-    "price": 2.85,
-    "image": null,
-    "url": "https://www.ebay.com/itm/168257233664",
-    "category": "baseball",
-    "badge": null,
-    "discount": null,
-    "numbered": false,
-    "stock": 0
   },
   {
     "id": 4048,
