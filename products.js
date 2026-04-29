@@ -23065,7 +23065,7 @@ window.products = [
   },
   {
     "id": 1923,
-    "name": "Munetaka Murakami (RC) GRAND SLAM - 2026 MLB Topps NOW® - Card 94 PRE-SALE",
+    "name": "Munetaka Murakami (RC) GRAND SLAM - 2026 MLB Topps NOW�� - Card 94 PRE-SALE",
     "price": 8.46,
     "image": "https://i.ebayimg.com/images/g/tHwAAeSw8iBp4-JL/s-l300.png",
     "url": "https://www.ebay.com/itm/168316913287",
@@ -26989,7 +26989,7 @@ window.products = [
   },
   {
     "id": 2250,
-    "name": "Munetaka Murakami (RC) GRAND SLAM - 2026 MLB Topps NOW�� - Card 94 PRE-SALE",
+    "name": "Munetaka Murakami (RC) GRAND SLAM - 2026 MLB Topps NOW® - Card 94 PRE-SALE",
     "price": 8.46,
     "image": "https://i.ebayimg.com/images/g/tHwAAeSw8iBp4-JL/s-l300.png",
     "url": "https://www.ebay.com/itm/168316913287",
@@ -32185,7 +32185,7 @@ window.products = [
   },
   {
     "id": 2683,
-    "name": "Addison Barger - 1st Ever Pinch GS - 2025 MLB Topps NOW® - Card 897",
+    "name": "Addison Barger - 1st Ever Pinch GS - 2025 MLB Topps NOW�� - Card 897",
     "price": 5,
     "image": "https://i.ebayimg.com/images/g/HkIAAeSwIrFo~Sw1/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168313526854",
