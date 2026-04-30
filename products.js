@@ -5437,7 +5437,7 @@ window.products = [
   },
   {
     "id": 454,
-    "name": "Sal Stewart (RC) - 2026 MLB Living Set® - Card 922 Rookie PRE-SALE",
+    "name": "Sal Stewart (RC) - 2026 MLB Living Set�� - Card 922 Rookie PRE-SALE",
     "price": 5.99,
     "image": "https://i.ebayimg.com/images/g/wBoAAeSwE2Fp7qUv/s-l300.png",
     "url": "https://www.ebay.com/itm/168334535510",
