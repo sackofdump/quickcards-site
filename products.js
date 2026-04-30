@@ -9637,7 +9637,7 @@ window.products = [
   },
   {
     "id": 804,
-    "name": "Fernando Mendoza  (RC) DRAFT Raiders - 2026 NFL Topps NOW�� - Card FMEN PRE-SALE",
+    "name": "Fernando Mendoza  (RC) DRAFT Raiders - 2026 NFL Topps NOW® - Card FMEN PRE-SALE",
     "price": 6.73,
     "image": "https://i.ebayimg.com/images/g/5p4AAeSwZoxp66kj/s-l300.png",
     "url": "https://www.ebay.com/itm/168330240521",
@@ -14065,7 +14065,7 @@ window.products = [
   },
   {
     "id": 1173,
-    "name": "Alysa Liu USA GOLD Free Skating - 2026 Olympics Topps NOW�� - Card 16",
+    "name": "Alysa Liu USA GOLD Free Skating - 2026 Olympics Topps NOW® - Card 16",
     "price": 14.97,
     "image": "https://i.ebayimg.com/images/g/cT4AAeSwkj1pmNvG/s-l300.png",
     "url": "https://www.ebay.com/itm/168325092756",
@@ -33457,7 +33457,7 @@ window.products = [
   },
   {
     "id": 2789,
-    "name": "Sal Stewart (RC) - 2026 MLB Topps NOW® - Card 88 ROOKIE PRE-SALE",
+    "name": "Sal Stewart (RC) - 2026 MLB Topps NOW�� - Card 88 ROOKIE PRE-SALE",
     "price": 8.77,
     "image": "https://i.ebayimg.com/images/g/ndkAAeSw69Jp4dhH/s-l300.png",
     "url": "https://www.ebay.com/itm/168313889082",
