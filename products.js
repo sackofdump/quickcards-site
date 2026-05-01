@@ -15541,7 +15541,7 @@ window.products = [
   },
   {
     "id": 1296,
-    "name": "Alysa Liu USA GOLD Free Skating - 2026 Olympics Topps NOW�� - Card 16",
+    "name": "Alysa Liu USA GOLD Free Skating - 2026 Olympics Topps NOW® - Card 16",
     "price": 14.97,
     "image": "https://i.ebayimg.com/images/g/cT4AAeSwkj1pmNvG/s-l300.png",
     "url": "https://www.ebay.com/itm/168325092756",
