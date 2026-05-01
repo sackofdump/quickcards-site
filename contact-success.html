@@ -1,0 +1,266 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>QuickCards | Message Received</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@400;700;900&family=Inter:wght@400;500;600&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+  <link rel="icon" type="image/png" href="logo.png">
+  <style>
+    :root {
+      --navy: #0f1340;
+      --blue: #2196F3;
+      --orange: #f5a623;
+      --green: #28c940;
+      --white: #ffffff;
+      --gray-300: #8a90b8;
+      --gray-400: #5a6190;
+      --card-bg: rgba(20, 24, 82, 0.6);
+      --card-border: rgba(33, 150, 243, 0.15);
+    }
+
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    html { scroll-behavior: smooth; }
+
+    body {
+      font-family: 'Inter', sans-serif;
+      background: var(--navy);
+      color: var(--white);
+      min-height: 100vh;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      overflow: hidden;
+    }
+
+    #particles {
+      position: fixed;
+      top: 0; left: 0;
+      width: 100%; height: 100%;
+      z-index: 0;
+      pointer-events: none;
+    }
+
+    .scanlines {
+      position: fixed;
+      top: 0; left: 0;
+      width: 100%; height: 100%;
+      z-index: 1;
+      pointer-events: none;
+      background: repeating-linear-gradient(
+        0deg,
+        transparent,
+        transparent 2px,
+        rgba(15, 19, 64, 0.03) 2px,
+        rgba(15, 19, 64, 0.03) 4px
+      );
+    }
+
+    .success-container {
+      position: relative;
+      z-index: 2;
+      text-align: center;
+      padding: 48px 40px;
+      max-width: 560px;
+      width: 90%;
+      background: var(--card-bg);
+      border: 1px solid rgba(33, 150, 243, 0.3);
+      border-radius: 20px;
+      backdrop-filter: blur(20px);
+      box-shadow: 0 0 60px rgba(33, 150, 243, 0.1), 0 20px 80px rgba(0,0,0,0.4);
+      animation: slideIn 0.6s cubic-bezier(0.4, 0, 0.2, 1);
+    }
+
+    @keyframes slideIn {
+      from { opacity: 0; transform: translateY(30px); }
+      to { opacity: 1; transform: translateY(0); }
+    }
+
+    .check-ring {
+      width: 80px;
+      height: 80px;
+      border-radius: 50%;
+      background: rgba(33, 150, 243, 0.1);
+      border: 2px solid var(--blue);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      margin: 0 auto 28px;
+      animation: ringPulse 2s ease-in-out infinite;
+      box-shadow: 0 0 30px rgba(33, 150, 243, 0.2);
+    }
+
+    @keyframes ringPulse {
+      0%, 100% { box-shadow: 0 0 30px rgba(33, 150, 243, 0.2); }
+      50% { box-shadow: 0 0 50px rgba(33, 150, 243, 0.4); }
+    }
+
+    .check-ring svg { color: var(--blue); }
+
+    .status-tag {
+      display: inline-block;
+      font-family: 'JetBrains Mono', monospace;
+      font-size: 0.7rem;
+      letter-spacing: 4px;
+      text-transform: uppercase;
+      color: var(--blue);
+      padding: 5px 16px;
+      border: 1px solid rgba(33, 150, 243, 0.3);
+      border-radius: 100px;
+      background: rgba(33, 150, 243, 0.07);
+      margin-bottom: 20px;
+    }
+
+    .success-title {
+      font-family: 'Orbitron', monospace;
+      font-size: clamp(1.6rem, 4vw, 2.2rem);
+      font-weight: 900;
+      letter-spacing: 2px;
+      margin-bottom: 16px;
+      line-height: 1.2;
+    }
+
+    .success-title .hl {
+      background: linear-gradient(135deg, #2196F3, #f5a623);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+      background-clip: text;
+    }
+
+    .success-msg {
+      font-size: 0.95rem;
+      color: var(--gray-300);
+      line-height: 1.7;
+      margin-bottom: 32px;
+    }
+
+    .divider {
+      height: 1px;
+      background: var(--card-border);
+      margin: 28px 0;
+    }
+
+    .info-row {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      font-family: 'JetBrains Mono', monospace;
+      font-size: 0.75rem;
+      color: var(--gray-400);
+      margin-bottom: 10px;
+      text-align: left;
+    }
+
+    .info-row svg { flex-shrink: 0; color: var(--blue); }
+
+    .btn-back {
+      display: inline-flex;
+      align-items: center;
+      gap: 8px;
+      padding: 14px 36px;
+      background: linear-gradient(135deg, #2196F3, #f5a623);
+      color: var(--white);
+      font-weight: 600;
+      font-size: 0.95rem;
+      border-radius: 100px;
+      text-decoration: none;
+      transition: 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+      margin-top: 8px;
+      border: none;
+      cursor: pointer;
+      font-family: 'Inter', sans-serif;
+    }
+
+    .btn-back:hover {
+      transform: translateY(-2px);
+      box-shadow: 0 8px 30px rgba(33, 150, 243, 0.4);
+    }
+
+    .footer-note {
+      margin-top: 24px;
+      font-size: 0.75rem;
+      color: var(--gray-400);
+      font-family: 'JetBrains Mono', monospace;
+    }
+  </style>
+</head>
+<body>
+  <canvas id="particles"></canvas>
+  <div class="scanlines"></div>
+
+  <div class="success-container">
+    <div class="check-ring">
+      <svg width="36" height="36" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+        <polyline points="20 6 9 17 4 12"/>
+      </svg>
+    </div>
+
+    <div class="status-tag">// MSG_RECEIVED</div>
+
+    <h1 class="success-title">
+      <span class="hl">MESSAGE</span><br>RECEIVED
+    </h1>
+
+    <p class="success-msg">
+      We got your message and will get back to you asap.
+    </p>
+
+    <div class="divider"></div>
+
+    <div class="info-row">
+      <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M22 16.92v3a2 2 0 01-2.18 2 19.79 19.79 0 01-8.63-3.07A19.5 19.5 0 013.07 9.8 19.79 19.79 0 01.22 1.18 2 2 0 012.22 0h3a2 2 0 012 1.72c.127.96.361 1.903.7 2.81a2 2 0 01-.45 2.11L6.91 7.91a16 16 0 006.68 6.68l1.08-1.08a2 2 0 012.11-.45c.907.339 1.85.573 2.81.7A2 2 0 0122 16.92z"/></svg>
+      <span>Check your inbox — we typically respond within 24 hours</span>
+    </div>
+    <div class="info-row">
+      <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"/><polyline points="12 6 12 12 16 14"/></svg>
+      <span>For order issues, also check your eBay messages for faster support</span>
+    </div>
+
+    <div class="divider"></div>
+
+    <a href="/" class="btn-back">
+      <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M5 12h14M5 12l6-6M5 12l6 6"/></svg>
+      &gt; return.to_vault()
+    </a>
+
+    <p class="footer-note">// quickcards.shop &mdash; thanks_for_reaching_out</p>
+  </div>
+
+  <script>
+    const canvas = document.getElementById('particles');
+    const ctx = canvas.getContext('2d');
+    canvas.width = window.innerWidth;
+    canvas.height = window.innerHeight;
+    window.addEventListener('resize', () => {
+      canvas.width = window.innerWidth;
+      canvas.height = window.innerHeight;
+    });
+
+    const particles = Array.from({ length: 50 }, () => ({
+      x: Math.random() * canvas.width,
+      y: Math.random() * canvas.height,
+      size: Math.random() * 2 + 0.5,
+      sx: (Math.random() - 0.5) * 0.4,
+      sy: (Math.random() - 0.5) * 0.4,
+      opacity: Math.random() * 0.4 + 0.1,
+    }));
+
+    (function animate() {
+      ctx.clearRect(0, 0, canvas.width, canvas.height);
+      particles.forEach(p => {
+        p.x += p.sx; p.y += p.sy;
+        if (p.x < 0 || p.x > canvas.width) p.sx *= -1;
+        if (p.y < 0 || p.y > canvas.height) p.sy *= -1;
+        ctx.beginPath();
+        ctx.arc(p.x, p.y, p.size, 0, Math.PI * 2);
+        ctx.fillStyle = `rgba(33, 150, 243, ${p.opacity})`;
+        ctx.fill();
+      });
+      requestAnimationFrame(animate);
+    })();
+  </script>
+</body>
+</html>

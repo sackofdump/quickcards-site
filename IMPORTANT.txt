@@ -1,4 +1,0 @@
-When something sells (Option B reminder):                                                                                    1. Remove it from products.js
-
-
-git add products.js && git commit -m "Update inventory" && git push

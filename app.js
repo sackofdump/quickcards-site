@@ -318,7 +318,6 @@ function renderProducts() {
     const ebayId = (p.url && p.url.match(/\/itm\/(\d+)/)?.[1]) || '';
     return `
     <div class="product-card" data-ebay-id="${ebayId}" style="animation-delay: ${Math.min(i * 0.03, 0.8)}s">
-      ${p.badge === 'numbered' || p.numbered ? '<span class="card-badge numbered">#\'d</span>' : ''}
       <div class="product-image${hasImage ? '' : ' no-image'}">
         ${hasImage
           ? `<img src="${imgSrc}" alt="${escapeHtml(p.name)}" loading="lazy" onerror="this.parentElement.classList.add('no-image');this.remove();">`

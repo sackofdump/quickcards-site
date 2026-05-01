@@ -11,3 +11,5 @@ image-map.json
 test-scrape.js
 deploy/
 node_modules/
+ebay-credentials.js
+sync-log.txt
