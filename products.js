@@ -31189,7 +31189,7 @@ window.products = [
   },
   {
     "id": 2600,
-    "name": "Addison Barger - 1st Ever Pinch GS - 2025 MLB Topps NOW® - Card 897 #a",
+    "name": "Addison Barger - 1st Ever Pinch GS - 2025 MLB Topps NOW�� - Card 897 #a",
     "price": 4.75,
     "image": "https://i.ebayimg.com/images/g/HkIAAeSwIrFo~Sw1/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168315039209",
