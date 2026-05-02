@@ -9613,7 +9613,7 @@ window.products = [
   },
   {
     "id": 802,
-    "name": "Sal Stewart (RC) - 2026 MLB Living Set�� - Card 922 Rookie PRE-SALE",
+    "name": "Sal Stewart (RC) - 2026 MLB Living Set® - Card 922 Rookie PRE-SALE",
     "price": 5.99,
     "image": "https://i.ebayimg.com/images/g/wBoAAeSwE2Fp7qUv/s-l300.png",
     "url": "https://www.ebay.com/itm/168334535510",
@@ -30049,7 +30049,7 @@ window.products = [
   },
   {
     "id": 2505,
-    "name": "12/25* Parallel Oneil Cruz - 2025 MLB Topps NOW�� - Card 206 Pittsburg Pirates",
+    "name": "12/25* Parallel Oneil Cruz - 2025 MLB Topps NOW® - Card 206 Pittsburg Pirates",
     "price": 9,
     "image": "https://i.ebayimg.com/images/g/VUwAAOSwv8xoTJnK/s-l300.png",
     "url": "https://www.ebay.com/itm/168317262669",
@@ -31837,7 +31837,7 @@ window.products = [
   },
   {
     "id": 2654,
-    "name": "Munetaka Murakami (RC) GRAND SLAM - 2026 MLB Topps NOW® - Card 94 PRE-SALE",
+    "name": "Munetaka Murakami (RC) GRAND SLAM - 2026 MLB Topps NOW�� - Card 94 PRE-SALE",
     "price": 8.46,
     "image": "https://i.ebayimg.com/images/g/tHwAAeSw8iBp4-JL/s-l300.png",
     "url": "https://www.ebay.com/itm/168316913287",
@@ -38665,7 +38665,7 @@ window.products = [
   },
   {
     "id": 3223,
-    "name": "Sal Stewart (RC) - 2026 MLB Topps NOW® - Card 84 ROOKIE PRE-SALE",
+    "name": "Sal Stewart (RC) - 2026 MLB Topps NOW�� - Card 84 ROOKIE PRE-SALE",
     "price": 8.75,
     "image": "https://i.ebayimg.com/images/g/LxYAAeSw3Hxp4BSF/s-l300.png",
     "url": "https://www.ebay.com/itm/168311280937",
