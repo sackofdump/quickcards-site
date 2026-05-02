@@ -31837,7 +31837,7 @@ window.products = [
   },
   {
     "id": 2654,
-    "name": "Munetaka Murakami (RC) GRAND SLAM - 2026 MLB Topps NOW�� - Card 94 PRE-SALE",
+    "name": "Munetaka Murakami (RC) GRAND SLAM - 2026 MLB Topps NOW® - Card 94 PRE-SALE",
     "price": 8.46,
     "image": "https://i.ebayimg.com/images/g/tHwAAeSw8iBp4-JL/s-l300.png",
     "url": "https://www.ebay.com/itm/168316913287",
@@ -38665,7 +38665,7 @@ window.products = [
   },
   {
     "id": 3223,
-    "name": "Sal Stewart (RC) - 2026 MLB Topps NOW�� - Card 84 ROOKIE PRE-SALE",
+    "name": "Sal Stewart (RC) - 2026 MLB Topps NOW® - Card 84 ROOKIE PRE-SALE",
     "price": 8.75,
     "image": "https://i.ebayimg.com/images/g/LxYAAeSw3Hxp4BSF/s-l300.png",
     "url": "https://www.ebay.com/itm/168311280937",
