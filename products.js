@@ -9613,7 +9613,7 @@ window.products = [
   },
   {
     "id": 802,
-    "name": "Sal Stewart (RC) - 2026 MLB Living Set® - Card 922 Rookie PRE-SALE",
+    "name": "Sal Stewart (RC) - 2026 MLB Living Set�� - Card 922 Rookie PRE-SALE",
     "price": 5.99,
     "image": "https://i.ebayimg.com/images/g/wBoAAeSwE2Fp7qUv/s-l300.png",
     "url": "https://www.ebay.com/itm/168334535510",
@@ -30049,7 +30049,7 @@ window.products = [
   },
   {
     "id": 2505,
-    "name": "12/25* Parallel Oneil Cruz - 2025 MLB Topps NOW® - Card 206 Pittsburg Pirates",
+    "name": "12/25* Parallel Oneil Cruz - 2025 MLB Topps NOW�� - Card 206 Pittsburg Pirates",
     "price": 9,
     "image": "https://i.ebayimg.com/images/g/VUwAAOSwv8xoTJnK/s-l300.png",
     "url": "https://www.ebay.com/itm/168317262669",
