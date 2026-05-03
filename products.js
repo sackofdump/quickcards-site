@@ -81949,7 +81949,7 @@ window.products = [
   },
   {
     "id": 6830,
-    "name": "José Ram��rez - 2025 Topps Chrome Baseball All Etch CAE-20 Cleveland Guardians",
+    "name": "José Ramírez - 2025 Topps Chrome Baseball All Etch CAE-20 Cleveland Guardians",
     "price": 2.99,
     "image": "https://i.ebayimg.com/images/g/k2gAAeSw3MBosKnU/s-l300.jpg",
     "url": "https://www.ebay.com/itm/167750521945",
