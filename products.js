@@ -61081,7 +61081,7 @@ window.products = [
   },
   {
     "id": 5091,
-    "name": "Elly De La Cruz Lore - 2025 MLB Topps NOW�� - Card 208 Cincinatti Reds *IN HAND*",
+    "name": "Elly De La Cruz Lore - 2025 MLB Topps NOW® - Card 208 Cincinatti Reds *IN HAND*",
     "price": 3,
     "image": "https://i.ebayimg.com/images/g/YnYAAOSw5ChoMnPh/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168245580526",
@@ -69117,7 +69117,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 0
   },
   {
     "id": 5761,
