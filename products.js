@@ -75277,7 +75277,7 @@ window.products = [
   },
   {
     "id": 6274,
-    "name": "#275 Luisangel Acuña - 2026 Topps Series 1 - Base Card - MLB Baseball",
+    "name": "#275 Luisangel Acu��a - 2026 Topps Series 1 - Base Card - MLB Baseball",
     "price": 2.49,
     "image": "https://i.ebayimg.com/images/g/ZWwAAeSw0eVpknTh/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168162456241",
