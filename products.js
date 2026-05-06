@@ -15241,7 +15241,7 @@ window.products = [
   },
   {
     "id": 1271,
-    "name": "Sal Stewart (RC) - 2026 MLB Topps NOW�� - Card 125 Rookie PRE-SALE",
+    "name": "Sal Stewart (RC) - 2026 MLB Topps NOW® - Card 125 Rookie PRE-SALE",
     "price": 5.54,
     "image": "https://i.ebayimg.com/images/g/BckAAeSwPmNp7nOy/s-l300.png",
     "url": "https://www.ebay.com/itm/168334469567",
@@ -37021,7 +37021,7 @@ window.products = [
   },
   {
     "id": 3086,
-    "name": "Addison Barger - 1st Ever Pinch GS - 2025 MLB Topps NOW® - Card 897",
+    "name": "Addison Barger - 1st Ever Pinch GS - 2025 MLB Topps NOW�� - Card 897",
     "price": 5,
     "image": "https://i.ebayimg.com/images/g/HkIAAeSwIrFo~Sw1/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168313526854",
@@ -70609,7 +70609,7 @@ window.products = [
   },
   {
     "id": 5885,
-    "name": "Kyle Schwarber - 2026 World Baseball Classic Topps NOW® - Card 14 IN HAND",
+    "name": "Kyle Schwarber - 2026 World Baseball Classic Topps NOW�� - Card 14 IN HAND",
     "price": 7,
     "image": "https://i.ebayimg.com/images/g/FlUAAeSwDfVpry15/s-l300.png",
     "url": "https://www.ebay.com/itm/168218677547",
