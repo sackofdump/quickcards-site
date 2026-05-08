@@ -11785,7 +11785,7 @@ window.products = [
   },
   {
     "id": 983,
-    "name": "Travis Bazzana (RC)  - 2026 MLB Topps NOW® - Card 153 Rookie PRE-SALE",
+    "name": "Travis Bazzana (RC)  - 2026 MLB Topps NOW�� - Card 153 Rookie PRE-SALE",
     "price": 7.87,
     "image": "https://i.ebayimg.com/images/g/G7IAAeSwZLVp-NNJ/s-l300.png",
     "url": "https://www.ebay.com/itm/168353061700",
@@ -25213,7 +25213,7 @@ window.products = [
   },
   {
     "id": 2102,
-    "name": "Kyle Harrison Career High 12Ks - 2026 MLB Topps NOW® - Card 128 Brewers PRE-SALE",
+    "name": "Kyle Harrison Career High 12Ks - 2026 MLB Topps NOW�� - Card 128 Brewers PRE-SALE",
     "price": 9.47,
     "image": "https://i.ebayimg.com/images/g/6PEAAeSwO6Vp8AbK/s-l300.png",
     "url": "https://www.ebay.com/itm/168336781709",
@@ -33949,7 +33949,7 @@ window.products = [
   },
   {
     "id": 2830,
-    "name": "Fernando Mendoza  (RC) DRAFT Raiders - 2026 NFL Topps NOW® - Card FMEN PRE-SALE",
+    "name": "Fernando Mendoza  (RC) DRAFT Raiders - 2026 NFL Topps NOW�� - Card FMEN PRE-SALE",
     "price": 6.73,
     "image": "https://i.ebayimg.com/images/g/5p4AAeSwZoxp66kj/s-l300.png",
     "url": "https://www.ebay.com/itm/168330240521",
