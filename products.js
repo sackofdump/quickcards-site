@@ -14,7 +14,7 @@ window.products = [
   {
     "id": 2,
     "name": "Jacob Misiorowski (RC) Miz - 103MPH+ 2026 MLB Topps NOW® - Card 178 PRE-SALE",
-    "price": 5.74,
+    "price": 6.46,
     "image": "https://i.ebayimg.com/images/g/ew0AAeSwhIJp~4Xc/s-l300.png",
     "url": "https://www.ebay.com/itm/168364484583",
     "category": "topps-now",
@@ -2193,7 +2193,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": true,
-    "stock": 1
+    "stock": 0
   },
   {
     "id": 184,
@@ -4257,7 +4257,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 8
+    "stock": 7
   },
   {
     "id": 356,
@@ -32138,7 +32138,7 @@ window.products = [
   {
     "id": 2679,
     "name": "2024 Absolute Football Cards Panini Kaboom YOU PICK THE CARD!",
-    "price": 0.99,
+    "price": 0,
     "image": "https://i.ebayimg.com/images/g/M9gAAeSwoGBopBC~/s-l300.jpg",
     "url": "https://www.ebay.com/itm/167729080672",
     "category": "football",
@@ -34046,7 +34046,7 @@ window.products = [
   {
     "id": 2838,
     "name": "3D Printed MINI Flower Pot with Drainage and Removable Saucer Plate 4\" x 4\" x 4\"",
-    "price": 8.99,
+    "price": 0,
     "image": "https://i.ebayimg.com/images/g/kEcAAOSw6SJoG~OS/s-l300.png",
     "url": "https://www.ebay.com/itm/167500701022",
     "category": "other",
@@ -43610,7 +43610,7 @@ window.products = [
   {
     "id": 3635,
     "name": "2 FOOT Flexible Snake! CHOOSE COLOR - 3D Printed Fun Fidget Toy Sensory For Kids",
-    "price": 19,
+    "price": 0,
     "image": "https://i.ebayimg.com/images/g/7YgAAOSwc~NmuQXY/s-l300.jpg",
     "url": "https://www.ebay.com/itm/166914335627",
     "category": "other",
@@ -47486,7 +47486,7 @@ window.products = [
   {
     "id": 3958,
     "name": "PICK YOUR GHOST HALLOWEEN PIN! BROOCH SCARY BOO COLLECTIBLE KIDS ADULTS",
-    "price": 2.89,
+    "price": 0,
     "image": "https://i.ebayimg.com/images/g/eloAAOSwdWtk2mVT/s-l300.png",
     "url": "https://www.ebay.com/itm/166319611724",
     "category": "pins",
@@ -47498,7 +47498,7 @@ window.products = [
   {
     "id": 3959,
     "name": "PICK YOUR TOOTH PIN! PERFECT GIFT FOR DENTISTS PINS JEWELRY FASHION BROOCH,",
-    "price": 2.89,
+    "price": 0,
     "image": "https://i.ebayimg.com/images/g/jpIAAOSwnUhk2mG8/s-l300.png",
     "url": "https://www.ebay.com/itm/166319611722",
     "category": "pins",
@@ -47846,7 +47846,7 @@ window.products = [
   {
     "id": 3988,
     "name": "PICK YOUR TOOTH PIN! PERFECT GIFT FOR DENTISTS PINS JEWELRY FASHION BROOCH",
-    "price": 4.99,
+    "price": 0,
     "image": "https://i.ebayimg.com/images/g/jpIAAOSwnUhk2mG8/s-l300.png",
     "url": "https://www.ebay.com/itm/166286941302",
     "category": "pins",
@@ -48170,7 +48170,7 @@ window.products = [
   {
     "id": 4015,
     "name": "CHOOSE YOUR COLOR!  BREAST CANCER AWARNESS PINS - COLLECTIBLE PERFECT GIFT,",
-    "price": 8.09,
+    "price": 0,
     "image": "https://i.ebayimg.com/images/g/vaYAAOSw7K9k2maz/s-l300.png",
     "url": "https://www.ebay.com/itm/166286939065",
     "category": "pins",
@@ -48182,7 +48182,7 @@ window.products = [
   {
     "id": 4016,
     "name": "PICK YOUR GHOST HALLOWEEN PIN! BROOCH SCARY BOO COLLECTIBLE KIDS ADULTS",
-    "price": 7.69,
+    "price": 0,
     "image": "https://i.ebayimg.com/images/g/eloAAOSwdWtk2mVT/s-l300.png",
     "url": "https://www.ebay.com/itm/166286939063",
     "category": "pins",
@@ -48194,7 +48194,7 @@ window.products = [
   {
     "id": 4017,
     "name": "PICK YOUR COLOR!  DOCTOR STETHOSCOPE - PINS JEWELRY PERFECT GIFT FOR DOCTORS,",
-    "price": 7.69,
+    "price": 0,
     "image": "https://i.ebayimg.com/images/g/GsQAAOSwzdZk2lqH/s-l300.png",
     "url": "https://www.ebay.com/itm/166286939059",
     "category": "pins",
