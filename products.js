@@ -1437,7 +1437,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 15
+    "stock": 14
   },
   {
     "id": 121,
@@ -2666,7 +2666,7 @@ window.products = [
   {
     "id": 223,
     "name": "Cooper Flagg (RC) #HS-3 Hobby Stars - 2025/26 Topps Bowman Basketball - NBA Card",
-    "price": 20,
+    "price": 18,
     "image": "https://i.ebayimg.com/images/g/picAAeSwI-5p829d/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168343205690",
     "category": "basketball",
@@ -8798,7 +8798,7 @@ window.products = [
   {
     "id": 734,
     "name": "Pokemon Vintage Holo Sticker Porygon No.166 1998 Made in Japan Amada LP/MP  *BTX",
-    "price": 20,
+    "price": 18,
     "image": "https://i.ebayimg.com/images/g/~w8AAeSwQZxpgrUn/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168315039214",
     "category": "stickers",
@@ -15285,7 +15285,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 0
   },
   {
     "id": 1275,
@@ -18129,7 +18129,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 0
   },
   {
     "id": 1512,
@@ -18561,7 +18561,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 6
+    "stock": 5
   },
   {
     "id": 1548,
@@ -19317,7 +19317,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 4
+    "stock": 3
   },
   {
     "id": 1611,
@@ -28761,7 +28761,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 0
   },
   {
     "id": 2398,
