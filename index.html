@@ -232,6 +232,11 @@
         <span class="cart-total-label">// TOTAL</span>
         <span class="cart-total-value" id="cartTotal">$0.00</span>
       </div>
+      <div class="cart-coupon">
+        <input type="text" id="couponInput" class="coupon-input" placeholder="coupon code" autocomplete="off" spellcheck="false">
+        <button id="couponApply" class="coupon-apply" type="button">apply</button>
+      </div>
+      <div id="couponStatus" class="coupon-status" style="display:none"></div>
       <button class="btn-checkout" id="checkoutBtn">&gt; checkout.init()</button>
       <button class="btn-continue-shopping" onclick="closeCart()">&gt; continue.shopping()</button>
       <p class="cart-secure">

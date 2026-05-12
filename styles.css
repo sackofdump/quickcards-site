@@ -1698,6 +1698,62 @@ input, select { font-family: inherit; }
   letter-spacing: 1px;
 }
 
+.cart-coupon {
+  display: flex;
+  gap: 6px;
+  margin-bottom: 8px;
+}
+.coupon-input {
+  flex: 1;
+  padding: 9px 10px;
+  background: rgba(255,255,255,0.04);
+  border: 1px solid var(--card-border);
+  border-radius: var(--radius-sm);
+  color: var(--white);
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 0.78rem;
+  letter-spacing: 1px;
+  outline: none;
+  transition: var(--transition);
+}
+.coupon-input:focus {
+  border-color: rgba(33, 150, 243, 0.6);
+  background: rgba(255,255,255,0.06);
+}
+.coupon-input:disabled {
+  opacity: 0.7;
+  cursor: not-allowed;
+}
+.coupon-apply {
+  padding: 9px 14px;
+  background: rgba(255,255,255,0.06);
+  border: 1px solid var(--card-border);
+  border-radius: var(--radius-sm);
+  color: var(--white);
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 0.75rem;
+  font-weight: 600;
+  cursor: pointer;
+  transition: var(--transition);
+  letter-spacing: 1px;
+}
+.coupon-apply:hover { background: rgba(255,255,255,0.1); }
+.coupon-apply.applied {
+  background: rgba(40, 201, 64, 0.12);
+  border-color: rgba(40, 201, 64, 0.4);
+  color: #28c940;
+}
+.coupon-status {
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 0.7rem;
+  letter-spacing: 1px;
+  margin-bottom: 10px;
+  padding: 6px 8px;
+  border-radius: var(--radius-sm);
+}
+.coupon-status-ok { color: #28c940; background: rgba(40, 201, 64, 0.08); }
+.coupon-status-err { color: #ff5252; background: rgba(255, 82, 82, 0.08); }
+
 /* Add-to-cart button on product cards */
 .btn-cart {
   flex: 1;
