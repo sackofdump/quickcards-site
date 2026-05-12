@@ -1,23 +1,16 @@
 const stripe = require('stripe')(process.env.STRIPE_SECRET_KEY);
 
-const FREE_SHIPPING_COUPON = (process.env.FREE_SHIPPING_COUPON || 'QCESHIPFREE').toUpperCase();
-
 exports.handler = async (event) => {
   if (event.httpMethod !== 'POST') {
     return { statusCode: 405, body: 'Method Not Allowed' };
   }
 
-  let payload;
+  let items;
   try {
-    payload = JSON.parse(event.body);
+    items = JSON.parse(event.body);
   } catch {
     return { statusCode: 400, body: 'Invalid JSON' };
   }
-
-  // Accept either the legacy raw-array shape or { items, coupon }
-  const items = Array.isArray(payload) ? payload : payload && payload.items;
-  const couponRaw = Array.isArray(payload) ? '' : (payload && payload.coupon) || '';
-  const couponValid = String(couponRaw).trim().toUpperCase() === FREE_SHIPPING_COUPON;
 
   if (!Array.isArray(items) || items.length === 0) {
     return { statusCode: 400, body: 'Cart is empty' };
@@ -39,7 +32,7 @@ exports.handler = async (event) => {
     quantity: item.quantity || 1,
   }));
 
-  const shipping_options = (couponValid || subtotal >= 25)
+  const shipping_options = subtotal >= 25
     ? [
         {
           shipping_rate_data: {

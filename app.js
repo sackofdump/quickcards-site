@@ -21,9 +21,6 @@ products.forEach(p => {
   if (PRICE_OVERRIDES[p.id] !== undefined) p.price = PRICE_OVERRIDES[p.id];
 });
 
-// Free-shipping coupon (private — keep out of public marketing copy).
-const FREE_SHIPPING_COUPON = 'QCESHIPFREE';
-
 // ---- State ----
 let currentCategory = 'all';
 let activeNodeId = 'all';
@@ -715,7 +712,6 @@ window.scrollTo(0, 0);
    ============================================ */
 
 const CART_KEY = 'qc_cart';
-const COUPON_KEY = 'qc_coupon';
 
 function getCart() {
   try { return JSON.parse(localStorage.getItem(CART_KEY)) || []; }
@@ -724,19 +720,6 @@ function getCart() {
 
 function saveCart(cart) {
   localStorage.setItem(CART_KEY, JSON.stringify(cart));
-}
-
-function getCoupon() {
-  return localStorage.getItem(COUPON_KEY) || '';
-}
-
-function setCoupon(code) {
-  if (code) localStorage.setItem(COUPON_KEY, code);
-  else localStorage.removeItem(COUPON_KEY);
-}
-
-function isFreeShippingCoupon(code) {
-  return (code || '').trim().toUpperCase() === FREE_SHIPPING_COUPON.toUpperCase();
 }
 
 function showStockError(productId, stock) {
@@ -859,10 +842,7 @@ function renderCartItems() {
     promoEl.className = 'cart-shipping-promo';
     footer.insertBefore(promoEl, footer.firstChild);
   }
-  const couponActive = isFreeShippingCoupon(getCoupon());
-  if (couponActive) {
-    promoEl.innerHTML = `<span class="promo-unlocked">✓ Free shipping coupon applied</span>`;
-  } else if (subtotal >= 25) {
+  if (subtotal >= 25) {
     promoEl.innerHTML = `<span class="promo-unlocked">✓ Free shipping unlocked!</span>`;
   } else {
     const remaining = (25 - subtotal).toFixed(2);
@@ -870,30 +850,6 @@ function renderCartItems() {
     promoEl.innerHTML = `
       <span class="promo-msg">Add <strong>$${remaining}</strong> more for free shipping</span>
       <div class="promo-bar-track"><div class="promo-bar-fill" style="width:${pct}%"></div></div>`;
-  }
-
-  updateCouponUI();
-}
-
-function updateCouponUI() {
-  const input = document.getElementById('couponInput');
-  const applyBtn = document.getElementById('couponApply');
-  const status = document.getElementById('couponStatus');
-  if (!input || !applyBtn || !status) return;
-  const stored = getCoupon();
-  if (stored && isFreeShippingCoupon(stored)) {
-    input.value = stored;
-    input.disabled = true;
-    applyBtn.textContent = 'remove';
-    applyBtn.classList.add('applied');
-    status.style.display = 'block';
-    status.className = 'coupon-status coupon-status-ok';
-    status.textContent = '✓ free shipping applied at checkout';
-  } else {
-    input.disabled = false;
-    applyBtn.textContent = 'apply';
-    applyBtn.classList.remove('applied');
-    if (!status.dataset.error) status.style.display = 'none';
   }
 }
 
@@ -943,54 +899,6 @@ window.closeCart = closeCart;
 document.getElementById('cartClose').addEventListener('click', closeCart);
 document.getElementById('cartOverlay').addEventListener('click', closeCart);
 
-// ---- Coupon apply / remove ----
-const couponApplyBtn = document.getElementById('couponApply');
-const couponInputEl = document.getElementById('couponInput');
-const couponStatusEl = document.getElementById('couponStatus');
-
-function showCouponError(msg) {
-  if (!couponStatusEl) return;
-  couponStatusEl.style.display = 'block';
-  couponStatusEl.className = 'coupon-status coupon-status-err';
-  couponStatusEl.textContent = msg;
-  couponStatusEl.dataset.error = '1';
-}
-
-function clearCouponError() {
-  if (!couponStatusEl) return;
-  delete couponStatusEl.dataset.error;
-  couponStatusEl.style.display = 'none';
-}
-
-if (couponApplyBtn && couponInputEl) {
-  couponApplyBtn.addEventListener('click', () => {
-    if (isFreeShippingCoupon(getCoupon())) {
-      // Already applied → remove
-      setCoupon('');
-      clearCouponError();
-      couponInputEl.value = '';
-      renderCartItems();
-      return;
-    }
-    const code = couponInputEl.value.trim();
-    if (!code) {
-      showCouponError('enter a code');
-      return;
-    }
-    if (isFreeShippingCoupon(code)) {
-      setCoupon(code.toUpperCase());
-      clearCouponError();
-      renderCartItems();
-    } else {
-      showCouponError('invalid code');
-    }
-  });
-  couponInputEl.addEventListener('input', clearCouponError);
-  couponInputEl.addEventListener('keydown', (e) => {
-    if (e.key === 'Enter') { e.preventDefault(); couponApplyBtn.click(); }
-  });
-}
-
 // ---- Checkout ----
 document.getElementById('checkoutBtn').addEventListener('click', async () => {
   const cart = getCart();
@@ -1004,15 +912,12 @@ document.getElementById('checkoutBtn').addEventListener('click', async () => {
     const res = await fetch('/.netlify/functions/create-checkout', {
       method: 'POST',
       headers: { 'Content-Type': 'application/json' },
-      body: JSON.stringify({
-        items: cart.map(i => ({
-          name: i.name,
-          price: i.price,
-          image: i.image,
-          quantity: i.quantity,
-        })),
-        coupon: getCoupon() || null,
-      }),
+      body: JSON.stringify(cart.map(i => ({
+        name: i.name,
+        price: i.price,
+        image: i.image,
+        quantity: i.quantity,
+      }))),
     });
 
     const data = await res.json();
@@ -1046,4 +951,3 @@ document.getElementById('checkoutBtn').addEventListener('click', async () => {
 
 // ---- Init cart state ----
 updateCartBadge();
-updateCouponUI();
