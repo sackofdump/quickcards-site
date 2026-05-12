@@ -14,14 +14,14 @@ window.products = [
   {
     "id": 2,
     "name": "Brice Turang - WALK OFF HR SWEEP YANKEES 2026 MLB Topps NOW® - Card 187 PRE-SALE",
-    "price": 4.75,
+    "price": 4.44,
     "image": "https://i.ebayimg.com/images/g/iOYAAeSwHpNqAhRq/s-l300.png",
     "url": "https://www.ebay.com/itm/168368341226",
     "category": "topps-now",
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 16
+    "stock": 15
   },
   {
     "id": 3,
@@ -1437,7 +1437,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": true,
-    "stock": 2
+    "stock": 1
   },
   {
     "id": 121,
@@ -3237,7 +3237,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": true,
-    "stock": 1
+    "stock": 0
   },
   {
     "id": 271,
@@ -13245,7 +13245,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 0
   },
   {
     "id": 1105,
@@ -34257,7 +34257,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 17
+    "stock": 16
   },
   {
     "id": 2856,
