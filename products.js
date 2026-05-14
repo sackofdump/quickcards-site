@@ -38,14 +38,14 @@ window.products = [
   {
     "id": 4,
     "name": "Jacob Misiorowski (RC) Miz - 103MPH+ 2026 MLB Topps NOW® - Card 178 PRE-SALE",
-    "price": 6.46,
+    "price": 7.97,
     "image": "https://i.ebayimg.com/images/g/ew0AAeSwhIJp~4Xc/s-l300.png",
     "url": "https://www.ebay.com/itm/168364484583",
     "category": "topps-now",
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 15
+    "stock": 14
   },
   {
     "id": 5,
@@ -4257,7 +4257,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 3
+    "stock": 2
   },
   {
     "id": 356,
@@ -12710,7 +12710,7 @@ window.products = [
   {
     "id": 1060,
     "name": "Jacob Misiorowski (RC) 11K OPENING DAY - 2026 MLB Topps NOW®  Card 4 IN-HAND",
-    "price": 8.74,
+    "price": 9.97,
     "image": "https://i.ebayimg.com/images/g/CGkAAeSw7Axpx3H~/s-l300.png",
     "url": "https://www.ebay.com/itm/168268429716",
     "category": "topps-now",
@@ -19305,7 +19305,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 3
+    "stock": 0
   },
   {
     "id": 1610,
@@ -19353,7 +19353,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 5
+    "stock": 0
   },
   {
     "id": 1614,
@@ -19442,7 +19442,7 @@ window.products = [
   {
     "id": 1621,
     "name": "Jacob Misiorowski - 12 K's Vs Kershaw 2025 MLB Topps NOW® - Card 402",
-    "price": 6,
+    "price": 7.97,
     "image": "https://i.ebayimg.com/images/g/pHcAAeSwC-5obsOd/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168245355646",
     "category": "topps-now",
@@ -19454,7 +19454,7 @@ window.products = [
   {
     "id": 1622,
     "name": "Jacob Misiorowski - 2025 MLB Topps NOW® - Card 349 Skenes Brewers",
-    "price": 6,
+    "price": 7.97,
     "image": "https://i.ebayimg.com/images/g/KXAAAOSwi~xoXZgD/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168245348164",
     "category": "topps-now",
@@ -43065,7 +43065,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": true,
-    "stock": 6
+    "stock": 5
   },
   {
     "id": 3590,
