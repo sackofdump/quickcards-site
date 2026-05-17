@@ -53845,7 +53845,7 @@ window.products = [
   },
   {
     "id": 4488,
-    "name": "MINT Pok��mon TCG Galarian Articuno Evolving Skies 063/203 Holo Holo Rare",
+    "name": "MINT Pokémon TCG Galarian Articuno Evolving Skies 063/203 Holo Holo Rare",
     "price": 1.84,
     "image": "https://i.ebayimg.com/images/g/XBMAAOSw5uBjw1I5/s-l300.jpg",
     "url": "https://www.ebay.com/itm/165886598938",
