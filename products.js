@@ -9,7 +9,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 17
+    "stock": 11
   },
   {
     "id": 2,
@@ -158,7 +158,7 @@ window.products = [
   {
     "id": 14,
     "name": "Adou Thiero (RC) #BRR-36 REFRACTOR - 2025/26 Topps Bowman Basketball - NBA Card",
-    "price": 5,
+    "price": 4.75,
     "image": "https://i.ebayimg.com/images/g/BJ4AAeSwPaJp83GD/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168381208765",
     "category": "basketball",
@@ -278,7 +278,7 @@ window.products = [
   {
     "id": 24,
     "name": "Jasper Johnson #14 DMG* - 2025/26 Topps Bowman U Best Basketball NCAA",
-    "price": 5,
+    "price": 4.75,
     "image": "https://i.ebayimg.com/images/g/b7sAAeSwwatqCWFT/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168381163730",
     "category": "basketball",
@@ -1809,7 +1809,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 0
   },
   {
     "id": 152,
@@ -8553,7 +8553,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 0
   },
   {
     "id": 714,
@@ -33801,7 +33801,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 0
   },
   {
     "id": 2818,
@@ -48405,7 +48405,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 14
+    "stock": 13
   },
   {
     "id": 4035,
