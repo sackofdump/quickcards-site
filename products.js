@@ -3962,14 +3962,14 @@ window.products = [
   {
     "id": 331,
     "name": "Colt Emerson (CALL UP) 1st MLB HIT 3HR - 2026 MLB Topps NOW® - Card 219 PRE-SALE",
-    "price": 6.87,
+    "price": 6.94,
     "image": "https://i.ebayimg.com/images/g/UY4AAeSwo4BqDMKD/s-l300.png",
     "url": "https://www.ebay.com/itm/168386962228",
     "category": "topps-now",
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 17
+    "stock": 12
   },
   {
     "id": 332,
@@ -52881,7 +52881,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 3
+    "stock": 2
   },
   {
     "id": 4408,
