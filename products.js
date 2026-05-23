@@ -33649,7 +33649,7 @@ window.products = [
   },
   {
     "id": 2805,
-    "name": "Los Angeles Dodgers - 2024 MLB Topps NOW® Card 861 World Series Berth",
+    "name": "Los Angeles Dodgers - 2024 MLB Topps NOW�� Card 861 World Series Berth",
     "price": 6,
     "image": "https://i.ebayimg.com/images/g/KKAAAOSwa8lnFtNA/s-l300.png",
     "url": "https://www.ebay.com/itm/168245202277",
