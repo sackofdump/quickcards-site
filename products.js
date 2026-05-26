@@ -494,14 +494,14 @@ window.products = [
   {
     "id": 42,
     "name": "Bryan Torres (CALL UP MLB DEBUT) - 2026 MLB Topps NOW® - Card 234 PRE-SALE",
-    "price": 5.64,
+    "price": 7.64,
     "image": "https://i.ebayimg.com/images/g/n9QAAeSwtK1qE0Yz/s-l300.png",
     "url": "https://www.ebay.com/itm/168399923810",
     "category": "topps-now",
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 10
+    "stock": 3
   },
   {
     "id": 43,
@@ -24729,7 +24729,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": true,
-    "stock": 1
+    "stock": 0
   },
   {
     "id": 2062,
