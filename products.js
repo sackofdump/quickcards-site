@@ -69,19 +69,19 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 14
+    "stock": 8
   },
   {
     "id": 7,
     "name": "Rikuu Nishida (CALL UP) MLB DEBUT - 2026 MLB Topps NOW® - Card 243 PRE-SALE",
-    "price": 5.44,
+    "price": 5.47,
     "image": "https://i.ebayimg.com/images/g/j0EAAeSwyk1qFhAC/s-l300.png",
     "url": "https://www.ebay.com/itm/168405583356",
     "category": "topps-now",
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 14
+    "stock": 6
   },
   {
     "id": 8,
@@ -105,7 +105,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 10
+    "stock": 9
   },
   {
     "id": 10,
@@ -117,7 +117,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 20
+    "stock": 19
   },
   {
     "id": 11,
@@ -1365,7 +1365,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": true,
-    "stock": 1
+    "stock": 0
   },
   {
     "id": 115,
@@ -11961,7 +11961,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 10
+    "stock": 9
   },
   {
     "id": 998,
