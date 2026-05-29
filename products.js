@@ -9,7 +9,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 11
+    "stock": 10
   },
   {
     "id": 2,
@@ -21,19 +21,19 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 11
+    "stock": 9
   },
   {
     "id": 3,
     "name": "Munetaka Murakami (RC) 20HRs Rookie - 2026 MLB Topps NOW® - Card 257 PRE-SALE",
-    "price": 6.87,
+    "price": 7.87,
     "image": "https://i.ebayimg.com/images/g/cqMAAeSw8fpqGMpb/s-l300.png",
     "url": "https://www.ebay.com/itm/168411307552",
     "category": "topps-now",
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 4
+    "stock": 2
   },
   {
     "id": 4,
@@ -182,7 +182,7 @@ window.products = [
   {
     "id": 16,
     "name": "6/10* BLACK - Sal Stewart (RC) #84 PARALLEL - Topps Now 2026 MLB Baseball",
-    "price": 595,
+    "price": 450,
     "image": "https://i.ebayimg.com/images/g/B5sAAeSwyQtqGExU/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168410294706",
     "category": "topps-now",
@@ -242,7 +242,7 @@ window.products = [
   {
     "id": 21,
     "name": "Everton FC Official Maisie Teddy Bear with Club Crest and Scarf",
-    "price": 39,
+    "price": 35,
     "image": "https://i.ebayimg.com/images/g/PKEAAeSwyJ5qF3Yb/s-l300.png",
     "url": "https://www.ebay.com/itm/168408575335",
     "category": "other",
@@ -362,7 +362,7 @@ window.products = [
   {
     "id": 31,
     "name": "25/25* Sal Stewart (RC) #84 PARALLEL - Topps Now 2026 MLB Baseball",
-    "price": 250,
+    "price": 199,
     "image": "https://i.ebayimg.com/images/g/irIAAeSwQIpqFita/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168405786954",
     "category": "topps-now",
@@ -374,7 +374,7 @@ window.products = [
   {
     "id": 32,
     "name": "06/25* Sal Stewart (RC) #84 PARALLEL - Topps Now 2026 MLB Baseball",
-    "price": 249,
+    "price": 199,
     "image": "https://i.ebayimg.com/images/g/cdwAAeSwSQRqFirY/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168405785867",
     "category": "topps-now",
@@ -854,7 +854,7 @@ window.products = [
   {
     "id": 72,
     "name": "/75* AUTO RELIC Sebastian Wilkins #GG-SW 2025/26 Topps Bowman U Best Basketball",
-    "price": 69,
+    "price": 55,
     "image": "https://i.ebayimg.com/images/g/ZkMAAeSwdYJqClD3/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168400461885",
     "category": "basketball",
@@ -974,7 +974,7 @@ window.products = [
   {
     "id": 82,
     "name": "/25* AUTO RELIC Kohl Rosario #PDA-KR - 2025/26 Topps Bowman U Best Basketball",
-    "price": 99,
+    "price": 85,
     "image": "https://i.ebayimg.com/images/g/4-UAAeSwdJBqCWLe/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168399364749",
     "category": "basketball",
@@ -3566,7 +3566,7 @@ window.products = [
   {
     "id": 298,
     "name": "/50* Alex Caruso #24 PARALLEL - 2025/26 Topps NBA HOOPS Basketball Card",
-    "price": 40,
+    "price": 34,
     "image": "https://i.ebayimg.com/images/g/HcwAAeSwu-dqEGMZ/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168394277112",
     "category": "basketball",
@@ -5090,7 +5090,7 @@ window.products = [
   {
     "id": 425,
     "name": "Nolan McLean (RC) RED #85 REFRACTOR - 2026 Topps Bowman Baseball MLB",
-    "price": 35,
+    "price": 29,
     "image": "https://i.ebayimg.com/images/g/-2sAAeSw10RqBdRa/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168391951004",
     "category": "baseball",
@@ -5114,7 +5114,7 @@ window.products = [
   {
     "id": 427,
     "name": "AUTO Jack Wheeler #CPA-JWH - 2026 Topps Bowman Baseball MLB",
-    "price": 35,
+    "price": 29,
     "image": "https://i.ebayimg.com/images/g/VJMAAeSw8fBqBdWt/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168391951001",
     "category": "baseball",
@@ -6170,7 +6170,7 @@ window.products = [
   {
     "id": 515,
     "name": "Donald Dump #7a - Garbage Pail Kids Cards TCG #B",
-    "price": 50,
+    "price": 40,
     "image": "https://i.ebayimg.com/images/g/lQ0AAeSwNw1qDU6E/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168387963118",
     "category": "other",
@@ -7334,7 +7334,7 @@ window.products = [
   {
     "id": 612,
     "name": "SEALED Pokemon Mewtwo Black Star Promo Master The Game WOTC 14 2000",
-    "price": 132.94,
+    "price": 105,
     "image": "https://i.ebayimg.com/images/g/Ru8AAeSwB3FqDSX2/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168387721619",
     "category": "pokemon",
@@ -7766,7 +7766,7 @@ window.products = [
   {
     "id": 648,
     "name": "PSA 8 2000 Topps Pokemon TV Oversized Tin Topper Pikachu &amp; Others #1",
-    "price": 205,
+    "price": 202.95,
     "image": "https://i.ebayimg.com/images/g/fI4AAeSwtZBqDQZ8/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168387440713",
     "category": "graded",
@@ -7778,7 +7778,7 @@ window.products = [
   {
     "id": 649,
     "name": "PSA 8 1999 TOPPS POKEMON TV ANIMATION SERIES 1 OVERSIZED TIN TOPPERS #2 SQUIRTLE",
-    "price": 305,
+    "price": 301.95,
     "image": "https://i.ebayimg.com/images/g/DFUAAeSwbHFqDQYP/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168387437084",
     "category": "graded",
@@ -7790,7 +7790,7 @@ window.products = [
   {
     "id": 650,
     "name": "2000 Topps Pokemon TV Team Rocket Meowth Oversized Jumbo Tin Topper #3 PSA 8",
-    "price": 225,
+    "price": 222.75,
     "image": "https://i.ebayimg.com/images/g/~ygAAeSw4GNqDQWo/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168387434195",
     "category": "graded",
@@ -7802,7 +7802,7 @@ window.products = [
   {
     "id": 651,
     "name": "Pikachu OVERSIZE 1999 TOPPS Pokemon TV Anime Series 1 Oversized Tin Topper PSA 7",
-    "price": 225,
+    "price": 222.75,
     "image": "https://i.ebayimg.com/images/g/HcMAAeSw-QdqDQVt/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168387431231",
     "category": "graded",
@@ -7814,7 +7814,7 @@ window.products = [
   {
     "id": 652,
     "name": "PSA 5 MEOWTH OVERSIZED 1999 TOPPS POKEMON TV-5 TIN TOPPER GRADED NM-MINT RARE",
-    "price": 125,
+    "price": 123.75,
     "image": "https://i.ebayimg.com/images/g/kwwAAeSwjapqDQUC/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168387423320",
     "category": "graded",
@@ -7826,7 +7826,7 @@ window.products = [
   {
     "id": 653,
     "name": "CHARMANDER  1999 TOPPS POKEMON TV ANIMATION SER 1 OVERSIZED TIN TOPPERS #4 PSA 6",
-    "price": 205,
+    "price": 202.95,
     "image": "https://i.ebayimg.com/images/g/5fkAAeSw7kpqDQSO/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168387415847",
     "category": "graded",
@@ -8582,7 +8582,7 @@ window.products = [
   {
     "id": 716,
     "name": "Germy Jeremy #7b - Garbage Pail Kids Cards TCG #C",
-    "price": 50,
+    "price": 10,
     "image": "https://i.ebayimg.com/images/g/-IcAAeSwu-dqDNwB/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168387129245",
     "category": "other",
@@ -8678,7 +8678,7 @@ window.products = [
   {
     "id": 724,
     "name": "Trashy Ashley #S1a - Garbage Pail Kids Cards TCG",
-    "price": 100,
+    "price": 10,
     "image": "https://i.ebayimg.com/images/g/wMcAAeSwJSpqDNsG/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168387122584",
     "category": "other",
@@ -8918,7 +8918,7 @@ window.products = [
   {
     "id": 744,
     "name": "Germy Jeremy #7b - Garbage Pail Kids Cards TCG #B",
-    "price": 75,
+    "price": 7.5,
     "image": "https://i.ebayimg.com/images/g/O3UAAeSwNw1qDNiO/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168387103576",
     "category": "other",
@@ -9254,7 +9254,7 @@ window.products = [
   {
     "id": 772,
     "name": "Germy Jeremy #7b - Garbage Pail Kids Cards TCG",
-    "price": 100,
+    "price": 10,
     "image": "https://i.ebayimg.com/images/g/-pUAAeSwIGhqDNP6/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168387063210",
     "category": "other",
@@ -10082,7 +10082,7 @@ window.products = [
   {
     "id": 841,
     "name": "CGC 10 Eevee &amp; Snorlax GX 066/095 Pokémon Tag Bolt 2018 Japanese",
-    "price": 85,
+    "price": 79,
     "image": "https://i.ebayimg.com/images/g/OO4AAeSwTpVqDK9F/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168386816710",
     "category": "pokemon",
@@ -10094,7 +10094,7 @@ window.products = [
   {
     "id": 842,
     "name": "CGC 10 Pristine Venusaur &amp; Snivy GX 001/064 RR Remix Bout sm11a Pokemon Card",
-    "price": 54,
+    "price": 45,
     "image": "https://i.ebayimg.com/images/g/qTMAAeSwur5qDK71/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168386815052",
     "category": "pokemon",
@@ -10106,7 +10106,7 @@ window.products = [
   {
     "id": 843,
     "name": "2023 POKEMON MEW EN-151 ILLUSTRATION RARE #181 DRAGONAIR PSA 10 GEM MINT",
-    "price": 294,
+    "price": 275,
     "image": "https://i.ebayimg.com/images/g/zzQAAeSw5spqDK55/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168386813245",
     "category": "graded",
@@ -10118,7 +10118,7 @@ window.products = [
   {
     "id": 844,
     "name": "2019 Pokemon Japanese Sky Legend Moltres Zapdos Articuno Gx #35 CGC 10 PRISTINE",
-    "price": 99,
+    "price": 89,
     "image": "https://i.ebayimg.com/images/g/SD4AAeSwKRRqDK4Z/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168386810010",
     "category": "pokemon",
@@ -10130,7 +10130,7 @@ window.products = [
   {
     "id": 845,
     "name": "(CGC 10 GEM MINT) Charizard ex - 2023 Japanese Pokemonn 115/190 Shiny Treasure",
-    "price": 40,
+    "price": 35,
     "image": "https://i.ebayimg.com/images/g/ljQAAeSwCVRqDK0f/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168386807770",
     "category": "pokemon",
@@ -12458,7 +12458,7 @@ window.products = [
   {
     "id": 1039,
     "name": "AUTO /75* Cori Close #CI-CC - 2025/26 Topps Bowman U Best Basketball NCAA",
-    "price": 675,
+    "price": 500,
     "image": "https://i.ebayimg.com/images/g/Tx8AAeSwBb1qClL2/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168382721491",
     "category": "basketball",
@@ -13886,7 +13886,7 @@ window.products = [
   {
     "id": 1158,
     "name": "/150* AUTO Blaine Bullard #CPA-BB PARALLEL - 2026 Topps Bowman Baseball MLB",
-    "price": 125,
+    "price": 105,
     "image": "https://i.ebayimg.com/images/g/m~wAAeSwkB5qBptH/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168376459341",
     "category": "baseball",
@@ -16250,7 +16250,7 @@ window.products = [
   {
     "id": 1355,
     "name": "Artemis II - USA Moon Mission - 2026 Topps NOW® Card SHORT PRINT #A201-SP #B",
-    "price": 75,
+    "price": 65,
     "image": "https://i.ebayimg.com/images/g/-1oAAeSwr9dp9i9e/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168348338590",
     "category": "topps-now",
@@ -23138,7 +23138,7 @@ window.products = [
   {
     "id": 1929,
     "name": "Porygon Picture B Mini Card Japanese Nintendo Rare Pokemon A207 NM *BTX",
-    "price": 35,
+    "price": 29,
     "image": "https://i.ebayimg.com/images/g/U50AAeSwXlVpgr6x/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168317117226",
     "category": "pokemon",
@@ -23150,7 +23150,7 @@ window.products = [
   {
     "id": 1930,
     "name": "Munetaka Murakami (RC) GRAND SLAM - 2026 MLB Topps NOW® - Card 94 IN HAND",
-    "price": 40,
+    "price": 35,
     "image": "https://i.ebayimg.com/images/g/tHwAAeSw8iBp4-JL/s-l300.png",
     "url": "https://www.ebay.com/itm/168316913287",
     "category": "topps-now",
@@ -23318,7 +23318,7 @@ window.products = [
   {
     "id": 1944,
     "name": "Pokemon Porygon Sticker D203 Level 62 Seal Retsuden Super DX Japan MP *BTX",
-    "price": 35,
+    "price": 25,
     "image": "https://i.ebayimg.com/images/g/FLwAAeSwTOppgrNj/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168310576657",
     "category": "stickers",
@@ -23330,7 +23330,7 @@ window.products = [
   {
     "id": 1945,
     "name": "2005 MERLIN POKEMON ULTIMATE STICKERS| DOTS  Phanpy / Porygon  NM *BTX",
-    "price": 60,
+    "price": 49,
     "image": "https://i.ebayimg.com/images/g/Ox4AAeSwAHhpg5Qt/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168310576655",
     "category": "stickers",
@@ -23402,7 +23402,7 @@ window.products = [
   {
     "id": 1951,
     "name": "Magazine Promo Mini-Card Japanese Diamond &amp; Pearl RARE Evolution NM *BTX",
-    "price": 35,
+    "price": 25,
     "image": "https://i.ebayimg.com/images/g/9BYAAeSweR9pgsux/s-l300.png",
     "url": "https://www.ebay.com/itm/168309219608",
     "category": "pokemon",
@@ -33218,7 +33218,7 @@ window.products = [
   {
     "id": 2769,
     "name": "McDonald's AUTO RELIC /25* Sienna Betts #GP-SB - 2025 Topps Chrome All American",
-    "price": 600,
+    "price": 499,
     "image": "https://i.ebayimg.com/images/g/n8MAAeSwJWxpuf~-/s-l300.png",
     "url": "https://www.ebay.com/itm/168242543072",
     "category": "baseball",
