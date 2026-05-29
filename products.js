@@ -21,7 +21,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 16
+    "stock": 12
   },
   {
     "id": 3,
@@ -33,7 +33,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 19
+    "stock": 8
   },
   {
     "id": 4,
@@ -453,7 +453,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 15
+    "stock": 13
   },
   {
     "id": 39,
@@ -794,7 +794,7 @@ window.products = [
   {
     "id": 67,
     "name": "/99* Dwayne Aristode #17 - 2025/26 Topps Bowman U Best Basketball NCAA",
-    "price": 3.79,
+    "price": 3.99,
     "image": "https://i.ebayimg.com/images/g/eJMAAeSw3w1qClMu/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168400461890",
     "category": "basketball",
@@ -818,7 +818,7 @@ window.products = [
   {
     "id": 69,
     "name": "10/75* Tylis Jordan #8 PARALLEL - 2025/26 Topps Bowman U Best Basketball NCAA",
-    "price": 3.79,
+    "price": 3.99,
     "image": "https://i.ebayimg.com/images/g/TVYAAeSwRZlqCW4l/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168400461888",
     "category": "basketball",
@@ -2102,7 +2102,7 @@ window.products = [
   {
     "id": 176,
     "name": "Jaylen Wells #295 - 2025/26 Topps NBA HOOPS Basketball Card #B",
-    "price": 2.38,
+    "price": 2.5,
     "image": "https://i.ebayimg.com/images/g/S4wAAeSwNF5qEJrD/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168394724522",
     "category": "basketball",
@@ -2114,7 +2114,7 @@ window.products = [
   {
     "id": 177,
     "name": "Anthony Edwards #195 - 2025/26 Topps NBA HOOPS Basketball Card",
-    "price": 2.85,
+    "price": 3,
     "image": "https://i.ebayimg.com/images/g/Wh0AAeSwGqFqEJqt/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168394723912",
     "category": "basketball",
@@ -2126,7 +2126,7 @@ window.products = [
   {
     "id": 178,
     "name": "Victor Wembanyama #289 - 2025/26 Topps NBA HOOPS Basketball Card",
-    "price": 3.8,
+    "price": 4,
     "image": "https://i.ebayimg.com/images/g/ZHQAAeSwo2lqEJqV/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168394723637",
     "category": "basketball",
@@ -2138,7 +2138,7 @@ window.products = [
   {
     "id": 179,
     "name": "P.J. Washington Jr. #189 - 2025/26 Topps NBA HOOPS Basketball Card",
-    "price": 2.85,
+    "price": 3,
     "image": "https://i.ebayimg.com/images/g/i0MAAeSwyFxqEJp7/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168394723108",
     "category": "basketball",
@@ -2150,7 +2150,7 @@ window.products = [
   {
     "id": 180,
     "name": "Evan Mobley #281 - 2025/26 Topps NBA HOOPS Basketball Card",
-    "price": 2.85,
+    "price": 3,
     "image": "https://i.ebayimg.com/images/g/5VAAAeSwZeRqEJpm/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168394722681",
     "category": "basketball",
@@ -2162,7 +2162,7 @@ window.products = [
   {
     "id": 181,
     "name": "Grant Williams #161 - 2025/26 Topps NBA HOOPS Basketball Card",
-    "price": 2.85,
+    "price": 3,
     "image": "https://i.ebayimg.com/images/g/qn4AAeSwrmVqEJpD/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168394721903",
     "category": "basketball",
@@ -2174,7 +2174,7 @@ window.products = [
   {
     "id": 182,
     "name": "Bam Adebayo #37 - 2025/26 Topps NBA HOOPS Basketball Card",
-    "price": 2.85,
+    "price": 3,
     "image": "https://i.ebayimg.com/images/g/0EEAAeSwkXBqEJow/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168394721619",
     "category": "basketball",
@@ -2198,7 +2198,7 @@ window.products = [
   {
     "id": 184,
     "name": "Devin Carter #46 - 2025/26 Topps NBA HOOPS Basketball Card",
-    "price": 2.85,
+    "price": 3,
     "image": "https://i.ebayimg.com/images/g/stoAAeSw5ZZqEJn-/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168394720836",
     "category": "basketball",
@@ -2210,7 +2210,7 @@ window.products = [
   {
     "id": 185,
     "name": "Alex Toohey #129 - 2025/26 Topps NBA HOOPS Basketball Card",
-    "price": 2.85,
+    "price": 3,
     "image": "https://i.ebayimg.com/images/g/iWcAAeSweINqEJnr/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168394720540",
     "category": "basketball",
@@ -2222,7 +2222,7 @@ window.products = [
   {
     "id": 186,
     "name": "Josh Giddey #49 - 2025/26 Topps NBA HOOPS Basketball Card",
-    "price": 2.85,
+    "price": 3,
     "image": "https://i.ebayimg.com/images/g/p0MAAeSwcM9qEJnY/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168394718394",
     "category": "basketball",
@@ -2234,7 +2234,7 @@ window.products = [
   {
     "id": 187,
     "name": "Victor Wembanyama #289 - 2025/26 Topps NBA HOOPS Basketball Card",
-    "price": 3.8,
+    "price": 4,
     "image": "https://i.ebayimg.com/images/g/3YUAAeSwz5hqEJnE/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168394716714",
     "category": "basketball",
@@ -2246,7 +2246,7 @@ window.products = [
   {
     "id": 188,
     "name": "Jonathan Isaac #212 - 2025/26 Topps NBA HOOPS Basketball Card",
-    "price": 2.85,
+    "price": 3,
     "image": "https://i.ebayimg.com/images/g/dMoAAeSwxahqEJmd/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168394715918",
     "category": "basketball",
@@ -2258,7 +2258,7 @@ window.products = [
   {
     "id": 189,
     "name": "Hugo Gonzalez #72 - 2025/26 Topps NBA HOOPS Basketball Card",
-    "price": 2.85,
+    "price": 3,
     "image": "https://i.ebayimg.com/images/g/0MkAAeSwtK1qEJmH/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168394715582",
     "category": "basketball",
@@ -2270,7 +2270,7 @@ window.products = [
   {
     "id": 190,
     "name": "Danny Wolf #246 - 2025/26 Topps NBA HOOPS Basketball Card",
-    "price": 2.85,
+    "price": 3,
     "image": "https://i.ebayimg.com/images/g/y1cAAeSwWi9qEJlz/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168394715344",
     "category": "basketball",
@@ -2282,7 +2282,7 @@ window.products = [
   {
     "id": 191,
     "name": "Rocco Zikarsky #169 - 2025/26 Topps NBA HOOPS Basketball Card",
-    "price": 2.85,
+    "price": 3,
     "image": "https://i.ebayimg.com/images/g/4z8AAeSw~U1qEJlg/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168394715195",
     "category": "basketball",
@@ -2294,7 +2294,7 @@ window.products = [
   {
     "id": 192,
     "name": "Khaman Maluach #66 - 2025/26 Topps NBA HOOPS Basketball Card",
-    "price": 2.85,
+    "price": 3,
     "image": "https://i.ebayimg.com/images/g/PvMAAeSwxYdqEJlL/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168394714959",
     "category": "basketball",
@@ -2306,7 +2306,7 @@ window.products = [
   {
     "id": 193,
     "name": "- 2025/26 Topps NBA HOOPS Basketball Card",
-    "price": 2.85,
+    "price": 3,
     "image": "https://i.ebayimg.com/images/g/x84AAeSw73lqEJk0/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168394714674",
     "category": "basketball",
@@ -2330,7 +2330,7 @@ window.products = [
   {
     "id": 195,
     "name": "Buddy Hield #239 - 2025/26 Topps NBA HOOPS Basketball Card #B",
-    "price": 2.38,
+    "price": 2.5,
     "image": "https://i.ebayimg.com/images/g/nRAAAeSwvnlqEJja/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168394713323",
     "category": "basketball",
@@ -2342,7 +2342,7 @@ window.products = [
   {
     "id": 196,
     "name": "Jordan Hawkins #139 - 2025/26 Topps NBA HOOPS Basketball Card #B",
-    "price": 2.38,
+    "price": 2.5,
     "image": "https://i.ebayimg.com/images/g/SAkAAeSw8iBqEJjD/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168394713065",
     "category": "basketball",
@@ -2354,7 +2354,7 @@ window.products = [
   {
     "id": 197,
     "name": "Pascal Siakam #265 - 2025/26 Topps NBA HOOPS Basketball Card",
-    "price": 2.85,
+    "price": 3,
     "image": "https://i.ebayimg.com/images/g/aGoAAeSw~7lqEJiw/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168394712772",
     "category": "basketball",
@@ -2366,7 +2366,7 @@ window.products = [
   {
     "id": 198,
     "name": "Giannis Antetokounmpo #165 - 2025/26 Topps NBA HOOPS Basketball Card #B",
-    "price": 2.38,
+    "price": 2.5,
     "image": "https://i.ebayimg.com/images/g/pi8AAeSwu-dqEJiU/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168394712531",
     "category": "basketball",
@@ -2378,7 +2378,7 @@ window.products = [
   {
     "id": 199,
     "name": "Amen Thompson #300 - 2025/26 Topps NBA HOOPS Basketball Card #B",
-    "price": 2.38,
+    "price": 2.5,
     "image": "https://i.ebayimg.com/images/g/YkgAAeSwICVqEJh3/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168394712095",
     "category": "basketball",
@@ -2390,7 +2390,7 @@ window.products = [
   {
     "id": 200,
     "name": "CJ McCollum #200 - 2025/26 Topps NBA HOOPS Basketball Card #B",
-    "price": 2.38,
+    "price": 2.5,
     "image": "https://i.ebayimg.com/images/g/TfYAAeSwwRFqEJg0/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168394711544",
     "category": "basketball",
@@ -2402,7 +2402,7 @@ window.products = [
   {
     "id": 201,
     "name": "Adou Thiero #182 - 2025/26 Topps NBA HOOPS Basketball Card",
-    "price": 2.85,
+    "price": 3,
     "image": "https://i.ebayimg.com/images/g/-ysAAeSwGgJqEJf8/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168394710508",
     "category": "basketball",
@@ -2414,7 +2414,7 @@ window.products = [
   {
     "id": 202,
     "name": "AJ Green #33 - 2025/26 Topps NBA HOOPS Basketball Card",
-    "price": 2.85,
+    "price": 3,
     "image": "https://i.ebayimg.com/images/g/NgcAAeSwLSlqEJfh/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168394710336",
     "category": "basketball",
@@ -2426,7 +2426,7 @@ window.products = [
   {
     "id": 203,
     "name": "Sam Hauser #115 - 2025/26 Topps NBA HOOPS Basketball Card",
-    "price": 2.85,
+    "price": 3,
     "image": "https://i.ebayimg.com/images/g/n-0AAeSwu-dqEJeq/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168394709357",
     "category": "basketball",
@@ -2438,7 +2438,7 @@ window.products = [
   {
     "id": 204,
     "name": "Jase Richardson (RC) #142 - 2025/26 Topps NBA HOOPS Basketball Card",
-    "price": 2.85,
+    "price": 3,
     "image": "https://i.ebayimg.com/images/g/Y~4AAeSwQMdqEJd8/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168394708324",
     "category": "basketball",
@@ -2450,7 +2450,7 @@ window.products = [
   {
     "id": 205,
     "name": "Andrew Nembhard #51 - 2025/26 Topps NBA HOOPS Basketball Card",
-    "price": 2.85,
+    "price": 3,
     "image": "https://i.ebayimg.com/images/g/5a8AAeSwCDZqEJdj/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168394707296",
     "category": "basketball",
@@ -2462,7 +2462,7 @@ window.products = [
   {
     "id": 206,
     "name": "Donovan Mitchell #76 - 2025/26 Topps NBA HOOPS Basketball Card",
-    "price": 2.85,
+    "price": 3,
     "image": "https://i.ebayimg.com/images/g/CHAAAeSw7LZqEJdQ/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168394706071",
     "category": "basketball",
@@ -2474,7 +2474,7 @@ window.products = [
   {
     "id": 207,
     "name": "Kyle Lowry #237 - 2025/26 Topps NBA HOOPS Basketball Card",
-    "price": 2.85,
+    "price": 3,
     "image": "https://i.ebayimg.com/images/g/RdsAAeSwQIpqEJc5/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168394704830",
     "category": "basketball",
@@ -2486,7 +2486,7 @@ window.products = [
   {
     "id": 208,
     "name": "Bennedict Mathurin #68 - 2025/26 Topps NBA HOOPS Basketball Card",
-    "price": 2.85,
+    "price": 3,
     "image": "https://i.ebayimg.com/images/g/MqUAAeSweJZqEJck/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168394703924",
     "category": "basketball",
@@ -2498,7 +2498,7 @@ window.products = [
   {
     "id": 209,
     "name": "Jalen Brunson #190 - 2025/26 Topps NBA HOOPS Basketball Card",
-    "price": 2.85,
+    "price": 3,
     "image": "https://i.ebayimg.com/images/g/Sw8AAeSwGjRqEJcP/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168394702824",
     "category": "basketball",
@@ -2510,7 +2510,7 @@ window.products = [
   {
     "id": 210,
     "name": "Ben Saraf #59 - 2025/26 Topps NBA HOOPS Basketball Card",
-    "price": 2.85,
+    "price": 3,
     "image": "https://i.ebayimg.com/images/g/Y9UAAeSweBdqEJbn/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168394700678",
     "category": "basketball",
@@ -2522,7 +2522,7 @@ window.products = [
   {
     "id": 211,
     "name": "Ayo Dosunmu #252 - 2025/26 Topps NBA HOOPS Basketball Card",
-    "price": 2.85,
+    "price": 3,
     "image": "https://i.ebayimg.com/images/g/ipsAAeSwJVVqEJbR/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168394699500",
     "category": "basketball",
@@ -2546,7 +2546,7 @@ window.products = [
   {
     "id": 213,
     "name": "Anfernee Simons #95 - 2025/26 Topps NBA HOOPS Basketball Card",
-    "price": 2.85,
+    "price": 3,
     "image": "https://i.ebayimg.com/images/g/U-YAAeSwbvhqEJY8/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168394695100",
     "category": "basketball",
@@ -2558,7 +2558,7 @@ window.products = [
   {
     "id": 214,
     "name": "Jaren Jackson Jr. #188 - 2025/26 Topps NBA HOOPS Basketball Card",
-    "price": 2.85,
+    "price": 3,
     "image": "https://i.ebayimg.com/images/g/WZEAAeSwFd5qEJYZ/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168394694739",
     "category": "basketball",
@@ -2570,7 +2570,7 @@ window.products = [
   {
     "id": 215,
     "name": "Deni Avdija #89 - 2025/26 Topps NBA HOOPS Basketball Card",
-    "price": 2.85,
+    "price": 3,
     "image": "https://i.ebayimg.com/images/g/07cAAeSwuMVqEJYC/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168394694348",
     "category": "basketball",
@@ -2582,7 +2582,7 @@ window.products = [
   {
     "id": 216,
     "name": "Collin Murray-Boyles #144 - 2025/26 Topps NBA HOOPS Basketball Card",
-    "price": 2.85,
+    "price": 3,
     "image": "https://i.ebayimg.com/images/g/PRAAAeSwQIpqEJXw/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168394693957",
     "category": "basketball",
@@ -2594,7 +2594,7 @@ window.products = [
   {
     "id": 217,
     "name": "Cade Cunningham #81 - 2025/26 Topps NBA HOOPS Basketball Card",
-    "price": 2.85,
+    "price": 3,
     "image": "https://i.ebayimg.com/images/g/oV4AAeSw8P5qEJXB/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168394692997",
     "category": "basketball",
@@ -2606,7 +2606,7 @@ window.products = [
   {
     "id": 218,
     "name": "Tre Mann #127 - 2025/26 Topps NBA HOOPS Basketball Card",
-    "price": 2.85,
+    "price": 3,
     "image": "https://i.ebayimg.com/images/g/JoIAAeSwcSpqEJWg/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168394692178",
     "category": "basketball",
@@ -2618,7 +2618,7 @@ window.products = [
   {
     "id": 219,
     "name": "Liam McNeeley (RC) #232 - 2025/26 Topps NBA HOOPS Basketball Card",
-    "price": 2.85,
+    "price": 3,
     "image": "https://i.ebayimg.com/images/g/jOwAAeSwamJqEJWN/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168394691673",
     "category": "basketball",
@@ -2630,7 +2630,7 @@ window.products = [
   {
     "id": 220,
     "name": "Noah Penda #132 - 2025/26 Topps NBA HOOPS Basketball Card",
-    "price": 2.85,
+    "price": 3,
     "image": "https://i.ebayimg.com/images/g/ansAAeSwbHFqEJV3/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168394691367",
     "category": "basketball",
@@ -2642,7 +2642,7 @@ window.products = [
   {
     "id": 221,
     "name": "Patrick Williams #245 - 2025/26 Topps NBA HOOPS Basketball Card",
-    "price": 2.85,
+    "price": 3,
     "image": "https://i.ebayimg.com/images/g/cEkAAeSwyTBqEJVk/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168394690652",
     "category": "basketball",
@@ -2654,7 +2654,7 @@ window.products = [
   {
     "id": 222,
     "name": "Harrison Barnes #145 - 2025/26 Topps NBA HOOPS Basketball Card",
-    "price": 2.61,
+    "price": 2.75,
     "image": "https://i.ebayimg.com/images/g/htIAAeSwCbZqEJVI/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168394690318",
     "category": "basketball",
@@ -2666,7 +2666,7 @@ window.products = [
   {
     "id": 223,
     "name": "Ayo Dosunmu #252 - 2025/26 Topps NBA HOOPS Basketball Card",
-    "price": 2.85,
+    "price": 3,
     "image": "https://i.ebayimg.com/images/g/8owAAeSwevZqEJUy/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168394689058",
     "category": "basketball",
@@ -2678,7 +2678,7 @@ window.products = [
   {
     "id": 224,
     "name": "Nick Smith Jr. #131 - 2025/26 Topps NBA HOOPS Basketball Card",
-    "price": 2.85,
+    "price": 3,
     "image": "https://i.ebayimg.com/images/g/OxAAAeSwFCdqEJUd/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168394688109",
     "category": "basketball",
@@ -2690,7 +2690,7 @@ window.products = [
   {
     "id": 225,
     "name": "Deandre Ayton #5 - 2025/26 Topps NBA HOOPS Basketball Card",
-    "price": 2.85,
+    "price": 3,
     "image": "https://i.ebayimg.com/images/g/1o4AAeSwg6BqEJUL/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168394687411",
     "category": "basketball",
@@ -2702,7 +2702,7 @@ window.products = [
   {
     "id": 226,
     "name": "Jaylen Brown #271 - 2025/26 Topps NBA HOOPS Basketball Card",
-    "price": 2.85,
+    "price": 3,
     "image": "https://i.ebayimg.com/images/g/FvUAAeSwBb1qEJTn/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168394686661",
     "category": "basketball",
@@ -2714,7 +2714,7 @@ window.products = [
   {
     "id": 227,
     "name": "Kam Jones #12 - 2025/26 Topps NBA HOOPS Basketball Card",
-    "price": 2.85,
+    "price": 3,
     "image": "https://i.ebayimg.com/images/g/n5sAAeSwX9xqEJTQ/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168394686095",
     "category": "basketball",
@@ -2726,7 +2726,7 @@ window.products = [
   {
     "id": 228,
     "name": "Darius Garland #126 - 2025/26 Topps NBA HOOPS Basketball Card",
-    "price": 2.85,
+    "price": 3,
     "image": "https://i.ebayimg.com/images/g/EmsAAeSwxChqEJS8/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168394685550",
     "category": "basketball",
@@ -2738,7 +2738,7 @@ window.products = [
   {
     "id": 229,
     "name": "Keldon Johnson #23 - 2025/26 Topps NBA HOOPS Basketball Card",
-    "price": 2.85,
+    "price": 3,
     "image": "https://i.ebayimg.com/images/g/wAAAAeSw3UtqEJSo/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168394685271",
     "category": "basketball",
@@ -2750,7 +2750,7 @@ window.products = [
   {
     "id": 230,
     "name": "Keyonte George #45 - 2025/26 Topps NBA HOOPS Basketball Card",
-    "price": 2.85,
+    "price": 3,
     "image": "https://i.ebayimg.com/images/g/IDwAAeSw0k5qEJPq/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168394680568",
     "category": "basketball",
@@ -2762,7 +2762,7 @@ window.products = [
   {
     "id": 231,
     "name": "Jeremy Sochan #154 - 2025/26 Topps NBA HOOPS Basketball Card",
-    "price": 2.85,
+    "price": 3,
     "image": "https://i.ebayimg.com/images/g/g5EAAeSwrWdqEJPQ/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168394679557",
     "category": "basketball",
@@ -2774,7 +2774,7 @@ window.products = [
   {
     "id": 232,
     "name": "Tristan Da Silva #242 - 2025/26 Topps NBA HOOPS Basketball Card",
-    "price": 2.85,
+    "price": 3,
     "image": "https://i.ebayimg.com/images/g/69sAAeSwGYJqEJO9/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168394679084",
     "category": "basketball",
@@ -2786,7 +2786,7 @@ window.products = [
   {
     "id": 233,
     "name": "Asa Newell #52 - 2025/26 Topps NBA HOOPS Basketball Card",
-    "price": 2.85,
+    "price": 3,
     "image": "https://i.ebayimg.com/images/g/R8oAAeSwkxNqEJOo/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168394678675",
     "category": "basketball",
@@ -2798,7 +2798,7 @@ window.products = [
   {
     "id": 234,
     "name": "T.J. McConnell #147 - 2025/26 Topps NBA HOOPS Basketball Card",
-    "price": 2.85,
+    "price": 3,
     "image": "https://i.ebayimg.com/images/g/TQUAAeSwGTpqEJOA/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168394677789",
     "category": "basketball",
@@ -2810,7 +2810,7 @@ window.products = [
   {
     "id": 235,
     "name": "Klay Thompson #104 - 2025/26 Topps NBA HOOPS Basketball Card",
-    "price": 2.38,
+    "price": 2.5,
     "image": "https://i.ebayimg.com/images/g/FyYAAeSwcSpqEJNm/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168394677200",
     "category": "basketball",
@@ -2822,7 +2822,7 @@ window.products = [
   {
     "id": 236,
     "name": "Johnny Furphy #209 - 2025/26 Topps NBA HOOPS Basketball Card",
-    "price": 2.85,
+    "price": 3,
     "image": "https://i.ebayimg.com/images/g/IzAAAeSwaERqEJNO/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168394676481",
     "category": "basketball",
@@ -2834,7 +2834,7 @@ window.products = [
   {
     "id": 237,
     "name": "Dyson Daniels #109 - 2025/26 Topps NBA HOOPS Basketball Card",
-    "price": 2.85,
+    "price": 3,
     "image": "https://i.ebayimg.com/images/g/i1MAAeSw1ctqEJM4/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168394676254",
     "category": "basketball",
@@ -2846,7 +2846,7 @@ window.products = [
   {
     "id": 238,
     "name": "Brandon Ingram #224 - 2025/26 Topps NBA HOOPS Basketball Card",
-    "price": 2.85,
+    "price": 3,
     "image": "https://i.ebayimg.com/images/g/ASwAAeSwFU1qEJMi/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168394675974",
     "category": "basketball",
@@ -2858,7 +2858,7 @@ window.products = [
   {
     "id": 239,
     "name": "Josh Hart #124 - 2025/26 Topps NBA HOOPS Basketball Card",
-    "price": 2.85,
+    "price": 3,
     "image": "https://i.ebayimg.com/images/g/W~QAAeSw~9BqEJL~/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168394675300",
     "category": "basketball",
@@ -2870,7 +2870,7 @@ window.products = [
   {
     "id": 240,
     "name": "Dorian Finney-Smith #227 - 2025/26 Topps NBA HOOPS Basketball Card",
-    "price": 2.85,
+    "price": 3,
     "image": "https://i.ebayimg.com/images/g/W1IAAeSw~9BqEJLt/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168394674878",
     "category": "basketball",
@@ -2882,7 +2882,7 @@ window.products = [
   {
     "id": 241,
     "name": "Shaedon Sharpe #267 - 2025/26 Topps NBA HOOPS Basketball Card",
-    "price": 2.85,
+    "price": 3,
     "image": "https://i.ebayimg.com/images/g/zB8AAeSwrclqEJLW/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168394674386",
     "category": "basketball",
@@ -2894,7 +2894,7 @@ window.products = [
   {
     "id": 242,
     "name": "Onyeka Okungwu #36 - 2025/26 Topps NBA HOOPS Basketball Card",
-    "price": 2.85,
+    "price": 3,
     "image": "https://i.ebayimg.com/images/g/BuIAAeSwfqVqEJKt/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168394670014",
     "category": "basketball",
@@ -2918,7 +2918,7 @@ window.products = [
   {
     "id": 244,
     "name": "Jalen Williams #21 - 2025/26 Topps NBA HOOPS Basketball Card",
-    "price": 2.85,
+    "price": 3,
     "image": "https://i.ebayimg.com/images/g/wp0AAeSwFS5qEJJ0/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168394667898",
     "category": "basketball",
@@ -2930,7 +2930,7 @@ window.products = [
   {
     "id": 245,
     "name": "Zach Lavine #140 - 2025/26 Topps NBA HOOPS Basketball Card",
-    "price": 2.85,
+    "price": 3,
     "image": "https://i.ebayimg.com/images/g/Vx4AAeSwyTBqEJJi/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168394666775",
     "category": "basketball",
@@ -2954,7 +2954,7 @@ window.products = [
   {
     "id": 247,
     "name": "Anthony Davis #H-13 - 2025/26 Topps NBA HOOPS Basketball Card",
-    "price": 2.85,
+    "price": 3,
     "image": "https://i.ebayimg.com/images/g/mP0AAeSw4GNqEJIe/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168394662221",
     "category": "basketball",
@@ -2966,7 +2966,7 @@ window.products = [
   {
     "id": 248,
     "name": "Alperen Sengun #FP-24 - 2025/26 Topps NBA HOOPS Basketball Card",
-    "price": 4.75,
+    "price": 5,
     "image": "https://i.ebayimg.com/images/g/6T4AAeSwYudqEJIF/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168394660713",
     "category": "basketball",
@@ -2978,7 +2978,7 @@ window.products = [
   {
     "id": 249,
     "name": "Bruce Brown #251 - 2025/26 Topps NBA HOOPS Basketball Card",
-    "price": 2.85,
+    "price": 3,
     "image": "https://i.ebayimg.com/images/g/ApEAAeSwI3ZqEG1w/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168394380280",
     "category": "basketball",
@@ -2990,7 +2990,7 @@ window.products = [
   {
     "id": 250,
     "name": "Jaden McDaniels #94 - 2025/26 Topps NBA HOOPS Basketball Card",
-    "price": 2.85,
+    "price": 3,
     "image": "https://i.ebayimg.com/images/g/KC0AAeSw3cFqEG1J/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168394378893",
     "category": "basketball",
@@ -3002,7 +3002,7 @@ window.products = [
   {
     "id": 251,
     "name": "Kyle Filipowski #179 - 2025/26 Topps NBA HOOPS Basketball Card",
-    "price": 2.85,
+    "price": 3,
     "image": "https://i.ebayimg.com/images/g/EYQAAeSwmT1qEG0y/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168394377242",
     "category": "basketball",
@@ -3014,7 +3014,7 @@ window.products = [
   {
     "id": 252,
     "name": "Matisse Thybulle #87 - 2025/26 Topps NBA HOOPS Basketball Card",
-    "price": 2.85,
+    "price": 3,
     "image": "https://i.ebayimg.com/images/g/q04AAeSw7cFqEG0X/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168394376144",
     "category": "basketball",
@@ -3026,7 +3026,7 @@ window.products = [
   {
     "id": 253,
     "name": "Cason Wallace #219 - 2025/26 Topps NBA HOOPS Basketball Card",
-    "price": 2.85,
+    "price": 3,
     "image": "https://i.ebayimg.com/images/g/SI0AAeSwZqJqEG0C/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168394375044",
     "category": "basketball",
@@ -3038,7 +3038,7 @@ window.products = [
   {
     "id": 254,
     "name": "Trae Young #259 - 2025/26 Topps NBA HOOPS Basketball Card #B",
-    "price": 2.14,
+    "price": 2.25,
     "image": "https://i.ebayimg.com/images/g/1OcAAeSwkuZqEGzr/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168394374246",
     "category": "basketball",
@@ -3050,7 +3050,7 @@ window.products = [
   {
     "id": 255,
     "name": "Johni Broome #159 - 2025/26 Topps NBA HOOPS Basketball Card",
-    "price": 2.85,
+    "price": 3,
     "image": "https://i.ebayimg.com/images/g/GfYAAeSw0F5qEGzW/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168394372976",
     "category": "basketball",
@@ -3062,7 +3062,7 @@ window.products = [
   {
     "id": 256,
     "name": "Domantas Sabonis #204 - 2025/26 Topps NBA HOOPS Basketball Card #B",
-    "price": 2.38,
+    "price": 2.5,
     "image": "https://i.ebayimg.com/images/g/-UwAAeSwhPFqEGy-/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168394372156",
     "category": "basketball",
@@ -3074,7 +3074,7 @@ window.products = [
   {
     "id": 257,
     "name": "Klay Thompson #104 - 2025/26 Topps NBA HOOPS Basketball Card",
-    "price": 2.85,
+    "price": 3,
     "image": "https://i.ebayimg.com/images/g/p4QAAeSw7pFqEGyO/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168394370776",
     "category": "basketball",
@@ -3086,7 +3086,7 @@ window.products = [
   {
     "id": 258,
     "name": "Zach Edey #230 - 2025/26 Topps NBA HOOPS Basketball Card",
-    "price": 2.85,
+    "price": 3,
     "image": "https://i.ebayimg.com/images/g/FjUAAeSwZQpqEGx6/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168394370659",
     "category": "basketball",
@@ -3098,7 +3098,7 @@ window.products = [
   {
     "id": 259,
     "name": "Paul George #130 - 2025/26 Topps NBA HOOPS Basketball Card",
-    "price": 2.85,
+    "price": 3,
     "image": "https://i.ebayimg.com/images/g/I8QAAeSwICVqEGxj/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168394370455",
     "category": "basketball",
@@ -3110,7 +3110,7 @@ window.products = [
   {
     "id": 260,
     "name": "Ausar Thompson #240 - 2025/26 Topps NBA HOOPS Basketball Card",
-    "price": 2.85,
+    "price": 3,
     "image": "https://i.ebayimg.com/images/g/0Q8AAeSwGjRqEGxM/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168394370235",
     "category": "basketball",
@@ -3122,7 +3122,7 @@ window.products = [
   {
     "id": 261,
     "name": "Joan Beringer #20 - 2025/26 Topps NBA HOOPS Basketball Card",
-    "price": 2.85,
+    "price": 3,
     "image": "https://i.ebayimg.com/images/g/YE8AAeSwvnlqEGw1/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168394370054",
     "category": "basketball",
@@ -3134,7 +3134,7 @@ window.products = [
   {
     "id": 262,
     "name": "Jae Crowder #101 - 2025/26 Topps NBA HOOPS Basketball Card",
-    "price": 2.85,
+    "price": 3,
     "image": "https://i.ebayimg.com/images/g/yO0AAeSwvb1qEGwf/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168394369755",
     "category": "basketball",
@@ -3146,7 +3146,7 @@ window.products = [
   {
     "id": 263,
     "name": "Rui Hachimura #1 - 2025/26 Topps NBA HOOPS Basketball Card",
-    "price": 2.85,
+    "price": 3,
     "image": "https://i.ebayimg.com/images/g/MtQAAeSwGTpqEGwG/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168394368752",
     "category": "basketball",
@@ -3158,7 +3158,7 @@ window.products = [
   {
     "id": 264,
     "name": "Karl-Anthony Towns #292 - 2025/26 Topps NBA HOOPS Basketball Card",
-    "price": 2.85,
+    "price": 3,
     "image": "https://i.ebayimg.com/images/g/9zcAAeSw~F1qEGvi/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168394368318",
     "category": "basketball",
@@ -3170,7 +3170,7 @@ window.products = [
   {
     "id": 265,
     "name": "De'Aaron Fox #18 - 2025/26 Topps NBA HOOPS Basketball Card",
-    "price": 2.85,
+    "price": 3,
     "image": "https://i.ebayimg.com/images/g/tvUAAeSw8iBqEGvE/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168394368052",
     "category": "basketball",
@@ -3182,7 +3182,7 @@ window.products = [
   {
     "id": 266,
     "name": "Harrison Barnes #145 - 2025/26 Topps NBA HOOPS Basketball Card",
-    "price": 2.85,
+    "price": 3,
     "image": "https://i.ebayimg.com/images/g/W8cAAeSwvnlqEGua/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168394367613",
     "category": "basketball",
@@ -3194,7 +3194,7 @@ window.products = [
   {
     "id": 267,
     "name": "Russell Westbrook #250 SAND GLITTER - 2025/26 Topps NBA HOOPS Basketball Card",
-    "price": 4.75,
+    "price": 5,
     "image": "https://i.ebayimg.com/images/g/KI8AAeSweUpqEGtj/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168394366961",
     "category": "basketball",
@@ -3206,7 +3206,7 @@ window.products = [
   {
     "id": 268,
     "name": "Jase Richardson #NE-19 (RC) SAND GLITTER - 2025/26 Topps NBA HOOPS Basketball Ca",
-    "price": 4.75,
+    "price": 5,
     "image": "https://i.ebayimg.com/images/g/tZQAAeSwAU9qEGpK/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168394362569",
     "category": "basketball",
@@ -3218,7 +3218,7 @@ window.products = [
   {
     "id": 269,
     "name": "Jaylon Tyson #RS20 - 2026 NBA Castrol Rising Stars Basketball Card",
-    "price": 1.9,
+    "price": 2,
     "image": "https://i.ebayimg.com/images/g/n8UAAeSwFKhpv1hl/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168394355699",
     "category": "basketball",
@@ -3230,7 +3230,7 @@ window.products = [
   {
     "id": 270,
     "name": "Kyshawn George #RS21 - 2026 NBA Castrol Rising Stars Basketball Card",
-    "price": 1.9,
+    "price": 2,
     "image": "https://i.ebayimg.com/images/g/fp8AAeSw3mtpv1h8/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168394355698",
     "category": "basketball",
@@ -3242,7 +3242,7 @@ window.products = [
   {
     "id": 271,
     "name": "Egor Demin (RC) #RS18 - 2026 NBA Castrol Rising Stars Basketball Card",
-    "price": 1.9,
+    "price": 2,
     "image": "https://i.ebayimg.com/images/g/LLYAAeSwuHBpv1gv/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168394355697",
     "category": "basketball",
@@ -3254,7 +3254,7 @@ window.products = [
   {
     "id": 272,
     "name": "Tre Johnson III #RS11 - 2026 NBA Castrol Rising Stars Basketball Card",
-    "price": 1.9,
+    "price": 2,
     "image": "https://i.ebayimg.com/images/g/YFEAAeSwXzBpv1cj/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168394355696",
     "category": "basketball",
@@ -3266,7 +3266,7 @@ window.products = [
   {
     "id": 273,
     "name": "Reed Sheppard #RS10 - 2026 NBA Castrol Rising Stars Basketball Card",
-    "price": 1.9,
+    "price": 2,
     "image": "https://i.ebayimg.com/images/g/TAUAAeSwG8Zpv1c-/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168394355695",
     "category": "basketball",
@@ -3278,7 +3278,7 @@ window.products = [
   {
     "id": 274,
     "name": "Cedric Coward #RS9- 2026 NBA Castrol Rising Stars Basketball Card",
-    "price": 1.9,
+    "price": 2,
     "image": "https://i.ebayimg.com/images/g/jMIAAeSwY0hpv1cE/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168394355694",
     "category": "basketball",
@@ -3290,7 +3290,7 @@ window.products = [
   {
     "id": 275,
     "name": "Matas Buzelis #RS12 - 2026 NBA Castrol Rising Stars Basketball Card",
-    "price": 1.9,
+    "price": 2,
     "image": "https://i.ebayimg.com/images/g/0D0AAeSwihRpv1dZ/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168394355693",
     "category": "basketball",
@@ -3302,7 +3302,7 @@ window.products = [
   {
     "id": 276,
     "name": "Jeremiah Fears (RC) #RS19 - 2026 NBA Castrol Rising Stars Basketball Card",
-    "price": 1.9,
+    "price": 2,
     "image": "https://i.ebayimg.com/images/g/eRYAAeSwjKdpv1hN/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168394355691",
     "category": "basketball",
@@ -3314,7 +3314,7 @@ window.products = [
   {
     "id": 277,
     "name": "Collin Murray-Boyles #RS13 - 2026 NBA Castrol Rising Stars Basketball Card",
-    "price": 1.9,
+    "price": 2,
     "image": "https://i.ebayimg.com/images/g/wk8AAeSw1yRpv1eA/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168394355690",
     "category": "basketball",
@@ -3326,7 +3326,7 @@ window.products = [
   {
     "id": 278,
     "name": "Kel'el Ware #RS8 - 2026 NBA Castrol Rising Stars Basketball Card",
-    "price": 1.9,
+    "price": 2,
     "image": "https://i.ebayimg.com/images/g/Qu0AAeSwEE5pv1bq/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168394355689",
     "category": "basketball",
@@ -3338,7 +3338,7 @@ window.products = [
   {
     "id": 279,
     "name": "Jaylen Wells #RS6 - 2026 NBA Castrol Rising Stars Basketball Card",
-    "price": 1.9,
+    "price": 2,
     "image": "https://i.ebayimg.com/images/g/lKkAAeSwzONpv1ZB/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168394355688",
     "category": "basketball",
@@ -3350,7 +3350,7 @@ window.products = [
   {
     "id": 280,
     "name": "Alex Sarr #RS2 - 2026 NBA Castrol Rising Stars Basketball Card",
-    "price": 1.9,
+    "price": 2,
     "image": "https://i.ebayimg.com/images/g/l~0AAeSw~Bdpv1X3/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168394355683",
     "category": "basketball",
@@ -3374,7 +3374,7 @@ window.products = [
   {
     "id": 282,
     "name": "Ajay Mitchell #RS17 - 2026 NBA Castrol Rising Stars Basketball Card",
-    "price": 1.9,
+    "price": 2,
     "image": "https://i.ebayimg.com/images/g/gTEAAeSw2Fppv1gZ/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168394355681",
     "category": "basketball",
@@ -3386,7 +3386,7 @@ window.products = [
   {
     "id": 283,
     "name": "Walker Kessler #168 - 2025/26 Topps NBA HOOPS Basketball Card",
-    "price": 2.14,
+    "price": 2.25,
     "image": "https://i.ebayimg.com/images/g/i0QAAeSw7ztqEGV5/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168394314227",
     "category": "basketball",
@@ -3398,7 +3398,7 @@ window.products = [
   {
     "id": 284,
     "name": "Tyrese Maxey #258 - 2025/26 Topps NBA HOOPS Basketball Card",
-    "price": 2.85,
+    "price": 3,
     "image": "https://i.ebayimg.com/images/g/ZXMAAeSwz5hqEGVn/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168394313436",
     "category": "basketball",
@@ -3410,7 +3410,7 @@ window.products = [
   {
     "id": 285,
     "name": "Quentin Grimes #54 - 2025/26 Topps NBA HOOPS Basketball Card",
-    "price": 2.85,
+    "price": 3,
     "image": "https://i.ebayimg.com/images/g/-V4AAeSw1URqEGVS/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168394311518",
     "category": "basketball",
@@ -3422,7 +3422,7 @@ window.products = [
   {
     "id": 286,
     "name": "Jared McCain #197 - 2025/26 Topps NBA HOOPS Basketball Card",
-    "price": 2.85,
+    "price": 3,
     "image": "https://i.ebayimg.com/images/g/MAgAAeSwu-dqEGU8/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168394309325",
     "category": "basketball",
@@ -3434,7 +3434,7 @@ window.products = [
   {
     "id": 287,
     "name": "Kris Murray #191 - 2025/26 Topps NBA HOOPS Basketball Card",
-    "price": 2.85,
+    "price": 3,
     "image": "https://i.ebayimg.com/images/g/VV4AAeSw9fpqEGT2/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168394304721",
     "category": "basketball",
@@ -3446,7 +3446,7 @@ window.products = [
   {
     "id": 288,
     "name": "Ivica Zubac #31 - 2025/26 Topps NBA HOOPS Basketball Card",
-    "price": 2.85,
+    "price": 3,
     "image": "https://i.ebayimg.com/images/g/MpwAAeSwKuRqEGTi/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168394304000",
     "category": "basketball",
@@ -3458,7 +3458,7 @@ window.products = [
   {
     "id": 289,
     "name": "Jrue Holiday #39 - 2025/26 Topps NBA HOOPS Basketball Card",
-    "price": 2.85,
+    "price": 3,
     "image": "https://i.ebayimg.com/images/g/tqsAAeSwnSNqEGTN/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168394303061",
     "category": "basketball",
@@ -3470,7 +3470,7 @@ window.products = [
   {
     "id": 290,
     "name": "Aaron Gordon #146 - 2025/26 Topps NBA HOOPS Basketball Card",
-    "price": 2.85,
+    "price": 3,
     "image": "https://i.ebayimg.com/images/g/E9gAAeSwRZlqEGS5/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168394301992",
     "category": "basketball",
@@ -3482,7 +3482,7 @@ window.products = [
   {
     "id": 291,
     "name": "Chaz Lanier #218 - 2025/26 Topps NBA HOOPS Basketball Card",
-    "price": 2.85,
+    "price": 3,
     "image": "https://i.ebayimg.com/images/g/7bQAAeSwANdqEGSd/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168394300191",
     "category": "basketball",
@@ -3494,7 +3494,7 @@ window.products = [
   {
     "id": 292,
     "name": "Coby White #65 - 2025/26 Topps NBA HOOPS Basketball Card",
-    "price": 2.85,
+    "price": 3,
     "image": "https://i.ebayimg.com/images/g/iDcAAeSwGjRqEGR5/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168394297831",
     "category": "basketball",
@@ -3506,7 +3506,7 @@ window.products = [
   {
     "id": 293,
     "name": "Mikal Bridges #100 - 2025/26 Topps NBA HOOPS Basketball Card",
-    "price": 2.85,
+    "price": 3,
     "image": "https://i.ebayimg.com/images/g/zh4AAeSw-PRqEGRZ/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168394296617",
     "category": "basketball",
@@ -3518,7 +3518,7 @@ window.products = [
   {
     "id": 294,
     "name": "Jaden Ivey #187 - 2025/26 Topps NBA HOOPS Basketball Card #B",
-    "price": 2.14,
+    "price": 2.25,
     "image": "https://i.ebayimg.com/images/g/Y3QAAeSwxYdqEGQv/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168394295680",
     "category": "basketball",
@@ -3530,7 +3530,7 @@ window.products = [
   {
     "id": 295,
     "name": "James Harden #276 - 2025/26 Topps NBA HOOPS Basketball Card #B",
-    "price": 2.38,
+    "price": 2.5,
     "image": "https://i.ebayimg.com/images/g/looAAeSw4vpqEGQQ/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168394291076",
     "category": "basketball",
@@ -3542,7 +3542,7 @@ window.products = [
   {
     "id": 296,
     "name": "Zach Collins #176 - 2025/26 Topps NBA HOOPS Basketball Card #B",
-    "price": 2.14,
+    "price": 2.25,
     "image": "https://i.ebayimg.com/images/g/~fcAAeSwZU5qEGPv/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168394288003",
     "category": "basketball",
@@ -3554,7 +3554,7 @@ window.products = [
   {
     "id": 297,
     "name": "Donovan Mitchell #287 - 2025/26 Topps NBA HOOPS Basketball Card #B",
-    "price": 2.14,
+    "price": 2.25,
     "image": "https://i.ebayimg.com/images/g/IUwAAeSwHpNqEGOe/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168394283266",
     "category": "basketball",
@@ -3590,7 +3590,7 @@ window.products = [
   {
     "id": 300,
     "name": "Ronald Holland II #103 - 2025/26 Topps NBA HOOPS Basketball Card",
-    "price": 2.85,
+    "price": 3,
     "image": "https://i.ebayimg.com/images/g/1acAAeSwXBNqD7lo/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168392993488",
     "category": "basketball",
@@ -3602,7 +3602,7 @@ window.products = [
   {
     "id": 301,
     "name": "Max Strus #27 - 2025/26 Topps NBA HOOPS Basketball Card",
-    "price": 2.85,
+    "price": 3,
     "image": "https://i.ebayimg.com/images/g/jsoAAeSwGTpqD7lP/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168392993055",
     "category": "basketball",
@@ -3614,7 +3614,7 @@ window.products = [
   {
     "id": 302,
     "name": "Alperen Sengun #291 - 2025/26 Topps NBA HOOPS Basketball Card",
-    "price": 2.85,
+    "price": 3,
     "image": "https://i.ebayimg.com/images/g/u3wAAeSwSoFqD7kJ/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168392992560",
     "category": "basketball",
@@ -3626,7 +3626,7 @@ window.products = [
   {
     "id": 303,
     "name": "Alijah Martin (RC) #32 - 2025/26 Topps NBA HOOPS Basketball Card",
-    "price": 2.85,
+    "price": 3,
     "image": "https://i.ebayimg.com/images/g/b8UAAeSwdRNqD7jo/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168392991876",
     "category": "basketball",
@@ -3638,7 +3638,7 @@ window.products = [
   {
     "id": 304,
     "name": "Anthony Davis #108 - 2025/26 Topps NBA HOOPS Basketball Card",
-    "price": 2.85,
+    "price": 3,
     "image": "https://i.ebayimg.com/images/g/lq4AAeSwFS5qD7jJ/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168392988437",
     "category": "basketball",
@@ -3650,7 +3650,7 @@ window.products = [
   {
     "id": 305,
     "name": "Shai Gilgeous-Alexander #268 - 2025/26 Topps NBA HOOPS Basketball Card",
-    "price": 4.75,
+    "price": 5,
     "image": "https://i.ebayimg.com/images/g/YMQAAeSw2CpqD7iy/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168392988214",
     "category": "basketball",
@@ -3662,7 +3662,7 @@ window.products = [
   {
     "id": 306,
     "name": "Walker Kessler #168 - 2025/26 Topps NBA HOOPS Basketball Card",
-    "price": 2.85,
+    "price": 3,
     "image": "https://i.ebayimg.com/images/g/yNAAAeSwcnFqD7iM/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168392987654",
     "category": "basketball",
@@ -3674,7 +3674,7 @@ window.products = [
   {
     "id": 307,
     "name": "Trae Young #259 - 2025/26 Topps NBA HOOPS Basketball Card",
-    "price": 2.85,
+    "price": 3,
     "image": "https://i.ebayimg.com/images/g/AKwAAeSwA7pqD7hq/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168392987167",
     "category": "basketball",
@@ -3686,7 +3686,7 @@ window.products = [
   {
     "id": 308,
     "name": "Johni Broome (RC) #159 - 2025/26 Topps NBA HOOPS Basketball Card",
-    "price": 2.85,
+    "price": 3,
     "image": "https://i.ebayimg.com/images/g/ga8AAeSwur5qD7hV/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168392986921",
     "category": "basketball",
@@ -3698,7 +3698,7 @@ window.products = [
   {
     "id": 309,
     "name": "Domantas Sabonis #204 - 2025/26 Topps NBA HOOPS Basketball Card",
-    "price": 2.85,
+    "price": 3,
     "image": "https://i.ebayimg.com/images/g/8X4AAeSw5ptqD7g0/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168392986459",
     "category": "basketball",
@@ -3710,7 +3710,7 @@ window.products = [
   {
     "id": 310,
     "name": "Jaime Jaquez Jr. #223 - 2025/26 Topps NBA HOOPS Basketball Card",
-    "price": 2.85,
+    "price": 3,
     "image": "https://i.ebayimg.com/images/g/M~YAAeSwtz5qD7gW/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168392986067",
     "category": "basketball",
@@ -3722,7 +3722,7 @@ window.products = [
   {
     "id": 311,
     "name": "Noa Essengue #70 - 2025/26 Topps NBA HOOPS Basketball Card",
-    "price": 2.85,
+    "price": 3,
     "image": "https://i.ebayimg.com/images/g/bV8AAeSwqClqD7fy/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168392985421",
     "category": "basketball",
@@ -3734,7 +3734,7 @@ window.products = [
   {
     "id": 312,
     "name": "Kyshawn George #56 - 2025/26 Topps NBA HOOPS Basketball Card",
-    "price": 2.85,
+    "price": 3,
     "image": "https://i.ebayimg.com/images/g/LfQAAeSw7IlqD7fQ/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168392985008",
     "category": "basketball",
@@ -3746,7 +3746,7 @@ window.products = [
   {
     "id": 313,
     "name": "Ryan Dunn #297 - 2025/26 Topps NBA HOOPS Basketball Card",
-    "price": 2.85,
+    "price": 3,
     "image": "https://i.ebayimg.com/images/g/q6cAAeSwmc1qD7eA/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168392984277",
     "category": "basketball",
@@ -3758,7 +3758,7 @@ window.products = [
   {
     "id": 314,
     "name": "Larry Nance Jr. #44 - 2025/26 Topps NBA HOOPS Basketball Card",
-    "price": 2.85,
+    "price": 3,
     "image": "https://i.ebayimg.com/images/g/ICMAAeSw7T5qD7dl/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168392983419",
     "category": "basketball",
@@ -3770,7 +3770,7 @@ window.products = [
   {
     "id": 315,
     "name": "Jaylen Wells #295 - 2025/26 Topps NBA HOOPS Basketball Card",
-    "price": 2.85,
+    "price": 3,
     "image": "https://i.ebayimg.com/images/g/pLUAAeSwu-dqD7dS/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168392983121",
     "category": "basketball",
@@ -3794,7 +3794,7 @@ window.products = [
   {
     "id": 317,
     "name": "Luka Doncic #269 - 2025/26 Topps NBA HOOPS Basketball Card",
-    "price": 3.8,
+    "price": 4,
     "image": "https://i.ebayimg.com/images/g/ZGwAAeSw0UlqD7aD/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168392979193",
     "category": "basketball",
@@ -3818,7 +3818,7 @@ window.products = [
   {
     "id": 319,
     "name": "Pascal Siakam HIGHLIGHTS #265 - 2025/26 Topps NBA HOOPS Basketball Card",
-    "price": 2.85,
+    "price": 3,
     "image": "https://i.ebayimg.com/images/g/NqkAAeSwRohqD7Yd/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168392973064",
     "category": "basketball",
@@ -3830,7 +3830,7 @@ window.products = [
   {
     "id": 320,
     "name": "Giannis Antetokounmpo #165 - 2025/26 Topps NBA HOOPS Basketball Card",
-    "price": 2.85,
+    "price": 3,
     "image": "https://i.ebayimg.com/images/g/zGAAAeSwf8FqD7X2/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168392971036",
     "category": "basketball",
@@ -3842,7 +3842,7 @@ window.products = [
   {
     "id": 321,
     "name": "Amen Thompson #300 - 2025/26 Topps NBA HOOPS Basketball Card",
-    "price": 2.85,
+    "price": 3,
     "image": "https://i.ebayimg.com/images/g/H9kAAeSwrIhqD7XX/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168392969559",
     "category": "basketball",
@@ -3854,7 +3854,7 @@ window.products = [
   {
     "id": 322,
     "name": "CJ McCollum #200 - 2025/26 Topps NBA HOOPS Basketball Card",
-    "price": 2.85,
+    "price": 3,
     "image": "https://i.ebayimg.com/images/g/OcMAAeSwJy5qD7V6/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168392966291",
     "category": "basketball",
@@ -3866,7 +3866,7 @@ window.products = [
   {
     "id": 323,
     "name": "Stephon Castle #294 - 2025/26 Topps NBA HOOPS Basketball Card #B",
-    "price": 2.38,
+    "price": 2.5,
     "image": "https://i.ebayimg.com/images/g/QtoAAeSwFbNqD7UC/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168392965652",
     "category": "basketball",
@@ -3878,7 +3878,7 @@ window.products = [
   {
     "id": 324,
     "name": "Paolo Banchero #194 - 2025/26 Topps NBA HOOPS Basketball Card #B",
-    "price": 2.38,
+    "price": 2.5,
     "image": "https://i.ebayimg.com/images/g/KIMAAeSwsj1qD7PK/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168392953019",
     "category": "basketball",
@@ -3890,7 +3890,7 @@ window.products = [
   {
     "id": 325,
     "name": "Devin Vassell #233 - 2025/26 Topps NBA HOOPS Basketball Card",
-    "price": 2.85,
+    "price": 3,
     "image": "https://i.ebayimg.com/images/g/lk0AAeSwKuRqD7Or/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168392933957",
     "category": "basketball",
@@ -3902,7 +3902,7 @@ window.products = [
   {
     "id": 326,
     "name": "Lonzo Ball #98 - 2025/26 Topps NBA HOOPS Basketball Card",
-    "price": 2.85,
+    "price": 3,
     "image": "https://i.ebayimg.com/images/g/F5QAAeSwrmVqD7OV/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168392932198",
     "category": "basketball",
@@ -3914,7 +3914,7 @@ window.products = [
   {
     "id": 327,
     "name": "Anthony Edwards #270 HIGHLIGHTS - 2025/26 Topps NBA HOOPS Basketball Card",
-    "price": 4.75,
+    "price": 5,
     "image": "https://i.ebayimg.com/images/g/bt0AAeSw77xqD7Nt/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168392928264",
     "category": "basketball",
@@ -3926,7 +3926,7 @@ window.products = [
   {
     "id": 328,
     "name": "Shai Gilgeous-Alexander #86 - 2025/26 Topps NBA HOOPS Basketball Card",
-    "price": 2.85,
+    "price": 3,
     "image": "https://i.ebayimg.com/images/g/qsoAAeSw~WhqD7M9/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168392925257",
     "category": "basketball",
@@ -3938,7 +3938,7 @@ window.products = [
   {
     "id": 329,
     "name": "Brandon Clarke #112 - 2025/26 Topps NBA HOOPS Basketball Card",
-    "price": 2.85,
+    "price": 3,
     "image": "https://i.ebayimg.com/images/g/oZQAAeSwKOdqD7Mn/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168392922908",
     "category": "basketball",
@@ -3950,7 +3950,7 @@ window.products = [
   {
     "id": 330,
     "name": "James Harden #71 - 2025/26 Topps NBA HOOPS Basketball Card",
-    "price": 2.85,
+    "price": 3,
     "image": "https://i.ebayimg.com/images/g/ISwAAeSwT05qD7MS/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168392922288",
     "category": "basketball",
@@ -3962,7 +3962,7 @@ window.products = [
   {
     "id": 331,
     "name": "Donovan Clingan #110 - 2025/26 Topps NBA HOOPS Basketball Card",
-    "price": 2.85,
+    "price": 3,
     "image": "https://i.ebayimg.com/images/g/AKMAAeSw6YZqD7L2/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168392921623",
     "category": "basketball",
@@ -3974,7 +3974,7 @@ window.products = [
   {
     "id": 332,
     "name": "Kyrie Irving #25 - 2025/26 Topps NBA HOOPS Basketball Card",
-    "price": 2.85,
+    "price": 3,
     "image": "https://i.ebayimg.com/images/g/tMcAAeSwzJ1qD7LX/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168392920269",
     "category": "basketball",
@@ -3986,7 +3986,7 @@ window.products = [
   {
     "id": 333,
     "name": "Jae'Sean Tate #248 - 2025/26 Topps NBA HOOPS Basketball Card",
-    "price": 2.85,
+    "price": 3,
     "image": "https://i.ebayimg.com/images/g/p~UAAeSwgsVqD7LB/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168392919876",
     "category": "basketball",
@@ -3998,7 +3998,7 @@ window.products = [
   {
     "id": 334,
     "name": "Naji Marshall #153 - 2025/26 Topps NBA HOOPS Basketball Card",
-    "price": 2.85,
+    "price": 3,
     "image": "https://i.ebayimg.com/images/g/wp0AAeSw8iBqD7G6/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168392910485",
     "category": "basketball",
@@ -4010,7 +4010,7 @@ window.products = [
   {
     "id": 335,
     "name": "Jamal Shead #164 SAND GLITTER - 2025/26 Topps NBA HOOPS Basketball Card",
-    "price": 3.8,
+    "price": 4,
     "image": "https://i.ebayimg.com/images/g/uF4AAeSwdkBqD7Gh/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168392909165",
     "category": "basketball",
@@ -4022,7 +4022,7 @@ window.products = [
   {
     "id": 336,
     "name": "Patrick Williams #245 WAVE FOIL - 2025/26 Topps NBA HOOPS Basketball Card",
-    "price": 2.85,
+    "price": 3,
     "image": "https://i.ebayimg.com/images/g/mrUAAeSwvb1qD6yl/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168392874448",
     "category": "basketball",
@@ -4046,7 +4046,7 @@ window.products = [
   {
     "id": 338,
     "name": "Andre Drummond #60 - 2025/26 Topps NBA HOOPS Basketball Card",
-    "price": 2.85,
+    "price": 3,
     "image": "https://i.ebayimg.com/images/g/KiwAAeSw0UlqD6xf/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168392870610",
     "category": "basketball",
@@ -4058,7 +4058,7 @@ window.products = [
   {
     "id": 339,
     "name": "Kristaps Porzingis #201 - 2025/26 Topps NBA HOOPS Basketball Card",
-    "price": 2.85,
+    "price": 3,
     "image": "https://i.ebayimg.com/images/g/Z4YAAeSwSoFqD6w~/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168392869847",
     "category": "basketball",
@@ -4070,7 +4070,7 @@ window.products = [
   {
     "id": 340,
     "name": "Grayson Allen #186 - 2025/26 Topps NBA HOOPS Basketball Card",
-    "price": 2.85,
+    "price": 3,
     "image": "https://i.ebayimg.com/images/g/HdUAAeSw9aNqD6wn/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168392869356",
     "category": "basketball",
@@ -4082,7 +4082,7 @@ window.products = [
   {
     "id": 341,
     "name": "Saddiq Bey #2 - 2025/26 Topps NBA HOOPS Basketball Card",
-    "price": 2.85,
+    "price": 3,
     "image": "https://i.ebayimg.com/images/g/VksAAeSwG3xqD6wP/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168392868920",
     "category": "basketball",
@@ -4094,7 +4094,7 @@ window.products = [
   {
     "id": 342,
     "name": "Jalen Suggs #13 - 2025/26 Topps NBA HOOPS Basketball Card",
-    "price": 2.85,
+    "price": 3,
     "image": "https://i.ebayimg.com/images/g/tmgAAeSwrclqD6v6/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168392868519",
     "category": "basketball",
@@ -4106,7 +4106,7 @@ window.products = [
   {
     "id": 343,
     "name": "Noah Penda #132 WAVE FOIL - 2025/26 Topps NBA HOOPS Basketball Card",
-    "price": 2.85,
+    "price": 3,
     "image": "https://i.ebayimg.com/images/g/7bMAAeSwtz5qD6vN/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168392866266",
     "category": "basketball",
@@ -4118,7 +4118,7 @@ window.products = [
   {
     "id": 344,
     "name": "Walter Clayton Jr. #173 - 2025/26 Topps NBA HOOPS Basketball Card",
-    "price": 2.85,
+    "price": 3,
     "image": "https://i.ebayimg.com/images/g/ZrEAAeSw44JqD6tl/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168392864206",
     "category": "basketball",
@@ -4130,7 +4130,7 @@ window.products = [
   {
     "id": 345,
     "name": "Dalton Knecht #260 - 2025/26 Topps NBA HOOPS Basketball Card",
-    "price": 2.85,
+    "price": 3,
     "image": "https://i.ebayimg.com/images/g/rwEAAeSwoslqD6tP/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168392863742",
     "category": "basketball",
@@ -4142,7 +4142,7 @@ window.products = [
   {
     "id": 346,
     "name": "Rob Dillingham #160 - 2025/26 Topps NBA HOOPS Basketball Card",
-    "price": 2.85,
+    "price": 3,
     "image": "https://i.ebayimg.com/images/g/f5EAAeSwd-5qD6s5/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168392863415",
     "category": "basketball",
@@ -4154,7 +4154,7 @@ window.products = [
   {
     "id": 347,
     "name": "Luguentz Dort #202 - 2025/26 Topps NBA HOOPS Basketball Card",
-    "price": 2.85,
+    "price": 3,
     "image": "https://i.ebayimg.com/images/g/ArQAAeSwCctqD6sh/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168392862490",
     "category": "basketball",
@@ -4166,7 +4166,7 @@ window.products = [
   {
     "id": 348,
     "name": "Buddy Hield #239 - 2025/26 Topps NBA HOOPS Basketball Card",
-    "price": 2.85,
+    "price": 3,
     "image": "https://i.ebayimg.com/images/g/9nUAAeSwsj1qD6sJ/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168392861293",
     "category": "basketball",
@@ -4178,7 +4178,7 @@ window.products = [
   {
     "id": 349,
     "name": "Jordan Hawkins #139 - 2025/26 Topps NBA HOOPS Basketball Card",
-    "price": 2.85,
+    "price": 3,
     "image": "https://i.ebayimg.com/images/g/9PkAAeSwHUxqD6r0/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168392861037",
     "category": "basketball",
@@ -4190,7 +4190,7 @@ window.products = [
   {
     "id": 350,
     "name": "Al Horford #34 - 2025/26 Topps NBA HOOPS Basketball Card",
-    "price": 2.85,
+    "price": 3,
     "image": "https://i.ebayimg.com/images/g/B18AAeSw16pqD6rd/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168392860553",
     "category": "basketball",
@@ -4202,7 +4202,7 @@ window.products = [
   {
     "id": 351,
     "name": "Oso Ighodaro #253 - 2025/26 Topps NBA HOOPS Basketball Card",
-    "price": 2.85,
+    "price": 3,
     "image": "https://i.ebayimg.com/images/g/eEoAAeSwqyxqD6rH/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168392857349",
     "category": "basketball",
@@ -4214,7 +4214,7 @@ window.products = [
   {
     "id": 352,
     "name": "Franz Wagner #40 - 2025/26 Topps NBA HOOPS Basketball Card",
-    "price": 2.85,
+    "price": 3,
     "image": "https://i.ebayimg.com/images/g/kWkAAeSwLGBqD6qt/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168392856401",
     "category": "basketball",
@@ -4226,7 +4226,7 @@ window.products = [
   {
     "id": 353,
     "name": "Zach Edey #296 - 2025/26 Topps NBA HOOPS Basketball Card",
-    "price": 4.75,
+    "price": 5,
     "image": "https://i.ebayimg.com/images/g/FbIAAeSwATdqD6qB/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168392855771",
     "category": "basketball",
@@ -4238,7 +4238,7 @@ window.products = [
   {
     "id": 354,
     "name": "Taurean Prince #92 - 2025/26 Topps NBA HOOPS Basketball Card",
-    "price": 2.85,
+    "price": 3,
     "image": "https://i.ebayimg.com/images/g/ZnIAAeSwKOdqD6ol/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168392854754",
     "category": "basketball",
@@ -4262,7 +4262,7 @@ window.products = [
   {
     "id": 356,
     "name": "Donovan Mitchell #287 - 2025/26 Topps NBA HOOPS Basketball Card",
-    "price": 2.85,
+    "price": 3,
     "image": "https://i.ebayimg.com/images/g/uJoAAeSw6YZqD6Ts/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168392823916",
     "category": "basketball",
@@ -4274,7 +4274,7 @@ window.products = [
   {
     "id": 357,
     "name": "Jaden Ivey #187 - 2025/26 Topps NBA HOOPS Basketball Card",
-    "price": 2.85,
+    "price": 3,
     "image": "https://i.ebayimg.com/images/g/PFUAAeSwXCBqD6TH/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168392822717",
     "category": "basketball",
@@ -4286,7 +4286,7 @@ window.products = [
   {
     "id": 358,
     "name": "Ja Morant #220 - 2025/26 Topps NBA HOOPS Basketball Card",
-    "price": 2.84,
+    "price": 2.99,
     "image": "https://i.ebayimg.com/images/g/12kAAeSwRohqD6Sw/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168392822309",
     "category": "basketball",
@@ -4298,7 +4298,7 @@ window.products = [
   {
     "id": 359,
     "name": "Tyler Herro #4 - 2025/26 Topps NBA HOOPS Basketball Card",
-    "price": 2.85,
+    "price": 3,
     "image": "https://i.ebayimg.com/images/g/ls8AAeSw7kpqD6SQ/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168392822000",
     "category": "basketball",
@@ -4310,7 +4310,7 @@ window.products = [
   {
     "id": 360,
     "name": "Zach Collins #176 - 2025/26 Topps NBA HOOPS Basketball Card",
-    "price": 2.85,
+    "price": 3,
     "image": "https://i.ebayimg.com/images/g/fRwAAeSw5spqD6QF/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168392817750",
     "category": "basketball",
@@ -4322,7 +4322,7 @@ window.products = [
   {
     "id": 361,
     "name": "Chris Paul #247 - 2025/26 Topps NBA HOOPS Basketball Card",
-    "price": 2.85,
+    "price": 3,
     "image": "https://i.ebayimg.com/images/g/EvUAAeSwbvhqD6Pu/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168392817144",
     "category": "basketball",
@@ -4334,7 +4334,7 @@ window.products = [
   {
     "id": 362,
     "name": "Jaylen Wells #96 - 2025/26 Topps NBA HOOPS Basketball Card",
-    "price": 2.85,
+    "price": 3,
     "image": "https://i.ebayimg.com/images/g/9b8AAeSwZnJqD6Pa/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168392817012",
     "category": "basketball",
@@ -4346,7 +4346,7 @@ window.products = [
   {
     "id": 363,
     "name": "Anthony Edwards #279 - 2025/26 Topps NBA HOOPS Basketball Card",
-    "price": 2.85,
+    "price": 3,
     "image": "https://i.ebayimg.com/images/g/38QAAeSwZZBqD6Ov/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168392816097",
     "category": "basketball",
@@ -4358,7 +4358,7 @@ window.products = [
   {
     "id": 364,
     "name": "Thomas Sorber #88 - 2025/26 Topps NBA HOOPS Basketball Card",
-    "price": 2.85,
+    "price": 3,
     "image": "https://i.ebayimg.com/images/g/5WAAAeSwNnNqD6OC/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168392813748",
     "category": "basketball",
@@ -4370,7 +4370,7 @@ window.products = [
   {
     "id": 365,
     "name": "Damian Lillard #136 - 2025/26 Topps NBA HOOPS Basketball Card",
-    "price": 2.85,
+    "price": 3,
     "image": "https://i.ebayimg.com/images/g/aBMAAeSwdJBqD6Nn/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168392812932",
     "category": "basketball",
@@ -4382,7 +4382,7 @@ window.products = [
   {
     "id": 366,
     "name": "Bobby Portis #79 - 2025/26 Topps NBA HOOPS Basketball Card",
-    "price": 2.85,
+    "price": 3,
     "image": "https://i.ebayimg.com/images/g/jQoAAeSwrclqD6NA/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168392810962",
     "category": "basketball",
@@ -4394,7 +4394,7 @@ window.products = [
   {
     "id": 367,
     "name": "Joel Embiid #9 - 2025/26 Topps NBA HOOPS Basketball Card",
-    "price": 2.85,
+    "price": 3,
     "image": "https://i.ebayimg.com/images/g/K1kAAeSwwilqD6Mg/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168392809241",
     "category": "basketball",
@@ -4406,7 +4406,7 @@ window.products = [
   {
     "id": 368,
     "name": "Tre Johnson III #226 - 2025/26 Topps NBA HOOPS Basketball Card",
-    "price": 2.85,
+    "price": 3,
     "image": "https://i.ebayimg.com/images/g/aO0AAeSwa2BqD6MI/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168392807835",
     "category": "basketball",
@@ -4418,7 +4418,7 @@ window.products = [
   {
     "id": 369,
     "name": "Alex Caruso #24 - 2025/26 Topps NBA HOOPS Basketball Card",
-    "price": 2.85,
+    "price": 3,
     "image": "https://i.ebayimg.com/images/g/3xUAAeSwNF5qD6Lt/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168392806288",
     "category": "basketball",
@@ -4430,7 +4430,7 @@ window.products = [
   {
     "id": 370,
     "name": "Nicolas Batum #152 WAVE FOIL - 2025/26 Topps NBA HOOPS Basketball Card",
-    "price": 2.85,
+    "price": 3,
     "image": "https://i.ebayimg.com/images/g/5e0AAeSwisJqD6IC/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168392799089",
     "category": "basketball",
@@ -4442,7 +4442,7 @@ window.products = [
   {
     "id": 371,
     "name": "Jase Richardson (RC) #NE-19 - 2025/26 Topps NBA HOOPS Basketball Card",
-    "price": 4.75,
+    "price": 5,
     "image": "https://i.ebayimg.com/images/g/S4sAAeSwCVRqD6HG/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168392795617",
     "category": "basketball",
@@ -4454,7 +4454,7 @@ window.products = [
   {
     "id": 372,
     "name": "James Harden #276 - 2025/26 Topps NBA HOOPS Basketball Card",
-    "price": 2.85,
+    "price": 3,
     "image": "https://i.ebayimg.com/images/g/COIAAeSwkB5qD6FJ/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168392794203",
     "category": "basketball",
@@ -10874,7 +10874,7 @@ window.products = [
   {
     "id": 907,
     "name": "Derik Queen - 2024-25 Bowman U NOW® Basketball - Card 63 Maryland",
-    "price": 2.84,
+    "price": 2.99,
     "image": "https://i.ebayimg.com/images/g/H4UAAOSw56Nnq9Op/s-l300.png",
     "url": "https://www.ebay.com/itm/168385316116",
     "category": "basketball",
@@ -10970,7 +10970,7 @@ window.products = [
   {
     "id": 915,
     "name": "Dylan Harper - 2024-25 Bowman U NOW® Basketball Card: 38 Rutgers",
-    "price": 2.85,
+    "price": 3,
     "image": "https://i.ebayimg.com/images/g/43YAAOSwMbZndF8g/s-l300.png",
     "url": "https://www.ebay.com/itm/168385311741",
     "category": "basketball",
@@ -12338,7 +12338,7 @@ window.products = [
   {
     "id": 1029,
     "name": "Flory Bidunga - 2024-25 Bowman U NOW® Basketball - Card 74",
-    "price": 2.42,
+    "price": 2.55,
     "image": "https://i.ebayimg.com/images/g/6UIAAOSwaipnvkKe/s-l300.png",
     "url": "https://www.ebay.com/itm/168382950091",
     "category": "basketball",
@@ -12650,7 +12650,7 @@ window.products = [
   {
     "id": 1055,
     "name": "Adou Thiero (RC) #BRR-36 REFRACTOR - 2025/26 Topps Bowman Basketball - NBA Card",
-    "price": 4.75,
+    "price": 5,
     "image": "https://i.ebayimg.com/images/g/BJ4AAeSwPaJp83GD/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168381208765",
     "category": "basketball",
@@ -12746,7 +12746,7 @@ window.products = [
   {
     "id": 1063,
     "name": "Jasper Johnson #14 DMG* - 2025/26 Topps Bowman U Best Basketball NCAA",
-    "price": 4.75,
+    "price": 5,
     "image": "https://i.ebayimg.com/images/g/b7sAAeSwwatqCWFT/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168381163730",
     "category": "basketball",
@@ -14546,7 +14546,7 @@ window.products = [
   {
     "id": 1213,
     "name": "451/499* Jamier Jones #BCP-59 REFRACTOR - 2025/26 Topps Bowman Basketball - NBA",
-    "price": 3.8,
+    "price": 4,
     "image": "https://i.ebayimg.com/images/g/XcQAAeSwuzJp8hOi/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168375604054",
     "category": "basketball",
@@ -14558,7 +14558,7 @@ window.products = [
   {
     "id": 1214,
     "name": "51/99* Dalton Knecht #BCV-194 PARALLEL - 2025/26 Topps Bowman Basketball - NBA C",
-    "price": 4.75,
+    "price": 5,
     "image": "https://i.ebayimg.com/images/g/TN8AAeSw5Jpp8hV6/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168375604048",
     "category": "basketball",
@@ -14582,7 +14582,7 @@ window.products = [
   {
     "id": 1216,
     "name": "Addison Deal #BCP-50 REPTILIAN - 2025/26 Topps Bowman Basketball - NBA Card",
-    "price": 3.8,
+    "price": 4,
     "image": "https://i.ebayimg.com/images/g/s84AAeSwuqdp8CAA/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168375604045",
     "category": "basketball",
@@ -14594,7 +14594,7 @@ window.products = [
   {
     "id": 1217,
     "name": "096/150* Milos Uzan #BPP-40 PARALLEL - 2025/26 Topps Bowman Basketball - NBA",
-    "price": 4.75,
+    "price": 5,
     "image": "https://i.ebayimg.com/images/g/MBsAAeSwNw1p8g~H/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168375604042",
     "category": "basketball",
@@ -16262,7 +16262,7 @@ window.products = [
   {
     "id": 1356,
     "name": "Jamal Murray #BCV-101 REPTILIAN - 2025/26 Topps Bowman Basketball - NBA Card",
-    "price": 2.85,
+    "price": 3,
     "image": "https://i.ebayimg.com/images/g/mmMAAeSw93Np9R1X/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168346546239",
     "category": "basketball",
@@ -16286,7 +16286,7 @@ window.products = [
   {
     "id": 1358,
     "name": "Tyrese Haliburton #YK-3 - 2025/26 Topps Bowman Basketball - NBA Card",
-    "price": 1.9,
+    "price": 2,
     "image": "https://i.ebayimg.com/images/g/NNIAAeSwe5tp9R0C/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168346545066",
     "category": "basketball",
@@ -16298,7 +16298,7 @@ window.products = [
   {
     "id": 1359,
     "name": "Shelton Henderson #BCP-10 REPTILIAN - 2025/26 Topps Bowman Basketball - NBA Card",
-    "price": 4.75,
+    "price": 5,
     "image": "https://i.ebayimg.com/images/g/bpoAAeSwo41p9RxG/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168346541731",
     "category": "basketball",
@@ -16310,7 +16310,7 @@ window.products = [
   {
     "id": 1360,
     "name": "Sarah Strong #BV-5 - 2025/26 Topps Bowman Basketball - NBA Card",
-    "price": 1.9,
+    "price": 2,
     "image": "https://i.ebayimg.com/images/g/ur4AAeSwctZp9Rwu/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168346541241",
     "category": "basketball",
@@ -16322,7 +16322,7 @@ window.products = [
   {
     "id": 1361,
     "name": "Derik Queen #GL-13 - 2025/26 Topps Bowman Basketball - NBA Card",
-    "price": 2.85,
+    "price": 3,
     "image": "https://i.ebayimg.com/images/g/juAAAeSwJyRp9Rts/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168346531844",
     "category": "basketball",
@@ -16382,7 +16382,7 @@ window.products = [
   {
     "id": 1366,
     "name": "Wesley Yates III #BCP-43 REPTILIAN - 2025/26 Topps Bowman Basketball - NBA Card",
-    "price": 4.75,
+    "price": 5,
     "image": "https://i.ebayimg.com/images/g/ewMAAeSwAxtp9RqX/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168346525488",
     "category": "basketball",
@@ -16394,7 +16394,7 @@ window.products = [
   {
     "id": 1367,
     "name": "Jalen Brunson #HS-11 - 2025/26 Topps Bowman Basketball - NBA Card",
-    "price": 2.61,
+    "price": 2.75,
     "image": "https://i.ebayimg.com/images/g/nn8AAeSwsL5p9Rno/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168346523119",
     "category": "basketball",
@@ -16430,7 +16430,7 @@ window.products = [
   {
     "id": 1370,
     "name": "Nic Claxton #BCV-150 REPTILIAN - 2025/26 Topps Bowman Basketball - NBA Card",
-    "price": 2.85,
+    "price": 3,
     "image": "https://i.ebayimg.com/images/g/8UMAAeSwKOdp9Rli/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168346519946",
     "category": "basketball",
@@ -16478,7 +16478,7 @@ window.products = [
   {
     "id": 1374,
     "name": "Brandon Garrison #BCP-97 REPTILIAN - 2025/26 Topps Bowman Basketball - NBA Card",
-    "price": 4.75,
+    "price": 5,
     "image": "https://i.ebayimg.com/images/g/-hAAAeSw73lp9RhP/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168346514841",
     "category": "basketball",
@@ -16514,7 +16514,7 @@ window.products = [
   {
     "id": 1377,
     "name": "Dereck Lively II #BCV-198 REPTILIAN - 2025/26 Topps Bowman Basketball - NBA Card",
-    "price": 2.85,
+    "price": 3,
     "image": "https://i.ebayimg.com/images/g/hSwAAeSw88dp9RcT/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168346508262",
     "category": "basketball",
@@ -16550,7 +16550,7 @@ window.products = [
   {
     "id": 1380,
     "name": "Koa Peat #TT-3 Talent Tracker - 2025/26 Topps Bowman Basketball - NBA Card",
-    "price": 1.9,
+    "price": 2,
     "image": "https://i.ebayimg.com/images/g/TRIAAeSwisJp9Ra2/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168346504690",
     "category": "basketball",
@@ -16658,7 +16658,7 @@ window.products = [
   {
     "id": 1389,
     "name": "Taelon Peter (RC) #BCV-50 CHROME - 2025/26 Topps Bowman Basketball - NBA Card",
-    "price": 2.85,
+    "price": 3,
     "image": "https://i.ebayimg.com/images/g/xOIAAeSwCDZp9BSN/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168344548358",
     "category": "basketball",
@@ -16706,7 +16706,7 @@ window.products = [
   {
     "id": 1393,
     "name": "Tristan Da Silva #BCV-175 REPTILIAN REFRACTOR - 2025/26 Topps Bowman Basketball",
-    "price": 2.85,
+    "price": 3,
     "image": "https://i.ebayimg.com/images/g/HPgAAeSwph5p9BBZ/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168344518592",
     "category": "basketball",
@@ -16730,7 +16730,7 @@ window.products = [
   {
     "id": 1395,
     "name": "Bryson Tiller #BCP-8 CHROME - 2025/26 Topps Bowman Basketball - NBA Card",
-    "price": 2.14,
+    "price": 2.25,
     "image": "https://i.ebayimg.com/images/g/fdoAAeSwsL5p9BAM/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168344513296",
     "category": "basketball",
@@ -16934,7 +16934,7 @@ window.products = [
   {
     "id": 1412,
     "name": "Carter Bryant (RC) #BCV-14 CHROME - 2025/26 Topps Bowman Basketball - NBA Card",
-    "price": 1.9,
+    "price": 2,
     "image": "https://i.ebayimg.com/images/g/csEAAeSwkuZp8~5f/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168344408430",
     "category": "basketball",
@@ -16946,7 +16946,7 @@ window.products = [
   {
     "id": 1413,
     "name": "Dirk Nowitzki #YK-20 Young Kings - 2025/26 Topps Bowman Basketball - NBA Card",
-    "price": 2.85,
+    "price": 3,
     "image": "https://i.ebayimg.com/images/g/U8AAAeSwWxpp8~5G/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168344407952",
     "category": "basketball",
@@ -16958,7 +16958,7 @@ window.products = [
   {
     "id": 1414,
     "name": "Madison Booker #GN-20 Gen Next - 2025/26 Topps Bowman Basketball - NBA Card",
-    "price": 2.85,
+    "price": 3,
     "image": "https://i.ebayimg.com/images/g/bfwAAeSwMCZp8~4q/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168344407690",
     "category": "basketball",
@@ -16982,7 +16982,7 @@ window.products = [
   {
     "id": 1416,
     "name": "Ace Bailey #GL-5 Greatness Loading - 2025/26 Topps Bowman Basketball - NBA Card",
-    "price": 2.85,
+    "price": 3,
     "image": "https://i.ebayimg.com/images/g/XQMAAeSwC1Zp8~11/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168344403558",
     "category": "basketball",
@@ -16994,7 +16994,7 @@ window.products = [
   {
     "id": 1417,
     "name": "LaMelo Ball #BCV-86 CHROME - 2025/26 Topps Bowman Basketball - NBA Card",
-    "price": 2.85,
+    "price": 3,
     "image": "https://i.ebayimg.com/images/g/Q64AAeSwNw1p8~1X/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168344401025",
     "category": "basketball",
@@ -17006,7 +17006,7 @@ window.products = [
   {
     "id": 1418,
     "name": "Trae Young #BCV-83 REPTILIAN REFRACTOR - 2025/26 Topps Bowman Basketball - NBA C",
-    "price": 2.85,
+    "price": 3,
     "image": "https://i.ebayimg.com/images/g/Wc4AAeSwC1Zp8~0V/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168344397299",
     "category": "basketball",
@@ -17066,7 +17066,7 @@ window.products = [
   {
     "id": 1423,
     "name": "Nate Calmese #BCP-92 REPTILIAN REFRACTOR - 2025/26 Topps Bowman Basketball - NBA",
-    "price": 2.85,
+    "price": 3,
     "image": "https://i.ebayimg.com/images/g/M0QAAeSwCctp8~t0/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168344386224",
     "category": "basketball",
@@ -17198,7 +17198,7 @@ window.products = [
   {
     "id": 1434,
     "name": "Stephen Curry #BCV-115 CHROME - 2025/26 Topps Bowman Basketball - NBA Card",
-    "price": 2.85,
+    "price": 3,
     "image": "https://i.ebayimg.com/images/g/GEsAAeSwQW9p8~kg/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168344372682",
     "category": "basketball",
@@ -17222,7 +17222,7 @@ window.products = [
   {
     "id": 1436,
     "name": "Kevin Durant #YK-14 Young Kings - 2025/26 Topps Bowman Basketball - NBA Card",
-    "price": 1.9,
+    "price": 2,
     "image": "https://i.ebayimg.com/images/g/Uj4AAeSwF7Vp8-Nh/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168344208028",
     "category": "basketball",
@@ -17234,7 +17234,7 @@ window.products = [
   {
     "id": 1437,
     "name": "LaMelo Ball #BCV-86 REPTILIAN REFRACTOR - 2025/26 Topps Bowman Basketball - NBA",
-    "price": 4.75,
+    "price": 5,
     "image": "https://i.ebayimg.com/images/g/JXwAAeSwANFp8-Ko/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168344205263",
     "category": "basketball",
@@ -17306,7 +17306,7 @@ window.products = [
   {
     "id": 1443,
     "name": "Tre Johnson III #RR-6 Rockstar Rookies - 2025/26 Topps Bowman Basketball - NBA C",
-    "price": 1.9,
+    "price": 2,
     "image": "https://i.ebayimg.com/images/g/FKAAAeSwwplp8-GE/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168344199748",
     "category": "basketball",
@@ -17330,7 +17330,7 @@ window.products = [
   {
     "id": 1445,
     "name": "Bennett Stirtz #TT-14 - 2025/26 Topps Bowman Basketball - NBA Card",
-    "price": 2.85,
+    "price": 3,
     "image": "https://i.ebayimg.com/images/g/a-8AAeSwSx9p8-EY/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168344192359",
     "category": "basketball",
@@ -17366,7 +17366,7 @@ window.products = [
   {
     "id": 1448,
     "name": "Winters Grady #BCP-67 REPTILIAN - 2025/26 Topps Bowman Basketball - NBA Card",
-    "price": 4.75,
+    "price": 5,
     "image": "https://i.ebayimg.com/images/g/oHkAAeSwe69p8-CJ/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168344185296",
     "category": "basketball",
@@ -17390,7 +17390,7 @@ window.products = [
   {
     "id": 1450,
     "name": "Larry Bird #YK-17 Young Kings - 2025/26 Topps Bowman Basketball - NBA Card",
-    "price": 2.85,
+    "price": 3,
     "image": "https://i.ebayimg.com/images/g/UPMAAeSwrHRp8-Aw/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168344183453",
     "category": "basketball",
@@ -17402,7 +17402,7 @@ window.products = [
   {
     "id": 1451,
     "name": "Koa Peat #VIP-3  - 2025/26 Topps Bowman Basketball - NBA Card",
-    "price": 1.9,
+    "price": 2,
     "image": "https://i.ebayimg.com/images/g/AyYAAeSwZPJp887R/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168344058387",
     "category": "basketball",
@@ -17450,7 +17450,7 @@ window.products = [
   {
     "id": 1455,
     "name": "ZaKiyah Johnson #BV-21 - 2025/26 Topps Bowman Basketball - NBA Card",
-    "price": 1.9,
+    "price": 2,
     "image": "https://i.ebayimg.com/images/g/nwoAAeSw0lVp83MC/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168343235478",
     "category": "basketball",
@@ -17462,7 +17462,7 @@ window.products = [
   {
     "id": 1456,
     "name": "Kaelyn Carroll #BCP-82 REPTILIAN REFRACTOR - 2025/26 Topps Bowman Basketball - N",
-    "price": 3.33,
+    "price": 3.5,
     "image": "https://i.ebayimg.com/images/g/cVMAAeSwPIZp83J0/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168343231609",
     "category": "basketball",
@@ -17474,7 +17474,7 @@ window.products = [
   {
     "id": 1457,
     "name": "Tyrese Maxey #BCV-66 CHROME - 2025/26 Topps Bowman Basketball - NBA Card",
-    "price": 1.9,
+    "price": 2,
     "image": "https://i.ebayimg.com/images/g/KA8AAeSwqZVp83Ja/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168343230653",
     "category": "basketball",
@@ -17486,7 +17486,7 @@ window.products = [
   {
     "id": 1458,
     "name": "Jason Edwards #BCP-16 CHROME - 2025/26 Topps Bowman Basketball - NBA Card",
-    "price": 1.9,
+    "price": 2,
     "image": "https://i.ebayimg.com/images/g/uiwAAeSwILhp83JH/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168343230106",
     "category": "basketball",
@@ -17498,7 +17498,7 @@ window.products = [
   {
     "id": 1459,
     "name": "Paul George #BCV-154 CHROME - 2025/26 Topps Bowman Basketball - NBA Card",
-    "price": 1.9,
+    "price": 2,
     "image": "https://i.ebayimg.com/images/g/520AAeSwkxVp83IX/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168343227956",
     "category": "basketball",
@@ -17510,7 +17510,7 @@ window.products = [
   {
     "id": 1460,
     "name": "Luka Doncic #YK-2 YOUNG KINGS - 2025/26 Topps Bowman Basketball - NBA Card",
-    "price": 3.8,
+    "price": 4,
     "image": "https://i.ebayimg.com/images/g/xJMAAeSw0k5p83H2/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168343227101",
     "category": "basketball",
@@ -17522,7 +17522,7 @@ window.products = [
   {
     "id": 1461,
     "name": "Jaylen Brown #BCV-57 REPTILIAN REFRACTOR - 2025/26 Topps Bowman Basketball",
-    "price": 2.85,
+    "price": 3,
     "image": "https://i.ebayimg.com/images/g/xVoAAeSwhYVp83Hc/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168343225863",
     "category": "basketball",
@@ -17534,7 +17534,7 @@ window.products = [
   {
     "id": 1462,
     "name": "Guerschon Yabusele #BCV-155 CHROME - 2025/26 Topps Bowman Basketball - NBA Card",
-    "price": 1.9,
+    "price": 2,
     "image": "https://i.ebayimg.com/images/g/vfQAAeSw8P5p83G3/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168343224345",
     "category": "basketball",
@@ -17546,7 +17546,7 @@ window.products = [
   {
     "id": 1463,
     "name": "Xaivan Lee #BCP-28 CHROME - 2025/26 Topps Bowman Basketball - NBA Card",
-    "price": 1.9,
+    "price": 2,
     "image": "https://i.ebayimg.com/images/g/9kYAAeSwC1Zp83Gh/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168343223488",
     "category": "basketball",
@@ -17558,7 +17558,7 @@ window.products = [
   {
     "id": 1464,
     "name": "Ivica Zubac #BCV-120 CHROME - 2025/26 Topps Bowman Basketball - NBA Card",
-    "price": 1.9,
+    "price": 2,
     "image": "https://i.ebayimg.com/images/g/sOkAAeSw8Ghp83Ey/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168343219954",
     "category": "basketball",
@@ -17570,7 +17570,7 @@ window.products = [
   {
     "id": 1465,
     "name": "Zach LaVine #BCV-128 CHROME - 2025/26 Topps Bowman Basketball - NBA Card",
-    "price": 1.9,
+    "price": 2,
     "image": "https://i.ebayimg.com/images/g/zLQAAeSwQIpp83D-/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168343217814",
     "category": "basketball",
@@ -17582,7 +17582,7 @@ window.products = [
   {
     "id": 1466,
     "name": "Nate Ament #TT-10 Talent Tracker - 2025/26 Topps Bowman Basketball - NBA Card",
-    "price": 1.9,
+    "price": 2,
     "image": "https://i.ebayimg.com/images/g/6zMAAeSwQW9p83Bj/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168343209729",
     "category": "basketball",
@@ -17594,7 +17594,7 @@ window.products = [
   {
     "id": 1467,
     "name": "Leah Macy #BCP-61 REPTILIAN REFRACTOR - 2025/26 Topps Bowman Basketball - NBA Ca",
-    "price": 2.85,
+    "price": 3,
     "image": "https://i.ebayimg.com/images/g/7q0AAeSwZK1p83AE/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168343208741",
     "category": "basketball",
@@ -17606,7 +17606,7 @@ window.products = [
   {
     "id": 1468,
     "name": "Hugo Gonzalez (RC) #BCV-28 CHROME - 2025/26 Topps Bowman Basketball - NBA Card",
-    "price": 1.9,
+    "price": 2,
     "image": "https://i.ebayimg.com/images/g/KmwAAeSwvb1p82~n/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168343208327",
     "category": "basketball",
@@ -17618,7 +17618,7 @@ window.products = [
   {
     "id": 1469,
     "name": "De'Aaron Fox #BCV-144 CHROME - 2025/26 Topps Bowman Basketball - NBA Card",
-    "price": 1.9,
+    "price": 2,
     "image": "https://i.ebayimg.com/images/g/KDAAAeSweJZp82-E/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168343206063",
     "category": "basketball",
@@ -17630,7 +17630,7 @@ window.products = [
   {
     "id": 1470,
     "name": "Desmond Bane #BCV-138 CHROME - 2025/26 Topps Bowman Basketball - NBA Card",
-    "price": 1.9,
+    "price": 2,
     "image": "https://i.ebayimg.com/images/g/dVAAAeSwRxtp828a/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168343204484",
     "category": "basketball",
@@ -17642,7 +17642,7 @@ window.products = [
   {
     "id": 1471,
     "name": "Taelon Peter (RC) #BRR-50 REFRACTOR - 2025/26 Topps Bowman Basketball - NBA Card",
-    "price": 4.75,
+    "price": 5,
     "image": "https://i.ebayimg.com/images/g/25wAAeSwLFVp826N/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168343203021",
     "category": "basketball",
@@ -17654,7 +17654,7 @@ window.products = [
   {
     "id": 1472,
     "name": "Jamir Watkins #BCV-44 CHROME - 2025/26 Topps Bowman Basketball - NBA Card",
-    "price": 1.9,
+    "price": 2,
     "image": "https://i.ebayimg.com/images/g/c-8AAeSweFVp825o/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168343202419",
     "category": "basketball",
@@ -17666,7 +17666,7 @@ window.products = [
   {
     "id": 1473,
     "name": "Yang Hansen (RC) #RR-16 - 2025/26 Topps Bowman Basketball - NBA Card",
-    "price": 1.9,
+    "price": 2,
     "image": "https://i.ebayimg.com/images/g/Z2IAAeSwLuFp824k/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168343201047",
     "category": "basketball",
@@ -17678,7 +17678,7 @@ window.products = [
   {
     "id": 1474,
     "name": "Tyrese Proctor #BCV-55 CHROME - 2025/26 Topps Bowman Basketball - NBA Card",
-    "price": 1.9,
+    "price": 2,
     "image": "https://i.ebayimg.com/images/g/AdkAAeSwfLxp824L/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168343200757",
     "category": "basketball",
@@ -17690,7 +17690,7 @@ window.products = [
   {
     "id": 1475,
     "name": "Jaida Civil #TT-23 Talent Tracker - 2025/26 Topps Bowman Basketball - NBA Card",
-    "price": 1.9,
+    "price": 2,
     "image": "https://i.ebayimg.com/images/g/ZnsAAeSwCctp8jQm/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168340871998",
     "category": "basketball",
@@ -17702,7 +17702,7 @@ window.products = [
   {
     "id": 1476,
     "name": "Jaylen Brown #BCV-57 CHROME - 2025/26 Topps Bowman Basketball - NBA Card",
-    "price": 1.9,
+    "price": 2,
     "image": "https://i.ebayimg.com/images/g/zGoAAeSwPmNp8jQQ/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168340871463",
     "category": "basketball",
@@ -17726,7 +17726,7 @@ window.products = [
   {
     "id": 1478,
     "name": "Ron Holland II #BCV-160 CHROME - 2025/26 Topps Bowman Basketball - NBA Card",
-    "price": 1.9,
+    "price": 2,
     "image": "https://i.ebayimg.com/images/g/5KUAAeSwJnVp8jNb/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168340867337",
     "category": "basketball",
@@ -17738,7 +17738,7 @@ window.products = [
   {
     "id": 1479,
     "name": "Xaivian Lee #BCP-28 CHROME - 2025/26 Topps Bowman Basketball - NBA Card",
-    "price": 1.9,
+    "price": 2,
     "image": "https://i.ebayimg.com/images/g/5r4AAeSw4ABp8jNH/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168340866774",
     "category": "basketball",
@@ -17750,7 +17750,7 @@ window.products = [
   {
     "id": 1480,
     "name": "Jordan Clarkson #BCV-190 CHROME - 2025/26 Topps Bowman Basketball - NBA Card",
-    "price": 1.9,
+    "price": 2,
     "image": "https://i.ebayimg.com/images/g/XrwAAeSwQdhp8jL4/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168340866030",
     "category": "basketball",
@@ -17774,7 +17774,7 @@ window.products = [
   {
     "id": 1482,
     "name": "Thomas Sorber #BCV-15 REPTILIAN - 2025/26 Topps Bowman Basketball - NBA Card",
-    "price": 2.85,
+    "price": 3,
     "image": "https://i.ebayimg.com/images/g/QrUAAeSwGjRp8jLD/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168340864381",
     "category": "basketball",
@@ -17786,7 +17786,7 @@ window.products = [
   {
     "id": 1483,
     "name": "Jalen Wilson #BCV-60 CHROME - 2025/26 Topps Bowman Basketball - NBA Card",
-    "price": 1.9,
+    "price": 2,
     "image": "https://i.ebayimg.com/images/g/yRsAAeSwQzRp8jKp/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168340862700",
     "category": "basketball",
@@ -17798,7 +17798,7 @@ window.products = [
   {
     "id": 1484,
     "name": "Sebastian Wilkins #BCP-99 CHROME - 2025/26 Topps Bowman Basketball - NBA Card",
-    "price": 1.9,
+    "price": 2,
     "image": "https://i.ebayimg.com/images/g/AtYAAeSwICVp8jKW/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168340861923",
     "category": "basketball",
@@ -17810,7 +17810,7 @@ window.products = [
   {
     "id": 1485,
     "name": "Kel'el Ware #BCV-90 CHROME - 2025/26 Topps Bowman Basketball - NBA Card",
-    "price": 1.9,
+    "price": 2,
     "image": "https://i.ebayimg.com/images/g/3rMAAeSw4ABp8jJ8/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168340860547",
     "category": "basketball",
@@ -17822,7 +17822,7 @@ window.products = [
   {
     "id": 1486,
     "name": "Noah Clowney #BCV-151 CHROME - 2025/26 Topps Bowman Basketball - NBA Card",
-    "price": 1.9,
+    "price": 2,
     "image": "https://i.ebayimg.com/images/g/5XIAAeSwHpNp8jHk/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168340850957",
     "category": "basketball",
@@ -17846,7 +17846,7 @@ window.products = [
   {
     "id": 1488,
     "name": "Agot Makeer #BCP-34 REPTILIAN REFRACTOR - 2025/26 Topps Bowman Basketball - NBA",
-    "price": 2.85,
+    "price": 3,
     "image": "https://i.ebayimg.com/images/g/0Z4AAeSwcg9p8jGS/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168340849779",
     "category": "basketball",
@@ -17858,7 +17858,7 @@ window.products = [
   {
     "id": 1489,
     "name": "Acaden Lewis #BCP-14 CHROME - 2025/26 Topps Bowman Basketball - NBA Card",
-    "price": 1.9,
+    "price": 2,
     "image": "https://i.ebayimg.com/images/g/0foAAeSwm6Zp8jF1/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168340849410",
     "category": "basketball",
@@ -17870,7 +17870,7 @@ window.products = [
   {
     "id": 1490,
     "name": "Kon Knueppel (RC) #4 BASE CARD - 2025/26 Topps Bowman Basketball - NBA Card",
-    "price": 1.9,
+    "price": 2,
     "image": "https://i.ebayimg.com/images/g/sQoAAeSwjCJp8jFf/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168340849129",
     "category": "basketball",
@@ -17894,7 +17894,7 @@ window.products = [
   {
     "id": 1492,
     "name": "Kasparas Jakucionis (RC) #GL-20 - 2025/26 Topps Bowman Basketball - NBA Card",
-    "price": 1.9,
+    "price": 2,
     "image": "https://i.ebayimg.com/images/g/1l8AAeSwQOlp8jCc/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168340846470",
     "category": "basketball",
@@ -17906,7 +17906,7 @@ window.products = [
   {
     "id": 1493,
     "name": "Lachlan Olbrich #BCV-51 CHROME - 2025/26 Topps Bowman Basketball - NBA Card",
-    "price": 1.9,
+    "price": 2,
     "image": "https://i.ebayimg.com/images/g/-N0AAeSw1Hpp8jB8/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168340846116",
     "category": "basketball",
@@ -17918,7 +17918,7 @@ window.products = [
   {
     "id": 1494,
     "name": "Niko Bundalo #BCP-18 CHROME - 2025/26 Topps Bowman Basketball - NBA Card",
-    "price": 1.9,
+    "price": 2,
     "image": "https://i.ebayimg.com/images/g/5zEAAeSw0F5p8jBd/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168340845570",
     "category": "basketball",
@@ -17930,7 +17930,7 @@ window.products = [
   {
     "id": 1495,
     "name": "Tidjane Salaun #BCV-169 REPTILIAN - 2025/26 Topps Bowman Basketball - NBA Card",
-    "price": 3.33,
+    "price": 3.5,
     "image": "https://i.ebayimg.com/images/g/v2EAAeSwJnVp8i8F/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168340839687",
     "category": "basketball",
@@ -17942,7 +17942,7 @@ window.products = [
   {
     "id": 1496,
     "name": "Obi Toppin #BCV-162 CHROME - 2025/26 Topps Bowman Basketball - NBA Card",
-    "price": 1.9,
+    "price": 2,
     "image": "https://i.ebayimg.com/images/g/yW4AAeSwGgVp8i7g/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168340838908",
     "category": "basketball",
@@ -17954,7 +17954,7 @@ window.products = [
   {
     "id": 1497,
     "name": "Aaliyah Crump #BCP-33 CHROME - 2025/26 Topps Bowman Basketball - NBA Card",
-    "price": 1.9,
+    "price": 2,
     "image": "https://i.ebayimg.com/images/g/z~QAAeSwCbZp8i6P/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168340836061",
     "category": "basketball",
@@ -17966,7 +17966,7 @@ window.products = [
   {
     "id": 1498,
     "name": "Sienna Betts #VIP-6 - 2025/26 Topps Bowman Basketball - NBA Card",
-    "price": 1.9,
+    "price": 2,
     "image": "https://i.ebayimg.com/images/g/x0gAAeSw8iBp8i54/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168340834116",
     "category": "basketball",
@@ -17978,7 +17978,7 @@ window.products = [
   {
     "id": 1499,
     "name": "Oso Ighodaro #BCV-196 CHROME - 2025/26 Topps Bowman Basketball - NBA Card",
-    "price": 1.9,
+    "price": 2,
     "image": "https://i.ebayimg.com/images/g/6JAAAeSw0t5p8i5Z/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168340832397",
     "category": "basketball",
@@ -17990,7 +17990,7 @@ window.products = [
   {
     "id": 1500,
     "name": "Davis Fogle #BCP-47 CHROME - 2025/26 Topps Bowman Basketball - NBA Card",
-    "price": 1.9,
+    "price": 2,
     "image": "https://i.ebayimg.com/images/g/iNUAAeSwq55p8i5E/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168340832119",
     "category": "basketball",
@@ -18002,7 +18002,7 @@ window.products = [
   {
     "id": 1501,
     "name": "Jalen Brunson #BCV-62 CHROME - 2025/26 Topps Bowman Basketball - NBA Card",
-    "price": 1.9,
+    "price": 2,
     "image": "https://i.ebayimg.com/images/g/1T8AAeSwmT1p8i4P/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168340831169",
     "category": "basketball",
@@ -18014,7 +18014,7 @@ window.products = [
   {
     "id": 1502,
     "name": "Brayden Burries #BCP-51 CHROME - 2025/26 Topps Bowman Basketball - NBA Card",
-    "price": 1.9,
+    "price": 2,
     "image": "https://i.ebayimg.com/images/g/KwcAAeSwPaJp8i2p/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168340829993",
     "category": "basketball",
@@ -18026,7 +18026,7 @@ window.products = [
   {
     "id": 1503,
     "name": "Kawhi Leonard #YK-10 CHROME - 2025/26 Topps Bowman Basketball - NBA Card",
-    "price": 1.9,
+    "price": 2,
     "image": "https://i.ebayimg.com/images/g/tx8AAeSwBeNp8i2I/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168340824460",
     "category": "basketball",
@@ -18038,7 +18038,7 @@ window.products = [
   {
     "id": 1504,
     "name": "Russell Westbrook #BCV-102 CHROME - 2025/26 Topps Bowman Basketball - NBA Card",
-    "price": 1.9,
+    "price": 2,
     "image": "https://i.ebayimg.com/images/g/y5wAAeSwZqJp8i1l/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168340822486",
     "category": "basketball",
@@ -18050,7 +18050,7 @@ window.products = [
   {
     "id": 1505,
     "name": "Payton Pritchard #BCV-149 CHROME - 2025/26 Topps Bowman Basketball - NBA Card",
-    "price": 1.9,
+    "price": 2,
     "image": "https://i.ebayimg.com/images/g/R9oAAeSw69Jp8hc9/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168340616377",
     "category": "basketball",
@@ -18062,7 +18062,7 @@ window.products = [
   {
     "id": 1506,
     "name": "Emilee Skinner #BCP-85 CHROME - 2025/26 Topps Bowman Basketball - NBA Card",
-    "price": 1.9,
+    "price": 2,
     "image": "https://i.ebayimg.com/images/g/AfUAAeSwLSlp8hcn/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168340615788",
     "category": "basketball",
@@ -18074,7 +18074,7 @@ window.products = [
   {
     "id": 1507,
     "name": "John Blackwell #BCP-78 CHROME - 2025/26 Topps Bowman Basketball - NBA Card",
-    "price": 1.9,
+    "price": 2,
     "image": "https://i.ebayimg.com/images/g/3wQAAeSwRZlp8hcN/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168340615413",
     "category": "basketball",
@@ -18086,7 +18086,7 @@ window.products = [
   {
     "id": 1508,
     "name": "Buddy Hield #BCV-37 CHROME - 2025/26 Topps Bowman Basketball - NBA Card",
-    "price": 1.9,
+    "price": 2,
     "image": "https://i.ebayimg.com/images/g/Sf4AAeSw1rlp8hb2/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168340615083",
     "category": "basketball",
@@ -18098,7 +18098,7 @@ window.products = [
   {
     "id": 1509,
     "name": "Darryn Peterson #TT-2 Talent Tracker - 2025/26 Topps Bowman Basketball - NBA Car",
-    "price": 3.33,
+    "price": 3.5,
     "image": "https://i.ebayimg.com/images/g/Z~8AAeSwCctp8hbZ/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168340614758",
     "category": "basketball",
@@ -18122,7 +18122,7 @@ window.products = [
   {
     "id": 1511,
     "name": "Tyrese Haliburton #BCV-77 CHROME - 2025/26 Topps Bowman Basketball - NBA Card",
-    "price": 2.85,
+    "price": 3,
     "image": "https://i.ebayimg.com/images/g/DEUAAeSwPN5p8hab/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168340613806",
     "category": "basketball",
@@ -18134,7 +18134,7 @@ window.products = [
   {
     "id": 1512,
     "name": "Silas Demary Jr. #BCP-20 REPTILIAN - 2025/26 Topps Bowman Basketball - NBA Card",
-    "price": 3.8,
+    "price": 4,
     "image": "https://i.ebayimg.com/images/g/XAIAAeSw6oxp8haD/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168340613420",
     "category": "basketball",
@@ -18146,7 +18146,7 @@ window.products = [
   {
     "id": 1513,
     "name": "Austin Reaves #BCV-193 CHROME - 2025/26 Topps Bowman Basketball - NBA Card",
-    "price": 1.9,
+    "price": 2,
     "image": "https://i.ebayimg.com/images/g/iJgAAeSwUdhp8hY~/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168340611308",
     "category": "basketball",
@@ -18158,7 +18158,7 @@ window.products = [
   {
     "id": 1514,
     "name": "Serah Williams #BCP-31 REPTILIAN - 2025/26 Topps Bowman Basketball - NBA Card",
-    "price": 3.33,
+    "price": 3.5,
     "image": "https://i.ebayimg.com/images/g/SFEAAeSwkxVp8hYO/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168340606547",
     "category": "basketball",
@@ -18170,7 +18170,7 @@ window.products = [
   {
     "id": 1515,
     "name": "Nyla Brooks #BCP-63 CHROME - 2025/26 Topps Bowman Basketball - NBA Card",
-    "price": 1.9,
+    "price": 2,
     "image": "https://i.ebayimg.com/images/g/7GMAAeSwcnFp8hXz/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168340604759",
     "category": "basketball",
@@ -18182,7 +18182,7 @@ window.products = [
   {
     "id": 1516,
     "name": "John Tonje (RC) #BCV-49 CHROME - 2025/26 Topps Bowman Basketball - NBA Card",
-    "price": 2.85,
+    "price": 3,
     "image": "https://i.ebayimg.com/images/g/FpAAAeSwZPJp8hXV/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168340603503",
     "category": "basketball",
@@ -18194,7 +18194,7 @@ window.products = [
   {
     "id": 1517,
     "name": "Jaylon Tyson #BCV-173 CHROME - 2025/26 Topps Bowman Basketball - NBA Card",
-    "price": 1.9,
+    "price": 2,
     "image": "https://i.ebayimg.com/images/g/HiAAAeSw4GNp8hVX/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168340598418",
     "category": "basketball",
@@ -18206,7 +18206,7 @@ window.products = [
   {
     "id": 1518,
     "name": "Jasper Johnson #BCP-6 CHROME - 2025/26 Topps Bowman Basketball - NBA Card",
-    "price": 1.9,
+    "price": 2,
     "image": "https://i.ebayimg.com/images/g/f0gAAeSwUdhp8hVE/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168340597227",
     "category": "basketball",
@@ -18218,7 +18218,7 @@ window.products = [
   {
     "id": 1519,
     "name": "Alexandra Eschmeyer #BCP-75 CHROME - 2025/26 Topps Bowman Basketball - NBA Card",
-    "price": 1.9,
+    "price": 2,
     "image": "https://i.ebayimg.com/images/g/-gAAAeSwEJpp8hUy/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168340596273",
     "category": "basketball",
@@ -18230,7 +18230,7 @@ window.products = [
   {
     "id": 1520,
     "name": "Chris Paul #BCV-146 CHROME - 2025/26 Topps Bowman Basketball - NBA Card",
-    "price": 1.9,
+    "price": 2,
     "image": "https://i.ebayimg.com/images/g/oyoAAeSwVRdp8hUV/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168340595185",
     "category": "basketball",
@@ -18242,7 +18242,7 @@ window.products = [
   {
     "id": 1521,
     "name": "Oziyah Sellers #BV-19 Verified - 2025/26 Topps Bowman Basketball - NBA Card",
-    "price": 1.9,
+    "price": 2,
     "image": "https://i.ebayimg.com/images/g/QYQAAeSwdJBp8hSC/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168340589520",
     "category": "basketball",
@@ -18266,7 +18266,7 @@ window.products = [
   {
     "id": 1523,
     "name": "Coen Carr #BCP-35 CHROME - 2025/26 Topps Bowman Basketball - NBA Card",
-    "price": 1.9,
+    "price": 2,
     "image": "https://i.ebayimg.com/images/g/4jEAAeSwrHRp8hQS/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168340584549",
     "category": "basketball",
@@ -18278,7 +18278,7 @@ window.products = [
   {
     "id": 1524,
     "name": "Trey Kaufman-Renn #BCP-21 CHROME - 2025/26 Topps Bowman Basketball - NBA Card",
-    "price": 1.9,
+    "price": 2,
     "image": "https://i.ebayimg.com/images/g/DEAAAeSwsotp8hP9/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168340584175",
     "category": "basketball",
@@ -18290,7 +18290,7 @@ window.products = [
   {
     "id": 1525,
     "name": "Evan Mobley #BCV-93 CHROME - 2025/26 Topps Bowman Basketball - NBA Card",
-    "price": 1.9,
+    "price": 2,
     "image": "https://i.ebayimg.com/images/g/JJwAAeSwI8dp8hMy/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168340572105",
     "category": "basketball",
@@ -18302,7 +18302,7 @@ window.products = [
   {
     "id": 1526,
     "name": "Nick Martinelli #BCP-62 CHROME - 2025/26 Topps Bowman Basketball - NBA Card",
-    "price": 1.9,
+    "price": 2,
     "image": "https://i.ebayimg.com/images/g/5S8AAeSwcM9p8hMe/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168340570297",
     "category": "basketball",
@@ -18326,7 +18326,7 @@ window.products = [
   {
     "id": 1528,
     "name": "Michael Porter Jr. #BCV-179 CHROME - 2025/26 Topps Bowman Basketball - NBA Card",
-    "price": 1.9,
+    "price": 2,
     "image": "https://i.ebayimg.com/images/g/OScAAeSwrWdp8hLT/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168340565039",
     "category": "basketball",
@@ -18338,7 +18338,7 @@ window.products = [
   {
     "id": 1529,
     "name": "Darrion Williams #BCP-36 CHROME - 2025/26 Topps Bowman Basketball - NBA Card",
-    "price": 1.9,
+    "price": 2,
     "image": "https://i.ebayimg.com/images/g/Sd0AAeSw9zpp8hK9/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168340563731",
     "category": "basketball",
@@ -18350,7 +18350,7 @@ window.products = [
   {
     "id": 1530,
     "name": "Pascal Siakam #BCV-79 CHROME - 2025/26 Topps Bowman Basketball - NBA Card",
-    "price": 1.9,
+    "price": 2,
     "image": "https://i.ebayimg.com/images/g/m9IAAeSwntxp8hIc/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168340554864",
     "category": "basketball",
@@ -18362,7 +18362,7 @@ window.products = [
   {
     "id": 1531,
     "name": "Shon Abaev #BCP-19 CHROME - 2025/26 Topps Bowman Basketball - NBA Card",
-    "price": 2.38,
+    "price": 2.5,
     "image": "https://i.ebayimg.com/images/g/5hoAAeSwgAxp8hIA/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168340554113",
     "category": "basketball",
@@ -18374,7 +18374,7 @@ window.products = [
   {
     "id": 1532,
     "name": "Kevin Durant #HS-12 Hobby Stars - 2025/26 Topps Bowman Basketball - NBA Card",
-    "price": 3.09,
+    "price": 3.25,
     "image": "https://i.ebayimg.com/images/g/xL0AAeSwE2Fp8hHb/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168340553169",
     "category": "basketball",
@@ -18386,7 +18386,7 @@ window.products = [
   {
     "id": 1533,
     "name": "Matas Buzelis #BCV-73 CHROME - 2025/26 Topps Bowman Basketball - NBA Card",
-    "price": 1.9,
+    "price": 2,
     "image": "https://i.ebayimg.com/images/g/HmkAAeSw7pFp8hHF/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168340552722",
     "category": "basketball",
@@ -18398,7 +18398,7 @@ window.products = [
   {
     "id": 1534,
     "name": "Jason Edwards #BCP-16 - 2025/26 Topps Bowman Basketball - NBA Card",
-    "price": 1.9,
+    "price": 2,
     "image": "https://i.ebayimg.com/images/g/jQkAAeSw129p8hGv/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168340552109",
     "category": "basketball",
@@ -18410,7 +18410,7 @@ window.products = [
   {
     "id": 1535,
     "name": "Davis Fogle #GN-18 Gen Next - 2025/26 Topps Bowman Basketball - NBA",
-    "price": 1.9,
+    "price": 2,
     "image": "https://i.ebayimg.com/images/g/HV4AAeSwaERp8hGT/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168340550042",
     "category": "basketball",
@@ -18422,7 +18422,7 @@ window.products = [
   {
     "id": 1536,
     "name": "Javon Small #BCV-46 CHROME - 2025/26 Topps Bowman Basketball - NBA",
-    "price": 1.9,
+    "price": 2,
     "image": "https://i.ebayimg.com/images/g/870AAeSwZPJp8hF3/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168340547966",
     "category": "basketball",
@@ -18434,7 +18434,7 @@ window.products = [
   {
     "id": 1537,
     "name": "Josh Dix #BCP-17 CHROME - 2025/26 Topps Bowman Basketball - NBA",
-    "price": 1.9,
+    "price": 2,
     "image": "https://i.ebayimg.com/images/g/0l4AAeSwSeRp8hEp/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168340542553",
     "category": "basketball",
@@ -18446,7 +18446,7 @@ window.products = [
   {
     "id": 1538,
     "name": "Raegan Beers #BV-7 - 2025/26 Topps Bowman Basketball - NBA",
-    "price": 1.9,
+    "price": 2,
     "image": "https://i.ebayimg.com/images/g/RucAAeSwisJp8hC8/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168340539101",
     "category": "basketball",
@@ -18458,7 +18458,7 @@ window.products = [
   {
     "id": 1539,
     "name": "Immanuel Quickley #BCV-69 CHROME - 2025/26 Topps Bowman Basketball - NBA",
-    "price": 1.9,
+    "price": 2,
     "image": "https://i.ebayimg.com/images/g/~BsAAeSw13Zp8hCi/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168340538866",
     "category": "basketball",
@@ -18470,7 +18470,7 @@ window.products = [
   {
     "id": 1540,
     "name": "Kaylene Smikle #BCP-39 CHROME - 2025/26 Topps Bowman Basketball - NBA",
-    "price": 1.9,
+    "price": 2,
     "image": "https://i.ebayimg.com/images/g/yJMAAeSwrHRp8hCN/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168340538489",
     "category": "basketball",
@@ -18482,7 +18482,7 @@ window.products = [
   {
     "id": 1541,
     "name": "Tracy McGrady #YK-24 Young Kings - 2025/26 Topps Bowman Basketball - NBA",
-    "price": 1.9,
+    "price": 2,
     "image": "https://i.ebayimg.com/images/g/zisAAeSwH-dp8hB1/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168340537975",
     "category": "basketball",
@@ -18494,7 +18494,7 @@ window.products = [
   {
     "id": 1542,
     "name": "Kyshawn George #BCV-177 CHROME - 2025/26 Topps Bowman Basketball - NBA",
-    "price": 1.9,
+    "price": 2,
     "image": "https://i.ebayimg.com/images/g/whIAAeSwtK1p8hA4/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168340536126",
     "category": "basketball",
@@ -18506,7 +18506,7 @@ window.products = [
   {
     "id": 1543,
     "name": "Tounde Yessoufou #BCP-11 CHROME - 2025/26 Topps Bowman Basketball - NBA",
-    "price": 1.9,
+    "price": 2,
     "image": "https://i.ebayimg.com/images/g/M~UAAeSwSoFp8hAg/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168340534053",
     "category": "basketball",
@@ -18518,7 +18518,7 @@ window.products = [
   {
     "id": 1544,
     "name": "Kevin Durant #BCV-125 CHROME - 2025/26 Topps Bowman Basketball - NBA Card",
-    "price": 1.9,
+    "price": 2,
     "image": "https://i.ebayimg.com/images/g/EYQAAeSwVnNp8g90/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168340530869",
     "category": "basketball",
@@ -18530,7 +18530,7 @@ window.products = [
   {
     "id": 1545,
     "name": "Raegan Beers #BCP-65 CHROME - 2025/26 Topps Bowman Basketball - NBA Card",
-    "price": 1.9,
+    "price": 2,
     "image": "https://i.ebayimg.com/images/g/3mkAAeSw-dNp8g9c/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168340529792",
     "category": "basketball",
@@ -18542,7 +18542,7 @@ window.products = [
   {
     "id": 1546,
     "name": "Walter Clayton Jr. #GL-18 - 2025/26 Topps Bowman Basketball - NBA Card",
-    "price": 1.9,
+    "price": 2,
     "image": "https://i.ebayimg.com/images/g/5fMAAeSw9hhp8g7x/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168340521364",
     "category": "basketball",
@@ -18554,7 +18554,7 @@ window.products = [
   {
     "id": 1547,
     "name": "Patrick Williams #BCV-158 CHROME - 2025/26 Topps Bowman Basketball - NBA Card",
-    "price": 1.9,
+    "price": 2,
     "image": "https://i.ebayimg.com/images/g/Qy8AAeSwEl1p8g6o/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168340517947",
     "category": "basketball",
@@ -18566,7 +18566,7 @@ window.products = [
   {
     "id": 1548,
     "name": "Caleb Foster #BCP-100 CHROME - 2025/26 Topps Bowman Basketball - NBA Card",
-    "price": 4.75,
+    "price": 5,
     "image": "https://i.ebayimg.com/images/g/wT8AAeSw7ztp83DZ/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168340516948",
     "category": "basketball",
@@ -18590,7 +18590,7 @@ window.products = [
   {
     "id": 1550,
     "name": "Jase Richardson (RC) #BCV-25 CHROME - 2025/26 Topps Bowman Basketball - NBA Card",
-    "price": 1.66,
+    "price": 1.75,
     "image": "https://i.ebayimg.com/images/g/IOUAAeSwPXpp8TS9/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168338983810",
     "category": "basketball",
@@ -18602,7 +18602,7 @@ window.products = [
   {
     "id": 1551,
     "name": "Braden Smith #BCP-94 CHROME - 2025/26 Topps Bowman Basketball - NBA Card",
-    "price": 1.66,
+    "price": 1.75,
     "image": "https://i.ebayimg.com/images/g/STwAAeSwnxZp8TSe/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168338982284",
     "category": "basketball",
@@ -18638,7 +18638,7 @@ window.products = [
   {
     "id": 1554,
     "name": "Cason Wallace #BCV-185 CHROME - 2025/26 Topps Bowman Basketball - NBA Card",
-    "price": 1.66,
+    "price": 1.75,
     "image": "https://i.ebayimg.com/images/g/KjMAAeSw-dNp8TQG/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168338979626",
     "category": "basketball",
@@ -18650,7 +18650,7 @@ window.products = [
   {
     "id": 1555,
     "name": "Nate Ament #BCP-5 CHROME - 2025/26 Topps Bowman Basketball",
-    "price": 1.66,
+    "price": 1.75,
     "image": "https://i.ebayimg.com/images/g/ty0AAeSwrHRp8M5R/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168338223574",
     "category": "basketball",
@@ -18674,7 +18674,7 @@ window.products = [
   {
     "id": 1557,
     "name": "Andrew Wiggins #BCV-170 CHROME - 2025/26 Topps Bowman Basketball",
-    "price": 1.66,
+    "price": 1.75,
     "image": "https://i.ebayimg.com/images/g/XOEAAeSwqZVp8M3w/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168338220752",
     "category": "basketball",
@@ -18686,7 +18686,7 @@ window.products = [
   {
     "id": 1558,
     "name": "Mikel Brown Jr. #BCP-12 CHROME - 2025/26 Topps Bowman Basketball",
-    "price": 1.66,
+    "price": 1.75,
     "image": "https://i.ebayimg.com/images/g/MDgAAeSwI8dp8M3X/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168338219186",
     "category": "basketball",
@@ -18698,7 +18698,7 @@ window.products = [
   {
     "id": 1559,
     "name": "Jaland Lowe #BCP-23 CHROME - 2025/26 Topps Bowman Basketball",
-    "price": 1.66,
+    "price": 1.75,
     "image": "https://i.ebayimg.com/images/g/-dgAAeSwaENp8M3A/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168338218179",
     "category": "basketball",
@@ -18710,7 +18710,7 @@ window.products = [
   {
     "id": 1560,
     "name": "Jalen Johnson #BCV-85 CHROME - 2025/26 Topps Bowman Basketball",
-    "price": 1.66,
+    "price": 1.75,
     "image": "https://i.ebayimg.com/images/g/YwAAAeSwSoFp8M2p/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168338217100",
     "category": "basketball",
@@ -18734,7 +18734,7 @@ window.products = [
   {
     "id": 1562,
     "name": "Aliyahna Morris #BCP-76 CHROME - 2025/26 Topps Bowman Basketball",
-    "price": 1.66,
+    "price": 1.75,
     "image": "https://i.ebayimg.com/images/g/D90AAeSwS1dp8M1l/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168338213819",
     "category": "basketball",
@@ -18746,7 +18746,7 @@ window.products = [
   {
     "id": 1563,
     "name": "Kyrie Irving #BCV-130 CHROME - 2025/26 Topps Bowman Basketball",
-    "price": 1.66,
+    "price": 1.75,
     "image": "https://i.ebayimg.com/images/g/WoQAAeSwYOtp8M1K/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168338213177",
     "category": "basketball",
@@ -18782,7 +18782,7 @@ window.products = [
   {
     "id": 1566,
     "name": "CJ Ingram #BCP-77 CHROME - 2025/26 Topps Bowman Basketball - NBA Card",
-    "price": 1.66,
+    "price": 1.75,
     "image": "https://i.ebayimg.com/images/g/JzIAAeSwl6Zp8CFq/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168336978443",
     "category": "basketball",
@@ -18794,7 +18794,7 @@ window.products = [
   {
     "id": 1567,
     "name": "Trey Murphy III #BCV-141 CHROME - 2025/26 Topps Bowman Basketball - NBA Card",
-    "price": 1.66,
+    "price": 1.75,
     "image": "https://i.ebayimg.com/images/g/yr4AAeSwpHRp8CFV/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168336978200",
     "category": "basketball",
@@ -18806,7 +18806,7 @@ window.products = [
   {
     "id": 1568,
     "name": "Darryn Peterson #BCP-2 CHROME - 2025/26 Topps Bowman Basketball - NBA Card",
-    "price": 1.66,
+    "price": 1.75,
     "image": "https://i.ebayimg.com/images/g/riYAAeSw5spp8CEe/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168336977312",
     "category": "basketball",
@@ -18842,7 +18842,7 @@ window.products = [
   {
     "id": 1571,
     "name": "Sienna Betts #BCP-13 CHROME - 2025/26 Topps Bowman Basketball - NBA Card",
-    "price": 1.66,
+    "price": 1.75,
     "image": "https://i.ebayimg.com/images/g/v8EAAeSwkxNp8CC6/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168336975314",
     "category": "basketball",
@@ -18854,7 +18854,7 @@ window.products = [
   {
     "id": 1572,
     "name": "Jalen Williams #BCV-107 CHROME - 2025/26 Topps Bowman Basketball - NBA Card",
-    "price": 1.66,
+    "price": 1.75,
     "image": "https://i.ebayimg.com/images/g/reEAAeSwpzNp8CCk/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168336975017",
     "category": "basketball",
@@ -18878,7 +18878,7 @@ window.products = [
   {
     "id": 1574,
     "name": "Dejounte Murray #BCV-142 CHROME - 2025/26 Topps Bowman Basketball - NBA Card",
-    "price": 1.66,
+    "price": 1.75,
     "image": "https://i.ebayimg.com/images/g/DaAAAeSwPXpp8CBR/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168336971676",
     "category": "basketball",
@@ -18890,7 +18890,7 @@ window.products = [
   {
     "id": 1575,
     "name": "Yanic Konan-Niederhauser #BCV-30 CHROME - 2025/26 Topps Bowman Basketball - NBA",
-    "price": 1.66,
+    "price": 1.75,
     "image": "https://i.ebayimg.com/images/g/oPMAAeSwxChp8B~g/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168336966553",
     "category": "basketball",
@@ -18914,7 +18914,7 @@ window.products = [
   {
     "id": 1577,
     "name": "Micah Peavy (RC) #BCV-41 CHROME - 2025/26 Topps Bowman Basketball - NBA Card",
-    "price": 1.66,
+    "price": 1.75,
     "image": "https://i.ebayimg.com/images/g/oWEAAeSwhLRp8B9N/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168336964188",
     "category": "basketball",
@@ -18950,7 +18950,7 @@ window.products = [
   {
     "id": 1580,
     "name": "Jamal Murray #BCV-101 CHROME - 2025/26 Topps Bowman Basketball - NBA Card",
-    "price": 1.66,
+    "price": 1.75,
     "image": "https://i.ebayimg.com/images/g/670AAeSwX8Rp8B74/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168336961518",
     "category": "basketball",
@@ -18962,7 +18962,7 @@ window.products = [
   {
     "id": 1581,
     "name": "ZaKiyah Johnson #BCP-73 CHROME - 2025/26 Topps Bowman Basketball - NBA Card",
-    "price": 1.66,
+    "price": 1.75,
     "image": "https://i.ebayimg.com/images/g/f-MAAeSw--9p8B7k/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168336959252",
     "category": "basketball",
@@ -18974,7 +18974,7 @@ window.products = [
   {
     "id": 1582,
     "name": "Domantas Sabonis #BCV-129 CHROME - 2025/26 Topps Bowman Basketball - NBA Card",
-    "price": 1.66,
+    "price": 1.75,
     "image": "https://i.ebayimg.com/images/g/o-gAAeSwBeNp8B7M/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168336957725",
     "category": "basketball",
@@ -18986,7 +18986,7 @@ window.products = [
   {
     "id": 1583,
     "name": "Joe Grahovac #BCP-24 CHROME - 2025/26 Topps Bowman Basketball - NBA Card",
-    "price": 1.66,
+    "price": 1.75,
     "image": "https://i.ebayimg.com/images/g/zwEAAeSwrIhp8B63/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168336957509",
     "category": "basketball",
@@ -19034,7 +19034,7 @@ window.products = [
   {
     "id": 1587,
     "name": "Kam Jones (RC) #BCP-39 CHROME - 2025/26 Topps Bowman Basketball - NBA Card",
-    "price": 1.66,
+    "price": 1.75,
     "image": "https://i.ebayimg.com/images/g/Di4AAeSw6oxp8B39/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168336952841",
     "category": "basketball",
@@ -19046,7 +19046,7 @@ window.products = [
   {
     "id": 1588,
     "name": "Reed Bailey #BCP-27 CHROME - 2025/26 Topps Bowman Basketball - NBA Card",
-    "price": 1.66,
+    "price": 1.75,
     "image": "https://i.ebayimg.com/images/g/-IMAAeSw7kpp8B3Y/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168336952006",
     "category": "basketball",
@@ -19070,7 +19070,7 @@ window.products = [
   {
     "id": 1590,
     "name": "Koby Brea #BCV-42 CHROME - 2025/26 Topps Bowman Basketball - NBA Card",
-    "price": 1.66,
+    "price": 1.75,
     "image": "https://i.ebayimg.com/images/g/PfgAAeSwjapp8B2j/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168336950116",
     "category": "basketball",
@@ -19106,7 +19106,7 @@ window.products = [
   {
     "id": 1593,
     "name": "Derrick White #BCV-58 CHROME - 2025/26 Topps Bowman Basketball - NBA Card",
-    "price": 1.66,
+    "price": 1.75,
     "image": "https://i.ebayimg.com/images/g/SAwAAeSwWvdp7pn2/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168334522767",
     "category": "basketball",
@@ -19118,7 +19118,7 @@ window.products = [
   {
     "id": 1594,
     "name": "Oziyah Sellers #BCP-87 CHROME - 2025/26 Topps Bowman Basketball - NBA Card",
-    "price": 1.66,
+    "price": 1.75,
     "image": "https://i.ebayimg.com/images/g/9LsAAeSw13Zp7pne/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168334522689",
     "category": "basketball",
@@ -19130,7 +19130,7 @@ window.products = [
   {
     "id": 1595,
     "name": "AJ Green #BCV-164 CHROME - 2025/26 Topps Bowman Basketball - NBA Card",
-    "price": 1.66,
+    "price": 1.75,
     "image": "https://i.ebayimg.com/images/g/yoIAAeSw5vBp7pl7/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168334522370",
     "category": "basketball",
@@ -19142,7 +19142,7 @@ window.products = [
   {
     "id": 1596,
     "name": "Aliyahna Morris #BCP-76 CHROME - 2025/26 Topps Bowman Basketball - NBA Card",
-    "price": 1.66,
+    "price": 1.75,
     "image": "https://i.ebayimg.com/images/g/3IoAAeSwg6Bp7plm/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168334522340",
     "category": "basketball",
@@ -19166,7 +19166,7 @@ window.products = [
   {
     "id": 1598,
     "name": "Yarden Garzon #BCP-68 CHROME - 2025/26 Topps Bowman Basketball - NBA Card",
-    "price": 1.66,
+    "price": 1.75,
     "image": "https://i.ebayimg.com/images/g/c0oAAeSwTpVp7pVc/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168334517434",
     "category": "basketball",
@@ -19190,7 +19190,7 @@ window.products = [
   {
     "id": 1600,
     "name": "Karl-Anthony Towns #BCV-64 CHROME - 2025/26 Topps Bowman Basketball - NBA Card",
-    "price": 1.66,
+    "price": 1.75,
     "image": "https://i.ebayimg.com/images/g/~Q4AAeSwDgxp7pUQ/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168334515772",
     "category": "basketball",
@@ -19202,7 +19202,7 @@ window.products = [
   {
     "id": 1601,
     "name": "Jamier Jones #BCP-59 CHROME - 2025/26 Topps Bowman Basketball - NBA Card",
-    "price": 1.66,
+    "price": 1.75,
     "image": "https://i.ebayimg.com/images/g/C8YAAeSwEl1p7pT0/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168334515621",
     "category": "basketball",
@@ -19226,7 +19226,7 @@ window.products = [
   {
     "id": 1603,
     "name": "Kasparas Jakucionis #BCV-20 CHROME - 2025/26 Topps Bowman Basketball - NBA Card",
-    "price": 1.66,
+    "price": 1.75,
     "image": "https://i.ebayimg.com/images/g/9SYAAeSw8Ghp7pS8/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168334515452",
     "category": "basketball",
@@ -19250,7 +19250,7 @@ window.products = [
   {
     "id": 1605,
     "name": "Nic Claxton #BCV-150 CHROME - 2025/26 Topps Bowman Basketball - NBA Card",
-    "price": 1.66,
+    "price": 1.75,
     "image": "https://i.ebayimg.com/images/g/7AAAAeSwJnVp7pSD/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168334515347",
     "category": "basketball",
@@ -19262,7 +19262,7 @@ window.products = [
   {
     "id": 1606,
     "name": "Obi Agbim #BCP-9 CHROME - 2025/26 Topps Bowman Basketball - NBA Card",
-    "price": 1.66,
+    "price": 1.75,
     "image": "https://i.ebayimg.com/images/g/Rz0AAeSwfLxp7pRp/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168334515285",
     "category": "basketball",
