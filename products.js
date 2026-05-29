@@ -9,7 +9,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 16
+    "stock": 11
   },
   {
     "id": 2,
@@ -21,19 +21,19 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 12
+    "stock": 11
   },
   {
     "id": 3,
     "name": "Munetaka Murakami (RC) 20HRs Rookie - 2026 MLB Topps NOW® - Card 257 PRE-SALE",
-    "price": 6.44,
+    "price": 6.87,
     "image": "https://i.ebayimg.com/images/g/cqMAAeSw8fpqGMpb/s-l300.png",
     "url": "https://www.ebay.com/itm/168411307552",
     "category": "topps-now",
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 8
+    "stock": 4
   },
   {
     "id": 4,
