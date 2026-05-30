@@ -933,7 +933,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 3
+    "stock": 4
   },
   {
     "id": 79,
@@ -1274,7 +1274,7 @@ window.products = [
   {
     "id": 107,
     "name": "06/25* Sal Stewart (RC) #84 PARALLEL - Topps Now 2026 MLB Baseball",
-    "price": 199,
+    "price": 175,
     "image": "https://i.ebayimg.com/images/g/cdwAAeSwSQRqFirY/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168405785867",
     "category": "topps-now",
@@ -2222,7 +2222,7 @@ window.products = [
   {
     "id": 186,
     "name": "Munetaka Murakami (RC) #9 - 2026 Topps Bowman MLB Baseball",
-    "price": 8,
+    "price": 7,
     "image": "https://i.ebayimg.com/images/g/S-EAAeSwKOdqERLM/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168395533125",
     "category": "baseball",
@@ -11601,7 +11601,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": true,
-    "stock": 1
+    "stock": 0
   },
   {
     "id": 968,
@@ -11661,7 +11661,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 5
+    "stock": 4
   },
   {
     "id": 973,
@@ -11877,7 +11877,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 0
   },
   {
     "id": 991,
@@ -13430,7 +13430,7 @@ window.products = [
   {
     "id": 1120,
     "name": "Munetaka Murakami (RC) - 2026 MLB Topps NOW® - Card 210 PRE-SALE",
-    "price": 8.79,
+    "price": 8,
     "image": "https://i.ebayimg.com/images/g/ddoAAeSwcM9qChuq/s-l300.png",
     "url": "https://www.ebay.com/itm/168382371555",
     "category": "topps-now",
@@ -15062,7 +15062,7 @@ window.products = [
   {
     "id": 1256,
     "name": "Munetaka Murakami (RC) #9 BASE - 2026 Topps Bowman Baseball MLB",
-    "price": 7,
+    "price": 6,
     "image": "https://i.ebayimg.com/images/g/nl0AAeSwhPFqBoC8/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168376293094",
     "category": "baseball",
@@ -15782,7 +15782,7 @@ window.products = [
   {
     "id": 1316,
     "name": "Munetaka Muakami (RC) #9 BASE - 2026 Topps Bowman Baseball MLB",
-    "price": 9,
+    "price": 8,
     "image": "https://i.ebayimg.com/images/g/g6cAAeSwLSlqBdPG/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168375115038",
     "category": "baseball",
@@ -33085,7 +33085,7 @@ window.products = [
   },
   {
     "id": 2758,
-    "name": "Elly De La Cruz - 2025 MLB Topps NOW�� - Card 24 - 7 RBI",
+    "name": "Elly De La Cruz - 2025 MLB Topps NOW® - Card 24 - 7 RBI",
     "price": 5,
     "image": "https://i.ebayimg.com/images/g/VMAAAOSwpYNn7Gfu/s-l300.png",
     "url": "https://www.ebay.com/itm/168245759804",
