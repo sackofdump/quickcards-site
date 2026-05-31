@@ -50,7 +50,7 @@ exports.handler = async (event) => {
         {
           shipping_rate_data: {
             type: 'fixed_amount',
-            fixed_amount: { amount: 500, currency: 'usd' },
+            fixed_amount: { amount: 600, currency: 'usd' },
             display_name: 'Ground Shipping',
             delivery_estimate: {
               minimum: { unit: 'business_day', value: 3 },
