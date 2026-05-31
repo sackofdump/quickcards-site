@@ -1,7 +1,7 @@
 // ebay-auto-sync.js
 // Calls eBay Trading API → rebuilds products.js + stock.json → git commit + push
 // Run manually:  node C:\qce\ebay-auto-sync.js
-// Scheduled:     schtasks /create /tn "QCE Inventory Sync" /tr "node C:\qce\ebay-auto-sync.js" /sc hourly /mo 1 /st 00:00
+// Scheduled:     schtasks /create /tn "QCE Inventory Sync" /tr "node C:\qce\ebay-auto-sync.js" /sc hourly /mo 8 /st 00:00
 
 const https   = require('https');
 const fs      = require('fs');
@@ -158,9 +158,18 @@ function extractText(block, tag) {
   return m ? m[1].trim() : null;
 }
 
+// Extract the <ActiveList>...</ActiveList> section so we ignore items that
+// belong to ScheduledList / UnsoldList / SoldList (those appear in every
+// page response and would be double-counted as "active").
+function getActiveListSection(xml) {
+  const m = xml.match(/<ActiveList>[\s\S]*?<\/ActiveList>/);
+  return m ? m[0] : '';
+}
+
 function parseItems(xml) {
+  const section = getActiveListSection(xml);
   const items = [];
-  const blocks = xml.match(/<Item>[\s\S]*?<\/Item>/g) || [];
+  const blocks = section.match(/<Item>[\s\S]*?<\/Item>/g) || [];
   for (const block of blocks) {
     const itemId  = extractText(block, 'ItemID');
     const title   = extractText(block, 'Title');
@@ -185,7 +194,9 @@ function parseItems(xml) {
 }
 
 function getTotalPages(xml) {
-  const m = xml.match(/<TotalNumberOfPages>(\d+)<\/TotalNumberOfPages>/);
+  // Read from inside <ActiveList> only — other sections have their own pagination
+  const section = getActiveListSection(xml);
+  const m = section.match(/<TotalNumberOfPages>(\d+)<\/TotalNumberOfPages>/);
   return m ? parseInt(m[1]) : 1;
 }
 
@@ -198,7 +209,7 @@ function checkErrors(xml) {
 }
 
 async function fetchAllListings(blacklist) {
-  const all = [];
+  const seen = new Map(); // itemId -> item (dedup across pages)
   let page = 1;
   let totalPages = 1;
 
@@ -213,18 +224,21 @@ async function fetchAllListings(blacklist) {
 
     const items = parseItems(resp);
     let added = 0;
+    let dupes = 0;
+    let blacklisted = 0;
     for (const item of items) {
-      if (blacklist.has(item.itemId)) continue;
-      all.push(item);
+      if (blacklist.has(item.itemId)) { blacklisted++; continue; }
+      if (seen.has(item.itemId)) { dupes++; continue; }
+      seen.set(item.itemId, item);
       added++;
     }
-    log(`  Page ${page}/${totalPages}: ${added} items (${items.length - added} blacklisted/skipped)`);
+    log(`  Page ${page}/${totalPages}: ${items.length} parsed, ${added} new, ${dupes} dup, ${blacklisted} blacklisted`);
 
     page++;
     if (page <= totalPages) await new Promise(r => setTimeout(r, 300));
   } while (page <= totalPages);
 
-  return all;
+  return [...seen.values()];
 }
 
 // ─────────────────────────────────────────────────────────
