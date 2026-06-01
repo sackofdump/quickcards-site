@@ -729,7 +729,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 16
+    "stock": 14
   },
   {
     "id": 62,
@@ -17569,7 +17569,7 @@ window.products = [
   },
   {
     "id": 1465,
-    "name": "Sal Stewart (RC) - 2026 MLB Topps NOW® - Card 125 Rookie PRE-SALE",
+    "name": "Sal Stewart (RC) - 2026 MLB Topps NOW® - Card 125 Rookie IN HAND",
     "price": 12,
     "image": "https://i.ebayimg.com/images/g/BckAAeSwPmNp7nOy/s-l300.png",
     "url": "https://www.ebay.com/itm/168346441209",
@@ -36885,7 +36885,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 0
   },
   {
     "id": 3075,
@@ -47637,7 +47637,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 25
+    "stock": 24
   },
   {
     "id": 3971,
