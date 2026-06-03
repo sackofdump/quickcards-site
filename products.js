@@ -494,19 +494,19 @@ window.products = [
   {
     "id": 42,
     "name": "AUTO /75* Cori Close #CI-CC - 2025/26 Topps Bowman U Best Basketball NCAA",
-    "price": 69.99,
+    "price": 64.99,
     "image": "https://i.ebayimg.com/images/g/Tx8AAeSwBb1qClL2/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168417019983",
     "category": "basketball",
     "badge": null,
     "discount": null,
     "numbered": true,
-    "stock": 1
+    "stock": 0
   },
   {
     "id": 43,
     "name": "/75* AUTO RELIC Sebastian Wilkins #GG-SW 2025/26 Topps Bowman U Best Basketball",
-    "price": 25,
+    "price": 20,
     "image": "https://i.ebayimg.com/images/g/ZkMAAeSwdYJqClD3/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168417018099",
     "category": "basketball",
@@ -530,7 +530,7 @@ window.products = [
   {
     "id": 45,
     "name": "Donald Dump #7a - Garbage Pail Kids Cards TCG",
-    "price": 25,
+    "price": 20,
     "image": "https://i.ebayimg.com/images/g/CFMAAeSwXSNqDMzc/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168417011057",
     "category": "other",
@@ -542,7 +542,7 @@ window.products = [
   {
     "id": 46,
     "name": "/499* Chase Burns (RC) #3 BLUE MOJO REFRACTOR - 2026 Topps Bowman MLB Baseball",
-    "price": 19.99,
+    "price": 16.99,
     "image": "https://i.ebayimg.com/images/g/HxcAAeSwTUFqGhhV/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168417009635",
     "category": "baseball",
@@ -554,7 +554,7 @@ window.products = [
   {
     "id": 47,
     "name": "CGC 10 Pristine Venusaur &amp; Snivy GX 001/064 RR Remix Bout sm11a Pokemon Card",
-    "price": 28,
+    "price": 27.5,
     "image": "https://i.ebayimg.com/images/g/qTMAAeSwur5qDK71/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168416969319",
     "category": "pokemon",
@@ -566,14 +566,14 @@ window.products = [
   {
     "id": 48,
     "name": "/150* AUTO Blaine Bullard #CPA-BB PARALLEL - 2026 Topps Bowman Baseball MLB",
-    "price": 74.99,
+    "price": 69.99,
     "image": "https://i.ebayimg.com/images/g/m~wAAeSwkB5qBptH/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168416959244",
     "category": "baseball",
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 0
   },
   {
     "id": 49,
@@ -3573,7 +3573,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": true,
-    "stock": 1
+    "stock": 0
   },
   {
     "id": 299,
@@ -3681,7 +3681,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": true,
-    "stock": 1
+    "stock": 0
   },
   {
     "id": 308,
@@ -4982,7 +4982,7 @@ window.products = [
   {
     "id": 416,
     "name": "/50* Alex Caruso #24 PARALLEL - 2025/26 Topps NBA HOOPS Basketball Card",
-    "price": 29,
+    "price": 26.99,
     "image": "https://i.ebayimg.com/images/g/HcwAAeSwu-dqEGMZ/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168394277112",
     "category": "basketball",
@@ -8774,7 +8774,7 @@ window.products = [
   {
     "id": 732,
     "name": "Haunter #12 - SEALED - 2000 Danone Pokemon Stadium TCG CARD #64 #B",
-    "price": 25,
+    "price": 19.99,
     "image": "https://i.ebayimg.com/images/g/46gAAeSwVqBqDSEg/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168387693449",
     "category": "pokemon",
@@ -11198,7 +11198,7 @@ window.products = [
   {
     "id": 934,
     "name": "CGC 10 Eevee &amp; Snorlax GX 066/095 Pokémon Tag Bolt 2018 Japanese",
-    "price": 69,
+    "price": 64.99,
     "image": "https://i.ebayimg.com/images/g/OO4AAeSwTpVqDK9F/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168386816710",
     "category": "pokemon",
@@ -11865,7 +11865,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 9
+    "stock": 0
   },
   {
     "id": 990,
@@ -24074,7 +24074,7 @@ window.products = [
   {
     "id": 2007,
     "name": "Porygon Picture B Mini Card Japanese Nintendo Rare Pokemon A207 NM *BTX",
-    "price": 24,
+    "price": 19.99,
     "image": "https://i.ebayimg.com/images/g/U50AAeSwXlVpgr6x/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168317117226",
     "category": "pokemon",
@@ -32841,7 +32841,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 3
+    "stock": 2
   },
   {
     "id": 2738,
@@ -59421,7 +59421,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 0
   },
   {
     "id": 4953,
@@ -59469,7 +59469,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 0
   },
   {
     "id": 4957,
@@ -60225,7 +60225,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 0
   },
   {
     "id": 5020,
@@ -60993,7 +60993,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 0
   },
   {
     "id": 5084,
