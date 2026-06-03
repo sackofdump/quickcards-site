@@ -9,7 +9,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 4
+    "stock": 3
   },
   {
     "id": 2,
@@ -16165,7 +16165,7 @@ window.products = [
   },
   {
     "id": 1348,
-    "name": "Brice Turang - WALK OFF HR SWEEP YANKEES 2026 MLB Topps NOW® - Card 187 PRE-SALE",
+    "name": "Brice Turang - WALK OFF HR SWEEP YANKEES 2026 MLB Topps NOW�� - Card 187 PRE-SALE",
     "price": 8.75,
     "image": "https://i.ebayimg.com/images/g/iOYAAeSwHpNqAhRq/s-l300.png",
     "url": "https://www.ebay.com/itm/168368341226",
@@ -64693,7 +64693,7 @@ window.products = [
   },
   {
     "id": 5392,
-    "name": "Pokémon TCG Morelull Darkness Ablaze 079/189 Reverse Holo Common",
+    "name": "Pok��mon TCG Morelull Darkness Ablaze 079/189 Reverse Holo Common",
     "price": 1.84,
     "image": "https://i.ebayimg.com/images/g/3tYAAOSwMmpjsR7t/s-l300.jpg",
     "url": "https://www.ebay.com/itm/165862436018",
