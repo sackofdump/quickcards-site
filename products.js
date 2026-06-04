@@ -9,7 +9,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 7
+    "stock": 5
   },
   {
     "id": 2,
@@ -525,7 +525,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 0
   },
   {
     "id": 45,
@@ -1665,7 +1665,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 0
   },
   {
     "id": 140,
@@ -3237,7 +3237,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": true,
-    "stock": 1
+    "stock": 0
   },
   {
     "id": 271,
@@ -20289,7 +20289,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 0
   },
   {
     "id": 1692,
@@ -63781,7 +63781,7 @@ window.products = [
   },
   {
     "id": 5316,
-    "name": "MINT  Pok��mon TCG Herdier Evolving Skies 134/203  Uncommon",
+    "name": "MINT  Pokémon TCG Herdier Evolving Skies 134/203  Uncommon",
     "price": 1.84,
     "image": "https://i.ebayimg.com/images/g/hRYAAOSw07ljxzBH/s-l300.jpg",
     "url": "https://www.ebay.com/itm/165891988666",
