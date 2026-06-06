@@ -2,7 +2,7 @@ window.products = [
   {
     "id": 1,
     "name": "Chad Dallas (CALL UP) MLB DEBUT WIN - 2026 MLB Topps NOW® - Card 286 PRE-SALE",
-    "price": 5.44,
+    "price": 5.17,
     "image": "https://i.ebayimg.com/images/g/CYYAAeSwH8NqIx5p/s-l300.png",
     "url": "https://www.ebay.com/itm/168433733238",
     "category": "topps-now",
@@ -56738,7 +56738,7 @@ window.products = [
   {
     "id": 4729,
     "name": "CHOOSE COLOR - Air Jordan 1 Sneaker Home Decor Pencil holder Planter 8 inches 3D",
-    "price": 25.27,
+    "price": 0,
     "image": "https://i.ebayimg.com/images/g/jqgAAOSwMiVmq9dS/s-l300.jpg",
     "url": "https://www.ebay.com/itm/166897828003",
     "category": "other",
