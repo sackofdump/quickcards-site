@@ -2,14 +2,14 @@ window.products = [
   {
     "id": 1,
     "name": "Chad Dallas (CALL UP) MLB DEBUT WIN - 2026 MLB Topps NOW® - Card 286 PRE-SALE",
-    "price": 5.17,
+    "price": 5.44,
     "image": "https://i.ebayimg.com/images/g/CYYAAeSwH8NqIx5p/s-l300.png",
     "url": "https://www.ebay.com/itm/168433733238",
     "category": "topps-now",
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 14
+    "stock": 13
   },
   {
     "id": 2,
@@ -20229,7 +20229,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 15
+    "stock": 14
   },
   {
     "id": 1687,
@@ -46461,7 +46461,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 3
+    "stock": 0
   },
   {
     "id": 3873,
