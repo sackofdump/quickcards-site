@@ -2,7 +2,7 @@ window.products = [
   {
     "id": 1,
     "name": "Sauce Gardner #91 - 2025 Topps NFL Signature Class Football",
-    "price": 1.97,
+    "price": 1.87,
     "image": "https://i.ebayimg.com/images/g/EHYAAeSw6gRqJIPp/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168436477277",
     "category": "football",
@@ -14,7 +14,7 @@ window.products = [
   {
     "id": 2,
     "name": "Brock Purdy #48 - 2025 Topps NFL Signature Class Football",
-    "price": 2.47,
+    "price": 2.35,
     "image": "https://i.ebayimg.com/images/g/EawAAeSw~JxqJIPJ/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168436476782",
     "category": "football",
@@ -26,7 +26,7 @@ window.products = [
   {
     "id": 3,
     "name": "Michael Penix Jr. #3 - 2025 Topps NFL Signature Class Football",
-    "price": 1.97,
+    "price": 1.87,
     "image": "https://i.ebayimg.com/images/g/GgUAAeSwhMhqJIO0/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168436475232",
     "category": "football",
@@ -38,7 +38,7 @@ window.products = [
   {
     "id": 4,
     "name": "Rome Odunze #10 - 2025 Topps NFL Signature Class Football",
-    "price": 1.97,
+    "price": 1.87,
     "image": "https://i.ebayimg.com/images/g/FKIAAeSwBq5qJIOh/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168436472937",
     "category": "football",
@@ -50,7 +50,7 @@ window.products = [
   {
     "id": 5,
     "name": "Jackson Hawes (RC) #207 - 2025 Topps NFL Signature Class Football",
-    "price": 1.97,
+    "price": 1.87,
     "image": "https://i.ebayimg.com/images/g/GTQAAeSw-mxqJIOE/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168436469216",
     "category": "football",
@@ -62,7 +62,7 @@ window.products = [
   {
     "id": 6,
     "name": "Trevor Lawrence #26 - 2025 Topps NFL Signature Class Football",
-    "price": 2.47,
+    "price": 2.35,
     "image": "https://i.ebayimg.com/images/g/q1wAAeSw2-dqJINs/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168436467625",
     "category": "football",
@@ -74,7 +74,7 @@ window.products = [
   {
     "id": 7,
     "name": "Brock Bowers #34 - 2025 Topps NFL Signature Class Football",
-    "price": 2.27,
+    "price": 2.16,
     "image": "https://i.ebayimg.com/images/g/EREAAeSwE~dqJIND/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168436466714",
     "category": "football",
@@ -86,7 +86,7 @@ window.products = [
   {
     "id": 8,
     "name": "Malik Nabers #40 - 2025 Topps NFL Signature Class Football",
-    "price": 2.27,
+    "price": 2.16,
     "image": "https://i.ebayimg.com/images/g/DRcAAeSwcnpqJIMu/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168436466373",
     "category": "football",
@@ -98,7 +98,7 @@ window.products = [
   {
     "id": 9,
     "name": "Breece Hall #92 - 2025 Topps NFL Signature Class Football",
-    "price": 1.97,
+    "price": 1.87,
     "image": "https://i.ebayimg.com/images/g/AhsAAeSwXslqJIMX/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168436466109",
     "category": "football",
@@ -110,7 +110,7 @@ window.products = [
   {
     "id": 10,
     "name": "Ricky Pearsall #98 - 2025 Topps NFL Signature Class Football",
-    "price": 1.97,
+    "price": 1.87,
     "image": "https://i.ebayimg.com/images/g/Am4AAeSweShqJIMC/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168436465686",
     "category": "football",
@@ -122,7 +122,7 @@ window.products = [
   {
     "id": 11,
     "name": "Will Howard (RC) #107 - 2025 Topps NFL Signature Class Football",
-    "price": 2.47,
+    "price": 2.35,
     "image": "https://i.ebayimg.com/images/g/CwAAAeSw~JxqJILi/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168436465302",
     "category": "football",
@@ -134,7 +134,7 @@ window.products = [
   {
     "id": 12,
     "name": "Tyreek Hill #86 - 2025 Topps NFL Signature Class Football",
-    "price": 1.97,
+    "price": 1.87,
     "image": "https://i.ebayimg.com/images/g/fvYAAeSwavpqJIK~/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168436464969",
     "category": "football",
@@ -146,7 +146,7 @@ window.products = [
   {
     "id": 13,
     "name": "Devin Neal (RC) #185 - 2025 Topps NFL Signature Class Football",
-    "price": 1.97,
+    "price": 1.87,
     "image": "https://i.ebayimg.com/images/g/-C8AAeSwVXNqJIJ2/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168436464357",
     "category": "football",
@@ -158,7 +158,7 @@ window.products = [
   {
     "id": 14,
     "name": "Trey McBride #1 - 2025 Topps NFL Signature Class Football #B",
-    "price": 1.97,
+    "price": 1.87,
     "image": "https://i.ebayimg.com/images/g/YaEAAeSwtvZqJIIE/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168436463093",
     "category": "football",
@@ -170,7 +170,7 @@ window.products = [
   {
     "id": 15,
     "name": "Malachi Moore (RC) #214 - 2025 Topps NFL Signature Class Football",
-    "price": 1.97,
+    "price": 1.87,
     "image": "https://i.ebayimg.com/images/g/CaIAAeSwA2NqJIHo/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168436462652",
     "category": "football",
@@ -182,7 +182,7 @@ window.products = [
   {
     "id": 16,
     "name": "Kaleb Johnson (RC) #114 - 2025 Topps NFL Signature Class Football",
-    "price": 2.47,
+    "price": 2.35,
     "image": "https://i.ebayimg.com/images/g/OlkAAeSwxORqJIGO/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168436461483",
     "category": "football",
@@ -194,7 +194,7 @@ window.products = [
   {
     "id": 17,
     "name": "Nick Emmanwori (RC) #174 - 2025 Topps NFL Signature Class Football",
-    "price": 2.47,
+    "price": 2.35,
     "image": "https://i.ebayimg.com/images/g/AH4AAeSwszFqJIEA/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168436459080",
     "category": "football",
@@ -206,7 +206,7 @@ window.products = [
   {
     "id": 18,
     "name": "Drake London #62 - 2025 Topps NFL Signature Class Football",
-    "price": 1.97,
+    "price": 1.87,
     "image": "https://i.ebayimg.com/images/g/AEAAAeSwO85qJIDs/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168436458532",
     "category": "football",
@@ -218,7 +218,7 @@ window.products = [
   {
     "id": 19,
     "name": "Courtland Sutton #17 - 2025 Topps NFL Signature Class Football",
-    "price": 1.97,
+    "price": 1.87,
     "image": "https://i.ebayimg.com/images/g/9sYAAeSw4sRqJIDZ/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168436458381",
     "category": "football",
@@ -230,7 +230,7 @@ window.products = [
   {
     "id": 20,
     "name": "Caleb Williams #11 - 2025 Topps NFL Signature Class Football",
-    "price": 2.47,
+    "price": 2.35,
     "image": "https://i.ebayimg.com/images/g/9aoAAeSwAx5qJIDE/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168436457517",
     "category": "football",
@@ -242,7 +242,7 @@ window.products = [
   {
     "id": 21,
     "name": "Tua Tagovailoa #85 - 2025 Topps NFL Signature Class Football",
-    "price": 2.27,
+    "price": 2.16,
     "image": "https://i.ebayimg.com/images/g/MBIAAeSwY6BqJICp/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168436457201",
     "category": "football",
@@ -254,7 +254,7 @@ window.products = [
   {
     "id": 22,
     "name": "Andrew Mukuba (RC) #162 - 2025 Topps NFL Signature Class Football",
-    "price": 1.97,
+    "price": 1.87,
     "image": "https://i.ebayimg.com/images/g/~sEAAeSwuxZqJIB3/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168436456824",
     "category": "football",
@@ -266,7 +266,7 @@ window.products = [
   {
     "id": 23,
     "name": "Aidan Hutchinson #74 - 2025 Topps NFL Signature Class Football",
-    "price": 2.27,
+    "price": 2.16,
     "image": "https://i.ebayimg.com/images/g/7w0AAeSwCMRqJIBi/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168436456558",
     "category": "football",
@@ -278,7 +278,7 @@ window.products = [
   {
     "id": 24,
     "name": "DeAndre Hopkins #63 - 2025 Topps NFL Signature Class Football",
-    "price": 1.97,
+    "price": 1.87,
     "image": "https://i.ebayimg.com/images/g/IxgAAeSwEgFqJIA7/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168436455984",
     "category": "football",
@@ -290,7 +290,7 @@ window.products = [
   {
     "id": 25,
     "name": "De'Von Achane #35 - 2025 Topps NFL Signature Class Football",
-    "price": 1.97,
+    "price": 1.87,
     "image": "https://i.ebayimg.com/images/g/-tsAAeSwwaBqJIAg/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168436455560",
     "category": "football",
@@ -302,7 +302,7 @@ window.products = [
   {
     "id": 26,
     "name": "Derrick Henry #6 - 2025 Topps NFL Signature Class Football",
-    "price": 2.47,
+    "price": 2.35,
     "image": "https://i.ebayimg.com/images/g/~RgAAeSwoQxqJIAA/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168436455023",
     "category": "football",
@@ -314,7 +314,7 @@ window.products = [
   {
     "id": 27,
     "name": "Aireontae Ersery (RC) #195 - 2025 Topps NFL Signature Class Football",
-    "price": 1.97,
+    "price": 1.87,
     "image": "https://i.ebayimg.com/images/g/6lkAAeSwL-BqJH~p/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168436454552",
     "category": "football",
@@ -326,7 +326,7 @@ window.products = [
   {
     "id": 28,
     "name": "CeeDee Lamb #16 - 2025 Topps NFL Signature Class Football",
-    "price": 2.47,
+    "price": 2.35,
     "image": "https://i.ebayimg.com/images/g/QKIAAeSwiyhqJH~S/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168436454342",
     "category": "football",
@@ -338,7 +338,7 @@ window.products = [
   {
     "id": 29,
     "name": "Josh Jacobs #22 - 2025 Topps NFL Signature Class Football",
-    "price": 1.97,
+    "price": 1.87,
     "image": "https://i.ebayimg.com/images/g/8VQAAeSwZsNqJH-j/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168436453710",
     "category": "football",
@@ -350,7 +350,7 @@ window.products = [
   {
     "id": 30,
     "name": "Xavier Worthy #28 - 2025 Topps NFL Signature Class Football",
-    "price": 1.97,
+    "price": 1.87,
     "image": "https://i.ebayimg.com/images/g/-R8AAeSwTMFqJH-R/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168436453447",
     "category": "football",
@@ -362,7 +362,7 @@ window.products = [
   {
     "id": 31,
     "name": "Drake Maye #38 - 2025 Topps NFL Signature Class Football",
-    "price": 2.97,
+    "price": 2.82,
     "image": "https://i.ebayimg.com/images/g/O9cAAeSwYclqJH94/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168436453113",
     "category": "football",
@@ -374,7 +374,7 @@ window.products = [
   {
     "id": 32,
     "name": "Calvin Ridley #99 - 2025 Topps NFL Signature Class Football",
-    "price": 1.97,
+    "price": 1.87,
     "image": "https://i.ebayimg.com/images/g/8fcAAeSwszFqJH9p/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168436452347",
     "category": "football",
@@ -386,7 +386,7 @@ window.products = [
   {
     "id": 33,
     "name": "David Njoku #71 - 2025 Topps NFL Signature Class Football",
-    "price": 1.97,
+    "price": 1.87,
     "image": "https://i.ebayimg.com/images/g/3noAAeSwMmRqJH8D/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168436448098",
     "category": "football",
@@ -398,7 +398,7 @@ window.products = [
   {
     "id": 34,
     "name": "Tony Pollard #54 - 2025 Topps NFL Signature Class Football",
-    "price": 1.89,
+    "price": 1.8,
     "image": "https://i.ebayimg.com/images/g/RWMAAeSwUEFqJH7o/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168436447918",
     "category": "football",
@@ -410,7 +410,7 @@ window.products = [
   {
     "id": 35,
     "name": "Saquon Barkley #43 - 2025 Topps NFL Signature Class Football",
-    "price": 2.27,
+    "price": 2.16,
     "image": "https://i.ebayimg.com/images/g/1PoAAeSwsD9qJH6-/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168436445413",
     "category": "football",
@@ -422,7 +422,7 @@ window.products = [
   {
     "id": 36,
     "name": "Princely Umanmielen (RC) #175 - 2025 Topps NFL Signature Class Football",
-    "price": 1.97,
+    "price": 1.87,
     "image": "https://i.ebayimg.com/images/g/3QwAAeSwT55qJH6o/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168436443653",
     "category": "football",
@@ -434,7 +434,7 @@ window.products = [
   {
     "id": 37,
     "name": "Quentin Johnston #31 - 2025 Topps NFL Signature Class Football",
-    "price": 1.97,
+    "price": 1.87,
     "image": "https://i.ebayimg.com/images/g/xKwAAeSw1uBqJH6N/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168436441628",
     "category": "football",
@@ -446,7 +446,7 @@ window.products = [
   {
     "id": 38,
     "name": "Jahmyr Gibbs #20 - 2025 Topps NFL Signature Class Football",
-    "price": 1.97,
+    "price": 1.87,
     "image": "https://i.ebayimg.com/images/g/5rMAAeSwB89qJH52/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168436439901",
     "category": "football",
@@ -458,7 +458,7 @@ window.products = [
   {
     "id": 39,
     "name": "Trey McBride #1 - 2025 Topps NFL Signature Class Football",
-    "price": 1.77,
+    "price": 1.68,
     "image": "https://i.ebayimg.com/images/g/LpYAAeSwiyhqJH5T/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168436438241",
     "category": "football",
@@ -470,7 +470,7 @@ window.products = [
   {
     "id": 40,
     "name": "Keon Coleman #64 - 2025 Topps NFL Signature Class Football",
-    "price": 1.97,
+    "price": 1.87,
     "image": "https://i.ebayimg.com/images/g/1vAAAeSwSihqJH4~/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168436434575",
     "category": "football",
@@ -482,7 +482,7 @@ window.products = [
   {
     "id": 41,
     "name": "Beaux Collins (RC) #245 - 2025 Topps NFL Signature Class Football",
-    "price": 1.97,
+    "price": 1.87,
     "image": "https://i.ebayimg.com/images/g/0YIAAeSwVXNqJH4s/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168436433367",
     "category": "football",
@@ -494,7 +494,7 @@ window.products = [
   {
     "id": 42,
     "name": "Harold Fannin Jr. (RC) #152 - 2025 Topps NFL Signature Class Football",
-    "price": 2.47,
+    "price": 2.35,
     "image": "https://i.ebayimg.com/images/g/7TEAAeSw7N9qJH33/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168436432594",
     "category": "football",
@@ -506,7 +506,7 @@ window.products = [
   {
     "id": 43,
     "name": "Baker Mayfield #50 - 2025 Topps NFL Signature Class Football",
-    "price": 2.27,
+    "price": 2.16,
     "image": "https://i.ebayimg.com/images/g/zYoAAeSw8uFqJH3g/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168436432402",
     "category": "football",
@@ -518,7 +518,7 @@ window.products = [
   {
     "id": 44,
     "name": "Alec Pierce #78 - 2025 Topps NFL Signature Class Football",
-    "price": 1.97,
+    "price": 1.87,
     "image": "https://i.ebayimg.com/images/g/ynEAAeSw729qJH3L/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168436432212",
     "category": "football",
@@ -530,7 +530,7 @@ window.products = [
   {
     "id": 45,
     "name": "Maxx Crosby #83 - 2025 Topps NFL Signature Class Football",
-    "price": 1.97,
+    "price": 1.87,
     "image": "https://i.ebayimg.com/images/g/vEwAAeSw8b1qJH27/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168436432043",
     "category": "football",
@@ -542,7 +542,7 @@ window.products = [
   {
     "id": 46,
     "name": "Jayden Reed #75 - 2025 Topps NFL Signature Class Football",
-    "price": 1.97,
+    "price": 1.87,
     "image": "https://i.ebayimg.com/images/g/3HEAAeSwG21qJH2q/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168436431762",
     "category": "football",
@@ -554,7 +554,7 @@ window.products = [
   {
     "id": 47,
     "name": "Justin Jefferson #36 - 2025 Topps NFL Signature Class Football",
-    "price": 2.27,
+    "price": 2.16,
     "image": "https://i.ebayimg.com/images/g/CsgAAeSwHClqJH2W/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168436431140",
     "category": "football",
@@ -566,7 +566,7 @@ window.products = [
   {
     "id": 48,
     "name": "Jordan Love #21 - 2025 Topps NFL Signature Class Football",
-    "price": 2.27,
+    "price": 2.16,
     "image": "https://i.ebayimg.com/images/g/sB0AAeSwFhpqJH1w/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168436430283",
     "category": "football",
@@ -578,7 +578,7 @@ window.products = [
   {
     "id": 49,
     "name": "Amon-Ra St. Brown #19 - 2025 Topps NFL Signature Class Football",
-    "price": 2.27,
+    "price": 2.16,
     "image": "https://i.ebayimg.com/images/g/TTQAAeSwavpqJH1b/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168436430012",
     "category": "football",
@@ -590,7 +590,7 @@ window.products = [
   {
     "id": 50,
     "name": "Lamar Jackson #5 - 2025 Topps NFL Signature Class Football",
-    "price": 2.47,
+    "price": 2.35,
     "image": "https://i.ebayimg.com/images/g/21gAAeSwJ5JqJH1E/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168436429542",
     "category": "football",
@@ -602,7 +602,7 @@ window.products = [
   {
     "id": 51,
     "name": "Gunnar Helm (RC) #166 - 2025 Topps NFL Signature Class Football",
-    "price": 1.97,
+    "price": 1.87,
     "image": "https://i.ebayimg.com/images/g/0UoAAeSwK6xqJH0r/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168436429135",
     "category": "football",
@@ -614,7 +614,7 @@ window.products = [
   {
     "id": 52,
     "name": "Mike Green (RC) #155 - 2025 Topps NFL Signature Class Football",
-    "price": 2.27,
+    "price": 2.16,
     "image": "https://i.ebayimg.com/images/g/jxwAAeSwTbVqJH0S/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168436428854",
     "category": "football",
@@ -626,7 +626,7 @@ window.products = [
   {
     "id": 53,
     "name": "Ja'Marr Chase #12 - 2025 Topps NFL Signature Class Football",
-    "price": 2.87,
+    "price": 2.73,
     "image": "https://i.ebayimg.com/images/g/z7YAAeSw0GVqJHzx/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168436428104",
     "category": "football",
@@ -638,7 +638,7 @@ window.products = [
   {
     "id": 54,
     "name": "CJ Stroud #23 - 2025 Topps NFL Signature Class Football",
-    "price": 2.47,
+    "price": 2.35,
     "image": "https://i.ebayimg.com/images/g/tGcAAeSwlAJqJHzZ/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168436427672",
     "category": "football",
@@ -650,7 +650,7 @@ window.products = [
   {
     "id": 55,
     "name": "J.J. McCarthy #37 - 2025 Topps NFL Signature Class Football",
-    "price": 2.47,
+    "price": 2.35,
     "image": "https://i.ebayimg.com/images/g/OsgAAeSwBKpqJHy0/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168436426949",
     "category": "football",
@@ -662,7 +662,7 @@ window.products = [
   {
     "id": 56,
     "name": "Jaxon Smith-Njigba #46 - 2025 Topps NFL Signature Class Football",
-    "price": 2.47,
+    "price": 2.35,
     "image": "https://i.ebayimg.com/images/g/nLcAAeSwIRpqJHyc/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168436426336",
     "category": "football",
@@ -674,7 +674,7 @@ window.products = [
   {
     "id": 57,
     "name": "Christian McCaffrey #49 - 2025 Topps NFL Signature Class Football",
-    "price": 2.27,
+    "price": 2.16,
     "image": "https://i.ebayimg.com/images/g/JGwAAeSwtvZqJHyD/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168436425104",
     "category": "football",
@@ -686,7 +686,7 @@ window.products = [
   {
     "id": 58,
     "name": "Alvin Kamara #90 - 2025 Topps NFL Signature Class Football",
-    "price": 1.97,
+    "price": 1.87,
     "image": "https://i.ebayimg.com/images/g/zR0AAeSwpl1qJHxw/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168436424672",
     "category": "football",
@@ -698,7 +698,7 @@ window.products = [
   {
     "id": 59,
     "name": "Josaiah Stewart (RC) #211 - 2025 Topps NFL Signature Class Football",
-    "price": 4.97,
+    "price": 4.72,
     "image": "https://i.ebayimg.com/images/g/9oEAAeSwhxFqJHxL/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168436424297",
     "category": "football",
@@ -710,7 +710,7 @@ window.products = [
   {
     "id": 60,
     "name": "Tee Higgins #69 - 2025 Topps NFL Signature Class Football",
-    "price": 1.97,
+    "price": 1.87,
     "image": "https://i.ebayimg.com/images/g/ICkAAeSwii1qJHwv/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168436423353",
     "category": "football",
@@ -722,7 +722,7 @@ window.products = [
   {
     "id": 61,
     "name": "Jared Goff #58 - 2025 Topps NFL Signature Class Football",
-    "price": 1.97,
+    "price": 1.87,
     "image": "https://i.ebayimg.com/images/g/BYwAAeSwaN9qJHwN/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168436422898",
     "category": "football",
@@ -734,7 +734,7 @@ window.products = [
   {
     "id": 62,
     "name": "Jalen Hurts #42 - 2025 Topps NFL Signature Class Football",
-    "price": 2.47,
+    "price": 2.35,
     "image": "https://i.ebayimg.com/images/g/x3kAAeSwfppqJHv2/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168436422486",
     "category": "football",
@@ -746,7 +746,7 @@ window.products = [
   {
     "id": 63,
     "name": "Donovan Jackson (RC) #241 - 2025 Topps NFL Signature Class Football",
-    "price": 2.27,
+    "price": 2.16,
     "image": "https://i.ebayimg.com/images/g/zcYAAeSwj1xqJHsW/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168436419896",
     "category": "football",
@@ -758,7 +758,7 @@ window.products = [
   {
     "id": 64,
     "name": "Dak Prescott #15 - 2025 Topps NFL Signature Class Football",
-    "price": 2.47,
+    "price": 2.35,
     "image": "https://i.ebayimg.com/images/g/veQAAeSwo9pqJHqi/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168436418807",
     "category": "football",
@@ -770,7 +770,7 @@ window.products = [
   {
     "id": 65,
     "name": "James Cook #8 - 2025 Topps NFL Signature Class Football",
-    "price": 1.97,
+    "price": 1.87,
     "image": "https://i.ebayimg.com/images/g/kTEAAeSwUKBqJHqQ/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168436418671",
     "category": "football",
@@ -782,7 +782,7 @@ window.products = [
   {
     "id": 66,
     "name": "Cooper Kupp #97 - 2025 Topps NFL Signature Class Football",
-    "price": 2.27,
+    "price": 2.16,
     "image": "https://i.ebayimg.com/images/g/ti4AAeSw6gRqJHp6/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168436418536",
     "category": "football",
@@ -794,7 +794,7 @@ window.products = [
   {
     "id": 67,
     "name": "Geno Smith #84 - 2025 Topps NFL Signature Class Football",
-    "price": 1.97,
+    "price": 1.87,
     "image": "https://i.ebayimg.com/images/g/un0AAeSwZXFqJHpn/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168436418290",
     "category": "football",
@@ -806,7 +806,7 @@ window.products = [
   {
     "id": 68,
     "name": "Mason Graham (RC) #141 - 2025 Topps NFL Signature Class Football",
-    "price": 2.97,
+    "price": 2.82,
     "image": "https://i.ebayimg.com/images/g/VucAAeSw935qJHpM/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168436417954",
     "category": "football",
@@ -818,7 +818,7 @@ window.products = [
   {
     "id": 69,
     "name": "George Kittle #53 - 2025 Topps NFL Signature Class Football",
-    "price": 1.97,
+    "price": 1.87,
     "image": "https://i.ebayimg.com/images/g/~0IAAeSw5mlqJHo1/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168436416845",
     "category": "football",
@@ -830,7 +830,7 @@ window.products = [
   {
     "id": 70,
     "name": "Marvin Harrison Jr. #61 - 2025 Topps NFL Signature Class Football",
-    "price": 1.97,
+    "price": 1.87,
     "image": "https://i.ebayimg.com/images/g/husAAeSwIRpqJHoh/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168436415682",
     "category": "football",
@@ -842,7 +842,7 @@ window.products = [
   {
     "id": 71,
     "name": "DJ Moore #67 - 2025 Topps NFL Signature Class Football",
-    "price": 1.97,
+    "price": 1.87,
     "image": "https://i.ebayimg.com/images/g/pmkAAeSw729qJHoJ/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168436414233",
     "category": "football",
@@ -854,7 +854,7 @@ window.products = [
   {
     "id": 72,
     "name": "Davante Adams #82 - 2025 Topps NFL Signature Class Football",
-    "price": 1.97,
+    "price": 1.87,
     "image": "https://i.ebayimg.com/images/g/rXUAAeSwT55qJHn1/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168436412964",
     "category": "football",
@@ -866,7 +866,7 @@ window.products = [
   {
     "id": 73,
     "name": "Matthew Golden (RC) #111 - 2025 Topps NFL Signature Class Football",
-    "price": 2.48,
+    "price": 2.36,
     "image": "https://i.ebayimg.com/images/g/q6oAAeSwPC5qJHnZ/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168436411089",
     "category": "football",
@@ -46245,7 +46245,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 65
+    "stock": 64
   },
   {
     "id": 3855,
@@ -46293,7 +46293,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 23
+    "stock": 22
   },
   {
     "id": 3859,
@@ -57602,7 +57602,7 @@ window.products = [
   {
     "id": 4801,
     "name": "CHOOSE COLOR - Air Jordan 1 Sneaker Home Decor Pencil holder Planter 8 inches 3D",
-    "price": 25.27,
+    "price": 0,
     "image": "https://i.ebayimg.com/images/g/jqgAAOSwMiVmq9dS/s-l300.jpg",
     "url": "https://www.ebay.com/itm/166897828003",
     "category": "other",
