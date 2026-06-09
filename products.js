@@ -57,7 +57,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 0
   },
   {
     "id": 6,
@@ -717,7 +717,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 0
   },
   {
     "id": 61,
@@ -2433,7 +2433,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 8
+    "stock": 1
   },
   {
     "id": 204,
@@ -2805,7 +2805,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": true,
-    "stock": 1
+    "stock": 0
   },
   {
     "id": 235,
@@ -14234,14 +14234,14 @@ window.products = [
   {
     "id": 1187,
     "name": "Blake Treinen - LA Dodgers 2024 MLB World Series Champions TOPPS NOW WS-11",
-    "price": 1.99,
+    "price": 2.99,
     "image": "https://i.ebayimg.com/images/g/HPMAAOSwopBnYIaX/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168382950087",
     "category": "topps-now",
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 7
+    "stock": 5
   },
   {
     "id": 1188,
@@ -19653,7 +19653,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": true,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 1639,
@@ -21321,7 +21321,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 0
   },
   {
     "id": 1778,
@@ -23013,7 +23013,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 2
+    "stock": 1
   },
   {
     "id": 1919,
@@ -27597,7 +27597,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 0
   },
   {
     "id": 2301,
@@ -43341,7 +43341,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 0
   },
   {
     "id": 3613,
@@ -58029,7 +58029,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 4
+    "stock": 3
   },
   {
     "id": 4837,
