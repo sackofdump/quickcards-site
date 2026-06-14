@@ -2,14 +2,14 @@ window.products = [
   {
     "id": 1,
     "name": "Jacob Misiorowski (RC) MADDUX! - 2026 MLB Topps NOW® - Card 325  PRE-SALE",
-    "price": 6.44,
+    "price": 6.75,
     "image": "https://i.ebayimg.com/images/g/EAEAAeSwfEFqLiTz/s-l300.png",
     "url": "https://www.ebay.com/itm/168457209735",
     "category": "topps-now",
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 16
+    "stock": 8
   },
   {
     "id": 2,
@@ -1101,7 +1101,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 0
   },
   {
     "id": 93,
@@ -1281,7 +1281,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 0
   },
   {
     "id": 108,
@@ -15489,7 +15489,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 11
+    "stock": 7
   },
   {
     "id": 1292,
@@ -17121,7 +17121,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 7
+    "stock": 6
   },
   {
     "id": 1428,
@@ -36837,7 +36837,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 4
+    "stock": 3
   },
   {
     "id": 3071,
@@ -41529,7 +41529,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 0
   },
   {
     "id": 3462,
@@ -45153,7 +45153,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 2
+    "stock": 1
   },
   {
     "id": 3764,
@@ -45813,7 +45813,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 11
+    "stock": 10
   },
   {
     "id": 3819,
