@@ -5493,7 +5493,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 0
   },
   {
     "id": 459,
@@ -17589,7 +17589,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 6
+    "stock": 5
   },
   {
     "id": 1467,
@@ -20265,7 +20265,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 2
+    "stock": 1
   },
   {
     "id": 1690,
@@ -21205,7 +21205,7 @@ window.products = [
   },
   {
     "id": 1768,
-    "name": "Jesus Rodriguez (RC) 1st MLB HR - 2026 MLB Topps NOW® - Card 165  PRE-SALE",
+    "name": "Jesus Rodriguez (RC) 1st MLB HR - 2026 MLB Topps NOW® - Card 165  IN HAND",
     "price": 8.77,
     "image": "https://i.ebayimg.com/images/g/qlQAAeSw8kxp-6lz/s-l300.png",
     "url": "https://www.ebay.com/itm/168358029894",
