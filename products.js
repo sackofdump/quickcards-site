@@ -9,7 +9,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 19
+    "stock": 23
   },
   {
     "id": 2,
@@ -45373,7 +45373,7 @@ window.products = [
   },
   {
     "id": 3782,
-    "name": "#256 Los Angeles Dodgers�� - 2026 Topps Series 1 - Base Card - MLB Baseball",
+    "name": "#256 Los Angeles Dodgers® - 2026 Topps Series 1 - Base Card - MLB Baseball",
     "price": 2.47,
     "image": "https://i.ebayimg.com/images/g/ayEAAeSwY~FpknOn/s-l300.png",
     "url": "https://www.ebay.com/itm/168162447631",
