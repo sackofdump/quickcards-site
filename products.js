@@ -1665,7 +1665,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": true,
-    "stock": 1
+    "stock": 0
   },
   {
     "id": 140,
@@ -1785,7 +1785,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 9
+    "stock": 6
   },
   {
     "id": 150,
@@ -2433,7 +2433,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 0
   },
   {
     "id": 204,
@@ -20601,7 +20601,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 4
+    "stock": 0
   },
   {
     "id": 1718,
@@ -27465,7 +27465,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 12
+    "stock": 11
   },
   {
     "id": 2290,
@@ -63937,7 +63937,7 @@ window.products = [
   },
   {
     "id": 5329,
-    "name": "Octopus Planter (Burnt Titanium Color) 5�� x  5” x 4.5” 3D Printed PLA",
+    "name": "Octopus Planter (Burnt Titanium Color) 5” x  5” x 4.5” 3D Printed PLA",
     "price": 18,
     "image": "https://i.ebayimg.com/images/g/ZsQAAOSw40hmqDwv/s-l300.jpg",
     "url": "https://www.ebay.com/itm/166892964711",
@@ -74509,7 +74509,7 @@ window.products = [
   },
   {
     "id": 6210,
-    "name": "Drampa - 119/163 - Battle Styles - SS - Rare - Pokémon TCG Card - NM / MINT",
+    "name": "Drampa - 119/163 - Battle Styles - SS - Rare - Pok��mon TCG Card - NM / MINT",
     "price": 1.84,
     "image": "https://i.ebayimg.com/images/g/DyoAAOSw1PljfZlj/s-l300.jpg",
     "url": "https://www.ebay.com/itm/165792402826",
