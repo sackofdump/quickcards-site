@@ -1785,7 +1785,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 10
+    "stock": 9
   },
   {
     "id": 150,
@@ -63937,7 +63937,7 @@ window.products = [
   },
   {
     "id": 5329,
-    "name": "Octopus Planter (Burnt Titanium Color) 5” x  5” x 4.5” 3D Printed PLA",
+    "name": "Octopus Planter (Burnt Titanium Color) 5�� x  5” x 4.5” 3D Printed PLA",
     "price": 18,
     "image": "https://i.ebayimg.com/images/g/ZsQAAOSw40hmqDwv/s-l300.jpg",
     "url": "https://www.ebay.com/itm/166892964711",
