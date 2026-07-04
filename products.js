@@ -441,7 +441,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 0
+    "stock": 1
   },
   {
     "id": 38,
@@ -7465,15 +7465,15 @@ window.products = [
   },
   {
     "id": 623,
-    "name": "Ryan Ward (RC) 1st MLB HR Dodger Debut - 2026 MLB Topps NOW® - Card 276 PRE-SALE",
-    "price": 8.77,
+    "name": "Ryan Ward (RC) 1st MLB HR Dodger Debut - 2026 MLB Topps NOW® - Card 276 IN HAND",
+    "price": 9.77,
     "image": "https://i.ebayimg.com/images/g/ltIAAeSwgglqHdMQ/s-l300.png",
     "url": "https://www.ebay.com/itm/168421900949",
     "category": "topps-now",
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 0
+    "stock": 5
   },
   {
     "id": 624,
@@ -7489,8 +7489,8 @@ window.products = [
   },
   {
     "id": 625,
-    "name": "Jacob Misiorowski (RC) 0.23 ERA May - 2026 MLB Topps NOW® - Card 272  PRE-SALE",
-    "price": 19.77,
+    "name": "Jacob Misiorowski (RC) 0.23 ERA May - 2026 MLB Topps NOW® - Card 272  IN HAND",
+    "price": 17.77,
     "image": "https://i.ebayimg.com/images/g/VvQAAeSw3z9qHdFD/s-l300.png",
     "url": "https://www.ebay.com/itm/168421890151",
     "category": "topps-now",
@@ -9157,7 +9157,7 @@ window.products = [
   },
   {
     "id": 764,
-    "name": "Tommy Troy (CALL UP) MLB DEBUT - 2026 MLB Topps NOW® - Card 238 PRE-SALE",
+    "name": "Tommy Troy (CALL UP) MLB DEBUT - 2026 MLB Topps NOW® - Card 238 IN HAND",
     "price": 6.44,
     "image": "https://i.ebayimg.com/images/g/~UEAAeSwPKtqFJ~Y/s-l300.png",
     "url": "https://www.ebay.com/itm/168402555875",
@@ -9165,7 +9165,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 765,
