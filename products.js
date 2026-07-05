@@ -9,7 +9,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 28
+    "stock": 27
   },
   {
     "id": 2,
