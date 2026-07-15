@@ -60085,11 +60085,11 @@ window.products = [
   },
   {
     "id": 5008,
-    "name": "2024 Topps Stadium Club JUNIOR CAMINERO RED Foil RC Rookie #223 Tampa Bay Rays",
+    "name": "Bobby Witt Jr #8",
     "price": 3.99,
     "image": "https://i.ebayimg.com/images/g/XgwAAOSwojpnP2vZ/s-l300.jpg",
     "url": "https://www.ebay.com/itm/167114238428",
-    "category": "baseball",
+    "category": "other",
     "badge": null,
     "discount": null,
     "numbered": false,
