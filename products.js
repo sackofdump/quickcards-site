@@ -237,7 +237,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 21,
@@ -7525,15 +7525,15 @@ window.products = [
   },
   {
     "id": 628,
-    "name": "Gage Jump (CALL UP) 1st MLB WIN - 2026 MLB Topps NOW® - Card 282 PRE-SALE",
-    "price": 5.44,
+    "name": "Gage Jump (CALL UP) 1st MLB WIN - 2026 MLB Topps NOW® - Card 282 IN HAND",
+    "price": 7.77,
     "image": "https://i.ebayimg.com/images/g/arUAAeSwCpVqIJX6/s-l300.png",
     "url": "https://www.ebay.com/itm/168428283274",
     "category": "topps-now",
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 0
+    "stock": 1
   },
   {
     "id": 629,
@@ -44065,7 +44065,7 @@ window.products = [
   },
   {
     "id": 3673,
-    "name": "(3 PACK) PLASTIC CLIPS - Slack Board Balance Trainer Spare Part",
+    "name": "(3 PACK) PLASTIC CLIPS - Slack Board Balance Trainer Spare Part (Gibbon)",
     "price": 15,
     "image": "https://i.ebayimg.com/images/g/tQkAAeSwAANpqi8N/s-l300.png",
     "url": "https://www.ebay.com/itm/168208933495",
