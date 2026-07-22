@@ -1005,7 +1005,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 17
+    "stock": 15
   },
   {
     "id": 85,
@@ -2270,7 +2270,7 @@ window.products = [
   {
     "id": 190,
     "name": "LOT OF 4 - 2 SILVER 2 GOLD 2026 Chinese Zodiac Horse Coin Horse Design Silver",
-    "price": 23.99,
+    "price": 15.99,
     "image": "https://i.ebayimg.com/images/g/EAsAAeSwBGxqVZhy/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168534015006",
     "category": "coins",
@@ -5961,7 +5961,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 2
+    "stock": 1
   },
   {
     "id": 498,
@@ -19797,7 +19797,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 0
   },
   {
     "id": 1651,
@@ -41805,7 +41805,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 2
+    "stock": 0
   },
   {
     "id": 3485,
@@ -52526,7 +52526,7 @@ window.products = [
   {
     "id": 4378,
     "name": "LOT OF 4 - 2026 Chinese Zodiac Horse Commemorative Coin Horse Design Silver",
-    "price": 23.99,
+    "price": 15.99,
     "image": "https://i.ebayimg.com/images/g/uyUAAeSwcGlqVZhW/s-l300.jpg",
     "url": "https://www.ebay.com/itm/167883172652",
     "category": "coins",
@@ -52538,7 +52538,7 @@ window.products = [
   {
     "id": 4379,
     "name": "LOT OF 4 - 2026 Chinese Zodiac Year of the Horse Commemorative Horse Design Gold",
-    "price": 23.99,
+    "price": 15.99,
     "image": "https://i.ebayimg.com/images/g/cAgAAeSwzZZqVZdj/s-l300.jpg",
     "url": "https://www.ebay.com/itm/167883171360",
     "category": "coins",
