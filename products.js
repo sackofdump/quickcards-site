@@ -1005,7 +1005,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 23
+    "stock": 19
   },
   {
     "id": 85,
