@@ -1341,7 +1341,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 0
   },
   {
     "id": 113,
@@ -9561,7 +9561,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 0
   },
   {
     "id": 798,
@@ -70730,7 +70730,7 @@ window.products = [
   {
     "id": 5895,
     "name": "PICK YOUR TOOTH PIN! PERFECT GIFT FOR DENTISTS PINS JEWELRY FASHION BROOCH",
-    "price": 4.99,
+    "price": 0,
     "image": "https://i.ebayimg.com/images/g/jpIAAOSwnUhk2mG8/s-l300.png",
     "url": "https://www.ebay.com/itm/166286941302",
     "category": "pins",
@@ -71042,7 +71042,7 @@ window.products = [
   {
     "id": 5921,
     "name": "CHOOSE YOUR COLOR!  BREAST CANCER AWARNESS PINS - COLLECTIBLE PERFECT GIFT,",
-    "price": 8.99,
+    "price": 0,
     "image": "https://i.ebayimg.com/images/g/vaYAAOSw7K9k2maz/s-l300.png",
     "url": "https://www.ebay.com/itm/166286939065",
     "category": "pins",
@@ -71054,7 +71054,7 @@ window.products = [
   {
     "id": 5922,
     "name": "PICK YOUR GHOST HALLOWEEN PIN! BROOCH SCARY BOO COLLECTIBLE KIDS ADULTS",
-    "price": 8.99,
+    "price": 0,
     "image": "https://i.ebayimg.com/images/g/eloAAOSwdWtk2mVT/s-l300.png",
     "url": "https://www.ebay.com/itm/166286939063",
     "category": "pins",
@@ -71066,7 +71066,7 @@ window.products = [
   {
     "id": 5923,
     "name": "PICK YOUR COLOR!  DOCTOR STETHOSCOPE - PINS JEWELRY PERFECT GIFT FOR DOCTORS,",
-    "price": 8.99,
+    "price": 0,
     "image": "https://i.ebayimg.com/images/g/GsQAAOSwzdZk2lqH/s-l300.png",
     "url": "https://www.ebay.com/itm/166286939059",
     "category": "pins",
