@@ -9,7 +9,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 15
+    "stock": 14
   },
   {
     "id": 2,
@@ -66242,7 +66242,7 @@ window.products = [
   {
     "id": 5521,
     "name": "CHOOSE COLOR - Air Jordan 1 Sneaker Home Decor Pencil holder Planter 8 inches 3D",
-    "price": 0,
+    "price": 26.6,
     "image": "https://i.ebayimg.com/images/g/jqgAAOSwMiVmq9dS/s-l300.jpg",
     "url": "https://www.ebay.com/itm/166897828003",
     "category": "other",
@@ -70310,7 +70310,7 @@ window.products = [
   {
     "id": 5860,
     "name": "PICK YOUR TOOTH PIN! PERFECT GIFT FOR DENTISTS PINS JEWELRY FASHION BROOCH",
-    "price": 0,
+    "price": 4.99,
     "image": "https://i.ebayimg.com/images/g/jpIAAOSwnUhk2mG8/s-l300.png",
     "url": "https://www.ebay.com/itm/166286941302",
     "category": "pins",
@@ -70622,7 +70622,7 @@ window.products = [
   {
     "id": 5886,
     "name": "CHOOSE YOUR COLOR!  BREAST CANCER AWARNESS PINS - COLLECTIBLE PERFECT GIFT,",
-    "price": 0,
+    "price": 8.99,
     "image": "https://i.ebayimg.com/images/g/vaYAAOSw7K9k2maz/s-l300.png",
     "url": "https://www.ebay.com/itm/166286939065",
     "category": "pins",
@@ -70634,7 +70634,7 @@ window.products = [
   {
     "id": 5887,
     "name": "PICK YOUR GHOST HALLOWEEN PIN! BROOCH SCARY BOO COLLECTIBLE KIDS ADULTS",
-    "price": 0,
+    "price": 8.99,
     "image": "https://i.ebayimg.com/images/g/eloAAOSwdWtk2mVT/s-l300.png",
     "url": "https://www.ebay.com/itm/166286939063",
     "category": "pins",
@@ -70646,7 +70646,7 @@ window.products = [
   {
     "id": 5888,
     "name": "PICK YOUR COLOR!  DOCTOR STETHOSCOPE - PINS JEWELRY PERFECT GIFT FOR DOCTORS,",
-    "price": 0,
+    "price": 8.99,
     "image": "https://i.ebayimg.com/images/g/GsQAAOSwzdZk2lqH/s-l300.png",
     "url": "https://www.ebay.com/itm/166286939059",
     "category": "pins",
