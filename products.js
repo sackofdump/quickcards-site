@@ -6253,15 +6253,15 @@ window.products = [
   },
   {
     "id": 522,
-    "name": "Kahlil Watson (CALL UP) 1st MLB Hit - 2026 MLB Topps NOW® - Card 367 PRE-SALE",
-    "price": 5.44,
+    "name": "Kahlil Watson (CALL UP) 1st MLB Hit - 2026 MLB Topps NOW® - Card 367 IN HAND",
+    "price": 11.75,
     "image": "https://i.ebayimg.com/images/g/n1wAAeSw7IhqOuE-/s-l300.png",
     "url": "https://www.ebay.com/itm/168485766325",
     "category": "topps-now",
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 0
+    "stock": 1
   },
   {
     "id": 523,
@@ -16965,7 +16965,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 0
   },
   {
     "id": 1415,
