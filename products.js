@@ -62,14 +62,14 @@ window.products = [
   {
     "id": 6,
     "name": "Shawn Ross (CALL UP RC) 1st MLB HR - 2026 MLB Topps NOW® - Card 491 PRE-SALE",
-    "price": 5.44,
+    "price": 5.74,
     "image": "https://i.ebayimg.com/images/g/xQMAAeSwEChqZ8~1/s-l300.png",
     "url": "https://www.ebay.com/itm/168568306601",
     "category": "topps-now",
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 15
   },
   {
     "id": 7,
@@ -93,7 +93,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 15
+    "stock": 14
   },
   {
     "id": 9,
