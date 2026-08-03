@@ -146,14 +146,14 @@ window.products = [
   {
     "id": 13,
     "name": "Max Clark (CALL UP RC) 1st MLB HR - 2026 MLB Topps NOW® - Card 509 PRE-SALE",
-    "price": 6.74,
+    "price": 6.84,
     "image": "https://i.ebayimg.com/images/g/XKMAAeSwFKNqb5F6/s-l300.png",
     "url": "https://www.ebay.com/itm/168583575900",
     "category": "topps-now",
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 16
+    "stock": 11
   },
   {
     "id": 14,
@@ -753,7 +753,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 9
+    "stock": 4
   },
   {
     "id": 64,
@@ -981,7 +981,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 8
+    "stock": 4
   },
   {
     "id": 83,
@@ -1137,7 +1137,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 13
+    "stock": 12
   },
   {
     "id": 96,
@@ -6885,7 +6885,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 0
   },
   {
     "id": 575,
@@ -8109,7 +8109,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": true,
-    "stock": 1
+    "stock": 0
   },
   {
     "id": 677,
