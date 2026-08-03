@@ -153,7 +153,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 7
+    "stock": 2
   },
   {
     "id": 14,
@@ -981,7 +981,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 2
+    "stock": 1
   },
   {
     "id": 83,
@@ -1137,7 +1137,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 12
+    "stock": 11
   },
   {
     "id": 96,
@@ -1149,7 +1149,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 5
+    "stock": 4
   },
   {
     "id": 97,
@@ -6793,7 +6793,7 @@ window.products = [
   },
   {
     "id": 567,
-    "name": "Munetaka Murakami (RC) - 2026 MLB Topps NOW�� - Card 210 IN HAND #B",
+    "name": "Munetaka Murakami (RC) - 2026 MLB Topps NOW® - Card 210 IN HAND #B",
     "price": 6.94,
     "image": "https://i.ebayimg.com/images/g/ddoAAeSwcM9qChuq/s-l300.png",
     "url": "https://www.ebay.com/itm/168494534859",
@@ -24873,7 +24873,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 7
+    "stock": 6
   },
   {
     "id": 2074,
@@ -65877,7 +65877,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 0
   },
   {
     "id": 5491,
