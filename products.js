@@ -153,7 +153,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 9
+    "stock": 16
   },
   {
     "id": 14,
@@ -309,7 +309,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 0
   },
   {
     "id": 27,
@@ -746,14 +746,14 @@ window.products = [
   {
     "id": 63,
     "name": "Max Clark (CALL UP RC) MLB DEBUT - 2026 MLB Topps NOW® - Card 505 PRE-SALE",
-    "price": 5.44,
+    "price": 6.44,
     "image": "https://i.ebayimg.com/images/g/lOcAAeSwk8Zqbj97/s-l300.png",
     "url": "https://www.ebay.com/itm/168581090332",
     "category": "topps-now",
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 12
+    "stock": 9
   },
   {
     "id": 64,
@@ -5018,7 +5018,7 @@ window.products = [
   {
     "id": 419,
     "name": "1/1* AUTO RELIC - Pete Crow-Armstrong (ROOKIE) PCA Topps NOW #775D PARALLEL",
-    "price": 8250,
+    "price": 8199,
     "image": "https://i.ebayimg.com/images/g/yLAAAeSwhN5qTAhL/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168533977169",
     "category": "topps-now",
@@ -54189,7 +54189,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 5
+    "stock": 4
   },
   {
     "id": 4517,
