@@ -2,14 +2,14 @@ window.products = [
   {
     "id": 1,
     "name": "George Lombard Jr. (CALL UP RC) 1st MLB  - 2026 MLB Topps NOW Card 521 PRE-SALE",
-    "price": 7.77,
+    "price": 9.77,
     "image": "https://i.ebayimg.com/images/g/SfUAAeSwgCRqc6aI/s-l300.png",
     "url": "https://www.ebay.com/itm/168591726131",
     "category": "topps-now",
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 8
+    "stock": 7
   },
   {
     "id": 2,
@@ -213,7 +213,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 11
+    "stock": 10
   },
   {
     "id": 19,
@@ -1185,7 +1185,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 0
   },
   {
     "id": 100,
@@ -1665,7 +1665,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 0
   },
   {
     "id": 140,
@@ -2229,7 +2229,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 0
   },
   {
     "id": 187,
@@ -4213,15 +4213,15 @@ window.products = [
   },
   {
     "id": 352,
-    "name": "Kevin McGonigle (RC) 100 Hits 100 Games - 2026 MLB Topps NOW® Card 463  PRE-SALE",
-    "price": 9.77,
+    "name": "Kevin McGonigle (RC) 100 Hits 100 Games - 2026 MLB Topps NOW® Card 463 IN HAND",
+    "price": 10.97,
     "image": "https://i.ebayimg.com/images/g/~4YAAeSwAzZqXRbg/s-l300.png",
     "url": "https://www.ebay.com/itm/168547768943",
     "category": "topps-now",
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 0
+    "stock": 2
   },
   {
     "id": 353,
@@ -21765,7 +21765,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 0
   },
   {
     "id": 1815,
@@ -58185,7 +58185,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 6
+    "stock": 5
   },
   {
     "id": 4850,
