@@ -68414,7 +68414,7 @@ window.products = [
   {
     "id": 5702,
     "name": "CHOOSE COLOR - Air Jordan 1 Sneaker Home Decor Pencil holder Planter 8 inches 3D",
-    "price": 0,
+    "price": 26.6,
     "image": "https://i.ebayimg.com/images/g/jqgAAOSwMiVmq9dS/s-l300.jpg",
     "url": "https://www.ebay.com/itm/166897828003",
     "category": "other",
@@ -71978,7 +71978,7 @@ window.products = [
   {
     "id": 5999,
     "name": "PICK YOUR GHOST HALLOWEEN PIN! BROOCH SCARY BOO COLLECTIBLE KIDS ADULTS.",
-    "price": 0,
+    "price": 4.54,
     "image": "https://i.ebayimg.com/images/g/eloAAOSwdWtk2mVT/s-l300.png",
     "url": "https://www.ebay.com/itm/166426197422",
     "category": "pins",
@@ -71990,7 +71990,7 @@ window.products = [
   {
     "id": 6000,
     "name": "PICK YOUR TOOTH PIN! PERFECT GIFT FOR DENTISTS PINS JEWELRY FASHION BROOCH.",
-    "price": 0,
+    "price": 4.54,
     "image": "https://i.ebayimg.com/images/g/jpIAAOSwnUhk2mG8/s-l300.png",
     "url": "https://www.ebay.com/itm/166426197421",
     "category": "pins",
@@ -72002,7 +72002,7 @@ window.products = [
   {
     "id": 6001,
     "name": "CHOOSE YOUR COLOR!  BREAST CANCER AWARNESS PINS - COLLECTIBLE PERFECT GIFT",
-    "price": 0,
+    "price": 4.54,
     "image": "https://i.ebayimg.com/images/g/vaYAAOSw7K9k2maz/s-l300.png",
     "url": "https://www.ebay.com/itm/166426197260",
     "category": "pins",
@@ -72014,7 +72014,7 @@ window.products = [
   {
     "id": 6002,
     "name": "PICK YOUR GHOST HALLOWEEN PIN! BROOCH SCARY BOO COLLECTIBLE KIDS ADULTS",
-    "price": 0,
+    "price": 1.6,
     "image": "https://i.ebayimg.com/images/g/eloAAOSwdWtk2mVT/s-l300.png",
     "url": "https://www.ebay.com/itm/166426197245",
     "category": "pins",
@@ -72026,7 +72026,7 @@ window.products = [
   {
     "id": 6003,
     "name": "PICK YOUR COLOR!  DOCTOR STETHOSCOPE - PINS JEWELRY PERFECT GIFT FOR DOCTORS",
-    "price": 0,
+    "price": 4.54,
     "image": "https://i.ebayimg.com/images/g/GsQAAOSwzdZk2lqH/s-l300.png",
     "url": "https://www.ebay.com/itm/166426197242",
     "category": "pins",
@@ -72038,7 +72038,7 @@ window.products = [
   {
     "id": 6004,
     "name": "PICK YOUR TOOTH PIN! PERFECT GIFT FOR DENTISTS PINS JEWELRY FASHION BROOCH",
-    "price": 0,
+    "price": 2.99,
     "image": "https://i.ebayimg.com/images/g/jpIAAOSwnUhk2mG8/s-l300.png",
     "url": "https://www.ebay.com/itm/166426197209",
     "category": "pins",
