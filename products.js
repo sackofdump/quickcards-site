@@ -4562,7 +4562,7 @@ window.products = [
   {
     "id": 381,
     "name": "Matthew Liberatore #621 TEAL REFRACTOR - 2026 Topps Series 2 MLB Baseball",
-    "price": 3.25,
+    "price": 0.99,
     "image": "https://i.ebayimg.com/images/g/EKMAAeSw24RqWW7U/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168559220880",
     "category": "baseball",
@@ -4922,19 +4922,19 @@ window.products = [
   {
     "id": 411,
     "name": "Jackson Merrill #SMLB-51 - 2026 Topps Series 2 MLB Baseball",
-    "price": 2.25,
+    "price": 0.99,
     "image": "https://i.ebayimg.com/images/g/gxoAAeSwHg9qYWNV/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168556376257",
     "category": "baseball",
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 412,
     "name": "Matt Olson #GW-34 - 2026 Topps Series 2 MLB Baseball",
-    "price": 2.75,
+    "price": 0.99,
     "image": "https://i.ebayimg.com/images/g/LYAAAeSwU7xqYWMs/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168556375814",
     "category": "baseball",
@@ -4946,7 +4946,7 @@ window.products = [
   {
     "id": 413,
     "name": "Zach Neto #91B2-39 - 2026 Topps Series 2 MLB Baseball",
-    "price": 2.25,
+    "price": 0.99,
     "image": "https://i.ebayimg.com/images/g/DQ4AAeSwoi5qYWLW/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168556375003",
     "category": "baseball",
@@ -4958,7 +4958,7 @@ window.products = [
   {
     "id": 414,
     "name": "Ryan Helsley #498 REFRACTOR - 2026 Topps Series 2 MLB Baseball",
-    "price": 2.5,
+    "price": 0.99,
     "image": "https://i.ebayimg.com/images/g/~1IAAeSwzZZqYWKx/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168556374746",
     "category": "baseball",
@@ -4970,7 +4970,7 @@ window.products = [
   {
     "id": 415,
     "name": "Colson Montgomery (RC) #SMLB-37 - 2026 Topps Series 2 MLB Baseball",
-    "price": 2.25,
+    "price": 0.99,
     "image": "https://i.ebayimg.com/images/g/SPwAAeSwQw5qYWH-/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168556372190",
     "category": "baseball",
@@ -4982,7 +4982,7 @@ window.products = [
   {
     "id": 416,
     "name": "Brandon Sproat (RC) #91B2-8 - 2026 Topps Series 2 MLB Baseball",
-    "price": 2.25,
+    "price": 0.99,
     "image": "https://i.ebayimg.com/images/g/~L8AAeSwBFtqYWHe/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168556371441",
     "category": "baseball",
@@ -4994,7 +4994,7 @@ window.products = [
   {
     "id": 417,
     "name": "Spencer Steer #365 REFRACTOR - 2026 Topps Series 2 MLB Baseball",
-    "price": 2.75,
+    "price": 0.99,
     "image": "https://i.ebayimg.com/images/g/xUsAAeSw7RNqYWG2/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168556369692",
     "category": "baseball",
@@ -5006,7 +5006,7 @@ window.products = [
   {
     "id": 418,
     "name": "Dirt Dynamos #605 SAND GLITTER - 2026 Topps Series 2 MLB Baseball",
-    "price": 2.75,
+    "price": 0.99,
     "image": "https://i.ebayimg.com/images/g/AhoAAeSw8KNqYWFb/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168556368455",
     "category": "baseball",
@@ -5018,7 +5018,7 @@ window.products = [
   {
     "id": 419,
     "name": "Hank Aaron #GW-43 - 2026 Topps Series 2 MLB Baseball",
-    "price": 2.25,
+    "price": 0.99,
     "image": "https://i.ebayimg.com/images/g/-b8AAeSwQBhqYWEO/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168556367868",
     "category": "baseball",
@@ -5030,7 +5030,7 @@ window.products = [
   {
     "id": 420,
     "name": "Nolan Ryan #91AS-19 - 2026 Topps Series 2 MLB Baseball",
-    "price": 2.25,
+    "price": 0.99,
     "image": "https://i.ebayimg.com/images/g/ZnwAAeSwo9lqYWDN/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168556366264",
     "category": "baseball",
@@ -5042,7 +5042,7 @@ window.products = [
   {
     "id": 421,
     "name": "Seth Lugo #638 SILVER CRACKLE - 2026 Topps Series 2 MLB Baseball",
-    "price": 4.25,
+    "price": 3.4,
     "image": "https://i.ebayimg.com/images/g/ovQAAeSw1uFqYWCL/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168556362446",
     "category": "baseball",
@@ -5054,7 +5054,7 @@ window.products = [
   {
     "id": 422,
     "name": "Ketel Marte #459 SILVER CRACKLE - 2026 Topps Series 2 MLB Baseball",
-    "price": 2.25,
+    "price": 0.99,
     "image": "https://i.ebayimg.com/images/g/0y4AAeSw~LpqYWB1/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168556360547",
     "category": "baseball",
@@ -5066,7 +5066,7 @@ window.products = [
   {
     "id": 423,
     "name": "Hurston Waldrep #407 SILVER CRACKLE - 2026 Topps Series 2 MLB Baseball",
-    "price": 2.25,
+    "price": 0.99,
     "image": "https://i.ebayimg.com/images/g/PncAAeSwQw5qYWBh/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168556359220",
     "category": "baseball",
@@ -5078,7 +5078,7 @@ window.products = [
   {
     "id": 424,
     "name": "Trent Grisham #425 SILVER CRACKLE - 2026 Topps Series 2 MLB Baseball",
-    "price": 3.25,
+    "price": 0.99,
     "image": "https://i.ebayimg.com/images/g/ZHAAAeSwBDpqYWBA/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168556357076",
     "category": "baseball",
@@ -5090,7 +5090,7 @@ window.products = [
   {
     "id": 425,
     "name": "Alec Burleson #573 SILVER CRACKLE - 2026 Topps Series 2 MLB Baseball",
-    "price": 3.25,
+    "price": 0.99,
     "image": "https://i.ebayimg.com/images/g/K1YAAeSwT55qYWAY/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168556354265",
     "category": "baseball",
@@ -6554,7 +6554,7 @@ window.products = [
   {
     "id": 547,
     "name": "Munetaka Murakami (RC) #91B2-12 - 2026 Topps Series 2 MLB Baseball",
-    "price": 3.99,
+    "price": 0.99,
     "image": "https://i.ebayimg.com/images/g/knQAAeSwQKZqLxlG/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168550473752",
     "category": "baseball",
@@ -6770,31 +6770,31 @@ window.products = [
   {
     "id": 565,
     "name": "Jake Bauers #604 BASE - 2026 Topps Series 2 MLB Baseball",
-    "price": 1.98,
+    "price": 0.99,
     "image": "https://i.ebayimg.com/images/g/FsYAAeSwf4JqWXBC/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168541056991",
     "category": "baseball",
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 566,
     "name": "Kyle Harrison #670 BASE - 2026 Topps Series 2 MLB Baseball",
-    "price": 1.88,
+    "price": 0.99,
     "image": "https://i.ebayimg.com/images/g/~AkAAeSw8EFqWW~J/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168541055810",
     "category": "baseball",
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 567,
     "name": "Matt Chapman #GW-19 - 2026 Topps Series 2 MLB Baseball",
-    "price": 2.25,
+    "price": 0.99,
     "image": "https://i.ebayimg.com/images/g/zwYAAeSw-4NqWW-I/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168541055506",
     "category": "baseball",
@@ -6806,7 +6806,7 @@ window.products = [
   {
     "id": 568,
     "name": "Ronald Acuna Jr. #91AS-28 SILVER CRACKLE - 2026 Topps Series 2 MLB Baseball",
-    "price": 2.25,
+    "price": 0.99,
     "image": "https://i.ebayimg.com/images/g/voMAAeSwKzZqWW9F/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168541055225",
     "category": "baseball",
@@ -6818,7 +6818,7 @@ window.products = [
   {
     "id": 569,
     "name": "Luis Torrens #480 REFRACTOR - 2026 Topps Series 2 MLB Baseball",
-    "price": 3.24,
+    "price": 0.99,
     "image": "https://i.ebayimg.com/images/g/TeYAAeSw9ABqWW6B/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168541053864",
     "category": "baseball",
@@ -6830,7 +6830,7 @@ window.products = [
   {
     "id": 570,
     "name": "Ceddanne Rafaela #GW-54 - 2026 Topps Series 2 MLB Baseball",
-    "price": 2.25,
+    "price": 0.99,
     "image": "https://i.ebayimg.com/images/g/CgYAAeSwSwhqWW5U/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168541051713",
     "category": "baseball",
@@ -6842,7 +6842,7 @@ window.products = [
   {
     "id": 571,
     "name": "Jackson Merrill #SMLB-51 - 2026 Topps Series 2 MLB Baseball",
-    "price": 2.25,
+    "price": 0.99,
     "image": "https://i.ebayimg.com/images/g/19QAAeSwqNVqWW4K/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168541047661",
     "category": "baseball",
@@ -6854,7 +6854,7 @@ window.products = [
   {
     "id": 572,
     "name": "Adley Rutschman #91B2-42 - 2026 Topps Series 2 MLB Baseball",
-    "price": 2.25,
+    "price": 0.99,
     "image": "https://i.ebayimg.com/images/g/5aoAAeSw2AdqWW3T/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168541043171",
     "category": "baseball",
@@ -6866,7 +6866,7 @@ window.products = [
   {
     "id": 573,
     "name": "Don Mattingly #GW-45 - 2026 Topps Series 2 MLB Baseball",
-    "price": 2.25,
+    "price": 0.99,
     "image": "https://i.ebayimg.com/images/g/sXwAAeSwwzRqWW2k/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168541039081",
     "category": "baseball",
@@ -6878,7 +6878,7 @@ window.products = [
   {
     "id": 574,
     "name": "Taylor Ward #551 SAND GLITTER - 2026 Topps Series 2 MLB Baseball",
-    "price": 2.25,
+    "price": 0.99,
     "image": "https://i.ebayimg.com/images/g/SO0AAeSwgblqWW2C/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168541037993",
     "category": "baseball",
@@ -6890,7 +6890,7 @@ window.products = [
   {
     "id": 575,
     "name": "Frank Thomas #91AS-33 SILVER CRACKLE - 2026 Topps Series 2 MLB Baseball",
-    "price": 2.25,
+    "price": 0.99,
     "image": "https://i.ebayimg.com/images/g/t1YAAeSwjYdqWW1A/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168541037503",
     "category": "baseball",
@@ -6902,7 +6902,7 @@ window.products = [
   {
     "id": 576,
     "name": "Vladimir Guerrero #91AS-21 - 2026 Topps Series 2 MLB Baseball",
-    "price": 2.25,
+    "price": 0.99,
     "image": "https://i.ebayimg.com/images/g/uZoAAeSwlYhqWW0I/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168541036978",
     "category": "baseball",
@@ -6914,7 +6914,7 @@ window.products = [
   {
     "id": 577,
     "name": "Munetaka Murakami (RC) #503 BASE - 2026 Topps Series 2 MLB Baseball",
-    "price": 2.95,
+    "price": 0.99,
     "image": "https://i.ebayimg.com/images/g/LRQAAeSwLDFqWWzg/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168541036627",
     "category": "baseball",
@@ -6926,7 +6926,7 @@ window.products = [
   {
     "id": 578,
     "name": "Honus Wagner #91B2-37 SILVER CRACKLE - 2026 Topps Series 2 MLB Baseball",
-    "price": 3.25,
+    "price": 0.99,
     "image": "https://i.ebayimg.com/images/g/ASUAAeSwnN9qWWyl/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168541036048",
     "category": "baseball",
@@ -6938,7 +6938,7 @@ window.products = [
   {
     "id": 579,
     "name": "Mark McGwire #CN-6 - 2026 Topps Series 2 MLB Baseball",
-    "price": 2.25,
+    "price": 0.99,
     "image": "https://i.ebayimg.com/images/g/yKoAAeSw6PpqWWxM/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168541035072",
     "category": "baseball",
@@ -6950,7 +6950,7 @@ window.products = [
   {
     "id": 580,
     "name": "Ryan Weathers #634 BASE - 2026 Topps Series 2 MLB Baseball",
-    "price": 2.25,
+    "price": 0.99,
     "image": "https://i.ebayimg.com/images/g/8ZwAAeSwOzFqWWwP/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168541034695",
     "category": "baseball",
@@ -6962,19 +6962,19 @@ window.products = [
   {
     "id": 581,
     "name": "Kyle Schwarber #SMLB-49 - 2026 Topps Series 2 MLB Baseball",
-    "price": 1.98,
+    "price": 0.99,
     "image": "https://i.ebayimg.com/images/g/oLYAAeSwhINqWWuR/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168541033743",
     "category": "baseball",
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 2
+    "stock": 3
   },
   {
     "id": 582,
     "name": "Nolan Ryan #91B2-36 SILVER CRACKLE - 2026 Topps Series 2 MLB Baseball",
-    "price": 4.75,
+    "price": 3.8,
     "image": "https://i.ebayimg.com/images/g/ACAAAeSwYlpqWWtv/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168541033519",
     "category": "baseball",
@@ -6986,7 +6986,7 @@ window.products = [
   {
     "id": 583,
     "name": "Bryce Eldridge (RC) #SMLB-52 - 2026 Topps Series 2 MLB Baseball",
-    "price": 2.25,
+    "price": 0.99,
     "image": "https://i.ebayimg.com/images/g/2KUAAeSw1uFqWVwf/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168540934439",
     "category": "baseball",
@@ -6998,7 +6998,7 @@ window.products = [
   {
     "id": 584,
     "name": "Shohei Ohtani #500 BASE - 2026 Topps Series 2 MLB Baseball",
-    "price": 2.25,
+    "price": 0.99,
     "image": "https://i.ebayimg.com/images/g/jGMAAeSwgvZqWVwB/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168540934257",
     "category": "baseball",
@@ -7010,7 +7010,7 @@ window.products = [
   {
     "id": 585,
     "name": "Ronald Acuna Jr. #91AS-28 - 2026 Topps Series 2 MLB Baseball",
-    "price": 2.25,
+    "price": 0.99,
     "image": "https://i.ebayimg.com/images/g/DesAAeSwUIlqWVvl/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168540933997",
     "category": "baseball",
@@ -7022,7 +7022,7 @@ window.products = [
   {
     "id": 586,
     "name": "Freddie Freeman #TOG-29 - 2026 Topps Series 2 MLB Baseball",
-    "price": 2.25,
+    "price": 0.99,
     "image": "https://i.ebayimg.com/images/g/VjcAAeSwfCxqWVvP/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168540933724",
     "category": "baseball",
@@ -7034,7 +7034,7 @@ window.products = [
   {
     "id": 587,
     "name": "Kirby Puckett #91AS-45 SILVER CRACKLE - 2026 Topps Series 2 MLB Baseball",
-    "price": 4.23,
+    "price": 3.38,
     "image": "https://i.ebayimg.com/images/g/dTAAAeSwARRqWVuw/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168540933090",
     "category": "baseball",
@@ -7046,7 +7046,7 @@ window.products = [
   {
     "id": 588,
     "name": "Trey Yesavage (RC) #SMLB-59 - 2026 Topps Series 2 MLB Baseball",
-    "price": 2.25,
+    "price": 0.99,
     "image": "https://i.ebayimg.com/images/g/gMMAAeSwJBBqWVuT/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168540931712",
     "category": "baseball",
@@ -7058,7 +7058,7 @@ window.products = [
   {
     "id": 589,
     "name": "Honus Wagner #GW-40 - 2026 Topps Series 2 MLB Baseball",
-    "price": 2.69,
+    "price": 0.99,
     "image": "https://i.ebayimg.com/images/g/IWsAAeSwRTtqWVt6/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168540930101",
     "category": "baseball",
@@ -7070,7 +7070,7 @@ window.products = [
   {
     "id": 590,
     "name": "Seth Lugo #638 REFRACTOR - 2026 Topps Series 2 MLB Baseball",
-    "price": 2.49,
+    "price": 0.99,
     "image": "https://i.ebayimg.com/images/g/yr0AAeSwDDdqWVtI/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168540926720",
     "category": "baseball",
@@ -7082,7 +7082,7 @@ window.products = [
   {
     "id": 591,
     "name": "Nick Kurtz #SMLB-32 - 2026 Topps Series 2 MLB Baseball",
-    "price": 2.25,
+    "price": 0.99,
     "image": "https://i.ebayimg.com/images/g/NasAAeSwdhFqWVss/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168540923639",
     "category": "baseball",
@@ -7094,7 +7094,7 @@ window.products = [
   {
     "id": 592,
     "name": "Nick Kurtz #TOG-22 - 2026 Topps Series 2 MLB Baseball",
-    "price": 2.25,
+    "price": 0.99,
     "image": "https://i.ebayimg.com/images/g/VYQAAeSwQBhqWVrY/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168540918505",
     "category": "baseball",
@@ -7106,7 +7106,7 @@ window.products = [
   {
     "id": 593,
     "name": "Wyatt Langford #91B2-48 - 2026 Topps Series 2 MLB Baseball",
-    "price": 2.25,
+    "price": 0.99,
     "image": "https://i.ebayimg.com/images/g/42cAAeSw~LpqWVrC/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168540918355",
     "category": "baseball",
@@ -7118,7 +7118,7 @@ window.products = [
   {
     "id": 594,
     "name": "Yoshinobu Yamamoto #SMLB-43 - 2026 Topps Series 2 MLB Baseball",
-    "price": 2.25,
+    "price": 0.99,
     "image": "https://i.ebayimg.com/images/g/S1IAAeSw8EFqWVqm/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168540918131",
     "category": "baseball",
@@ -7130,19 +7130,19 @@ window.products = [
   {
     "id": 595,
     "name": "Chase DeLauter (RC) #SMLB-39 - 2026 Topps Series 2 MLB Baseball",
-    "price": 2.25,
+    "price": 0.99,
     "image": "https://i.ebayimg.com/images/g/hooAAeSwYlpqWVqC/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168540917229",
     "category": "baseball",
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 596,
     "name": "Roman Anthony (RC) #91B2-11 - 2026 Topps Series 2 MLB Baseball",
-    "price": 2.25,
+    "price": 0.99,
     "image": "https://i.ebayimg.com/images/g/fzoAAeSwf4JqWVpp/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168540916821",
     "category": "baseball",
@@ -7154,7 +7154,7 @@ window.products = [
   {
     "id": 597,
     "name": "Lars Nootbaar #441 REFRACTOR - 2026 Topps Series 2 MLB Baseball",
-    "price": 2.95,
+    "price": 0.99,
     "image": "https://i.ebayimg.com/images/g/iOYAAeSw2VhqWVpQ/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168540916646",
     "category": "baseball",
@@ -7166,7 +7166,7 @@ window.products = [
   {
     "id": 598,
     "name": "Seiya Suzuki #TOG-23 - 2026 Topps Series 2 MLB Baseball",
-    "price": 2.25,
+    "price": 0.99,
     "image": "https://i.ebayimg.com/images/g/PnMAAeSw8fBqWVov/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168540915901",
     "category": "baseball",
@@ -7178,7 +7178,7 @@ window.products = [
   {
     "id": 599,
     "name": "Adley Rutschman #91B2-42 SILVER CRACKLE - 2026 Topps Series 2 MLB Baseball",
-    "price": 2.48,
+    "price": 0.99,
     "image": "https://i.ebayimg.com/images/g/QlEAAeSwxMpqWVoQ/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168540915649",
     "category": "baseball",
@@ -7190,7 +7190,7 @@ window.products = [
   {
     "id": 600,
     "name": "Payton Tolle (RC) #SMLB-34 - 2026 Topps Series 2 MLB Baseball",
-    "price": 2.25,
+    "price": 0.99,
     "image": "https://i.ebayimg.com/images/g/XGIAAeSw3QtqWVnu/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168540913328",
     "category": "baseball",
@@ -7202,7 +7202,7 @@ window.products = [
   {
     "id": 601,
     "name": "Mickey Mantle #CN-18 - 2026 Topps Series 2 MLB Baseball",
-    "price": 4.25,
+    "price": 3.4,
     "image": "https://i.ebayimg.com/images/g/ipYAAeSwvU5qWVnK/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168540911454",
     "category": "baseball",
@@ -7214,7 +7214,7 @@ window.products = [
   {
     "id": 602,
     "name": "Jackson Chourio #TOG-31 - 2026 Topps Series 2 MLB Baseball",
-    "price": 2.25,
+    "price": 0.99,
     "image": "https://i.ebayimg.com/images/g/e0gAAeSwlcJqWVmy/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168540909983",
     "category": "baseball",
@@ -7226,7 +7226,7 @@ window.products = [
   {
     "id": 603,
     "name": "Munetaka Murakami (RC) #SMLB-56 - 2026 Topps Series 2 MLB Baseball",
-    "price": 3.25,
+    "price": 0.99,
     "image": "https://i.ebayimg.com/images/g/X3oAAeSwyWFqWVlr/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168540907535",
     "category": "baseball",
@@ -7238,7 +7238,7 @@ window.products = [
   {
     "id": 604,
     "name": "Christian Yelich #91AS-16 - 2026 Topps Series 2 MLB Baseball",
-    "price": 2.25,
+    "price": 0.99,
     "image": "https://i.ebayimg.com/images/g/dwUAAeSw4VJqWVlQ/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168540906081",
     "category": "baseball",
@@ -7250,7 +7250,7 @@ window.products = [
   {
     "id": 605,
     "name": "Nolan Arenado #SMLB-55 - 2026 Topps Series 2 MLB Baseball",
-    "price": 2.25,
+    "price": 0.99,
     "image": "https://i.ebayimg.com/images/g/GqMAAeSwrFJqWVk3/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168540905012",
     "category": "baseball",
@@ -7262,7 +7262,7 @@ window.products = [
   {
     "id": 606,
     "name": "Vladimir Guerrero #91AS-21 SILVER CRACKLE - 2026 Topps Series 2 MLB Baseball",
-    "price": 3.25,
+    "price": 0.99,
     "image": "https://i.ebayimg.com/images/g/W4YAAeSwwrlqWVkM/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168540904668",
     "category": "baseball",
@@ -7274,7 +7274,7 @@ window.products = [
   {
     "id": 607,
     "name": "Kyle Schwarber #TOG-35 - 2026 Topps Series 2 MLB Baseball",
-    "price": 2.25,
+    "price": 0.99,
     "image": "https://i.ebayimg.com/images/g/6RoAAeSwww5qWVjq/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168540904234",
     "category": "baseball",
@@ -7286,7 +7286,7 @@ window.products = [
   {
     "id": 608,
     "name": "Tom Glavine #GW-62 - 2026 Topps Series 2 MLB Baseball",
-    "price": 2.25,
+    "price": 0.99,
     "image": "https://i.ebayimg.com/images/g/aC8AAeSwfwRqWVjT/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168540904123",
     "category": "baseball",
@@ -7298,7 +7298,7 @@ window.products = [
   {
     "id": 609,
     "name": "Luis Torrens #480 SAND GLITTER - 2026 Topps Series 2 MLB Baseball",
-    "price": 3.25,
+    "price": 0.99,
     "image": "https://i.ebayimg.com/images/g/MroAAeSw8fBqWVi1/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168540903682",
     "category": "baseball",
@@ -7310,7 +7310,7 @@ window.products = [
   {
     "id": 610,
     "name": "Tarik Skubal #TOG-27 - 2026 Topps Series 2 MLB Baseball",
-    "price": 2.25,
+    "price": 0.99,
     "image": "https://i.ebayimg.com/images/g/mYIAAeSwvdxqWViZ/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168540903405",
     "category": "baseball",
@@ -7322,7 +7322,7 @@ window.products = [
   {
     "id": 611,
     "name": "Cole Young (RC) #TOG-39 - 2026 Topps Series 2 MLB Baseball",
-    "price": 1.98,
+    "price": 0.99,
     "image": "https://i.ebayimg.com/images/g/GtQAAeSw3CxqWVA-/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168540854864",
     "category": "baseball",
@@ -7334,7 +7334,7 @@ window.products = [
   {
     "id": 612,
     "name": "Wyatt Langford #GW-64 - 2026 Topps Series 2 MLB Baseball",
-    "price": 2.25,
+    "price": 0.99,
     "image": "https://i.ebayimg.com/images/g/KC8AAeSwMndqWVAo/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168540854525",
     "category": "baseball",
@@ -7346,7 +7346,7 @@ window.products = [
   {
     "id": 613,
     "name": "Jarren Duran #SMLB-35 - 2026 Topps Series 2 MLB Baseball",
-    "price": 1.98,
+    "price": 0.99,
     "image": "https://i.ebayimg.com/images/g/6qYAAeSw9HxqWVAO/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168540854296",
     "category": "baseball",
@@ -7358,19 +7358,19 @@ window.products = [
   {
     "id": 614,
     "name": "Alex Freeland (RC) #SMLB-44 - 2026 Topps Series 2 MLB Baseball",
-    "price": 1.98,
+    "price": 0.99,
     "image": "https://i.ebayimg.com/images/g/LMgAAeSwEIpqWW-o/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168540853811",
     "category": "baseball",
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 3
+    "stock": 4
   },
   {
     "id": 615,
     "name": "Juan Soto #CN-3 - 2026 Topps Series 2 MLB Baseball",
-    "price": 2.25,
+    "price": 0.99,
     "image": "https://i.ebayimg.com/images/g/ppgAAeSwcUpqWU~k/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168540853602",
     "category": "baseball",
@@ -7382,7 +7382,7 @@ window.products = [
   {
     "id": 616,
     "name": "Freddie Freeman #SMLB-42 - 2026 Topps Series 2 MLB Baseball",
-    "price": 1.98,
+    "price": 0.99,
     "image": "https://i.ebayimg.com/images/g/EEMAAeSwwrlqWU~M/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168540853407",
     "category": "baseball",
@@ -7394,7 +7394,7 @@ window.products = [
   {
     "id": 617,
     "name": "Juan Soto #91AS-34 SILVER CRACKLE - 2026 Topps Series 2 MLB Baseball",
-    "price": 3.97,
+    "price": 0.99,
     "image": "https://i.ebayimg.com/images/g/vlUAAeSwDTBqWU92/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168540852651",
     "category": "baseball",
@@ -7406,19 +7406,19 @@ window.products = [
   {
     "id": 618,
     "name": "Chase Burns (RC) #TOG-25 - 2026 Topps Series 2 MLB Baseball",
-    "price": 2.25,
+    "price": 0.99,
     "image": "https://i.ebayimg.com/images/g/F04AAeSw4VVqWU9c/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168540852386",
     "category": "baseball",
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 3
+    "stock": 4
   },
   {
     "id": 619,
     "name": "Nick Kurtz #91B2-24 SILVER CRACKLE - 2026 Topps Series 2 MLB Baseball",
-    "price": 3.25,
+    "price": 0.99,
     "image": "https://i.ebayimg.com/images/g/lGMAAeSw2JtqWU9B/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168540852015",
     "category": "baseball",
@@ -7430,31 +7430,31 @@ window.products = [
   {
     "id": 620,
     "name": "Cam Schlittler (RC) #SMLB-48 - 2026 Topps Series 2 MLB Baseball",
-    "price": 1.98,
+    "price": 0.99,
     "image": "https://i.ebayimg.com/images/g/8~0AAeSwGs1qWU8f/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168540851173",
     "category": "baseball",
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 3
+    "stock": 4
   },
   {
     "id": 621,
     "name": "Rickey Henderson #91AS-10 - 2026 Topps Series 2 MLB Baseball",
-    "price": 2.98,
+    "price": 0.99,
     "image": "https://i.ebayimg.com/images/g/LJUAAeSwKs5qWU7~/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168540850920",
     "category": "baseball",
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 622,
     "name": "Ben Joyce #360 REFRACTOR - 2026 Topps Series 2 MLB Baseball",
-    "price": 3.25,
+    "price": 0.99,
     "image": "https://i.ebayimg.com/images/g/Gy4AAeSwZl5qWU7h/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168540850547",
     "category": "baseball",
@@ -7466,31 +7466,31 @@ window.products = [
   {
     "id": 623,
     "name": "Bubba Chandler (RC) #TOG-36 - 2026 Topps Series 2 MLB Baseball",
-    "price": 1.98,
+    "price": 0.99,
     "image": "https://i.ebayimg.com/images/g/q2YAAeSwzGVqWU7G/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168540850107",
     "category": "baseball",
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 3
+    "stock": 4
   },
   {
     "id": 624,
     "name": "Chase DeLauter (RC) #91B2-18 - 2026 Topps Series 2 MLB Baseball",
-    "price": 2.95,
+    "price": 0.99,
     "image": "https://i.ebayimg.com/images/g/~~gAAeSwaStqWU6f/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168540848728",
     "category": "baseball",
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 625,
     "name": "Freddy Peralta #657 SAND GLITTER - 2026 Topps Series 2 MLB Baseball",
-    "price": 3.25,
+    "price": 0.99,
     "image": "https://i.ebayimg.com/images/g/cW4AAeSwc5lqWU59/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168540847839",
     "category": "baseball",
@@ -7502,19 +7502,19 @@ window.products = [
   {
     "id": 626,
     "name": "Jose Ramirez #TOG-26 - 2026 Topps Series 2 MLB Baseball",
-    "price": 1.98,
+    "price": 0.99,
     "image": "https://i.ebayimg.com/images/g/VMIAAeSwrhNqWU5Z/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168540847433",
     "category": "baseball",
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 3
+    "stock": 4
   },
   {
     "id": 627,
     "name": "Cole Young (RC) #SMLB-53 - 2026 Topps Series 2 MLB Baseball",
-    "price": 2.25,
+    "price": 0.99,
     "image": "https://i.ebayimg.com/images/g/RskAAeSwvdxqWU4H/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168540844706",
     "category": "baseball",
@@ -7526,19 +7526,19 @@ window.products = [
   {
     "id": 628,
     "name": "Ichiro #91AS-31 - 2026 Topps Series 2 MLB Baseball",
-    "price": 2.25,
+    "price": 0.99,
     "image": "https://i.ebayimg.com/images/g/pkgAAeSwzGVqWU3p/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168540844231",
     "category": "baseball",
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 629,
     "name": "Francisco Lindor #TOG-32 - 2026 Topps Series 2 MLB Baseball",
-    "price": 2.25,
+    "price": 0.99,
     "image": "https://i.ebayimg.com/images/g/bKgAAeSwc5lqWU3N/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168540843894",
     "category": "baseball",
@@ -7550,7 +7550,7 @@ window.products = [
   {
     "id": 630,
     "name": "Trey Yesavage (RC) #91B2-33 SILVER CRACKLE - 2026 Topps Series 2 MLB Baseball",
-    "price": 3.25,
+    "price": 0.99,
     "image": "https://i.ebayimg.com/images/g/BAcAAeSwEbBqWU2T/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168540841962",
     "category": "baseball",
@@ -7562,7 +7562,7 @@ window.products = [
   {
     "id": 631,
     "name": "Brady House (RC) #SMLB-60 - 2026 Topps Series 2 MLB Baseball",
-    "price": 2.25,
+    "price": 0.99,
     "image": "https://i.ebayimg.com/images/g/Dx4AAeSwvspqWU1u/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168540837188",
     "category": "baseball",
@@ -7574,7 +7574,7 @@ window.products = [
   {
     "id": 632,
     "name": "Brooks Robinson #GW-3 - 2026 Topps Series 2 MLB Baseball",
-    "price": 2.25,
+    "price": 0.99,
     "image": "https://i.ebayimg.com/images/g/BB8AAeSwl85qWU1T/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168540834302",
     "category": "baseball",
@@ -7586,7 +7586,7 @@ window.products = [
   {
     "id": 633,
     "name": "Christian Walker #495 REFRACTOR - 2026 Topps Series 2 MLB Baseball",
-    "price": 2.25,
+    "price": 0.99,
     "image": "https://i.ebayimg.com/images/g/UtAAAeSwYttqWU06/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168540830344",
     "category": "baseball",
@@ -7598,7 +7598,7 @@ window.products = [
   {
     "id": 634,
     "name": "Bryce Eldridge (RC) #TOG-38 - 2026 Topps Series 2 MLB Baseball",
-    "price": 2.25,
+    "price": 0.99,
     "image": "https://i.ebayimg.com/images/g/E3wAAeSw4NdqWU0O/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168540825618",
     "category": "baseball",
@@ -7610,7 +7610,7 @@ window.products = [
   {
     "id": 635,
     "name": "Mark McGwire #91AS-44 SILVER CRACKLE - 2026 Topps Series 2 MLB Baseball",
-    "price": 2.25,
+    "price": 0.99,
     "image": "https://i.ebayimg.com/images/g/5gUAAeSwknFqWUze/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168540822091",
     "category": "baseball",
@@ -7622,7 +7622,7 @@ window.products = [
   {
     "id": 636,
     "name": "Adrian Beltre #GW-10 - 2026 Topps Series 2 MLB Baseball",
-    "price": 2.25,
+    "price": 0.99,
     "image": "https://i.ebayimg.com/images/g/CU4AAeSweflqWUy-/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168540821176",
     "category": "baseball",
@@ -7646,7 +7646,7 @@ window.products = [
   {
     "id": 638,
     "name": "/2026* Connelly Early (RC) #501 - 2026 Topps Series 2 MLB Baseball",
-    "price": 9.99,
+    "price": 7.99,
     "image": "https://i.ebayimg.com/images/g/pdoAAeSwXOVqRWhW/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168536362572",
     "category": "baseball",
@@ -7802,43 +7802,43 @@ window.products = [
   {
     "id": 651,
     "name": "Josh Simpson (RC) #583 BASE - 2026 Topps Series 2 MLB Baseball",
-    "price": 2.25,
+    "price": 0.99,
     "image": "https://i.ebayimg.com/images/g/rPwAAeSwBCFqRWud/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168506983485",
     "category": "baseball",
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 652,
     "name": "Angels Stars Align #517 BASE - 2026 Topps Series 2 MLB Baseball",
-    "price": 2.25,
+    "price": 0.99,
     "image": "https://i.ebayimg.com/images/g/wt0AAeSwKA1qRWuO/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168506983264",
     "category": "baseball",
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 653,
     "name": "Mitch Farris (RC) #609 BASE - 2026 Topps Series 2 MLB Baseball",
-    "price": 2.25,
+    "price": 0.99,
     "image": "https://i.ebayimg.com/images/g/kkQAAeSwckZqRWt6/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168506982920",
     "category": "baseball",
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 654,
     "name": "Chicago White Sox #661 BASE - 2026 Topps Series 2 MLB Baseball",
-    "price": 2.25,
+    "price": 0.99,
     "image": "https://i.ebayimg.com/images/g/2ZIAAeSwgFhqRWts/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168506982825",
     "category": "baseball",
@@ -7850,7 +7850,7 @@ window.products = [
   {
     "id": 655,
     "name": "Andre Granillo (RC) #674 BASE - 2026 Topps Series 2 MLB Baseball",
-    "price": 2.25,
+    "price": 0.99,
     "image": "https://i.ebayimg.com/images/g/s8UAAeSwNPJqRWtW/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168506982588",
     "category": "baseball",
@@ -7862,31 +7862,31 @@ window.products = [
   {
     "id": 656,
     "name": "Petey Halpin (RC) #668 BASE - 2026 Topps Series 2 MLB Baseball",
-    "price": 2.25,
+    "price": 0.99,
     "image": "https://i.ebayimg.com/images/g/c04AAeSwrLtqRWtH/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168506982406",
     "category": "baseball",
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 657,
     "name": "PJ Poulin #405 BASE - 2026 Topps Series 2 MLB Baseball",
-    "price": 2.25,
+    "price": 0.99,
     "image": "https://i.ebayimg.com/images/g/jDQAAeSwqTJqRWsl/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168506981846",
     "category": "baseball",
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 658,
     "name": "Andrew Hoffmann (RC) #696 BASE - 2026 Topps Series 2 MLB Baseball",
-    "price": 2.25,
+    "price": 0.99,
     "image": "https://i.ebayimg.com/images/g/k-QAAeSwm6tqRWsU/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168506981670",
     "category": "baseball",
@@ -7898,7 +7898,7 @@ window.products = [
   {
     "id": 659,
     "name": "Jayvien Sandridge (RC) #511 BASE - 2026 Topps Series 2 MLB Baseball",
-    "price": 2.25,
+    "price": 0.99,
     "image": "https://i.ebayimg.com/images/g/neUAAeSwk8FqRWsE/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168506981570",
     "category": "baseball",
@@ -7910,19 +7910,19 @@ window.products = [
   {
     "id": 660,
     "name": "Chase DeLauter (RC) #458 BASE - 2026 Topps Series 2 MLB Baseball",
-    "price": 2.25,
+    "price": 0.99,
     "image": "https://i.ebayimg.com/images/g/vk4AAeSwRZpqRWrw/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168506981290",
     "category": "baseball",
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 661,
     "name": "Hunter Barco (RC) #398 BASE - 2026 Topps Series 2 MLB Baseball",
-    "price": 2.25,
+    "price": 0.99,
     "image": "https://i.ebayimg.com/images/g/qRAAAeSwsUZqRWrZ/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168506980437",
     "category": "baseball",
@@ -7934,19 +7934,19 @@ window.products = [
   {
     "id": 662,
     "name": "Shohei Ohtani #500 BASE - 2026 Topps Series 2 MLB Baseball",
-    "price": 3,
+    "price": 0.99,
     "image": "https://i.ebayimg.com/images/g/yukAAeSw23FqRWqv/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168506979471",
     "category": "baseball",
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 663,
     "name": "Bryce Eldridge (RC) #406 BASE - 2026 Topps Series 2 MLB Baseball",
-    "price": 2.25,
+    "price": 0.99,
     "image": "https://i.ebayimg.com/images/g/q7EAAeSwQ2tqRWqh/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168506977767",
     "category": "baseball",
@@ -7958,7 +7958,7 @@ window.products = [
   {
     "id": 664,
     "name": "Jayden Murray (RC) #664 BASE - 2026 Topps Series 2 MLB Baseball",
-    "price": 2.25,
+    "price": 0.99,
     "image": "https://i.ebayimg.com/images/g/m1QAAeSwezVqRWqJ/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168506975529",
     "category": "baseball",
@@ -7970,7 +7970,7 @@ window.products = [
   {
     "id": 665,
     "name": "Taylor Rashi (RC) #615 BASE - 2026 Topps Series 2 MLB Baseball",
-    "price": 2.25,
+    "price": 0.99,
     "image": "https://i.ebayimg.com/images/g/zjcAAeSwwz5qRWp5/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168506974238",
     "category": "baseball",
@@ -7982,19 +7982,19 @@ window.products = [
   {
     "id": 666,
     "name": "Zach Cole (RC) #601 BASE - 2026 Topps Series 2 MLB Baseball",
-    "price": 2.25,
+    "price": 0.99,
     "image": "https://i.ebayimg.com/images/g/pHsAAeSw2IFqRWpr/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168506973130",
     "category": "baseball",
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 667,
     "name": "Pittsburgh Pirates #467 BASE - 2026 Topps Series 2 MLB Baseball",
-    "price": 2.25,
+    "price": 0.99,
     "image": "https://i.ebayimg.com/images/g/q-8AAeSwb~BqRWpc/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168506971844",
     "category": "baseball",
@@ -8006,7 +8006,7 @@ window.products = [
   {
     "id": 668,
     "name": "Cody Laweryson (RC) #608 BASE - 2026 Topps Series 2 MLB Baseball",
-    "price": 2.25,
+    "price": 0.99,
     "image": "https://i.ebayimg.com/images/g/sJoAAeSwjvNqRWpK/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168506970454",
     "category": "baseball",
@@ -8018,7 +8018,7 @@ window.products = [
   {
     "id": 669,
     "name": "Tampa Bay Rays #408 BASE - 2026 Topps Series 2 MLB Baseball",
-    "price": 2.25,
+    "price": 0.99,
     "image": "https://i.ebayimg.com/images/g/vGwAAeSwI2NqRWo0/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168506968752",
     "category": "baseball",
@@ -8030,7 +8030,7 @@ window.products = [
   {
     "id": 670,
     "name": "Harry Ford (RC) BASE - 2026 Topps Series 2 MLB Baseball",
-    "price": 2.25,
+    "price": 0.99,
     "image": "https://i.ebayimg.com/images/g/zcgAAeSwtsRqRWok/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168506966902",
     "category": "baseball",
@@ -8042,31 +8042,31 @@ window.products = [
   {
     "id": 671,
     "name": "Trey Yesavage (RC) #620 BASE - 2026 Topps Series 2 MLB Baseball",
-    "price": 2.25,
+    "price": 0.99,
     "image": "https://i.ebayimg.com/images/g/seAAAeSwmGZqRWoL/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168506964077",
     "category": "baseball",
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 672,
     "name": "Denzer Guzman #435 BASE - 2026 Topps Series 2 MLB Baseball",
-    "price": 2.25,
+    "price": 0.99,
     "image": "https://i.ebayimg.com/images/g/elsAAeSwKIVqRWnx/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168506963065",
     "category": "baseball",
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 673,
     "name": "Kazuma Okamoto (RC) #443 BASE - 2026 Topps Series 2 MLB Baseball",
-    "price": 2.25,
+    "price": 0.99,
     "image": "https://i.ebayimg.com/images/g/pvIAAeSwb~BqRWnf/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168506962802",
     "category": "baseball",
@@ -8078,19 +8078,19 @@ window.products = [
   {
     "id": 674,
     "name": "Carter Jensen (RC) #530 BASE - 2026 Topps Series 2 MLB Baseball",
-    "price": 1.98,
+    "price": 0.99,
     "image": "https://i.ebayimg.com/images/g/ZGIAAeSwDoNqRWnI/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168506962526",
     "category": "baseball",
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 2
+    "stock": 3
   },
   {
     "id": 675,
     "name": "Jarren Duran #560 BASE - 2026 Topps Series 2 MLB Baseball",
-    "price": 2.25,
+    "price": 0.99,
     "image": "https://i.ebayimg.com/images/g/gNwAAeSw509qRWm7/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168506962186",
     "category": "baseball",
@@ -8102,7 +8102,7 @@ window.products = [
   {
     "id": 676,
     "name": "Jose Corniell (RC) #665 BASE - 2026 Topps Series 2 MLB Baseball",
-    "price": 2.25,
+    "price": 0.99,
     "image": "https://i.ebayimg.com/images/g/8PAAAeSwhtJqRWmr/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168506961663",
     "category": "baseball",
@@ -8114,19 +8114,19 @@ window.products = [
   {
     "id": 677,
     "name": "Drew Sommers (RC) #387 BASE - 2026 Topps Series 2 MLB Baseball",
-    "price": 2.25,
+    "price": 0.99,
     "image": "https://i.ebayimg.com/images/g/gc8AAeSwEFxqRWma/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168506961310",
     "category": "baseball",
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 678,
     "name": "Christian Montes De Oca (RC) #644 BASE - 2026 Topps Series 2 MLB Baseball",
-    "price": 2.25,
+    "price": 0.99,
     "image": "https://i.ebayimg.com/images/g/iEgAAeSw~UhqRWlH/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168506960643",
     "category": "baseball",
@@ -8138,7 +8138,7 @@ window.products = [
   {
     "id": 679,
     "name": "Connelly Early (RC) #501 BASE - 2026 Topps Series 2 MLB Baseball",
-    "price": 2.25,
+    "price": 0.99,
     "image": "https://i.ebayimg.com/images/g/wmYAAeSwwz5qRWkr/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168506960307",
     "category": "baseball",
@@ -8150,7 +8150,7 @@ window.products = [
   {
     "id": 680,
     "name": "Alan Rangel (RC) #572 BASE - 2026 Topps Series 2 MLB Baseball",
-    "price": 2.25,
+    "price": 0.99,
     "image": "https://i.ebayimg.com/images/g/snIAAeSwI2NqRWkS/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168506959389",
     "category": "baseball",
@@ -8162,7 +8162,7 @@ window.products = [
   {
     "id": 681,
     "name": "Rolddy Munoz (RC) #570 BASE - 2026 Topps Series 2 MLB Baseball",
-    "price": 2.25,
+    "price": 0.99,
     "image": "https://i.ebayimg.com/images/g/noYAAeSwxHhqRWj7/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168506959081",
     "category": "baseball",
@@ -8174,7 +8174,7 @@ window.products = [
   {
     "id": 682,
     "name": "Luis Curvelo (RC) #386 BASE - 2026 Topps Series 2 MLB Baseball",
-    "price": 2.25,
+    "price": 0.99,
     "image": "https://i.ebayimg.com/images/g/ZFEAAeSwAUpqRWjY/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168506958546",
     "category": "baseball",
@@ -8186,7 +8186,7 @@ window.products = [
   {
     "id": 683,
     "name": "Blake Snell #91B2-5 - 2026 Topps Series 2 MLB Baseball",
-    "price": 3,
+    "price": 0.99,
     "image": "https://i.ebayimg.com/images/g/3r4AAeSwHt1qRWi3/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168506958044",
     "category": "baseball",
@@ -8198,7 +8198,7 @@ window.products = [
   {
     "id": 684,
     "name": "Bryce Eldridge (RC) #SMLB-52 - 2026 Topps Series 2 MLB Baseball",
-    "price": 2.75,
+    "price": 0.99,
     "image": "https://i.ebayimg.com/images/g/wdkAAeSw7VBqRWib/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168506956947",
     "category": "baseball",
@@ -8210,7 +8210,7 @@ window.products = [
   {
     "id": 685,
     "name": "Edouard Julien #660 REFRACTOR - 2026 Topps Series 2 MLB Baseball",
-    "price": 3,
+    "price": 0.99,
     "image": "https://i.ebayimg.com/images/g/mwgAAeSwRslqRWg1/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168506950523",
     "category": "baseball",
@@ -8222,7 +8222,7 @@ window.products = [
   {
     "id": 686,
     "name": "Tarik Skubal #TOG-27 - 2026 Topps Series 2 MLB Baseball #B",
-    "price": 2.75,
+    "price": 0.99,
     "image": "https://i.ebayimg.com/images/g/qWIAAeSw5BVqRWgH/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168506949943",
     "category": "baseball",
@@ -8234,7 +8234,7 @@ window.products = [
   {
     "id": 687,
     "name": "Juan Soto #91AS-34 CRACKLE FOIL - 2026 Topps Series 2 MLB Baseball",
-    "price": 3.97,
+    "price": 0.99,
     "image": "https://i.ebayimg.com/images/g/Vz8AAeSw0TVqRWfy/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168506949248",
     "category": "baseball",
@@ -8246,7 +8246,7 @@ window.products = [
   {
     "id": 688,
     "name": "Owen Caissie (RC) #SMLB-36 - 2026 Topps Series 2 MLB Baseball",
-    "price": 3,
+    "price": 0.99,
     "image": "https://i.ebayimg.com/images/g/dFQAAeSwEFxqRWfb/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168506946763",
     "category": "baseball",
@@ -8258,7 +8258,7 @@ window.products = [
   {
     "id": 689,
     "name": "/399* Ryan Helsley #498 YELLOW FOIL - 2026 Topps Series 2 MLB Baseball",
-    "price": 5,
+    "price": 4,
     "image": "https://i.ebayimg.com/images/g/twcAAeSwoZhqRWfD/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168506944307",
     "category": "baseball",
@@ -8270,7 +8270,7 @@ window.products = [
   {
     "id": 690,
     "name": "Brice Matthews (RC) #SMLB-41 - 2026 Topps Series 2 MLB Baseball",
-    "price": 3,
+    "price": 0.99,
     "image": "https://i.ebayimg.com/images/g/ggIAAeSwTPJqRWeL/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168506937851",
     "category": "baseball",
@@ -8282,7 +8282,7 @@ window.products = [
   {
     "id": 691,
     "name": "Trey Yesavage (RC) #91B2-33 CRACKLE FOIL - 2026 Topps Series 2 MLB Baseball",
-    "price": 5,
+    "price": 4,
     "image": "https://i.ebayimg.com/images/g/dhQAAeSwy7BqRWdp/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168506934618",
     "category": "baseball",
@@ -8294,7 +8294,7 @@ window.products = [
   {
     "id": 692,
     "name": "Juan Soto #91AS-34 - 2026 Topps Series 2 MLB Baseball",
-    "price": 3,
+    "price": 0.99,
     "image": "https://i.ebayimg.com/images/g/n8cAAeSwXghqRWdP/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168506931360",
     "category": "baseball",
@@ -8306,7 +8306,7 @@ window.products = [
   {
     "id": 693,
     "name": "Munetaka Murakami (RC) #TOG-28 - 2026 Topps Series 2 MLB Baseball",
-    "price": 4.25,
+    "price": 3.4,
     "image": "https://i.ebayimg.com/images/g/SqYAAeSwcyhqRWcy/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168506929140",
     "category": "baseball",
@@ -8318,7 +8318,7 @@ window.products = [
   {
     "id": 694,
     "name": "Kyle Leahy #497 SAND GLITTER FOIL - 2026 Topps Series 2 MLB Baseball",
-    "price": 3,
+    "price": 0.99,
     "image": "https://i.ebayimg.com/images/g/jAoAAeSwnrZqRWcb/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168506925032",
     "category": "baseball",
@@ -8342,7 +8342,7 @@ window.products = [
   {
     "id": 696,
     "name": "Mitch Farris #609 PINK GLITTER FOIL - 2026 Topps Series 2 MLB Baseball",
-    "price": 4,
+    "price": 3.2,
     "image": "https://i.ebayimg.com/images/g/qeQAAeSwlelqRWbJ/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168506919197",
     "category": "baseball",
@@ -8354,7 +8354,7 @@ window.products = [
   {
     "id": 697,
     "name": "Vladimir Guerrero Jr. #91AS-37 CRACKLE FOIL - 2026 Topps Series 2 MLB Baseball",
-    "price": 5.75,
+    "price": 4.6,
     "image": "https://i.ebayimg.com/images/g/TD8AAeSwn0ZqRWae/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168506915325",
     "category": "baseball",
@@ -8366,7 +8366,7 @@ window.products = [
   {
     "id": 698,
     "name": "Christian Moore (RC) #TOG-21 - 2026 Topps Series 2 MLB Baseball #B",
-    "price": 2.75,
+    "price": 0.99,
     "image": "https://i.ebayimg.com/images/g/exQAAeSwW~xqRWZv/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168506909520",
     "category": "baseball",
@@ -8378,7 +8378,7 @@ window.products = [
   {
     "id": 699,
     "name": "Rickey Henderson #CN-2 - 2026 Topps Series 2 MLB Baseball",
-    "price": 3,
+    "price": 0.99,
     "image": "https://i.ebayimg.com/images/g/bwQAAeSw5XRqRWZe/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168506906941",
     "category": "baseball",
@@ -8390,7 +8390,7 @@ window.products = [
   {
     "id": 700,
     "name": "Bubba Chandler (RC) #SMLB-50 - 2026 Topps Series 2 MLB Baseball",
-    "price": 3,
+    "price": 0.99,
     "image": "https://i.ebayimg.com/images/g/Z~gAAeSwBUpqRWZK/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168506903959",
     "category": "baseball",
@@ -8402,7 +8402,7 @@ window.products = [
   {
     "id": 701,
     "name": "Bo Bichette #473 REFRACTOR - 2026 Topps Series 2 MLB Baseball",
-    "price": 5,
+    "price": 4,
     "image": "https://i.ebayimg.com/images/g/jKAAAeSwFc5qRWY1/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168506901540",
     "category": "baseball",
@@ -8414,7 +8414,7 @@ window.products = [
   {
     "id": 702,
     "name": "Nolan McLean (RC) #TOG-33 - 2026 Topps Series 2 MLB Baseball #B",
-    "price": 2.75,
+    "price": 0.99,
     "image": "https://i.ebayimg.com/images/g/h-8AAeSwINNqRWYY/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168506897371",
     "category": "baseball",
@@ -8426,7 +8426,7 @@ window.products = [
   {
     "id": 703,
     "name": "Mariano Rivera #91B2-20 CRACKLE FOIL - 2026 Topps Series 2 MLB Baseball",
-    "price": 4.75,
+    "price": 3.8,
     "image": "https://i.ebayimg.com/images/g/gQ8AAeSwKwBqRWX2/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168506894186",
     "category": "baseball",
@@ -8438,7 +8438,7 @@ window.products = [
   {
     "id": 704,
     "name": "Nolan McLean (RC) #SMLB-46 - 2026 Topps Series 2 MLB Baseball",
-    "price": 2.75,
+    "price": 0.99,
     "image": "https://i.ebayimg.com/images/g/jzsAAeSwGGJqRWXX/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168506893437",
     "category": "baseball",
@@ -8450,7 +8450,7 @@ window.products = [
   {
     "id": 705,
     "name": "Jackie Robinson #GW-61 - 2026 Topps Series 2 MLB Baseball",
-    "price": 3,
+    "price": 0.99,
     "image": "https://i.ebayimg.com/images/g/jPkAAeSwAMtqRWW0/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168506892453",
     "category": "baseball",
@@ -8462,7 +8462,7 @@ window.products = [
   {
     "id": 706,
     "name": "Vladimir Guerrero Jr. #91AS-37 - 2026 Topps Series 2 MLB Baseball",
-    "price": 3,
+    "price": 0.99,
     "image": "https://i.ebayimg.com/images/g/hVgAAeSw0iNqRWWj/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168506892264",
     "category": "baseball",
@@ -8474,7 +8474,7 @@ window.products = [
   {
     "id": 707,
     "name": "Carson Williams (RC) #SMLB-57 - 2026 Topps Series 2 MLB Baseball #B",
-    "price": 2.75,
+    "price": 0.99,
     "image": "https://i.ebayimg.com/images/g/gI4AAeSwbg9qRWWE/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168506891842",
     "category": "baseball",
@@ -8486,7 +8486,7 @@ window.products = [
   {
     "id": 708,
     "name": "Trey Yesavage (RC) #TOG-40 - 2026 Topps Series 2 MLB Baseball",
-    "price": 3,
+    "price": 0.99,
     "image": "https://i.ebayimg.com/images/g/o5UAAeSw0VlqRWVx/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168506891374",
     "category": "baseball",
@@ -8498,7 +8498,7 @@ window.products = [
   {
     "id": 709,
     "name": "Ken Griffey Jr. #GW-15 - 2026 Topps Series 2 MLB Baseball",
-    "price": 3,
+    "price": 0.99,
     "image": "https://i.ebayimg.com/images/g/qNkAAeSw4kdqRWVa/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168506890981",
     "category": "baseball",
@@ -8510,7 +8510,7 @@ window.products = [
   {
     "id": 710,
     "name": "Freddie Freeman #TOG-29 - 2026 Topps Series 2 MLB Baseball #B",
-    "price": 2.75,
+    "price": 0.99,
     "image": "https://i.ebayimg.com/images/g/T3gAAeSw~3tqRWVA/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168506890360",
     "category": "baseball",
@@ -8522,7 +8522,7 @@ window.products = [
   {
     "id": 711,
     "name": "Pete Alonso #SMLB-47 - 2026 Topps Series 2 MLB Baseball",
-    "price": 3,
+    "price": 0.99,
     "image": "https://i.ebayimg.com/images/g/oMsAAeSwSl5qRWUm/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168506889504",
     "category": "baseball",
@@ -8582,7 +8582,7 @@ window.products = [
   {
     "id": 716,
     "name": "Samuel Basallo #91B2-29 - 2026 Topps Series 2 MLB Baseball",
-    "price": 3,
+    "price": 0.99,
     "image": "https://i.ebayimg.com/images/g/okQAAeSwuOVqQwX5/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168502045351",
     "category": "baseball",
@@ -8594,7 +8594,7 @@ window.products = [
   {
     "id": 717,
     "name": "Chase DeLauter (RC) #SMLB-39 - 2026 Topps Series 2 MLB Baseball",
-    "price": 4,
+    "price": 3.2,
     "image": "https://i.ebayimg.com/images/g/egwAAeSwKIVqQwXh/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168502044251",
     "category": "baseball",
@@ -8606,19 +8606,19 @@ window.products = [
   {
     "id": 718,
     "name": "Cal Raleigh #SMLB-54 - 2026 Topps Series 2 MLB Baseball",
-    "price": 3,
+    "price": 0.99,
     "image": "https://i.ebayimg.com/images/g/fL8AAeSw08BqQwXM/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168502042837",
     "category": "baseball",
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 719,
     "name": "Daulton Varsho #GW-55 - 2026 Topps Series 2 MLB Baseball",
-    "price": 3,
+    "price": 0.99,
     "image": "https://i.ebayimg.com/images/g/jR0AAeSw5XRqQwVw/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168502037579",
     "category": "baseball",
@@ -8630,31 +8630,31 @@ window.products = [
   {
     "id": 720,
     "name": "Jackson Merrill #TOG-37 - 2026 Topps Series 2 MLB Baseball",
-    "price": 3,
+    "price": 0.99,
     "image": "https://i.ebayimg.com/images/g/wNUAAeSw5epqQwVU/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168502036400",
     "category": "baseball",
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 721,
     "name": "Wyatt Langford #SMLB-58 - 2026 Topps Series 2 MLB Baseball",
-    "price": 2,
+    "price": 0.99,
     "image": "https://i.ebayimg.com/images/g/nMcAAeSw6BhqQwU7/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168502035440",
     "category": "baseball",
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 722,
     "name": "Johnny Bench #91AS-47 CRACKLE FOIL - 2026 Topps Series 2 MLB Baseball",
-    "price": 5,
+    "price": 4,
     "image": "https://i.ebayimg.com/images/g/kM8AAeSwFM9qQwQR/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168502025342",
     "category": "baseball",
@@ -8666,7 +8666,7 @@ window.products = [
   {
     "id": 723,
     "name": "Roberto Clemente #91AS-25 - 2026 Topps Series 2 MLB Baseball",
-    "price": 3.5,
+    "price": 0.99,
     "image": "https://i.ebayimg.com/images/g/p2oAAeSw0VlqQwPy/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168502022741",
     "category": "baseball",
@@ -8678,7 +8678,7 @@ window.products = [
   {
     "id": 724,
     "name": "Cam Schlittler (RC) #TOG-34 - 2026 Topps Series 2 MLB Baseball",
-    "price": 4,
+    "price": 1.25,
     "image": "https://i.ebayimg.com/images/g/rfsAAeSwALdqQwPa/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168502020966",
     "category": "baseball",
@@ -8690,7 +8690,7 @@ window.products = [
   {
     "id": 725,
     "name": "George Kirby #493 Glitter Refractor - 2026 Topps Series 2 MLB Baseball",
-    "price": 4,
+    "price": 3.2,
     "image": "https://i.ebayimg.com/images/g/sGgAAeSwBdNqQwPB/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168502018849",
     "category": "baseball",
@@ -8702,19 +8702,19 @@ window.products = [
   {
     "id": 726,
     "name": "Colson Montogmery (RC) #SMLB-37 - 2026 Topps Series 2 MLB Baseball",
-    "price": 3,
+    "price": 0.99,
     "image": "https://i.ebayimg.com/images/g/oe4AAeSw7VBqQwOd/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168502017928",
     "category": "baseball",
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 727,
     "name": "Jac Caglianone (RC) #91B2-43 SILVER CRACKLE - 2026 Topps Series 2 MLB Baseball",
-    "price": 5,
+    "price": 4,
     "image": "https://i.ebayimg.com/images/g/puUAAeSwAnNqQwOD/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168502017677",
     "category": "baseball",
@@ -8726,19 +8726,19 @@ window.products = [
   {
     "id": 728,
     "name": "Seiya Suzuki #TOG-23 - 2026 Topps Series 2 MLB Baseball",
-    "price": 3,
+    "price": 0.99,
     "image": "https://i.ebayimg.com/images/g/gZUAAeSwB1xqQwNh/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168502017439",
     "category": "baseball",
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 2
   },
   {
     "id": 729,
     "name": "Nick Kurtz #TOG-22 REFRACTOR - 2026 Topps Series 2 MLB Baseball",
-    "price": 3,
+    "price": 0.99,
     "image": "https://i.ebayimg.com/images/g/Z1QAAeSw211qQwLF/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168502016529",
     "category": "baseball",
@@ -8750,7 +8750,7 @@ window.products = [
   {
     "id": 730,
     "name": "Ketel Marte #91B2-25 SILVER CRACKLE - 2026 Topps Series 2 MLB Baseball",
-    "price": 4,
+    "price": 3.2,
     "image": "https://i.ebayimg.com/images/g/i-UAAeSwepNqQwKt/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168502015705",
     "category": "baseball",
@@ -8762,7 +8762,7 @@ window.products = [
   {
     "id": 731,
     "name": "Yoshinobu Yamamoto #SMLB-43 REFRACTOR - 2026 Topps Series 2 MLB Baseball",
-    "price": 3,
+    "price": 0.99,
     "image": "https://i.ebayimg.com/images/g/X0QAAeSwt8NqQwKO/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168502015399",
     "category": "baseball",
@@ -8774,7 +8774,7 @@ window.products = [
   {
     "id": 732,
     "name": "Jose Corniell (RC) #665 GLITTER REFRACTOR - 2026 Topps Series 2 MLB Baseball",
-    "price": 5,
+    "price": 4,
     "image": "https://i.ebayimg.com/images/g/ncEAAeSwPtpqQwJH/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168502014312",
     "category": "baseball",
@@ -8786,7 +8786,7 @@ window.products = [
   {
     "id": 733,
     "name": "Elly De La Cruz #GW-65 REFRACTOR - 2026 Topps Series 2 MLB Baseball",
-    "price": 4,
+    "price": 3.2,
     "image": "https://i.ebayimg.com/images/g/ZfUAAeSwbEZqQwIm/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168502013439",
     "category": "baseball",
@@ -8798,7 +8798,7 @@ window.products = [
   {
     "id": 734,
     "name": "Kyle Schwarber #TOG-35 - 2026 Topps Series 2 MLB Baseball",
-    "price": 3,
+    "price": 0.99,
     "image": "https://i.ebayimg.com/images/g/f7MAAeSwNItqQwIM/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168502012911",
     "category": "baseball",
@@ -8810,7 +8810,7 @@ window.products = [
   {
     "id": 735,
     "name": "Nolan Arenado #SMLB-55 - 2026 Topps Series 2 MLB Baseball",
-    "price": 3,
+    "price": 0.99,
     "image": "https://i.ebayimg.com/images/g/W~IAAeSw~3tqQwHu/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168502012141",
     "category": "baseball",
@@ -8822,7 +8822,7 @@ window.products = [
   {
     "id": 736,
     "name": "Fernando Tatis Jr. #91AS-36 SILVER CRACKLE - 2026 Topps Series 2 MLB Baseball",
-    "price": 5,
+    "price": 4,
     "image": "https://i.ebayimg.com/images/g/oVEAAeSwBdNqQwHP/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168502011374",
     "category": "baseball",
@@ -8834,7 +8834,7 @@ window.products = [
   {
     "id": 737,
     "name": "Mookie Betts #91AS-13 - 2026 Topps Series 2 MLB Baseball #B",
-    "price": 3,
+    "price": 0.99,
     "image": "https://i.ebayimg.com/images/g/dj4AAeSwTnJqQwGy/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168502011127",
     "category": "baseball",
@@ -8846,7 +8846,7 @@ window.products = [
   {
     "id": 738,
     "name": "Munetaka Murakami #SMLB-56 - 2026 Topps Series 2 MLB Baseball",
-    "price": 5,
+    "price": 4,
     "image": "https://i.ebayimg.com/images/g/oVkAAeSwjvNqQwGY/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168502010894",
     "category": "baseball",
@@ -8858,7 +8858,7 @@ window.products = [
   {
     "id": 739,
     "name": "Jackson Chourio #TOG-31 - 2026 Topps Series 2 MLB Baseball",
-    "price": 3,
+    "price": 0.99,
     "image": "https://i.ebayimg.com/images/g/lnAAAeSw4kdqQwGA/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168502010360",
     "category": "baseball",
@@ -8870,7 +8870,7 @@ window.products = [
   {
     "id": 740,
     "name": "Ken Griffey Jr. #CN-17 REFRACTOR - 2026 Topps Series 2 MLB Baseball",
-    "price": 3,
+    "price": 0.99,
     "image": "https://i.ebayimg.com/images/g/grEAAeSwsXNqQwFr/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168502010177",
     "category": "baseball",
@@ -8882,7 +8882,7 @@ window.products = [
   {
     "id": 741,
     "name": "Christian Encarnacion-Strand #376 REFRACTOR - 2026 Topps Series 2 MLB Baseball",
-    "price": 4,
+    "price": 3.2,
     "image": "https://i.ebayimg.com/images/g/dbsAAeSwHBRqQwEX/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168502008704",
     "category": "baseball",
@@ -8894,7 +8894,7 @@ window.products = [
   {
     "id": 742,
     "name": "Payton Tolle (RC) #SMLB-34 - 2026 Topps Series 2 MLB Baseball",
-    "price": 2.5,
+    "price": 0.99,
     "image": "https://i.ebayimg.com/images/g/cu8AAeSw2NJqQwDu/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168502007417",
     "category": "baseball",
@@ -8906,7 +8906,7 @@ window.products = [
   {
     "id": 743,
     "name": "Christian Moore (RC) #SMLB-31 - 2026 Topps Series 2 MLB Baseball",
-    "price": 3,
+    "price": 0.99,
     "image": "https://i.ebayimg.com/images/g/QqcAAeSwxARqQvP-/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168501915688",
     "category": "baseball",
@@ -8918,7 +8918,7 @@ window.products = [
   {
     "id": 744,
     "name": "Fernando Tatis Jr. #91AS-36 - 2026 Topps Series 2 MLB Baseball",
-    "price": 3,
+    "price": 0.99,
     "image": "https://i.ebayimg.com/images/g/P2wAAeSwxtpqQvPs/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168501914511",
     "category": "baseball",
@@ -8930,7 +8930,7 @@ window.products = [
   {
     "id": 745,
     "name": "Christian Moore (RC) #TOG-21 - 2026 Topps Series 2 MLB Baseball",
-    "price": 3,
+    "price": 0.99,
     "image": "https://i.ebayimg.com/images/g/HHYAAeSwI1xqQvPX/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168501913113",
     "category": "baseball",
@@ -8942,7 +8942,7 @@ window.products = [
   {
     "id": 746,
     "name": "Greg Maddux #91B2-22 SILVER CRACKLE - 2026 Topps Series 2 MLB Baseball",
-    "price": 9,
+    "price": 7.2,
     "image": "https://i.ebayimg.com/images/g/EeMAAeSwqhxqQvO~/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168501912049",
     "category": "baseball",
@@ -8954,7 +8954,7 @@ window.products = [
   {
     "id": 747,
     "name": "Nolan McLean (RC) #TOG-33 - 2026 Topps Series 2 MLB Baseball",
-    "price": 3,
+    "price": 0.99,
     "image": "https://i.ebayimg.com/images/g/DB4AAeSwEFxqQvOU/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168501910784",
     "category": "baseball",
@@ -8966,7 +8966,7 @@ window.products = [
   {
     "id": 748,
     "name": "Ketel Marte #91B2-25 - 2026 Topps Series 2 MLB Baseball",
-    "price": 3,
+    "price": 0.99,
     "image": "https://i.ebayimg.com/images/g/O0YAAeSw1yJqQvN9/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168501910223",
     "category": "baseball",
@@ -8978,7 +8978,7 @@ window.products = [
   {
     "id": 749,
     "name": "Carson Williams (RC) #SMLB-57 - 2026 Topps Series 2 MLB Baseball",
-    "price": 3,
+    "price": 0.99,
     "image": "https://i.ebayimg.com/images/g/SDAAAeSwhtJqQvNo/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168501909614",
     "category": "baseball",
@@ -8990,7 +8990,7 @@ window.products = [
   {
     "id": 750,
     "name": "Riley Greene #SMLB-40 - 2026 Topps Series 2 MLB Baseball",
-    "price": 3,
+    "price": 0.99,
     "image": "https://i.ebayimg.com/images/g/GgwAAeSwM-RqQvNS/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168501909064",
     "category": "baseball",
@@ -9002,7 +9002,7 @@ window.products = [
   {
     "id": 751,
     "name": "Bryce Harper #91AS-7 SILVER CRACKLE - 2026 Topps Series 2 MLB Baseball",
-    "price": 6,
+    "price": 4.8,
     "image": "https://i.ebayimg.com/images/g/92EAAeSwQIBqQvM9/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168501908213",
     "category": "baseball",
@@ -9014,7 +9014,7 @@ window.products = [
   {
     "id": 752,
     "name": "Owen Caissie (RC) #SMLB-36 - 2026 Topps Series 2 MLB Baseball",
-    "price": 3,
+    "price": 0.99,
     "image": "https://i.ebayimg.com/images/g/Lk4AAeSwEJNqQvMj/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168501906949",
     "category": "baseball",
@@ -9026,7 +9026,7 @@ window.products = [
   {
     "id": 753,
     "name": "Nolan McLean (RC) #SMLB-46 REFRACTOR - 2026 Topps Series 2 MLB Baseball",
-    "price": 3,
+    "price": 0.99,
     "image": "https://i.ebayimg.com/images/g/Jz8AAeSwLw9qQvLi/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168501905654",
     "category": "baseball",
@@ -9038,7 +9038,7 @@ window.products = [
   {
     "id": 754,
     "name": "Aaron Judge #GW-32 REFRACTOR - 2026 Topps Series 2 MLB Baseball",
-    "price": 6,
+    "price": 4.8,
     "image": "https://i.ebayimg.com/images/g/CpQAAeSwSGtqQvLB/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168501905253",
     "category": "baseball",
@@ -9050,7 +9050,7 @@ window.products = [
   {
     "id": 755,
     "name": "Mike Trout #CN-25 REFRACTOR - 2026 Topps Series 2 MLB Baseball",
-    "price": 4,
+    "price": 3.2,
     "image": "https://i.ebayimg.com/images/g/MbMAAeSwALdqQvKq/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168501904662",
     "category": "baseball",
@@ -9062,7 +9062,7 @@ window.products = [
   {
     "id": 756,
     "name": "Trey Yesavage (RC) #SMLB-59 REFRACTOR - 2026 Topps Series 2 MLB Baseball",
-    "price": 3,
+    "price": 0.99,
     "image": "https://i.ebayimg.com/images/g/LcMAAeSw5jZqQvKL/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168501903880",
     "category": "baseball",
@@ -9074,7 +9074,7 @@ window.products = [
   {
     "id": 757,
     "name": "Freddie Freeman #TOG-29 REFRACTOR - 2026 Topps Series 2 MLB Baseball",
-    "price": 3,
+    "price": 0.99,
     "image": "https://i.ebayimg.com/images/g/88AAAeSwLfFqQvJz/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168501903646",
     "category": "baseball",
@@ -9086,7 +9086,7 @@ window.products = [
   {
     "id": 758,
     "name": "Francisco Lindor #91AS-9 SILVER CRACKLE - 2026 Topps Series 2 MLB Baseball",
-    "price": 7,
+    "price": 5.6,
     "image": "https://i.ebayimg.com/images/g/DsAAAeSwoolqQvHv/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168501899161",
     "category": "baseball",
@@ -9098,7 +9098,7 @@ window.products = [
   {
     "id": 759,
     "name": "Oswaldo Cabrera #490 REFRACTOR - 2026 Topps Series 2 MLB Baseball",
-    "price": 4,
+    "price": 3.2,
     "image": "https://i.ebayimg.com/images/g/JYYAAeSwznxqQvD5/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168501885780",
     "category": "baseball",
@@ -9110,7 +9110,7 @@ window.products = [
   {
     "id": 760,
     "name": "Johnny Bench #91AS-47 - 2026 Topps Series 2 MLB Baseball #B",
-    "price": 3,
+    "price": 0.99,
     "image": "https://i.ebayimg.com/images/g/Hp8AAeSw0iNqQvC8/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168501885151",
     "category": "baseball",
@@ -9122,7 +9122,7 @@ window.products = [
   {
     "id": 761,
     "name": "Bryce Eldridge (RC) #SMLB-52 REFRACTOR - 2026 Topps Series 2 MLB Baseball",
-    "price": 3,
+    "price": 0.99,
     "image": "https://i.ebayimg.com/images/g/C94AAeSwT3JqQvCk/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168501884868",
     "category": "baseball",
@@ -9134,7 +9134,7 @@ window.products = [
   {
     "id": 762,
     "name": "Nick Kurtz #SMLB-32 REFRACTOR - 2026 Topps Series 2 MLB Baseball",
-    "price": 3,
+    "price": 0.99,
     "image": "https://i.ebayimg.com/images/g/~wgAAeSwdTRqQvCP/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168501884597",
     "category": "baseball",
@@ -9146,7 +9146,7 @@ window.products = [
   {
     "id": 763,
     "name": "Tarik Skubal #TOG-27 REFRACTOR - 2026 Topps Series 2 MLB Baseball",
-    "price": 3,
+    "price": 0.99,
     "image": "https://i.ebayimg.com/images/g/FckAAeSw23FqQvBX/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168501883361",
     "category": "baseball",
@@ -9158,7 +9158,7 @@ window.products = [
   {
     "id": 764,
     "name": "Brice Matthews #SMLB-41 REFRACTOR - 2026 Topps Series 2 MLB Baseball",
-    "price": 3,
+    "price": 0.99,
     "image": "https://i.ebayimg.com/images/g/3-IAAeSwq0dqQvA~/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168501882644",
     "category": "baseball",
@@ -9170,7 +9170,7 @@ window.products = [
   {
     "id": 765,
     "name": "Trey Yesavage #TOG-40 REFRACTOR - 2026 Topps Series 2 MLB Baseball",
-    "price": 3.75,
+    "price": 0.99,
     "image": "https://i.ebayimg.com/images/g/9G4AAeSwTidqQvAO/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168501882243",
     "category": "baseball",
@@ -9182,7 +9182,7 @@ window.products = [
   {
     "id": 766,
     "name": "Mike Trout #GW-24 REFRACTOR - 2026 Topps Series 2 MLB Baseball #B",
-    "price": 3.75,
+    "price": 0.99,
     "image": "https://i.ebayimg.com/images/g/AdEAAeSwM-RqQu~m/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168501881530",
     "category": "baseball",
@@ -9338,7 +9338,7 @@ window.products = [
   {
     "id": 779,
     "name": "Munetaka Murakami (RC) #503 - 2026 Topps Series 2 MLB Baseball",
-    "price": 5,
+    "price": 4,
     "image": "https://i.ebayimg.com/images/g/wb4AAeSwaQxqKd6N/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168501644835",
     "category": "baseball",
@@ -10454,7 +10454,7 @@ window.products = [
   {
     "id": 872,
     "name": "/150* Jake Irvin #487 PARALLEL - 2026 Topps Series 2 MLB Baseball",
-    "price": 2.99,
+    "price": 0.99,
     "image": "https://i.ebayimg.com/images/g/fzAAAeSw6B9qLxoH/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168482572604",
     "category": "baseball",
@@ -10466,7 +10466,7 @@ window.products = [
   {
     "id": 873,
     "name": "Francisco Lindor #GW-21 REFRACTOR - 2026 Topps Series 2 MLB Baseball",
-    "price": 2.99,
+    "price": 0.99,
     "image": "https://i.ebayimg.com/images/g/D5kAAeSwG11qLx8f/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168482572603",
     "category": "baseball",
@@ -10478,7 +10478,7 @@ window.products = [
   {
     "id": 874,
     "name": "Belting Bros #369 REFRACTOR - 2026 Topps Series 2 MLB Baseball",
-    "price": 2.99,
+    "price": 0.99,
     "image": "https://i.ebayimg.com/images/g/zr8AAeSw2bRqLxyE/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168482572602",
     "category": "baseball",
@@ -10490,7 +10490,7 @@ window.products = [
   {
     "id": 875,
     "name": "Luis Garcia Jr. #364 REFRACTOR - 2026 Topps Series 2 MLB Baseball",
-    "price": 2.99,
+    "price": 0.99,
     "image": "https://i.ebayimg.com/images/g/euIAAeSwBsFqLxxA/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168482572601",
     "category": "baseball",
@@ -10502,7 +10502,7 @@ window.products = [
   {
     "id": 876,
     "name": "Yoan Moncada #625 GLITTER REFRACTOR - 2026 Topps Series 2 MLB Baseball",
-    "price": 2.99,
+    "price": 0.99,
     "image": "https://i.ebayimg.com/images/g/gd8AAeSwCPVqLx1O/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168482572600",
     "category": "baseball",
@@ -10514,7 +10514,7 @@ window.products = [
   {
     "id": 877,
     "name": "Jimmy Crooks (RC) # MOJO REFRACTOR - 2026 Topps Series 2 MLB Baseball",
-    "price": 2.99,
+    "price": 0.99,
     "image": "https://i.ebayimg.com/images/g/bVwAAeSwt~5qLxiF/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168482572599",
     "category": "baseball",
@@ -10526,7 +10526,7 @@ window.products = [
   {
     "id": 878,
     "name": "Corey Seager #91ASC-31 MOJO REFRACTOR - 2026 Topps Series 2 MLB Baseball",
-    "price": 2.99,
+    "price": 0.99,
     "image": "https://i.ebayimg.com/images/g/hYMAAeSwsvBqLxeH/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168482572598",
     "category": "baseball",
@@ -10538,7 +10538,7 @@ window.products = [
   {
     "id": 879,
     "name": "Nolan Arenado #GW-11 REFRACTOR - 2026 Topps Series 2 MLB Baseball",
-    "price": 2.99,
+    "price": 0.99,
     "image": "https://i.ebayimg.com/images/g/-2oAAeSwrXtqLxpV/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168482572597",
     "category": "baseball",
@@ -10550,7 +10550,7 @@ window.products = [
   {
     "id": 880,
     "name": "Seiya Suzuki #685 REFRACTOR - 2026 Topps Series 2 MLB Baseball",
-    "price": 2.99,
+    "price": 0.99,
     "image": "https://i.ebayimg.com/images/g/~tgAAeSwwsJqLxoy/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168482572596",
     "category": "baseball",
@@ -10562,7 +10562,7 @@ window.products = [
   {
     "id": 881,
     "name": "Julio Rodriguez #GW-31 REFRACTOR - 2026 Topps Series 2 MLB Baseball",
-    "price": 2.99,
+    "price": 0.99,
     "image": "https://i.ebayimg.com/images/g/jC4AAeSw2hxqLxik/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168482572594",
     "category": "baseball",
@@ -10574,7 +10574,7 @@ window.products = [
   {
     "id": 882,
     "name": "Cal Raleigh #91ASC-37 MOJO REFRACTOR - 2026 Topps Series 2 MLB Baseball",
-    "price": 2.99,
+    "price": 0.99,
     "image": "https://i.ebayimg.com/images/g/gBIAAeSwallqLxgP/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168482572593",
     "category": "baseball",
@@ -10586,7 +10586,7 @@ window.products = [
   {
     "id": 883,
     "name": "Kyle Schwarber #CN-13 REFRACTOR - 2026 Topps Series 2 MLB Baseball",
-    "price": 2.99,
+    "price": 0.99,
     "image": "https://i.ebayimg.com/images/g/10MAAeSwcW9qLxyi/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168482572592",
     "category": "baseball",
@@ -10598,7 +10598,7 @@ window.products = [
   {
     "id": 884,
     "name": "Jared Jones #419 GLITTER REFRACTOR - 2026 Topps Series 2 MLB Baseball",
-    "price": 2.99,
+    "price": 0.99,
     "image": "https://i.ebayimg.com/images/g/e1oAAeSwC1pqLxnL/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168482572591",
     "category": "baseball",
@@ -10610,7 +10610,7 @@ window.products = [
   {
     "id": 885,
     "name": "Petey Halpin (RC) #668 GLITTER REFRACTOR - 2026 Topps Series 2 MLB Baseball",
-    "price": 2.99,
+    "price": 0.99,
     "image": "https://i.ebayimg.com/images/g/sLEAAeSw9tRqLxkI/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168482572590",
     "category": "baseball",
@@ -10622,7 +10622,7 @@ window.products = [
   {
     "id": 886,
     "name": "Dylan Cease #547 REFRACTOR - 2026 Topps Series 2 MLB Baseball",
-    "price": 2.99,
+    "price": 0.99,
     "image": "https://i.ebayimg.com/images/g/lncAAeSwBO5qLxsu/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168482572589",
     "category": "baseball",
@@ -10634,7 +10634,7 @@ window.products = [
   {
     "id": 887,
     "name": "Greg Maddux #GW-12 REFRACTOR - 2026 Topps Series 2 MLB Baseball",
-    "price": 2.99,
+    "price": 0.99,
     "image": "https://i.ebayimg.com/images/g/uy0AAeSwf9FqLxmq/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168482572588",
     "category": "baseball",
@@ -10646,7 +10646,7 @@ window.products = [
   {
     "id": 888,
     "name": "Jeff McNeil #662 REFRACTOR - 2026 Topps Series 2 MLB Baseball",
-    "price": 2.99,
+    "price": 0.99,
     "image": "https://i.ebayimg.com/images/g/ZAoAAeSwt5BqLxi~/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168482572587",
     "category": "baseball",
@@ -10694,7 +10694,7 @@ window.products = [
   {
     "id": 892,
     "name": "Chase Utley #GW-46 REFRACTOR - 2026 Topps Series 2 MLB Baseball",
-    "price": 2.99,
+    "price": 0.99,
     "image": "https://i.ebayimg.com/images/g/fN4AAeSwNwVqKjbW/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168472002674",
     "category": "baseball",
@@ -10706,7 +10706,7 @@ window.products = [
   {
     "id": 893,
     "name": "Harrison Bader #624 REFRACTOR - 2026 Topps Series 2 MLB Baseball",
-    "price": 2.99,
+    "price": 0.99,
     "image": "https://i.ebayimg.com/images/g/aq4AAeSwGMRqKjcf/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168472002673",
     "category": "baseball",
@@ -10730,7 +10730,7 @@ window.products = [
   {
     "id": 895,
     "name": "Dansby Swanson #GW-23 REFRACTOR - 2026 Topps Series 2 MLB Baseball",
-    "price": 2.99,
+    "price": 0.99,
     "image": "https://i.ebayimg.com/images/g/uMYAAeSwNcNqKdxj/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168469648818",
     "category": "baseball",
@@ -10742,7 +10742,7 @@ window.products = [
   {
     "id": 896,
     "name": "Zach Neto #GW-57 REFRACTOR - 2026 Topps Series 2 MLB Baseball",
-    "price": 2.99,
+    "price": 0.99,
     "image": "https://i.ebayimg.com/images/g/s8UAAeSw7AxqKdyq/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168469648813",
     "category": "baseball",
@@ -10754,7 +10754,7 @@ window.products = [
   {
     "id": 897,
     "name": "Taylor Rashi (RC) #615 REFRACTOR - 2026 Topps Series 2 MLB Baseball",
-    "price": 2.99,
+    "price": 0.99,
     "image": "https://i.ebayimg.com/images/g/tfAAAeSwxHxqKdyP/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168469648812",
     "category": "baseball",
@@ -10766,7 +10766,7 @@ window.products = [
   {
     "id": 898,
     "name": "Ichiro #CN-4 REFRACTOR - 2026 Topps Series 2 MLB Baseball",
-    "price": 2.99,
+    "price": 0.99,
     "image": "https://i.ebayimg.com/images/g/p~kAAeSwLJVqKd0P/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168469648811",
     "category": "baseball",
@@ -10778,7 +10778,7 @@ window.products = [
   {
     "id": 899,
     "name": "/199* Cade Horton #91C2-33 MOJO PARALLEL - 2026 Topps Series 2 MLB Baseball",
-    "price": 4.99,
+    "price": 3.99,
     "image": "https://i.ebayimg.com/images/g/6-4AAeSwQttqKjJl/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168469648810",
     "category": "baseball",
@@ -10790,7 +10790,7 @@ window.products = [
   {
     "id": 900,
     "name": "Madison Marilla #FP-14 REFRACTOR - 2026 Topps Series 2 MLB Baseball",
-    "price": 2.99,
+    "price": 0.99,
     "image": "https://i.ebayimg.com/images/g/m~oAAeSwakVqKd0y/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168469648809",
     "category": "baseball",
@@ -11030,7 +11030,7 @@ window.products = [
   {
     "id": 920,
     "name": "Adley Rutschman #91B2-42 - 2026 Topps Series 2 MLB Baseball",
-    "price": 3.24,
+    "price": 0.99,
     "image": "https://i.ebayimg.com/images/g/-98AAeSwSoNqLx9O/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168459205357",
     "category": "baseball",
@@ -11042,7 +11042,7 @@ window.products = [
   {
     "id": 921,
     "name": "Lou Gehrig #91B2-30 - 2026 Topps Series 2 MLB Baseball",
-    "price": 2.94,
+    "price": 0.99,
     "image": "https://i.ebayimg.com/images/g/KW8AAeSwTVFqLx2u/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168459198033",
     "category": "baseball",
@@ -11054,7 +11054,7 @@ window.products = [
   {
     "id": 922,
     "name": "Mark McGwire #CN-6 REFRACTOR - 2026 Topps Series 2 MLB Baseball",
-    "price": 4,
+    "price": 3.2,
     "image": "https://i.ebayimg.com/images/g/oFkAAeSw9SlqLx2I/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168459196305",
     "category": "baseball",
@@ -11066,7 +11066,7 @@ window.products = [
   {
     "id": 923,
     "name": "Mike Trout #91AS-4 - 2026 Topps Series 2 MLB Baseball",
-    "price": 2.98,
+    "price": 0.99,
     "image": "https://i.ebayimg.com/images/g/AswAAeSwDDxqLxzG/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168459179561",
     "category": "baseball",
@@ -11078,7 +11078,7 @@ window.products = [
   {
     "id": 924,
     "name": "Vladimir Guerrero #91AS-21 - 2026 Topps Series 2 MLB Baseball",
-    "price": 3.24,
+    "price": 0.99,
     "image": "https://i.ebayimg.com/images/g/fNEAAeSwH5NqLxxe/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168459177358",
     "category": "baseball",
@@ -11090,7 +11090,7 @@ window.products = [
   {
     "id": 925,
     "name": "Clayton Kershaw #91AS-30 - 2026 Topps Series 2 MLB Baseball",
-    "price": 2.69,
+    "price": 0.99,
     "image": "https://i.ebayimg.com/images/g/mTsAAeSwHk1qLxuu/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168459173974",
     "category": "baseball",
@@ -11102,7 +11102,7 @@ window.products = [
   {
     "id": 926,
     "name": "Reggie Jackson #91AS-14 - 2026 Topps Series 2 MLB Baseball",
-    "price": 2.74,
+    "price": 0.99,
     "image": "https://i.ebayimg.com/images/g/n1EAAeSww81qLxsH/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168459170743",
     "category": "baseball",
@@ -11114,7 +11114,7 @@ window.products = [
   {
     "id": 927,
     "name": "Mike Trout #GW-24 REFRACTOR - 2026 Topps Series 2 MLB Baseball",
-    "price": 4.25,
+    "price": 3.4,
     "image": "https://i.ebayimg.com/images/g/Ae8AAeSwwsJqLxrB/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168459169631",
     "category": "baseball",
@@ -11126,7 +11126,7 @@ window.products = [
   {
     "id": 928,
     "name": "Drew Gilbert #91B2-40 - 2026 Topps Series 2 MLB Baseball",
-    "price": 2.98,
+    "price": 0.99,
     "image": "https://i.ebayimg.com/images/g/IKwAAeSw2MlqLxqa/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168459169176",
     "category": "baseball",
@@ -11138,7 +11138,7 @@ window.products = [
   {
     "id": 929,
     "name": "Hayden Christensen #FP-15 REFRACTOR -  2026 Topps Series 2 MLB Baseball",
-    "price": 4.25,
+    "price": 3.4,
     "image": "https://i.ebayimg.com/images/g/v7sAAeSwf9FqLxp0/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168459168068",
     "category": "baseball",
@@ -11150,7 +11150,7 @@ window.products = [
   {
     "id": 930,
     "name": "Kirby Puckett #91AS-45 - 2026 Topps Series 2 MLB Baseball",
-    "price": 3.49,
+    "price": 0.99,
     "image": "https://i.ebayimg.com/images/g/hpcAAeSwSRNqLxni/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168459164347",
     "category": "baseball",
@@ -11162,7 +11162,7 @@ window.products = [
   {
     "id": 931,
     "name": "Fernando Tatis Jr. #GW-25 - 2026 Topps Series 2 MLB Baseball",
-    "price": 4.5,
+    "price": 3.6,
     "image": "https://i.ebayimg.com/images/g/jJkAAeSw10tqLxkf/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168459160551",
     "category": "baseball",
@@ -11174,7 +11174,7 @@ window.products = [
   {
     "id": 932,
     "name": "Stan Musial #91B2-34 - 2026 Topps Series 2 MLB Baseball",
-    "price": 3,
+    "price": 0.99,
     "image": "https://i.ebayimg.com/images/g/OYcAAeSw60hqLxje/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168459158492",
     "category": "baseball",
@@ -11186,7 +11186,7 @@ window.products = [
   {
     "id": 933,
     "name": "Hunter Barco (RC) #91C2-21 MOJO REFRACTOR - 2026 Topps Series 2 MLB Baseball",
-    "price": 5,
+    "price": 4,
     "image": "https://i.ebayimg.com/images/g/smUAAeSwMs1qLxe6/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168459142742",
     "category": "baseball",
@@ -11198,7 +11198,7 @@ window.products = [
   {
     "id": 934,
     "name": "Albert Pujols #91ASC-16 MOJO REFRACTOR - 2026 Topps Series 2 MLB Baseball",
-    "price": 3.5,
+    "price": 0.99,
     "image": "https://i.ebayimg.com/images/g/2GEAAeSwbtlqLxdX/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168459140558",
     "category": "baseball",
@@ -11210,7 +11210,7 @@ window.products = [
   {
     "id": 935,
     "name": "Zach Neto #91C2-22 MOJO REFRACTOR - 2026 Topps Series 2 MLB Baseball",
-    "price": 4,
+    "price": 3.2,
     "image": "https://i.ebayimg.com/images/g/vuUAAeSwIVVqLxbJ/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168459138847",
     "category": "baseball",
@@ -13562,7 +13562,7 @@ window.products = [
   {
     "id": 1131,
     "name": "Mookie Betts #91AS-13 - 2026 Topps Series 2 MLB Baseball",
-    "price": 4,
+    "price": 3.2,
     "image": "https://i.ebayimg.com/images/g/8lkAAeSwpHtqKjay/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168448872683",
     "category": "baseball",
@@ -13574,7 +13574,7 @@ window.products = [
   {
     "id": 1132,
     "name": "Trea Turner #91B2-3 - 2026 Topps Series 2 MLB Baseball",
-    "price": 2.5,
+    "price": 0.99,
     "image": "https://i.ebayimg.com/images/g/XxcAAeSwn1BqKjVd/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168448865721",
     "category": "baseball",
@@ -13586,7 +13586,7 @@ window.products = [
   {
     "id": 1133,
     "name": "Johnny Bench #91AS-47 - 2026 Topps Series 2 MLB Baseball",
-    "price": 4,
+    "price": 3.2,
     "image": "https://i.ebayimg.com/images/g/~OYAAeSwe5RqKjS5/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168448856774",
     "category": "baseball",
@@ -13598,7 +13598,7 @@ window.products = [
   {
     "id": 1134,
     "name": "Roberto Clemente #91AS-25 - 2026 Topps Series 2 MLB Baseball",
-    "price": 4,
+    "price": 3.2,
     "image": "https://i.ebayimg.com/images/g/WMEAAeSwvUpqKjRl/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168448851601",
     "category": "baseball",
@@ -13634,7 +13634,7 @@ window.products = [
   {
     "id": 1137,
     "name": "Reggie Jackson #91AS-14 All Star - 2026 Topps Series 2 MLB Baseball",
-    "price": 2.98,
+    "price": 0.99,
     "image": "https://i.ebayimg.com/images/g/qzEAAeSw1MxqKd17/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168448181365",
     "category": "baseball",
@@ -13646,7 +13646,7 @@ window.products = [
   {
     "id": 1138,
     "name": "Drew Gilbert (RC) #91B2-40 - 2026 Topps Series 2 MLB Baseball",
-    "price": 3.25,
+    "price": 0.99,
     "image": "https://i.ebayimg.com/images/g/zfAAAeSwvtpqKd1U/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168448178634",
     "category": "baseball",
@@ -13658,7 +13658,7 @@ window.products = [
   {
     "id": 1139,
     "name": "Vladimir Guerrero #91AS-21 - 2026 Topps Series 2 MLB Baseball",
-    "price": 3.25,
+    "price": 0.99,
     "image": "https://i.ebayimg.com/images/g/rz4AAeSwEBBqKdwP/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168448169848",
     "category": "baseball",
@@ -13670,7 +13670,7 @@ window.products = [
   {
     "id": 1140,
     "name": "Adley Rutschman #91B2-42 - 2026 Topps Series 2 MLB Baseball",
-    "price": 2,
+    "price": 0.99,
     "image": "https://i.ebayimg.com/images/g/yEUAAeSwaYVqKdvW/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168448164600",
     "category": "baseball",
@@ -39026,7 +39026,7 @@ window.products = [
   {
     "id": 3253,
     "name": "Daulton Varsho #2 SAND GLITTER - 2026 Topps Series 1 - MLB Baseball Card",
-    "price": 2,
+    "price": 0.99,
     "image": "https://i.ebayimg.com/images/g/G44AAeSwiPdpz9~2/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168284294640",
     "category": "baseball",
@@ -39038,7 +39038,7 @@ window.products = [
   {
     "id": 3254,
     "name": "Shohei Ohtani #GD-2 - 2026 Topps Series 1 - MLB Baseball Card",
-    "price": 3,
+    "price": 0.99,
     "image": "https://i.ebayimg.com/images/g/dNIAAeSwlK5pz9~W/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168284294040",
     "category": "baseball",
@@ -39122,7 +39122,7 @@ window.products = [
   {
     "id": 3261,
     "name": "Roman Anthony (RC) #8B-2 - 2026 Topps Series 1 - MLB Baseball Card",
-    "price": 4,
+    "price": 3.2,
     "image": "https://i.ebayimg.com/images/g/J2wAAeSwlBhpz977/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168284285114",
     "category": "baseball",
@@ -39890,7 +39890,7 @@ window.products = [
   {
     "id": 3325,
     "name": "Aaron Judge #GH-2 - 2026 Topps Series 1 - MLB Baseball Card",
-    "price": 2,
+    "price": 0.99,
     "image": "https://i.ebayimg.com/images/g/MKIAAeSwgV5pyZ7Z/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168272072848",
     "category": "baseball",
@@ -40058,7 +40058,7 @@ window.products = [
   {
     "id": 3339,
     "name": "Ronald Acuna Jr. #PAS-2 - 2026 Topps Series 1 - MLB Baseball Card",
-    "price": 1.75,
+    "price": 0.99,
     "image": "https://i.ebayimg.com/images/g/vZUAAeSwO05pyZzq/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168272058693",
     "category": "baseball",
@@ -40814,7 +40814,7 @@ window.products = [
   {
     "id": 3402,
     "name": "Wally The Green Monster #M2 RED SOX MASCOT - 2026 Topps Series 1 - MLB Baseball",
-    "price": 3,
+    "price": 0.99,
     "image": "https://i.ebayimg.com/images/g/rm8AAeSwZJ9pxctF/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168265488222",
     "category": "baseball",
@@ -49970,7 +49970,7 @@ window.products = [
   {
     "id": 4165,
     "name": "Daulton Varsho #2 - Fanatics Exclusive - 2026 Topps Series 1 - MLB Baseball",
-    "price": 1.75,
+    "price": 0.99,
     "image": "https://i.ebayimg.com/images/g/FwcAAeSwu8Rppy50/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168221268172",
     "category": "baseball",
