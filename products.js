@@ -7389,7 +7389,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 0
   },
   {
     "id": 617,
@@ -28401,7 +28401,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 0
   },
   {
     "id": 2368,
@@ -34845,7 +34845,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 4
+    "stock": 3
   },
   {
     "id": 2905,
@@ -50221,7 +50221,7 @@ window.products = [
   },
   {
     "id": 4186,
-    "name": "Luka Don��ić 43Pts. 1st Gm 2025-26 NBA Topps NOW® Card 5 Lakers NBA",
+    "name": "Luka Dončić 43Pts. 1st Gm 2025-26 NBA Topps NOW® Card 5 Lakers NBA",
     "price": 9.77,
     "image": "https://i.ebayimg.com/images/g/6DoAAeSwpGlo-Vq3/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168245938557",
@@ -58394,7 +58394,7 @@ window.products = [
   {
     "id": 4867,
     "name": "#10 Jacob Misiorowski - 2026 Topps Series 1 - Base Card - MLB Baseball",
-    "price": 3.49,
+    "price": 2.97,
     "image": "https://i.ebayimg.com/images/g/VxwAAeSwG1JpkUpQ/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168160694299",
     "category": "baseball",
