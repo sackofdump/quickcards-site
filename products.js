@@ -2889,7 +2889,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 0
   },
   {
     "id": 242,
@@ -5445,7 +5445,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 13
+    "stock": 11
   },
   {
     "id": 455,
@@ -12045,7 +12045,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 0
   },
   {
     "id": 1005,
@@ -19425,7 +19425,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 0
   },
   {
     "id": 1620,
@@ -30237,7 +30237,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 0
   },
   {
     "id": 2521,
@@ -50942,14 +50942,14 @@ window.products = [
   {
     "id": 4246,
     "name": "Logan Henderson - 2025 MLB Topps NOW® - Card 199 Milwaukee Brewers RC",
-    "price": 5,
+    "price": 20,
     "image": "https://i.ebayimg.com/images/g/gD0AAOSwuFdoLkbf/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168245381625",
     "category": "topps-now",
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 2
+    "stock": 1
   },
   {
     "id": 4247,
