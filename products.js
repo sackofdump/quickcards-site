@@ -302,14 +302,14 @@ window.products = [
   {
     "id": 26,
     "name": "Joshua Báez (CALL UP DEBUT) 3 HRs - 2026 MLB Topps NOW® - Card 555 PRE-SALE",
-    "price": 6.97,
+    "price": 7.82,
     "image": "https://i.ebayimg.com/images/g/J7IAAeSwUZFqgk3i/s-l300.png",
     "url": "https://www.ebay.com/itm/168619050218",
     "category": "topps-now",
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 5
+    "stock": 15
   },
   {
     "id": 27,
@@ -65181,7 +65181,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 4
+    "stock": 3
   },
   {
     "id": 5433,
