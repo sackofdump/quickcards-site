@@ -1557,7 +1557,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 0
   },
   {
     "id": 131,
@@ -8133,7 +8133,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 0
   },
   {
     "id": 679,
@@ -15074,14 +15074,14 @@ window.products = [
   {
     "id": 1257,
     "name": "Luis Lara (CALL UP RC) 1st MLB HIT  - 2026 MLB Topps NOW® - Card 426 IN HAND",
-    "price": 9.77,
+    "price": 20,
     "image": "https://i.ebayimg.com/images/g/42UAAeSwmddqTqSi/s-l300.png",
     "url": "https://www.ebay.com/itm/168523579735",
     "category": "topps-now",
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 0
+    "stock": 1
   },
   {
     "id": 1258,
@@ -15105,7 +15105,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 0
   },
   {
     "id": 1260,
@@ -22413,7 +22413,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 7
+    "stock": 6
   },
   {
     "id": 1869,
