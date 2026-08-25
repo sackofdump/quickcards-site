@@ -6,159 +6,187 @@
   <title>Contact | QuickCards</title>
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@400;500;600;700;800;900&family=Inter:wght@300;400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
-  <link rel="icon" type="image/png" href="logo.png">
-  <link rel="stylesheet" href="styles.css">
+  <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Barlow+Condensed:wght@400;600;700&family=Inter:wght@300;400;500;600&display=swap" rel="stylesheet">
+  <link rel="icon" type="image/png" href="alt-logo.png">
   <style>
-    .contact-section {
-      min-height: 100vh;
-      display: flex;
-      align-items: center;
-      justify-content: center;
-      padding: 120px 24px 80px;
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    :root {
+      --cream: #F2F2F2;
+      --white: #FFFFFF;
+      --dark:  #111111;
+      --dark2: #1E1E1E;
+      --red:   #D2130B;
+      --red-lt:#E8352D;
+      --text:  #111111;
+      --muted: #737373;
+      --border:#E0E0E0;
     }
+
+    html { scroll-behavior: smooth; }
+    body { font-family: 'Inter', sans-serif; background: var(--cream); color: var(--text); min-height: 100vh; display: flex; flex-direction: column; }
+
+    /* ── HEADER ── */
+    .site-header {
+      background: #fff; border-bottom: 1px solid var(--border);
+      display: flex; align-items: center; justify-content: space-between; padding: 1rem 2rem;
+    }
+    .header-logo { text-decoration: none; display: flex; align-items: center; }
+    .header-logo img { height: 130px; width: auto; }
+
+    /* ── NAV ── */
+    .nav {
+      background: var(--dark); display: flex; align-items: center; justify-content: space-between;
+      padding: 0 2rem; height: 52px; box-shadow: 0 2px 12px rgba(0,0,0,.5);
+      position: sticky; top: 0; z-index: 100;
+    }
+    .nav-links { display: flex; gap: 2rem; }
+    .nav-links a {
+      color: rgba(255,255,255,.75); text-decoration: none; font-size: .82rem;
+      font-weight: 600; letter-spacing: .08em; text-transform: uppercase;
+      transition: color .2s; position: relative; padding-bottom: 2px;
+    }
+    .nav-links a::after {
+      content: ''; position: absolute; bottom: -2px; left: 0; right: 0;
+      height: 2px; background: var(--red); transform: scaleX(0); transition: transform .2s;
+    }
+    .nav-links a:hover::after, .nav-links a.active::after { transform: scaleX(1); }
+    .nav-links a:hover, .nav-links a.active { color: #fff; }
+    .mobile-toggle-btn {
+      display: none; background: none; border: none; cursor: pointer; padding: .25rem;
+    }
+
+    /* ── MAIN ── */
+    main { flex: 1; display: flex; align-items: center; justify-content: center; padding: 3rem 1.5rem; }
+
+    /* ── CONTACT CARD ── */
     .contact-card {
-      width: 100%;
-      max-width: 560px;
-      background: var(--card-bg);
-      border: 1px solid var(--card-border);
-      border-radius: 20px;
-      padding: 48px 40px;
-      backdrop-filter: blur(20px);
+      background: #fff; border: 1px solid var(--border); border-radius: 16px;
+      padding: 3rem 2.5rem; width: 100%; max-width: 540px;
+      box-shadow: 0 4px 24px rgba(0,0,0,.08);
     }
-    .contact-tag {
-      display: inline-block;
-      font-family: 'JetBrains Mono', monospace;
-      font-size: 0.7rem;
-      letter-spacing: 4px;
-      text-transform: uppercase;
-      color: var(--blue);
-      padding: 5px 16px;
-      border: 1px solid rgba(33, 150, 243, 0.3);
-      border-radius: 100px;
-      background: rgba(33, 150, 243, 0.07);
-      margin-bottom: 20px;
+    .contact-eyebrow {
+      display: inline-flex; align-items: center; gap: .4rem;
+      background: rgba(210,19,11,.08); border: 1px solid rgba(210,19,11,.25);
+      color: var(--red); font-size: .72rem; font-weight: 700;
+      letter-spacing: .1em; text-transform: uppercase;
+      padding: .25rem .75rem; border-radius: 4px; margin-bottom: 1rem;
     }
     .contact-title {
-      font-family: 'Orbitron', monospace;
-      font-size: clamp(1.4rem, 3vw, 2rem);
-      font-weight: 900;
-      margin-bottom: 8px;
-      letter-spacing: 2px;
+      font-family: 'Bebas Neue', 'Barlow Condensed', sans-serif;
+      font-size: clamp(2.2rem, 6vw, 3rem); letter-spacing: .04em;
+      color: var(--dark); line-height: 1; margin-bottom: .4rem;
     }
-    .contact-sub {
-      font-size: 0.9rem;
-      color: var(--gray-300);
-      margin-bottom: 36px;
-      font-family: 'JetBrains Mono', monospace;
-    }
-    .form-group {
-      margin-bottom: 20px;
-    }
+    .contact-title em { font-style: normal; color: var(--red); }
+    .contact-sub { font-size: .875rem; color: var(--muted); margin-bottom: 2rem; }
+
+    /* ── FORM ── */
+    .form-group { margin-bottom: 1.25rem; }
     .form-group label {
-      display: block;
-      font-family: 'JetBrains Mono', monospace;
-      font-size: 0.72rem;
-      color: var(--blue-light);
-      letter-spacing: 2px;
-      text-transform: uppercase;
-      margin-bottom: 8px;
+      display: block; font-size: .72rem; font-weight: 600;
+      letter-spacing: .08em; text-transform: uppercase; color: var(--dark);
+      margin-bottom: .4rem;
     }
     .form-group input,
     .form-group textarea,
     .form-group select {
-      width: 100%;
-      background: rgba(10, 13, 50, 0.6);
-      border: 1px solid var(--card-border);
-      border-radius: var(--radius-sm);
-      padding: 12px 16px;
-      color: var(--white);
-      font-family: 'Inter', sans-serif;
-      font-size: 0.9rem;
-      transition: var(--transition);
-      outline: none;
+      width: 100%; background: var(--cream); border: 1.5px solid var(--border);
+      border-radius: 7px; padding: .65rem .9rem;
+      color: var(--text); font-family: 'Inter', sans-serif; font-size: .9rem;
+      outline: none; transition: border-color .2s, box-shadow .2s;
     }
     .form-group input:focus,
     .form-group textarea:focus,
     .form-group select:focus {
-      border-color: var(--blue);
-      box-shadow: 0 0 0 3px rgba(33, 150, 243, 0.1);
+      border-color: var(--red); box-shadow: 0 0 0 3px rgba(210,19,11,.1);
+      background: #fff;
     }
-    .form-group textarea {
-      resize: vertical;
-      min-height: 120px;
-    }
-    .form-group select option {
-      background: var(--navy-mid);
+    .form-group textarea { resize: vertical; min-height: 120px; }
+    .form-group select { cursor: pointer; appearance: none;
+      background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='12' height='12' viewBox='0 0 24 24' fill='none' stroke='%23737373' stroke-width='2'%3E%3Cpath d='M6 9l6 6 6-6'/%3E%3C/svg%3E");
+      background-repeat: no-repeat; background-position: right .75rem center; padding-right: 2rem;
     }
     .btn-submit {
-      width: 100%;
-      padding: 14px;
-      background: var(--gradient-main);
-      color: var(--white);
-      font-family: 'JetBrains Mono', monospace;
-      font-size: 0.9rem;
-      font-weight: 600;
-      border-radius: var(--radius);
-      border: none;
-      cursor: pointer;
-      transition: var(--transition);
-      margin-top: 8px;
+      width: 100%; background: var(--red); color: #fff; border: none;
+      border-radius: 8px; padding: .85rem; font-family: 'Inter', sans-serif;
+      font-size: .95rem; font-weight: 700; cursor: pointer; letter-spacing: .04em;
+      transition: background .2s, transform .2s; margin-top: .5rem;
     }
-    .btn-submit:hover {
-      opacity: 0.9;
-      transform: translateY(-2px);
-      box-shadow: 0 8px 30px rgba(33, 150, 243, 0.35);
+    .btn-submit:hover { background: var(--red-lt); transform: translateY(-1px); }
+
+    /* ── FOOTER ── */
+    footer {
+      background: var(--dark); color: rgba(255,255,255,.4);
+      text-align: center; padding: 1.25rem 2rem; font-size: .8rem;
     }
-    @media (max-width: 600px) {
-      .contact-card { padding: 32px 24px; }
+    footer a { color: rgba(255,255,255,.5); text-decoration: none; }
+    footer a:hover { color: #fff; }
+
+    /* ── MOBILE ── */
+    @media (max-width: 700px) {
+      .site-header { padding: .75rem 1.25rem; }
+      .header-logo img { height: 90px; }
+      .nav { padding: 0 1.25rem; }
+      .nav-links { display: none; }
+      .nav-links.open {
+        display: flex; flex-direction: column; gap: 0;
+        position: absolute; top: 52px; left: 0; right: 0;
+        background: var(--dark2); z-index: 99;
+        border-top: 1px solid rgba(255,255,255,.08); padding: .5rem 0;
+      }
+      .nav-links.open a { padding: .85rem 1.5rem; border-bottom: 1px solid rgba(255,255,255,.05); font-size: .95rem; }
+      .nav-links.open a::after { display: none; }
+      .mobile-toggle-btn { display: block; }
+      .contact-card { padding: 2rem 1.5rem; }
     }
   </style>
 </head>
 <body>
-  <canvas id="particles"></canvas>
-  <div class="scanlines"></div>
 
-  <nav class="navbar scrolled" id="navbar">
-    <div class="nav-container">
-      <a href="/" class="logo">
-        <img src="logo.png" alt="QuickCards" class="logo-img">
-      </a>
-      <div class="nav-links" id="navLinks">
-        <a href="/" class="nav-link">/home</a>
-        <a href="/#products" class="nav-link">/vault</a>
-        <a href="contact.html" class="nav-link active">/contact</a>
-      </div>
-      <div class="nav-actions">
-        <button class="mobile-toggle" id="mobileToggle">
-          <span></span><span></span><span></span>
-        </button>
-      </div>
+  <!-- Header -->
+  <header class="site-header">
+    <a href="/" class="header-logo">
+      <img src="alt-logo.png" alt="QuickCards">
+    </a>
+  </header>
+
+  <!-- Nav -->
+  <nav class="nav">
+    <div class="nav-links" id="navLinks">
+      <a href="/">Home</a>
+      <a href="/#products">Browse</a>
+      <a href="contact.html" class="active">Contact</a>
     </div>
+    <button class="mobile-toggle-btn" id="mobileToggle" aria-label="Toggle menu">
+      <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="white" stroke-width="2">
+        <line x1="3" y1="6" x2="21" y2="6"/><line x1="3" y1="12" x2="21" y2="12"/><line x1="3" y1="18" x2="21" y2="18"/>
+      </svg>
+    </button>
   </nav>
 
-  <section class="contact-section">
+  <!-- Contact Form -->
+  <main>
     <div class="contact-card">
-      <div class="contact-tag">// SYS.CONTACT</div>
-      <h1 class="contact-title">&gt; Send a <span class="gradient-text">Message</span></h1>
-      <p class="contact-sub">// we'll get back to you asap</p>
+      <div class="contact-eyebrow">Get in Touch</div>
+      <h1 class="contact-title">Send Us a <em>Message</em></h1>
+      <p class="contact-sub">We'll get back to you as soon as possible.</p>
 
       <form name="contact" method="POST" data-netlify="true" netlify-honeypot="bot-field" action="/contact-success.html">
         <input type="hidden" name="form-name" value="contact">
         <p style="display:none"><input name="bot-field"></p>
 
         <div class="form-group">
-          <label for="name">// NAME</label>
+          <label for="name">Name</label>
           <input type="text" id="name" name="name" placeholder="Your name" required>
         </div>
 
         <div class="form-group">
-          <label for="email">// EMAIL</label>
+          <label for="email">Email</label>
           <input type="email" id="email" name="email" placeholder="your@email.com" required>
         </div>
 
         <div class="form-group">
-          <label for="subject">// SUBJECT</label>
+          <label for="subject">Subject</label>
           <select id="subject" name="subject">
             <option value="order">Order Question</option>
             <option value="shipping">Shipping</option>
@@ -168,48 +196,24 @@
         </div>
 
         <div class="form-group">
-          <label for="message">// MESSAGE</label>
+          <label for="message">Message</label>
           <textarea id="message" name="message" placeholder="What's on your mind?" required></textarea>
         </div>
 
-        <button type="submit" class="btn-submit">&gt; send.message()</button>
+        <button type="submit" class="btn-submit">Send Message</button>
       </form>
     </div>
-  </section>
+  </main>
 
-  <footer class="footer">
-    <div class="container">
-      <div class="footer-bottom">
-        <p>&copy; 2026 QuickCards.shop &mdash; all_rights_reserved</p>
-      </div>
-    </div>
+  <!-- Footer -->
+  <footer>
+    <p>&copy; 2026 QuickCards.shop &mdash; All rights reserved &middot; <a href="/">Back to store</a></p>
   </footer>
 
   <script>
     document.getElementById('mobileToggle').addEventListener('click', () => {
       document.getElementById('navLinks').classList.toggle('open');
     });
-    const canvas = document.getElementById('particles');
-    const ctx = canvas.getContext('2d');
-    canvas.width = window.innerWidth;
-    canvas.height = window.innerHeight;
-    window.addEventListener('resize', () => { canvas.width = window.innerWidth; canvas.height = window.innerHeight; });
-    const particles = Array.from({ length: 60 }, () => ({
-      x: Math.random() * canvas.width, y: Math.random() * canvas.height,
-      size: Math.random() * 2 + 0.5, sx: (Math.random() - 0.5) * 0.5, sy: (Math.random() - 0.5) * 0.5,
-      color: ['rgba(33,150,243,0.3)','rgba(245,166,35,0.2)'][Math.floor(Math.random()*2)]
-    }));
-    (function animate() {
-      ctx.clearRect(0, 0, canvas.width, canvas.height);
-      particles.forEach(p => {
-        p.x += p.sx; p.y += p.sy;
-        if (p.x < 0 || p.x > canvas.width) p.sx *= -1;
-        if (p.y < 0 || p.y > canvas.height) p.sy *= -1;
-        ctx.beginPath(); ctx.arc(p.x, p.y, p.size, 0, Math.PI * 2);
-        ctx.fillStyle = p.color; ctx.fill();
-      });
-      requestAnimationFrame(animate);
-    })();
   </script>
 </body>
 </html>
