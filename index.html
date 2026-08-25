@@ -237,6 +237,21 @@
     .tree-node.active .node-count { background: rgba(255,255,255,.2); color: rgba(255,255,255,.8); }
     .tree-children { padding-left: 1.2rem; }
 
+    /* Panel search */
+    .panel-search {
+      display: flex; align-items: center; gap: .6rem;
+      background: #fff; border: 2px solid var(--border);
+      border-radius: 8px; padding: .6rem 1rem;
+      margin-bottom: 1rem; transition: border-color .2s;
+    }
+    .panel-search:focus-within { border-color: var(--red); }
+    .panel-search svg { color: var(--muted); flex-shrink: 0; }
+    .panel-search-input {
+      flex: 1; border: none; outline: none; font-size: .9rem;
+      font-family: 'Inter', sans-serif; color: var(--text); background: none;
+    }
+    .panel-search-input::placeholder { color: var(--muted); }
+
     /* Toolbar */
     .products-panel { }
     .toolbar {
@@ -648,6 +663,10 @@
           <a href="#home">Home</a>
           <span>/</span>
           <span id="tpCurrent">All Items</span>
+        </div>
+        <div class="panel-search">
+          <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.35-4.35"/></svg>
+          <input type="text" class="panel-search-input" placeholder="Search cards, players, sets…" oninput="document.getElementById('searchInput').value=this.value;document.getElementById('searchInput').dispatchEvent(new Event('input'))">
         </div>
         <div class="toolbar">
           <span class="results-label" id="resultsCount">Showing items</span>
