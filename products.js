@@ -64269,7 +64269,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 20
+    "stock": 19
   },
   {
     "id": 5357,
