@@ -211,9 +211,10 @@
     /* Sidebar */
     .sidebar {
       background: var(--white); border: 1px solid var(--border);
-      border-radius: 12px; padding: 1.5rem; height: fit-content;
-      position: sticky; top: 80px;
+      border-radius: 12px; padding: 1rem 0; height: fit-content;
+      position: sticky; top: 64px; overflow: hidden;
     }
+    .sidebar-title { padding: 0 1rem 0.75rem; }
     .sidebar-title {
       font-family: 'Bebas Neue', 'Barlow Condensed', sans-serif; font-size: 1rem; font-weight: 700;
       color: var(--dark); margin-bottom: 1rem; padding-bottom: .75rem;
@@ -467,6 +468,8 @@
 
     /* Tree nav */
     .tree-window { background: #fff !important; border: 1px solid var(--border) !important; border-radius: 12px !important; overflow: hidden !important; }
+    .tree-node-row { padding: 7px 1rem !important; }
+    .tree-children .tree-node-row { padding-left: 2.25rem !important; }
     .tree-titlebar { background: var(--dark) !important; }
     .tree-titlebar-label { color: rgba(255,255,255,.7) !important; }
     .tree-node-row { color: var(--text) !important; border-left-color: transparent !important; }
