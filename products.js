@@ -122,14 +122,14 @@ window.products = [
   {
     "id": 11,
     "name": "Munetaka Murakami (RC) - 2026 MLB Living Set® - Card 939 PRE-SALE",
-    "price": 4.44,
+    "price": 4.74,
     "image": "https://i.ebayimg.com/images/g/KdwAAeSwhFRqjSs5/s-l300.png",
     "url": "https://www.ebay.com/itm/168637477610",
     "category": "baseball",
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 14
+    "stock": 8
   },
   {
     "id": 12,
