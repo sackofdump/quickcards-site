@@ -2,7 +2,7 @@ window.products = [
   {
     "id": 1,
     "name": "Munetaka Murakami (RC) - 2026 MLB Living Set® - Card 939 PRE-SALE",
-    "price": 4.97,
+    "price": 4.44,
     "image": "https://i.ebayimg.com/images/g/KdwAAeSwhFRqjSs5/s-l300.png",
     "url": "https://www.ebay.com/itm/168637477610",
     "category": "baseball",
@@ -11930,7 +11930,7 @@ window.products = [
   {
     "id": 995,
     "name": "Jefry Yan (CALL UP RC) 1st Career K - 2026 MLB Topps NOW® - Card 526 PRE-SALE",
-    "price": 29.77,
+    "price": 14.97,
     "image": "https://i.ebayimg.com/images/g/lVkAAeSwDzRqdSPC/s-l300.png",
     "url": "https://www.ebay.com/itm/168594369804",
     "category": "topps-now",
@@ -64262,7 +64262,7 @@ window.products = [
   {
     "id": 5356,
     "name": "SPRUNKI Incredibox - 55 STICKERS! No Duplicates - Random Sprunki Stickers Gift S",
-    "price": 5.99,
+    "price": 6.75,
     "image": "https://i.ebayimg.com/images/g/QYwAAOSwxYhn1eEe/s-l300.png",
     "url": "https://www.ebay.com/itm/168145634627",
     "category": "stickers",
