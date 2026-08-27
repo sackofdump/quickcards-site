@@ -261,7 +261,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 16
+    "stock": 15
   },
   {
     "id": 23,
@@ -561,7 +561,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 5
+    "stock": 2
   },
   {
     "id": 48,
@@ -13533,7 +13533,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 0
   },
   {
     "id": 1129,
@@ -25082,7 +25082,7 @@ window.products = [
   {
     "id": 2091,
     "name": "Andrew Fischer #BCP-149 MOJO REFRACTOR - 2026 Topps Bowman MLB Baseball",
-    "price": 7,
+    "price": 19,
     "image": "https://i.ebayimg.com/images/g/Ng8AAeSwjr5qGhu2/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168414010797",
     "category": "baseball",
