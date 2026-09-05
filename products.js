@@ -23006,14 +23006,14 @@ window.products = [
   {
     "id": 1918,
     "name": "Luis Lara (CALL UP RC) - Pair Of Catches 2026 MLB Topps NOW® - Card 544 PRE-SALE",
-    "price": 7.74,
+    "price": 9.97,
     "image": "https://i.ebayimg.com/images/g/vV4AAeSw5TlqehDF/s-l300.png",
     "url": "https://www.ebay.com/itm/168603559040",
     "category": "topps-now",
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 3
+    "stock": 2
   },
   {
     "id": 1919,
