@@ -26013,7 +26013,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 0
   },
   {
     "id": 2169,
@@ -53733,7 +53733,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 0
   },
   {
     "id": 4479,
@@ -80918,7 +80918,7 @@ window.products = [
   {
     "id": 6744,
     "name": "2024 Absolute Football Cards Panini Kaboom YOU PICK THE CARD!",
-    "price": 0,
+    "price": 1.25,
     "image": "https://i.ebayimg.com/images/g/M9gAAeSwoGBopBC~/s-l300.jpg",
     "url": "https://www.ebay.com/itm/167729080672",
     "category": "football",
