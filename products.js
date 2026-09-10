@@ -285,7 +285,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 0
   },
   {
     "id": 25,
@@ -78501,7 +78501,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 0
+    "stock": 1
   },
   {
     "id": 6543,
@@ -79149,7 +79149,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 0
+    "stock": 2
   },
   {
     "id": 6597,
@@ -83918,7 +83918,7 @@ window.products = [
   {
     "id": 6994,
     "name": "Charizard Gold Metal Coin - MINT/NEW - Pokemon Collectors Gift 1oz. 1.57\"x1.57\"",
-    "price": 9,
+    "price": 2.5,
     "image": "https://i.ebayimg.com/images/g/THIAAeSwctRojP7M/s-l300.jpg",
     "url": "https://www.ebay.com/itm/167686889001",
     "category": "pokemon",
