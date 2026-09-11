@@ -1965,7 +1965,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 24
+    "stock": 22
   },
   {
     "id": 165,
@@ -78554,14 +78554,14 @@ window.products = [
   {
     "id": 6547,
     "name": "#200 Shohei Ohtani - 2026 Topps Series 1 - Base Card - MLB Baseball",
-    "price": 4.27,
+    "price": 5.77,
     "image": "https://i.ebayimg.com/images/g/72UAAeSwVptpklmw/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168162241985",
     "category": "baseball",
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 0
+    "stock": 1
   },
   {
     "id": 6548,
