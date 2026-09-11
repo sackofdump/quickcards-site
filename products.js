@@ -14,14 +14,14 @@ window.products = [
   {
     "id": 2,
     "name": "George Lombard Jr. (RC) 1st GRANNY - 2026 MLB Topps NOW® - Card 656 PRE-SALE",
-    "price": 5.75,
+    "price": 5.44,
     "image": "https://i.ebayimg.com/images/g/VnIAAeSwwe9qo3BF/s-l300.png",
     "url": "https://www.ebay.com/itm/168679986565",
     "category": "topps-now",
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 16
+    "stock": 15
   },
   {
     "id": 3,
