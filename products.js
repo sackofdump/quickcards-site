@@ -14,14 +14,14 @@ window.products = [
   {
     "id": 2,
     "name": "George Lombard Jr. (RC) 1st GRANNY - 2026 MLB Topps NOW® - Card 656 PRE-SALE",
-    "price": 5.44,
+    "price": 5.74,
     "image": "https://i.ebayimg.com/images/g/VnIAAeSwwe9qo3BF/s-l300.png",
     "url": "https://www.ebay.com/itm/168679986565",
     "category": "topps-now",
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 15
+    "stock": 25
   },
   {
     "id": 3,
@@ -1118,7 +1118,7 @@ window.products = [
   {
     "id": 94,
     "name": "SSP* Arch Manning #8 COLOR WHEEL REFRACTOR - 2026 Panini 90s Decades Multi-Sport",
-    "price": 99.97,
+    "price": 89,
     "image": "https://i.ebayimg.com/images/g/EYAAAeSwT-hqmL~g/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168677204211",
     "category": "other",
@@ -2205,7 +2205,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 22
+    "stock": 20
   },
   {
     "id": 185,
@@ -4406,7 +4406,7 @@ window.products = [
   {
     "id": 368,
     "name": "04/10* Justin Jefferson #91TF-38 BLACK CRACKLE PARALLEL 2026 Topps NFL Flagship",
-    "price": 249,
+    "price": 219,
     "image": "https://i.ebayimg.com/images/g/qR0AAeSwFh9qknfL/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168666509631",
     "category": "football",
@@ -10310,7 +10310,7 @@ window.products = [
   {
     "id": 860,
     "name": "2/10* Stafford, Goff, Prescott (PASS) REFRACTOR PARALLEL 2026 Topps NFL Flagship",
-    "price": 69,
+    "price": 59,
     "image": "https://i.ebayimg.com/images/g/VMgAAeSwE~Fqi84P/s-l300.png",
     "url": "https://www.ebay.com/itm/168653489039",
     "category": "football",
