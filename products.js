@@ -1,6 +1,30 @@
 window.products = [
   {
     "id": 1,
+    "name": "Andrew Fischer - Clearly Rated Prospect #102 2026 Donruss Milwaukee RC",
+    "price": 19.99,
+    "image": "https://i.ebayimg.com/images/g/xr8AAeSwj6RqpMy1/s-l300.png",
+    "url": "https://www.ebay.com/itm/168682348748",
+    "category": "other",
+    "badge": null,
+    "discount": null,
+    "numbered": false,
+    "stock": 1
+  },
+  {
+    "id": 2,
+    "name": "SSP* Arch Manning #8 COLOR WHEEL REFRACTOR - 2026 Panini 90s Decades Multi-Sport",
+    "price": 74.5,
+    "image": "https://i.ebayimg.com/images/g/EYAAAeSwT-hqmL~g/s-l300.jpg",
+    "url": "https://www.ebay.com/itm/168682109379",
+    "category": "other",
+    "badge": null,
+    "discount": null,
+    "numbered": false,
+    "stock": 1
+  },
+  {
+    "id": 3,
     "name": "Freddy Fermin #163 MINI - 2025 Topps Allen &amp; Ginter MLB Baseball",
     "price": 1.97,
     "image": "https://i.ebayimg.com/images/g/Y0UAAeSwMyBqpIlr/s-l300.jpg",
@@ -12,7 +36,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 2,
+    "id": 4,
     "name": "Kerry Wood #WC-8 - 2025 Topps Allen &amp; Ginter MLB Baseball",
     "price": 3.97,
     "image": "https://i.ebayimg.com/images/g/XxkAAeSwKcBqpIlT/s-l300.jpg",
@@ -24,7 +48,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 3,
+    "id": 5,
     "name": "Riley Greene #136 MINI - 2025 Topps Allen &amp; Ginter MLB Baseball",
     "price": 1.97,
     "image": "https://i.ebayimg.com/images/g/6QEAAeSw80BqpIk~/s-l300.jpg",
@@ -36,7 +60,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 4,
+    "id": 6,
     "name": "Reggie Jackson #60 MITCHELL &amp; NESS MINI - 2025 Topps Allen &amp; Ginter MLB Baseball",
     "price": 13.97,
     "image": "https://i.ebayimg.com/images/g/VusAAeSwJVJqpIkj/s-l300.jpg",
@@ -48,7 +72,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 5,
+    "id": 7,
     "name": "Christy Mathewson #WC-38 - 2025 Topps Allen &amp; Ginter MLB Baseball",
     "price": 1.97,
     "image": "https://i.ebayimg.com/images/g/WnkAAeSw4jxqpIkD/s-l300.jpg",
@@ -60,7 +84,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 6,
+    "id": 8,
     "name": "Luis Gonzalez #SV-20 - 2025 Topps Allen &amp; Ginter MLB Baseball",
     "price": 1.97,
     "image": "https://i.ebayimg.com/images/g/YDQAAeSwAwdqpIjv/s-l300.jpg",
@@ -72,7 +96,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 7,
+    "id": 9,
     "name": "Lesley Arfin #264 MINI - 2025 Topps Allen &amp; Ginter MLB Baseball",
     "price": 3.97,
     "image": "https://i.ebayimg.com/images/g/4lMAAeSwhH5qpIjV/s-l300.jpg",
@@ -84,7 +108,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 8,
+    "id": 10,
     "name": "Jeremy Pena #50 MINI MITCHELL &amp; NESS - 2025 Topps Allen &amp; Ginter MLB Baseball",
     "price": 5.97,
     "image": "https://i.ebayimg.com/images/g/eocAAeSwS2xqpIir/s-l300.jpg",
@@ -96,7 +120,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 9,
+    "id": 11,
     "name": "David Ortiz #53 MINI A&amp;G BACK - 2025 Topps Allen &amp; Ginter MLB Baseball",
     "price": 1.97,
     "image": "https://i.ebayimg.com/images/g/gIEAAeSw3HxqpIh9/s-l300.jpg",
@@ -108,7 +132,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 10,
+    "id": 12,
     "name": "David Ortiz #SV-17 - 2025 Topps Allen &amp; Ginter MLB Baseball",
     "price": 0.99,
     "image": "https://i.ebayimg.com/images/g/d44AAeSweP9qpIhV/s-l300.jpg",
@@ -120,7 +144,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 11,
+    "id": 13,
     "name": "Max Muncy (RC) #93 MINI - 2025 Topps Allen &amp; Ginter MLB Baseball",
     "price": 1.97,
     "image": "https://i.ebayimg.com/images/g/b1UAAeSwuXtqpIg~/s-l300.jpg",
@@ -132,7 +156,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 12,
+    "id": 14,
     "name": "Max Scherzer #140 MINI A&amp;G BACK - 2025 Topps Allen &amp; Ginter MLB Baseball",
     "price": 1.97,
     "image": "https://i.ebayimg.com/images/g/JTsAAeSwzl9qpIgo/s-l300.jpg",
@@ -144,7 +168,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 13,
+    "id": 15,
     "name": "DJ Khaled #208 MINI BLACK - 2025 Topps Allen &amp; Ginter MLB Baseball",
     "price": 2.97,
     "image": "https://i.ebayimg.com/images/g/wMQAAeSw~H9qpIfb/s-l300.jpg",
@@ -156,7 +180,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 14,
+    "id": 16,
     "name": "Jose Altuve #SV-38 - 2025 Topps Allen &amp; Ginter MLB Baseball",
     "price": 1.97,
     "image": "https://i.ebayimg.com/images/g/v5cAAeSwcFNqpIet/s-l300.jpg",
@@ -168,7 +192,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 15,
+    "id": 17,
     "name": "Beachin' It La Jolla Shores #BI-10 - 2025 Topps Allen &amp; Ginter MLB Baseball",
     "price": 1.97,
     "image": "https://i.ebayimg.com/images/g/SMYAAeSwmXNqpIec/s-l300.jpg",
@@ -180,7 +204,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 16,
+    "id": 18,
     "name": "Chris Sale #WC-16 - 2025 Topps Allen &amp; Ginter MLB Baseball",
     "price": 1.97,
     "image": "https://i.ebayimg.com/images/g/2wcAAeSw4ZdqpId8/s-l300.jpg",
@@ -192,7 +216,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 17,
+    "id": 19,
     "name": "Ben Rice (RC) #104 MINI MITCHELL &amp; NESS - 2025 Topps Allen &amp; Ginter MLB Baseball",
     "price": 39.97,
     "image": "https://i.ebayimg.com/images/g/LyAAAeSw7plqpIcJ/s-l300.jpg",
@@ -204,7 +228,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 18,
+    "id": 20,
     "name": "Yogi Berra #339 MINI - 2025 Topps Allen &amp; Ginter MLB Baseball",
     "price": 1.97,
     "image": "https://i.ebayimg.com/images/g/Io0AAeSwzhpqpIbU/s-l300.jpg",
@@ -216,7 +240,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 19,
+    "id": 21,
     "name": "Juan Marichal #WC-37 - 2025 Topps Allen &amp; Ginter MLB Baseball",
     "price": 1.97,
     "image": "https://i.ebayimg.com/images/g/ZekAAeSw7ydqpIbB/s-l300.jpg",
@@ -228,7 +252,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 20,
+    "id": 22,
     "name": "Jonah Heim #SV-3 - 2025 Topps Allen &amp; Ginter MLB Baseball",
     "price": 1.97,
     "image": "https://i.ebayimg.com/images/g/PQIAAeSwN55qpIas/s-l300.jpg",
@@ -240,7 +264,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 21,
+    "id": 23,
     "name": "Druski #204 MINI BLACK - 2025 Topps Allen &amp; Ginter MLB Baseball",
     "price": 2.97,
     "image": "https://i.ebayimg.com/images/g/NegAAeSw-1xqpIaW/s-l300.jpg",
@@ -252,7 +276,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 22,
+    "id": 24,
     "name": "Greg Maddux #41 MINI MITCHELL &amp; NESS - 2025 Topps Allen &amp; Ginter MLB Baseball",
     "price": 5.97,
     "image": "https://i.ebayimg.com/images/g/kvYAAeSw90JqpIZx/s-l300.jpg",
@@ -264,7 +288,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 23,
+    "id": 25,
     "name": "Bob Gibson #61 MINI - 2025 Topps Allen &amp; Ginter MLB Baseball",
     "price": 0.99,
     "image": "https://i.ebayimg.com/images/g/L-8AAeSw6N9qpIZE/s-l300.jpg",
@@ -276,7 +300,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 24,
+    "id": 26,
     "name": "Andruw Jones #SV-21 - 2025 Topps Allen &amp; Ginter MLB Baseball",
     "price": 1.97,
     "image": "https://i.ebayimg.com/images/g/IakAAeSw03ZqpIYx/s-l300.jpg",
@@ -288,7 +312,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 25,
+    "id": 27,
     "name": "Tai Verdes #298 CHROME - 2025 Topps Allen &amp; Ginter MLB Baseball",
     "price": 1.97,
     "image": "https://i.ebayimg.com/images/g/Qk4AAeSwXFhqpIYd/s-l300.jpg",
@@ -300,7 +324,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 26,
+    "id": 28,
     "name": "Nolan Ryan #WC-3 - 2025 Topps Allen &amp; Ginter MLB Baseball",
     "price": 1.97,
     "image": "https://i.ebayimg.com/images/g/X1EAAeSwM0NqpIYD/s-l300.jpg",
@@ -312,7 +336,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 27,
+    "id": 29,
     "name": "Ozzie Smith #58 MINI CHROME - 2025 Topps Allen &amp; Ginter MLB Baseball",
     "price": 1.97,
     "image": "https://i.ebayimg.com/images/g/EOMAAeSw8HxqpIXu/s-l300.jpg",
@@ -324,7 +348,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 28,
+    "id": 30,
     "name": "Dennis Eckersley #WC-20 - 2025 Topps Allen &amp; Ginter MLB Baseball",
     "price": 0.99,
     "image": "https://i.ebayimg.com/images/g/OXAAAeSwguFqpIXN/s-l300.jpg",
@@ -336,7 +360,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 29,
+    "id": 31,
     "name": "Tony Gwynn #14 GOLD MINI - 2025 Topps Allen &amp; Ginter MLB Baseball",
     "price": 3.48,
     "image": "https://i.ebayimg.com/images/g/jvgAAeSwO7ZqpH9b/s-l300.jpg",
@@ -348,7 +372,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 30,
+    "id": 32,
     "name": "Mitchell &amp; Ness T-Shirt LG. Redemption - 2025 Topps Allen &amp; Ginter MLB Baseball",
     "price": 29.97,
     "image": "https://i.ebayimg.com/images/g/ZOsAAeSwqrhqpH8L/s-l300.jpg",
@@ -360,7 +384,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 31,
+    "id": 33,
     "name": "Wade Boggs #67 A&amp;G BACK MINI - 2025 Topps Allen &amp; Ginter MLB Baseball",
     "price": 1.97,
     "image": "https://i.ebayimg.com/images/g/-0wAAeSwUERqpH7f/s-l300.jpg",
@@ -372,7 +396,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 32,
+    "id": 34,
     "name": "Luisangel Acuna #107 MINI - 2025 Topps Allen &amp; Ginter MLB Baseball",
     "price": 1.97,
     "image": "https://i.ebayimg.com/images/g/L78AAeSw~CZqpH7J/s-l300.jpg",
@@ -384,7 +408,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 33,
+    "id": 35,
     "name": "Kirk Gibson #SV-31 - 2025 Topps Allen &amp; Ginter MLB Baseball",
     "price": 1.25,
     "image": "https://i.ebayimg.com/images/g/6tAAAeSw25dqpH6e/s-l300.jpg",
@@ -396,7 +420,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 34,
+    "id": 36,
     "name": "Albert Pujols #1 MITCHELL &amp; NESS BACK - 2025 Topps Allen &amp; Ginter MLB Baseball",
     "price": 19.97,
     "image": "https://i.ebayimg.com/images/g/6UMAAeSw32NqpH5n/s-l300.jpg",
@@ -408,7 +432,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 35,
+    "id": 37,
     "name": "Yordan Alvarez MINI #N222-10 - 2025 Topps Allen &amp; Ginter MLB Baseball",
     "price": 1.97,
     "image": "https://i.ebayimg.com/images/g/8eUAAeSwdo1qpH4z/s-l300.jpg",
@@ -420,7 +444,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 36,
+    "id": 38,
     "name": "Scott Rolen #SV-14 - 2025 Topps Allen &amp; Ginter MLB Baseball",
     "price": 0.99,
     "image": "https://i.ebayimg.com/images/g/3isAAeSwFx9qpH4V/s-l300.jpg",
@@ -432,7 +456,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 37,
+    "id": 39,
     "name": "Trevor Hoffman #WC-27 - 2025 Topps Allen &amp; Ginter MLB Baseball",
     "price": 0.99,
     "image": "https://i.ebayimg.com/images/g/VuYAAeSw2lNqpH4B/s-l300.jpg",
@@ -444,7 +468,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 38,
+    "id": 40,
     "name": "Justin Verlander #66 MINI A&amp;G BACK - 2025 Topps Allen &amp; Ginter MLB Baseball",
     "price": 1.97,
     "image": "https://i.ebayimg.com/images/g/91UAAeSw69RqpH3h/s-l300.jpg",
@@ -456,7 +480,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 39,
+    "id": 41,
     "name": "DJ Khaled #208 MINI GOLD - 2025 Topps Allen &amp; Ginter MLB Baseball",
     "price": 2.49,
     "image": "https://i.ebayimg.com/images/g/ycYAAeSwRb9qpH22/s-l300.jpg",
@@ -468,7 +492,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 40,
+    "id": 42,
     "name": "Denzel Clarke (RC) #278 MITCHELL &amp; NESS BACK - 2025 Topps Allen &amp; Ginter MLB",
     "price": 4.97,
     "image": "https://i.ebayimg.com/images/g/XAkAAeSwHAJqpH1W/s-l300.jpg",
@@ -480,7 +504,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 41,
+    "id": 43,
     "name": "Brett Saberhagen #SV-37 - 2025 Topps Allen &amp; Ginter MLB Baseball",
     "price": 0.99,
     "image": "https://i.ebayimg.com/images/g/TPsAAeSw1GpqpHyU/s-l300.jpg",
@@ -492,7 +516,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 42,
+    "id": 44,
     "name": "Lauren Alaina #252 MINI - 2025 Topps Allen &amp; Ginter MLB Baseball",
     "price": 1.97,
     "image": "https://i.ebayimg.com/images/g/UZ0AAeSw0W9qpHx-/s-l300.jpg",
@@ -504,7 +528,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 43,
+    "id": 45,
     "name": "Joe Morgan #179 CHROME - 2025 Topps Allen &amp; Ginter MLB Baseball",
     "price": 1.97,
     "image": "https://i.ebayimg.com/images/g/06QAAeSwfUpqpHxZ/s-l300.jpg",
@@ -516,7 +540,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 44,
+    "id": 46,
     "name": "Johan Santana #WC-13 - 2025 Topps Allen &amp; Ginter MLB Baseball",
     "price": 0.99,
     "image": "https://i.ebayimg.com/images/g/zssAAeSwDaxqpHw5/s-l300.jpg",
@@ -528,7 +552,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 45,
+    "id": 47,
     "name": "Kerry Carpenter #158 MINI - 2025 Topps Allen &amp; Ginter MLB Baseball",
     "price": 0.99,
     "image": "https://i.ebayimg.com/images/g/ay4AAeSwzLhqpHwi/s-l300.jpg",
@@ -540,7 +564,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 46,
+    "id": 48,
     "name": "Alex Bregman #SV-39 - 2025 Topps Allen &amp; Ginter MLB Baseball",
     "price": 0.99,
     "image": "https://i.ebayimg.com/images/g/FDYAAeSw3HxqpHwG/s-l300.jpg",
@@ -552,7 +576,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 47,
+    "id": 49,
     "name": "Jim Thome #347 MINI - 2025 Topps Allen &amp; Ginter MLB",
     "price": 0.99,
     "image": "https://i.ebayimg.com/images/g/ztMAAeSwfUpqpHvi/s-l300.jpg",
@@ -564,7 +588,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 48,
+    "id": 50,
     "name": "Pokemon 1999 Artbox Series 1 Sticker Porygon Original Rare Piece  NM *BTX",
     "price": 2.99,
     "image": "https://i.ebayimg.com/images/g/OSgAAeSw~cFpg5Si/s-l300.jpg",
@@ -576,7 +600,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 49,
+    "id": 51,
     "name": "2024 Topps Allen &amp; Ginter #250 Robin Yount Brewers",
     "price": 1.99,
     "image": "https://i.ebayimg.com/images/g/HFAAAOSwgNZnU4bI/s-l300.jpg",
@@ -588,7 +612,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 50,
+    "id": 52,
     "name": "Venusaur Gold Metal Coin - MINT/NEW - Pokemon Collectors Gift 1oz. 1.57\"x1.57\"",
     "price": 1.99,
     "image": "https://i.ebayimg.com/images/g/Ey8AAOSwd11mPlVo/s-l300.png",
@@ -600,7 +624,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 51,
+    "id": 53,
     "name": "2014 Japanese Pokemon Card FLETCHLING 009/021 XYa  - MINT/NM",
     "price": 4.99,
     "image": "https://i.ebayimg.com/images/g/NNEAAOSwDh9jkCQs/s-l300.jpg",
@@ -612,7 +636,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 52,
+    "id": 54,
     "name": "08/10* Kahlil Watson (CALL UP RC) 1st MLB Hit - 2026 MLB Topps NOW® - Card 367",
     "price": 29,
     "image": "https://i.ebayimg.com/images/g/gWMAAeSwRRNqaOK2/s-l300.jpg",
@@ -624,7 +648,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 53,
+    "id": 55,
     "name": "Kirlia DPBP#331 dp3 2007 very rare Pokemon Card Nintendo Japan F/S MINT/NM",
     "price": 4.99,
     "image": "https://i.ebayimg.com/images/g/4QMAAOSwFwljkCa0/s-l300.jpg",
@@ -636,7 +660,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 54,
+    "id": 56,
     "name": "2014 Japanese Pokemon Card FURFROU 007/018 XYb  - MINT/NM",
     "price": 4.99,
     "image": "https://i.ebayimg.com/images/g/EeAAAOSwkqNjkCTP/s-l300.jpg",
@@ -648,7 +672,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 55,
+    "id": 57,
     "name": "Mookie Betts 2024 Topps Allen Ginter Mini #94 Los Angeles Dodgers NM",
     "price": 1.99,
     "image": "https://i.ebayimg.com/images/g/UiIAAOSw0JlnU4f~/s-l300.jpg",
@@ -660,7 +684,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 56,
+    "id": 58,
     "name": "Brock Purdy 3 TDs 1st Season Game - 2026 NFL Topps NOW NFL Card 4 PRE-SALE",
     "price": 4.24,
     "image": "https://i.ebayimg.com/images/g/q1sAAeSw2J1qpEfZ/s-l300.png",
@@ -669,10 +693,10 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 12
+    "stock": 11
   },
   {
-    "id": 57,
+    "id": 59,
     "name": "PSA 10 Jackson Chourio 2022 Bowman's Best Top Prospect #TP-19 Refractor Brewers",
     "price": 199,
     "image": "https://i.ebayimg.com/images/g/2AgAAeSw0bFqpEMV/s-l300.jpg",
@@ -684,7 +708,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 58,
+    "id": 60,
     "name": "1/1* Matthew Golden #NFLM-MG ONE OF ONE 2026 Topps NFL Flagship",
     "price": 749,
     "image": "https://i.ebayimg.com/images/g/qvAAAeSwLrNqiRJk/s-l300.png",
@@ -696,19 +720,19 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 59,
+    "id": 61,
     "name": "George Lombard Jr. (RC) 1st GRANNY - 2026 MLB Topps NOW® - Card 656 PRE-SALE",
-    "price": 5.74,
+    "price": 7.77,
     "image": "https://i.ebayimg.com/images/g/VnIAAeSwwe9qo3BF/s-l300.png",
     "url": "https://www.ebay.com/itm/168679986565",
     "category": "topps-now",
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 12
+    "stock": 10
   },
   {
-    "id": 60,
+    "id": 62,
     "name": "Seiya Suzuki #164 - 2026 Topps Pristine MLB Baseball",
     "price": 2.97,
     "image": "https://i.ebayimg.com/images/g/Kj4AAeSw-hlqo20I/s-l300.jpg",
@@ -720,7 +744,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 61,
+    "id": 63,
     "name": "Elly De La Cruz #74 - 2026 Topps Pristine MLB Baseball",
     "price": 2.97,
     "image": "https://i.ebayimg.com/images/g/KjMAAeSw9ipqo2zp/s-l300.jpg",
@@ -732,7 +756,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 62,
+    "id": 64,
     "name": "Jimmy Crooks (RC) #57 - 2026 Topps Pristine MLB Baseball",
     "price": 2.97,
     "image": "https://i.ebayimg.com/images/g/GGoAAeSwyZ1qo2vH/s-l300.jpg",
@@ -744,7 +768,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 63,
+    "id": 65,
     "name": "Nolan McLean (RC) #61 - 2026 Topps Pristine MLB Baseball",
     "price": 2.97,
     "image": "https://i.ebayimg.com/images/g/mKIAAeSw499qo2q4/s-l300.jpg",
@@ -756,7 +780,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 64,
+    "id": 66,
     "name": "Babe Ruth #101 - 2026 Topps Pristine MLB Baseball",
     "price": 4.97,
     "image": "https://i.ebayimg.com/images/g/EnkAAeSwSBxqo2pg/s-l300.jpg",
@@ -768,7 +792,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 65,
+    "id": 67,
     "name": "Moises Ballesteros #176 REFRACTOR - 2026 Topps Pristine MLB Baseball",
     "price": 2.97,
     "image": "https://i.ebayimg.com/images/g/xOEAAeSwmeVqo2pJ/s-l300.jpg",
@@ -780,7 +804,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 66,
+    "id": 68,
     "name": "Trea Turner #62 REFRACTOR - 2026 Topps Pristine MLB Baseball",
     "price": 2.97,
     "image": "https://i.ebayimg.com/images/g/7xEAAeSwnBFqo2oz/s-l300.jpg",
@@ -792,7 +816,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 67,
+    "id": 69,
     "name": "Garrett Crochet #79 - 2026 Topps Pristine MLB Baseball",
     "price": 2.97,
     "image": "https://i.ebayimg.com/images/g/BPkAAeSwxZhqo2kl/s-l300.jpg",
@@ -804,7 +828,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 68,
+    "id": 70,
     "name": "Roki Sasaki #185 - 2026 Topps Pristine MLB Baseball",
     "price": 2.97,
     "image": "https://i.ebayimg.com/images/g/9IoAAeSwivVqo2kB/s-l300.jpg",
@@ -816,7 +840,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 69,
+    "id": 71,
     "name": "Brice Turang #155 - 2026 Topps Pristine MLB Baseball",
     "price": 4.97,
     "image": "https://i.ebayimg.com/images/g/vtwAAeSwlzNqo2jp/s-l300.jpg",
@@ -828,7 +852,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 70,
+    "id": 72,
     "name": "Heriberto Hernandez #93 REFRACTOR - 2026 Topps Pristine MLB Baseball",
     "price": 2.97,
     "image": "https://i.ebayimg.com/images/g/xY0AAeSwv-tqo2ia/s-l300.jpg",
@@ -840,7 +864,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 71,
+    "id": 73,
     "name": "Drew Gilbert (RC) #92 - 2026 Topps Pristine MLB Baseball",
     "price": 2.97,
     "image": "https://i.ebayimg.com/images/g/68QAAeSwDT9qo2gA/s-l300.jpg",
@@ -852,7 +876,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 72,
+    "id": 74,
     "name": "Ryan Ritter #33 REFRACTOR - 2026 Topps Pristine MLB Baseball",
     "price": 2.97,
     "image": "https://i.ebayimg.com/images/g/sJAAAeSw--hqo2dr/s-l300.jpg",
@@ -864,7 +888,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 73,
+    "id": 75,
     "name": "Alex Bregman #182 REFRACTOR - 2026 Topps Pristine MLB",
     "price": 4.97,
     "image": "https://i.ebayimg.com/images/g/mKoAAeSw0ytqo2Y4/s-l300.jpg",
@@ -876,7 +900,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 74,
+    "id": 76,
     "name": "Adley Rutschman #190 REFRACTOR - 2026 Topps Pristine MLB",
     "price": 3.97,
     "image": "https://i.ebayimg.com/images/g/lpoAAeSwDudqo2YX/s-l300.jpg",
@@ -888,7 +912,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 75,
+    "id": 77,
     "name": "Nolan Arenado #144 - 2026 Topps Pristine MLB Baseball",
     "price": 3.97,
     "image": "https://i.ebayimg.com/images/g/lx8AAeSw2GJqo2WK/s-l300.jpg",
@@ -900,7 +924,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 76,
+    "id": 78,
     "name": "Christopher Sanchez #113 - 2026 Topps Pristine MLB",
     "price": 2.97,
     "image": "https://i.ebayimg.com/images/g/XxYAAeSwMQNqo2VS/s-l300.jpg",
@@ -912,7 +936,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 77,
+    "id": 79,
     "name": "Kyle Tucker #48 - 2026 Topps Pristine MLB LA Dodgers",
     "price": 2.97,
     "image": "https://i.ebayimg.com/images/g/4cIAAeSwNJhqo2Tw/s-l300.jpg",
@@ -924,7 +948,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 78,
+    "id": 80,
     "name": "Geraldo Perdomo #120 - 2026 Topps Pristine MLB",
     "price": 2.97,
     "image": "https://i.ebayimg.com/images/g/jjwAAeSwpRJqo2TV/s-l300.jpg",
@@ -936,7 +960,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 79,
+    "id": 81,
     "name": "Jakob Marsee (RC) #91B2-45 SP KOI FISH BORDER - 2026 Topps Series 2 MLB",
     "price": 1.97,
     "image": "https://i.ebayimg.com/images/g/g-AAAeSwwtVqmZx6/s-l300.jpg",
@@ -948,7 +972,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 80,
+    "id": 82,
     "name": "Brent Rooker #91B2-16 SP KOI FISH BORDER - 2026 Topps Series 2 MLB",
     "price": 1.97,
     "image": "https://i.ebayimg.com/images/g/zBsAAeSwmX1qmZ5m/s-l300.jpg",
@@ -960,7 +984,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 81,
+    "id": 83,
     "name": "/50* Bryce Harper #91AS-7 SSP GOLD KOI FISH BORDER - 2026 Topps Series 2 MLB",
     "price": 18,
     "image": "https://i.ebayimg.com/images/g/BXEAAeSwwTlqmZtP/s-l300.jpg",
@@ -972,7 +996,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 82,
+    "id": 84,
     "name": "Craig Biggio #91B2-26 KOI FISH - 2026 Topps Series 2 Japanese Version MLB",
     "price": 2.97,
     "image": "https://i.ebayimg.com/images/g/NFoAAeSwIK1qmZdC/s-l300.jpg",
@@ -984,7 +1008,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 83,
+    "id": 85,
     "name": "Rusty Greer #C-RG REFRACTOR - 2026 Panini 90s Decades Multi-Sport MLB NFL",
     "price": 1.97,
     "image": "https://i.ebayimg.com/images/g/UbsAAeSwGHBqosju/s-l300.jpg",
@@ -996,7 +1020,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 84,
+    "id": 86,
     "name": "Carl Pickens #36 REFRACTOR - 2026 Panini 90s Decades Multi-Sport MLB NFL",
     "price": 1.97,
     "image": "https://i.ebayimg.com/images/g/WukAAeSwQ9dqosfR/s-l300.jpg",
@@ -1008,7 +1032,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 85,
+    "id": 87,
     "name": "Spud Webb #94 REFRACTOR - 2026 Panini 90s Decades Multi-Sport MLB NFL",
     "price": 2.97,
     "image": "https://i.ebayimg.com/images/g/SfMAAeSwqNVqoscP/s-l300.jpg",
@@ -1020,7 +1044,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 86,
+    "id": 88,
     "name": "Marcelo Mayer #115 BASE - 2026 Panini 90s Decades Multi-Sport MLB NFL",
     "price": 1.97,
     "image": "https://i.ebayimg.com/images/g/4eIAAeSwW~Bqorkq/s-l300.jpg",
@@ -1032,7 +1056,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 87,
+    "id": 89,
     "name": "Karim Lopez #124 BASE - 2026 Panini 90s Decades Multi-Sport MLB NFL",
     "price": 2.97,
     "image": "https://i.ebayimg.com/images/g/wYgAAeSwN4VqorkW/s-l300.jpg",
@@ -1044,7 +1068,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 88,
+    "id": 90,
     "name": "Chase Burns #105 BASE - 2026 Panini 90s Decades Multi-Sport MLB NFL",
     "price": 1.97,
     "image": "https://i.ebayimg.com/images/g/mxMAAeSwwe9qorjz/s-l300.jpg",
@@ -1056,7 +1080,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 89,
+    "id": 91,
     "name": "Travis Bazzana #114 BASE - 2026 Panini 90s Decades Multi-Sport MLB NFL",
     "price": 1.97,
     "image": "https://i.ebayimg.com/images/g/ClMAAeSwFJlqorjb/s-l300.jpg",
@@ -1068,7 +1092,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 90,
+    "id": 92,
     "name": "Arch Manning #141 BASE - 2026 Panini 90s Decades Multi-Sport MLB NFL",
     "price": 6.97,
     "image": "https://i.ebayimg.com/images/g/E0oAAeSwaClqorix/s-l300.jpg",
@@ -1080,7 +1104,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 91,
+    "id": 93,
     "name": "Jeremiah Fears #138 BASE - 2026 Panini 90s Decades Multi-Sport MLB NFL",
     "price": 1.97,
     "image": "https://i.ebayimg.com/images/g/bXEAAeSwFw5qorig/s-l300.jpg",
@@ -1092,7 +1116,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 92,
+    "id": 94,
     "name": "Miikka Muurinen #123 BASE - 2026 Panini 90s Decades Multi-Sport MLB NFL",
     "price": 2.97,
     "image": "https://i.ebayimg.com/images/g/BwAAAeSwFJlqoriI/s-l300.jpg",
@@ -1104,7 +1128,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 93,
+    "id": 95,
     "name": "Vladimir Guerrero #7 BASE - 2026 Panini 90s Decades Multi-Sport MLB NFL",
     "price": 1.97,
     "image": "https://i.ebayimg.com/images/g/RhAAAeSw5nZqorh1/s-l300.jpg",
@@ -1116,7 +1140,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 94,
+    "id": 96,
     "name": "Spike Lee #73 BASE - 2026 Panini 90s Decades Multi-Sport MLB NFL",
     "price": 4.97,
     "image": "https://i.ebayimg.com/images/g/ctoAAeSwP-pqorhd/s-l300.jpg",
@@ -1128,7 +1152,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 95,
+    "id": 97,
     "name": "Robert Parish #C-RP REFRACTOR - 2026 Panini 90s Decades Multi-Sport MLB NFL",
     "price": 2.97,
     "image": "https://i.ebayimg.com/images/g/F8MAAeSwHnBqoq5M/s-l300.jpg",
@@ -1140,7 +1164,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 96,
+    "id": 98,
     "name": "Clyde Drexler #T10-CD  REFRACTOR - 2026 Panini 90s Decades Multi-Sport MLB NFL",
     "price": 3.97,
     "image": "https://i.ebayimg.com/images/g/NmwAAeSwiVVqoq4w/s-l300.jpg",
@@ -1152,7 +1176,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 97,
+    "id": 99,
     "name": "Hines Ward #C-HW REFRACTOR - 2026 Panini 90s Decades Multi-Sport MLB NFL",
     "price": 2.97,
     "image": "https://i.ebayimg.com/images/g/2KIAAeSwiIJqoq4T/s-l300.jpg",
@@ -1164,7 +1188,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 98,
+    "id": 100,
     "name": "Chris Webber #72 REFRACTOR - 2026 Panini 90s Decades Multi-Sport MLB NFL",
     "price": 2.97,
     "image": "https://i.ebayimg.com/images/g/bnIAAeSwpkFqoq3v/s-l300.jpg",
@@ -1176,7 +1200,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 99,
+    "id": 101,
     "name": "Bryson Howard #132 REFRACTOR - 2026 Panini 90s Decades Multi-Sport MLB NFL",
     "price": 2.97,
     "image": "https://i.ebayimg.com/images/g/1~QAAeSwfSJqoq3Q/s-l300.jpg",
@@ -1188,7 +1212,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 100,
+    "id": 102,
     "name": "Karl Malone #AW-KM REFRACTOR - 2026 Panini 90s Decades Multi-Sport MLB NFL",
     "price": 4.97,
     "image": "https://i.ebayimg.com/images/g/LcQAAeSwFyNqoq24/s-l300.jpg",
@@ -1200,7 +1224,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 101,
+    "id": 103,
     "name": "Pedro Martinez #12 REFRACTOR - 2026 Panini 90s Decades Multi-Sport MLB NFL",
     "price": 2.97,
     "image": "https://i.ebayimg.com/images/g/T1wAAeSwVAVqoq2Z/s-l300.jpg",
@@ -1212,7 +1236,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 102,
+    "id": 104,
     "name": "/299* Ken Griffey Jr. #11 PARALLEL REFRACTOR - 2026 Panini 90s Decades Multi-Spo",
     "price": 19.97,
     "image": "https://i.ebayimg.com/images/g/KpAAAeSwiVVqoq1S/s-l300.jpg",
@@ -1224,7 +1248,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 103,
+    "id": 105,
     "name": "Alex Rodriguez #1 REFRACTOR - 2026 Panini 90s Decades Multi-Sport MLB NFL",
     "price": 2.97,
     "image": "https://i.ebayimg.com/images/g/8j0AAeSw8Edqoqz7/s-l300.jpg",
@@ -1236,7 +1260,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 104,
+    "id": 106,
     "name": "Brett Favre #MV-BF MARVELS REFRACTOR - 2026 Panini 90s Decades Multi-Sport MLB N",
     "price": 4.97,
     "image": "https://i.ebayimg.com/images/g/wT8AAeSw2C9qoqy3/s-l300.jpg",
@@ -1248,7 +1272,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 105,
+    "id": 107,
     "name": "Meleek Thomas #118 REFRACTOR - 2026 Panini 90s Decades Multi-Sport MLB NFL",
     "price": 2.75,
     "image": "https://i.ebayimg.com/images/g/~BkAAeSwQ9dqoqyV/s-l300.jpg",
@@ -1260,7 +1284,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 106,
+    "id": 108,
     "name": "Mark Grace #ES-MG REFRACTOR - 2026 Panini 90s Decades Multi-Sport MLB NFL",
     "price": 2.47,
     "image": "https://i.ebayimg.com/images/g/dB0AAeSwmlJqoqx8/s-l300.jpg",
@@ -1272,7 +1296,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 107,
+    "id": 109,
     "name": "Marshall Faulk #46 REFRACTOR - 2026 Panini 90s Decades Multi-Sport MLB NFL",
     "price": 2.49,
     "image": "https://i.ebayimg.com/images/g/50wAAeSwTPRqoqxf/s-l300.jpg",
@@ -1284,7 +1308,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 108,
+    "id": 110,
     "name": "Barry Sanders #T10-BS REFRACTOR - 2026 Panini 90s Decades Multi-Sport MLB NFL",
     "price": 1.97,
     "image": "https://i.ebayimg.com/images/g/Vh4AAeSwgShqoqxJ/s-l300.jpg",
@@ -1296,7 +1320,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 109,
+    "id": 111,
     "name": "Steve Nash #C-SN REFRACTOR - 2026 Panini 90s Decades Multi-Sport MLB NFL",
     "price": 1.97,
     "image": "https://i.ebayimg.com/images/g/DvQAAeSwMQNqoqwy/s-l300.jpg",
@@ -1308,7 +1332,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 110,
+    "id": 112,
     "name": "Frank Thomas #18 REFRACTOR - 2026 Panini 90s Decades Multi-Sport MLB NFL",
     "price": 2.79,
     "image": "https://i.ebayimg.com/images/g/wooAAeSwf5RqoqwA/s-l300.jpg",
@@ -1320,7 +1344,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 111,
+    "id": 113,
     "name": "Lawrence Taylor #T10-LT REFRACTOR - 2026 Panini 90s Decades Multi-Sport MLB NFL",
     "price": 4.79,
     "image": "https://i.ebayimg.com/images/g/vm8AAeSwZhBqoqvj/s-l300.jpg",
@@ -1332,7 +1356,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 112,
+    "id": 114,
     "name": "Gary Payton #76 REFRACTOR - 2026 Panini 90s Decades Multi-Sport MLB NFL",
     "price": 2.97,
     "image": "https://i.ebayimg.com/images/g/shQAAeSwCUBqoqtU/s-l300.jpg",
@@ -1344,7 +1368,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 113,
+    "id": 115,
     "name": "Ezequiel Melbourne #BCP-167 BASE - 2026 Bowman Chrome Baseball MLB",
     "price": 3.97,
     "image": "https://i.ebayimg.com/images/g/v0oAAeSw7v5qohO8/s-l300.jpg",
@@ -1356,7 +1380,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 114,
+    "id": 116,
     "name": "Enmanuel Merlo #BCP-216 BASE - 1st 2026 Bowman Chrome Baseball MLB",
     "price": 3.97,
     "image": "https://i.ebayimg.com/images/g/-iIAAeSwibxqohOc/s-l300.jpg",
@@ -1368,7 +1392,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 115,
+    "id": 117,
     "name": "Leonardo Reynoso #BCP-172 BASE - 1st 2026 Bowman Chrome Baseball MLB",
     "price": 3.97,
     "image": "https://i.ebayimg.com/images/g/vkAAAeSwg6FqohOB/s-l300.jpg",
@@ -1380,7 +1404,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 116,
+    "id": 118,
     "name": "Ketel Marte #30 BASE - 2026 Bowman Chrome Baseball MLB",
     "price": 1.97,
     "image": "https://i.ebayimg.com/images/g/k8sAAeSwSCRqohNg/s-l300.jpg",
@@ -1392,7 +1416,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 117,
+    "id": 119,
     "name": "Michael Harris II #89 BASE - 2026 Bowman Chrome Baseball MLB",
     "price": 3.97,
     "image": "https://i.ebayimg.com/images/g/CBMAAeSwPEtqohM1/s-l300.jpg",
@@ -1404,7 +1428,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 118,
+    "id": 120,
     "name": "Elly De La Cruz #97 BASE - 2026 Bowman Chrome Baseball MLB",
     "price": 3.97,
     "image": "https://i.ebayimg.com/images/g/s6oAAeSwE79qohMM/s-l300.jpg",
@@ -1416,7 +1440,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 119,
+    "id": 121,
     "name": "Jose Altuve #58 BASE - 2026 Bowman Chrome Baseball MLB",
     "price": 3.97,
     "image": "https://i.ebayimg.com/images/g/iIUAAeSwKshqohLy/s-l300.jpg",
@@ -1428,7 +1452,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 120,
+    "id": 122,
     "name": "Angeibel Gomez #BCP-194 BASE - 1st 2026 Bowman Chrome Baseball MLB",
     "price": 8.97,
     "image": "https://i.ebayimg.com/images/g/fYUAAeSwehJqohK~/s-l300.jpg",
@@ -1440,7 +1464,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 121,
+    "id": 123,
     "name": "John Gil #BCP-155 BASE - 2026 Bowman Chrome Baseball MLB",
     "price": 4.97,
     "image": "https://i.ebayimg.com/images/g/goAAAeSw7eRqohJE/s-l300.jpg",
@@ -1452,7 +1476,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 122,
+    "id": 124,
     "name": "Elian Rosario #BCP-241 BASE - 1st 2026 Bowman Chrome Baseball MLB",
     "price": 4.96,
     "image": "https://i.ebayimg.com/images/g/BHcAAeSw9J9qohIi/s-l300.jpg",
@@ -1464,7 +1488,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 123,
+    "id": 125,
     "name": "Yordan Alvarez #68 BASE - 2026 Bowman Chrome Baseball MLB",
     "price": 1.97,
     "image": "https://i.ebayimg.com/images/g/PagAAeSwGDRqohIJ/s-l300.jpg",
@@ -1476,7 +1500,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 124,
+    "id": 126,
     "name": "Colson Montgomery (RC) #70 BASE - 2026 Bowman Chrome Baseball MLB",
     "price": 4.97,
     "image": "https://i.ebayimg.com/images/g/fdYAAeSwbHBqohHv/s-l300.jpg",
@@ -1488,7 +1512,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 125,
+    "id": 127,
     "name": "Pete Crow-Armstrong #91 BASE - 2026 Bowman Chrome Baseball MLB",
     "price": 5.97,
     "image": "https://i.ebayimg.com/images/g/d14AAeSwyPJqohHU/s-l300.jpg",
@@ -1500,7 +1524,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 126,
+    "id": 128,
     "name": "Cal Raleigh #86 BASE - 2026 Bowman Chrome Baseball MLB",
     "price": 1.97,
     "image": "https://i.ebayimg.com/images/g/w-8AAeSwr4VqohHE/s-l300.jpg",
@@ -1512,7 +1536,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 127,
+    "id": 129,
     "name": "Paul Skenes #60 BASE - 2026 Bowman Chrome Baseball MLB",
     "price": 4.97,
     "image": "https://i.ebayimg.com/images/g/2uQAAeSw9LdqohGf/s-l300.jpg",
@@ -1524,7 +1548,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 128,
+    "id": 130,
     "name": "Carson Benge (RC) #96 BASE - 2026 Bowman Chrome Baseball MLB",
     "price": 2.97,
     "image": "https://i.ebayimg.com/images/g/OA4AAeSwG2FqohGJ/s-l300.jpg",
@@ -1536,7 +1560,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 129,
+    "id": 131,
     "name": "Yoshinobu Yamamoto #84 BASE - 2026 Bowman Chrome Baseball MLB",
     "price": 1.97,
     "image": "https://i.ebayimg.com/images/g/N9YAAeSwEYJqohF1/s-l300.jpg",
@@ -1548,7 +1572,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 130,
+    "id": 132,
     "name": "Angel De Los Santos #BCP-204 BASE - 1st 2026 Bowman Chrome Baseball MLB",
     "price": 3.97,
     "image": "https://i.ebayimg.com/images/g/yhQAAeSwd4xqohEg/s-l300.jpg",
@@ -1560,7 +1584,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 131,
+    "id": 133,
     "name": "Alex Freeland (RC) #31 BASE - 2026 Bowman Chrome Baseball MLB",
     "price": 1.97,
     "image": "https://i.ebayimg.com/images/g/ZSsAAeSwKshqohCR/s-l300.jpg",
@@ -1572,7 +1596,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 132,
+    "id": 134,
     "name": "Alfredo Duno #BCP-235 BASE - 2026 Bowman Chrome Baseball MLB",
     "price": 3.97,
     "image": "https://i.ebayimg.com/images/g/r4sAAeSwBX5qohBx/s-l300.jpg",
@@ -1584,7 +1608,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 133,
+    "id": 135,
     "name": "Wilder Dalis #BCP-188 BASE - 1st 2026 Bowman Chrome Baseball MLB",
     "price": 3.97,
     "image": "https://i.ebayimg.com/images/g/bxkAAeSwk2hqohBS/s-l300.jpg",
@@ -1596,7 +1620,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 134,
+    "id": 136,
     "name": "Owen Caissie (RC) #37 BASE - 2026 Bowman Chrome Baseball MLB",
     "price": 1.97,
     "image": "https://i.ebayimg.com/images/g/TbAAAeSw-1lqohAG/s-l300.jpg",
@@ -1608,7 +1632,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 135,
+    "id": 137,
     "name": "Braylen Wimmer #BCP-195 BASE - 2026 Bowman Chrome Baseball MLB",
     "price": 3.97,
     "image": "https://i.ebayimg.com/images/g/Wm4AAeSwS2Bqog-a/s-l300.jpg",
@@ -1620,7 +1644,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 136,
+    "id": 138,
     "name": "Max Clark #BCP-236 BASE - 2026 Bowman Chrome Baseball MLB",
     "price": 4.97,
     "image": "https://i.ebayimg.com/images/g/ueQAAeSwHAVqog9y/s-l300.jpg",
@@ -1632,7 +1656,7 @@ window.products = [
     "stock": 0
   },
   {
-    "id": 137,
+    "id": 139,
     "name": "Mike Sirota #BCP-213 BASE - 2026 Bowman Chrome Baseball MLB",
     "price": 4.94,
     "image": "https://i.ebayimg.com/images/g/qNkAAeSwTNpqog9S/s-l300.jpg",
@@ -1644,7 +1668,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 138,
+    "id": 140,
     "name": "Kyle Karros (RC) #74 BASE - 2026 Bowman Chrome Baseball MLB",
     "price": 1.97,
     "image": "https://i.ebayimg.com/images/g/phkAAeSw14xqog8p/s-l300.jpg",
@@ -1656,7 +1680,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 139,
+    "id": 141,
     "name": "Didier Fuentes (RC) #7 BASE - 2026 Bowman Chrome Baseball MLB",
     "price": 1.97,
     "image": "https://i.ebayimg.com/images/g/htMAAeSw5Vpqog7e/s-l300.jpg",
@@ -1668,7 +1692,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 140,
+    "id": 142,
     "name": "JR Ritchie (RC) #32 BASE - 2026 Bowman Chrome Baseball MLB",
     "price": 1.97,
     "image": "https://i.ebayimg.com/images/g/ewMAAeSwxoJqog66/s-l300.jpg",
@@ -1680,7 +1704,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 141,
+    "id": 143,
     "name": "Luis De La Torre #BCP-173 BASE - 1st 2026 Bowman Chrome Baseball MLB",
     "price": 3.97,
     "image": "https://i.ebayimg.com/images/g/o58AAeSwgyJqog6J/s-l300.jpg",
@@ -1692,7 +1716,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 142,
+    "id": 144,
     "name": "Talon Haley #BCP-162 BASE - 1st 2026 Bowman Chrome Baseball MLB",
     "price": 2.97,
     "image": "https://i.ebayimg.com/images/g/NtgAAeSwDw1qog5f/s-l300.jpg",
@@ -1704,7 +1728,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 143,
+    "id": 145,
     "name": "Jojo Parker #BCP-164 BASE - 2026 Bowman Chrome Baseball MLB",
     "price": 3.97,
     "image": "https://i.ebayimg.com/images/g/CbUAAeSwEm9qog4k/s-l300.jpg",
@@ -1716,7 +1740,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 144,
+    "id": 146,
     "name": "Hyun Seung Lee #BCP-183 BASE - 1st 2026 Bowman Chrome Baseball MLB",
     "price": 3.47,
     "image": "https://i.ebayimg.com/images/g/wWIAAeSwMa1qog36/s-l300.jpg",
@@ -1728,7 +1752,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 145,
+    "id": 147,
     "name": "Kazuma Okamoto (RC) #TT-8 TRAVEL TAGS - 2026 Bowman Chrome Baseball MLB",
     "price": 7.77,
     "image": "https://i.ebayimg.com/images/g/DYMAAeSww5Zqogex/s-l300.jpg",
@@ -1740,7 +1764,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 146,
+    "id": 148,
     "name": "Jac Caglianone (RC) #IT-3 IT CAME TO THE LEAGUE - 2026 Bowman Chrome Basebal",
     "price": 19.99,
     "image": "https://i.ebayimg.com/images/g/ZIAAAeSwIp1qogeD/s-l300.jpg",
@@ -1752,7 +1776,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 147,
+    "id": 149,
     "name": "Kade Anderson #BB-14 BIG BREAK!  - 2026 Bowman Chrome Baseball MLB",
     "price": 14.99,
     "image": "https://i.ebayimg.com/images/g/~ZsAAeSwMxxqogdF/s-l300.jpg",
@@ -1764,7 +1788,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 148,
+    "id": 150,
     "name": "02/23* Derik Queen #136 REFRACTOR PARALLEL - 2026 Panini 90s Decades Multi-Sport",
     "price": 9.97,
     "image": "https://i.ebayimg.com/images/g/Z5sAAeSwZPBqmL9x/s-l300.jpg",
@@ -1776,7 +1800,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 149,
+    "id": 151,
     "name": "180/499* Chase Shores #147 RED PARALLEL 2026 Panini Donruss Elite Baseball MLB",
     "price": 4.97,
     "image": "https://i.ebayimg.com/images/g/u4EAAeSwRUZqmLXb/s-l300.jpg",
@@ -1788,7 +1812,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 150,
+    "id": 152,
     "name": "078/199* Jamal Anderson #E-JA PARALLEL - 2026 Panini 90s Decades Multi-Sport",
     "price": 2.97,
     "image": "https://i.ebayimg.com/images/g/n3YAAeSwxFVqmL82/s-l300.jpg",
@@ -1800,19 +1824,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 151,
-    "name": "SSP* Arch Manning #8 COLOR WHEEL REFRACTOR - 2026 Panini 90s Decades Multi-Sport",
-    "price": 89,
-    "image": "https://i.ebayimg.com/images/g/EYAAAeSwT-hqmL~g/s-l300.jpg",
-    "url": "https://www.ebay.com/itm/168677204211",
-    "category": "other",
-    "badge": null,
-    "discount": null,
-    "numbered": false,
-    "stock": 1
-  },
-  {
-    "id": 152,
+    "id": 153,
     "name": "Andrew Fischer - 2026 Bowman #BTP-71  Bowman Scouts' Top 100 BREWERS",
     "price": 7.97,
     "image": "https://i.ebayimg.com/images/g/wrYAAeSw8Wtqoeg4/s-l300.jpg",
@@ -1821,10 +1833,10 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 8
+    "stock": 7
   },
   {
-    "id": 153,
+    "id": 154,
     "name": "Andrew Fischer #173 REFRACTOR - 2026 Panini Donruss Elite Baseball MLB #2",
     "price": 7.97,
     "image": "https://i.ebayimg.com/images/g/A8AAAeSwFbZqoeeQ/s-l300.jpg",
@@ -1836,7 +1848,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 154,
+    "id": 155,
     "name": "Yadier Molina #47 BLUE VELOCITY - 2026 Panini Donruss Baseball MLB",
     "price": 1.97,
     "image": "https://i.ebayimg.com/images/g/3XMAAeSwjadqoeWM/s-l300.jpg",
@@ -1848,7 +1860,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 155,
+    "id": 156,
     "name": "Hagen Smith #172 BLUE VELOCITY - 2026 Panini Donruss Baseball MLB",
     "price": 0.99,
     "image": "https://i.ebayimg.com/images/g/pvkAAeSwGMxqoeV6/s-l300.jpg",
@@ -1860,7 +1872,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 156,
+    "id": 157,
     "name": "Braden Montgomery #114 BLUE VELOCITY - 2026 Panini Donruss Baseball MLB",
     "price": 0.99,
     "image": "https://i.ebayimg.com/images/g/l0MAAeSw5WVqoeVl/s-l300.jpg",
@@ -1872,7 +1884,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 157,
+    "id": 158,
     "name": "Mariano Rivera #88 BLUE VELOCITY - 2026 Panini Donruss Baseball MLB",
     "price": 1.97,
     "image": "https://i.ebayimg.com/images/g/mBIAAeSwEodqoeVO/s-l300.jpg",
@@ -1884,7 +1896,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 158,
+    "id": 159,
     "name": "Billy Carlson #197 BLUE VELOCITY - 2026 Panini Donruss Baseball MLB",
     "price": 0.99,
     "image": "https://i.ebayimg.com/images/g/zTUAAeSwaklqoeU9/s-l300.jpg",
@@ -1896,7 +1908,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 159,
+    "id": 160,
     "name": "Ching-Hsien Ko #141 BLUE VELOCITY - 2026 Panini Donruss Baseball MLB",
     "price": 1.97,
     "image": "https://i.ebayimg.com/images/g/zDMAAeSwcvRqoeUr/s-l300.jpg",
@@ -1908,7 +1920,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 160,
+    "id": 161,
     "name": "Alex Rodriguez #59 BLUE VELOCITY - 2026 Panini Donruss Baseball MLB",
     "price": 1.97,
     "image": "https://i.ebayimg.com/images/g/7IYAAeSw0JZqoeUa/s-l300.jpg",
@@ -1920,7 +1932,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 161,
+    "id": 162,
     "name": "Rainiel Rodriguez #199 BLUE VELOCITY - 2026 Panini Donruss Baseball MLB",
     "price": 2.49,
     "image": "https://i.ebayimg.com/images/g/zJAAAeSwDudqoeUG/s-l300.jpg",
@@ -1932,7 +1944,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 162,
+    "id": 163,
     "name": "Tatsuya Imai #42 BLUE VELOCITY - 2026 Panini Donruss Baseball MLB",
     "price": 1.97,
     "image": "https://i.ebayimg.com/images/g/BxQAAeSwEn5qoeTu/s-l300.jpg",
@@ -1944,7 +1956,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 163,
+    "id": 164,
     "name": "James Wood #100 BLUE VELOCITY - 2026 Panini Donruss Baseball MLB",
     "price": 1.97,
     "image": "https://i.ebayimg.com/images/g/k6UAAeSwaPBqoeTe/s-l300.jpg",
@@ -1956,7 +1968,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 164,
+    "id": 165,
     "name": "Blake Mitchell #126 BLUE VELOCITY - 2026 Panini Donruss Baseball MLB",
     "price": 1.97,
     "image": "https://i.ebayimg.com/images/g/wsUAAeSwr4VqoeTR/s-l300.jpg",
@@ -1968,7 +1980,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 165,
+    "id": 166,
     "name": "Jason Varitek #6 BLUE VELOCITY - 2026 Panini Donruss Baseball MLB",
     "price": 1.97,
     "image": "https://i.ebayimg.com/images/g/yJIAAeSw7C5qoeTD/s-l300.jpg",
@@ -1980,7 +1992,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 166,
+    "id": 167,
     "name": "Robin Yount #69 ROCKET EMOJI - 2026 Panini Donruss Baseball MLB",
     "price": 1.97,
     "image": "https://i.ebayimg.com/images/g/nPEAAeSwMxxqoeSh/s-l300.jpg",
@@ -1992,7 +2004,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 167,
+    "id": 168,
     "name": "Charles Davalan #113 ROCKET EMOJI - 2026 Panini Donruss Baseball MLB",
     "price": 2.94,
     "image": "https://i.ebayimg.com/images/g/154AAeSw3hBqoeSG/s-l300.jpg",
@@ -2004,7 +2016,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 168,
+    "id": 169,
     "name": "David Ortiz #11 ROCKET EMOJI - 2026 Panini Donruss Baseball MLB",
     "price": 1.97,
     "image": "https://i.ebayimg.com/images/g/z0AAAeSwz3JqoeRx/s-l300.jpg",
@@ -2016,7 +2028,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 169,
+    "id": 170,
     "name": "Brendan Summerhill #173 ROCKET EMOJI - 2026 Panini Donruss Baseball MLB",
     "price": 2.79,
     "image": "https://i.ebayimg.com/images/g/8Y4AAeSwwyhqoeRZ/s-l300.jpg",
@@ -2028,7 +2040,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 170,
+    "id": 171,
     "name": "Tate Southisene #171 BLACK BUBBLES DISCO - 2026 Panini Donruss Baseball MLB",
     "price": 1.97,
     "image": "https://i.ebayimg.com/images/g/47wAAeSw0JZqoeRI/s-l300.jpg",
@@ -2040,7 +2052,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 171,
+    "id": 172,
     "name": "Satchel Paige #73 BLACK BUBBLES DISCO - 2026 Panini Donruss Baseball MLB",
     "price": 1.97,
     "image": "https://i.ebayimg.com/images/g/yA4AAeSwB7RqoeQt/s-l300.jpg",
@@ -2052,7 +2064,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 172,
+    "id": 173,
     "name": "Sung-Mun Song #15 BLACK BUBBLES DISCO - 2026 Panini Donruss Baseball MLB",
     "price": 1.97,
     "image": "https://i.ebayimg.com/images/g/yhkAAeSwIDpqoeQR/s-l300.jpg",
@@ -2064,7 +2076,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 173,
+    "id": 174,
     "name": "Dick Allen #19 BLACK CIRCLES DISCO - 2026 Panini Donruss Baseball MLB",
     "price": 1.97,
     "image": "https://i.ebayimg.com/images/g/jn0AAeSwiNFqoeP5/s-l300.jpg",
@@ -2076,7 +2088,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 174,
+    "id": 175,
     "name": "Justin Crawford #194 BLACK BUBBLE DISCO - 2026 Panini Donruss Baseball MLB",
     "price": 1.97,
     "image": "https://i.ebayimg.com/images/g/074AAeSwFbZqoePI/s-l300.jpg",
@@ -2088,7 +2100,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 175,
+    "id": 176,
     "name": "Nick Kurtz #77 BLACK BUBBLE DISCO - 2026 Panini Donruss Baseball MLB",
     "price": 1.97,
     "image": "https://i.ebayimg.com/images/g/wNYAAeSwB7RqoeOS/s-l300.jpg",
@@ -2100,7 +2112,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 176,
+    "id": 177,
     "name": "Sammy Sosa #60 BLACK BUBBLE DISCO - 2026 Panini Donruss Baseball MLB",
     "price": 1.97,
     "image": "https://i.ebayimg.com/images/g/XksAAeSw3mhqoeNs/s-l300.jpg",
@@ -2112,7 +2124,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 177,
+    "id": 178,
     "name": "Aaron Judge #9 UNLEASHED - 2026 Panini Donruss Baseball MLB",
     "price": 2.97,
     "image": "https://i.ebayimg.com/images/g/sqAAAeSwaklqoeLR/s-l300.jpg",
@@ -2124,7 +2136,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 178,
+    "id": 179,
     "name": "Nolan Ryan #7 - 2026 Panini Donruss Baseball MLB",
     "price": 1.97,
     "image": "https://i.ebayimg.com/images/g/kJ4AAeSwk2hqoeKe/s-l300.jpg",
@@ -2136,7 +2148,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 179,
+    "id": 180,
     "name": "Chipper Jones #85 PURPLE BORDER - 2026 Panini Donruss Baseball MLB",
     "price": 1.97,
     "image": "https://i.ebayimg.com/images/g/0WwAAeSwCNFqoeJ-/s-l300.jpg",
@@ -2148,7 +2160,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 180,
+    "id": 181,
     "name": "Bubba Chandler #4 CRUNCH TIME - 2026 Panini Donruss Baseball MLB",
     "price": 1.97,
     "image": "https://i.ebayimg.com/images/g/Q3IAAeSwaExqoeIe/s-l300.jpg",
@@ -2160,7 +2172,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 181,
+    "id": 182,
     "name": "Jacob Wilson #12 UNLEASHED - 2026 Panini Donruss Baseball MLB",
     "price": 0.99,
     "image": "https://i.ebayimg.com/images/g/cA0AAeSw4ZFqoeIA/s-l300.jpg",
@@ -2172,7 +2184,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 182,
+    "id": 183,
     "name": "Satchel Paige #73 CHROME BASE - 2026 Panini Donruss Baseball MLB",
     "price": 1.79,
     "image": "https://i.ebayimg.com/images/g/qV4AAeSwZU5qoeHq/s-l300.jpg",
@@ -2184,7 +2196,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 183,
+    "id": 184,
     "name": "Carson Benge #180 CHROME BASE - 2026 Panini Donruss Baseball MLB",
     "price": 0.99,
     "image": "https://i.ebayimg.com/images/g/picAAeSwt0xqoeHT/s-l300.jpg",
@@ -2196,7 +2208,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 184,
+    "id": 185,
     "name": "Tomoyuki Sugano #56 CHROME BASE - 2026 Panini Donruss Baseball MLB",
     "price": 1.79,
     "image": "https://i.ebayimg.com/images/g/l8EAAeSwtuBqoeHA/s-l300.jpg",
@@ -2208,7 +2220,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 185,
+    "id": 186,
     "name": "Sung-Mun Song #15 CHROME BASE - 2026 Panini Donruss Baseball MLB",
     "price": 1.79,
     "image": "https://i.ebayimg.com/images/g/pSQAAeSwwmVqoeGs/s-l300.jpg",
@@ -2220,7 +2232,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 186,
+    "id": 187,
     "name": "Jace Jung #40 CHROME BASE - 2026 Panini Donruss Baseball MLB",
     "price": 1.79,
     "image": "https://i.ebayimg.com/images/g/vkQAAeSwS0RqoeGH/s-l300.jpg",
@@ -2232,7 +2244,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 187,
+    "id": 188,
     "name": "Bo Jackson #82 CHROME BASE - 2026 Panini Donruss Baseball MLB",
     "price": 1.97,
     "image": "https://i.ebayimg.com/images/g/qtYAAeSwy0lqoeF2/s-l300.jpg",
@@ -2244,7 +2256,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 188,
+    "id": 189,
     "name": "Ethan Petry #122 CHROME BASE - 2026 Panini Donruss Baseball MLB",
     "price": 1.97,
     "image": "https://i.ebayimg.com/images/g/ovAAAeSw0UxqoeFi/s-l300.jpg",
@@ -2256,7 +2268,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 189,
+    "id": 190,
     "name": "Dylan Crews #24 CHROME BASE - 2026 Panini Donruss Baseball MLB",
     "price": 1.97,
     "image": "https://i.ebayimg.com/images/g/q8QAAeSwdntqoeFQ/s-l300.jpg",
@@ -2268,7 +2280,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 190,
+    "id": 191,
     "name": "Gil Hodges #26 CHROME BASE - 2026 Panini Donruss Baseball MLB",
     "price": 0.99,
     "image": "https://i.ebayimg.com/images/g/YucAAeSweqpqoeE6/s-l300.jpg",
@@ -2280,7 +2292,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 191,
+    "id": 192,
     "name": "Felix Hernandez #41 CHROME BASE - 2026 Panini Donruss Baseball MLB",
     "price": 1.97,
     "image": "https://i.ebayimg.com/images/g/q~EAAeSw9LdqoeEe/s-l300.jpg",
@@ -2292,7 +2304,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 192,
+    "id": 193,
     "name": "Aaron Judge #99 CHROME BASE - 2026 Panini Donruss Baseball MLB",
     "price": 1.97,
     "image": "https://i.ebayimg.com/images/g/mBkAAeSw14xqoeEO/s-l300.jpg",
@@ -2304,7 +2316,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 193,
+    "id": 194,
     "name": "Ken Griffey Sr. #49 CHROME BASE - 2026 Panini Donruss Baseball MLB",
     "price": 0.99,
     "image": "https://i.ebayimg.com/images/g/pKYAAeSwy0lqoeD6/s-l300.jpg",
@@ -2316,7 +2328,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 194,
+    "id": 195,
     "name": "Riley Quick #175 CHROME BASE - 2026 Panini Donruss Baseball MLB",
     "price": 0.99,
     "image": "https://i.ebayimg.com/images/g/qvMAAeSwThtqoeDh/s-l300.jpg",
@@ -2328,7 +2340,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 195,
+    "id": 196,
     "name": "Luisangel Acuna #8 CHROME BASE - 2026 Panini Donruss Baseball MLB",
     "price": 0.99,
     "image": "https://i.ebayimg.com/images/g/LzwAAeSww05qoeCd/s-l300.jpg",
@@ -2340,7 +2352,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 196,
+    "id": 197,
     "name": "Bobby Witt Jr. #67 CHROME BASE - 2026 Panini Donruss Baseball MLB",
     "price": 0.99,
     "image": "https://i.ebayimg.com/images/g/kXIAAeSwjWtqoeB9/s-l300.jpg",
@@ -2352,7 +2364,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 197,
+    "id": 198,
     "name": "Ethan Conrad #133 CHROME BASE - 2026 Panini Donruss Baseball MLB",
     "price": 0.99,
     "image": "https://i.ebayimg.com/images/g/snYAAeSw9P9qoeBp/s-l300.jpg",
@@ -2364,7 +2376,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 198,
+    "id": 199,
     "name": "Mike Schmidt #80 LIBERTY FOIL - 2026 Panini Donruss Baseball MLB",
     "price": 0.99,
     "image": "https://i.ebayimg.com/images/g/lpIAAeSwqQBqoeBP/s-l300.jpg",
@@ -2376,7 +2388,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 199,
+    "id": 200,
     "name": "Travis Bazzana #164 LIBERTY FOIL - 2026 Panini Donruss Baseball MLB",
     "price": 1.79,
     "image": "https://i.ebayimg.com/images/g/LjkAAeSwGDRqoeA6/s-l300.jpg",
@@ -2388,7 +2400,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 200,
+    "id": 201,
     "name": "Pie Traynor #63 LIBERTY FOIL - 2026 Panini Donruss Baseball MLB",
     "price": 0.99,
     "image": "https://i.ebayimg.com/images/g/jREAAeSwPMBqoeAf/s-l300.jpg",
@@ -2400,7 +2412,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 201,
+    "id": 202,
     "name": "Kaelen Culpepper #146 LIBERTY FOIL - 2026 Panini Donruss Baseball MLB",
     "price": 1.79,
     "image": "https://i.ebayimg.com/images/g/JFEAAeSwf4Zqod~9/s-l300.jpg",
@@ -2412,7 +2424,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 202,
+    "id": 203,
     "name": "Tony Perez #22 LIBERTY FOIL - 2026 Panini Donruss Baseball MLB",
     "price": 1.27,
     "image": "https://i.ebayimg.com/images/g/p~8AAeSwD1Vqod~l/s-l300.jpg",
@@ -2424,7 +2436,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 203,
+    "id": 204,
     "name": "Caleb Bonemer #105 LIBERTY FOIL - 2026 Panini Donruss Baseball MLB",
     "price": 1.49,
     "image": "https://i.ebayimg.com/images/g/L74AAeSwpWFqod~Q/s-l300.jpg",
@@ -2436,7 +2448,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 204,
+    "id": 205,
     "name": "Byung-Hyun Kim #4 LIBERTY FOIL - 2026 Panini Donruss Baseball MLB",
     "price": 1.97,
     "image": "https://i.ebayimg.com/images/g/K38AAeSwGs5qod--/s-l300.jpg",
@@ -2448,7 +2460,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 205,
+    "id": 206,
     "name": "Kyson Witherspoon #187 LIBERTY FOIL - 2026 Panini Donruss Baseball MLB",
     "price": 1.79,
     "image": "https://i.ebayimg.com/images/g/iMIAAeSwaklqod-j/s-l300.jpg",
@@ -2460,7 +2472,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 206,
+    "id": 207,
     "name": "Jose Canseco #45 LIBERTY FOIL - 2026 Panini Donruss Baseball MLB",
     "price": 0.99,
     "image": "https://i.ebayimg.com/images/g/mb8AAeSwg25qod-B/s-l300.jpg",
@@ -2472,7 +2484,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 207,
+    "id": 208,
     "name": "Leo De Vries #129 LIBERTY FOIL - 2026 Panini Donruss Baseball MLB",
     "price": 1.79,
     "image": "https://i.ebayimg.com/images/g/ah0AAeSwSCRqod9r/s-l300.jpg",
@@ -2484,7 +2496,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 208,
+    "id": 209,
     "name": "Dwight Gooden #86 LIBERTY FOIL - 2026 Panini Donruss Baseball MLB",
     "price": 0.99,
     "image": "https://i.ebayimg.com/images/g/hRkAAeSwo89qod8s/s-l300.jpg",
@@ -2496,7 +2508,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 209,
+    "id": 210,
     "name": "Tate Southisene #171 LIBERTY FOIL - 2026 Panini Donruss Baseball MLB",
     "price": 1.69,
     "image": "https://i.ebayimg.com/images/g/nVwAAeSwvKVqod8a/s-l300.jpg",
@@ -2508,7 +2520,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 210,
+    "id": 211,
     "name": "Bubba Chandler #5 LIBERTY FOIL - 2026 Panini Donruss Baseball MLB",
     "price": 1.97,
     "image": "https://i.ebayimg.com/images/g/WlUAAeSwks5qod8I/s-l300.jpg",
@@ -2520,7 +2532,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 211,
+    "id": 212,
     "name": "Kevin McGonigle #157 LIBERTY FOIL - 2026 Panini Donruss Baseball MLB",
     "price": 3.97,
     "image": "https://i.ebayimg.com/images/g/fhQAAeSwn5Bqod7s/s-l300.jpg",
@@ -2532,7 +2544,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 212,
+    "id": 213,
     "name": "Ivan Rodriguez #64 LIBERTY FOIL - 2026 Panini Donruss Baseball MLB",
     "price": 1.97,
     "image": "https://i.ebayimg.com/images/g/i2EAAeSwBSVqod7Y/s-l300.jpg",
@@ -2544,7 +2556,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 213,
+    "id": 214,
     "name": "Kayson Cunningham #116 LIBERTY FOIL - 2026 Panini Donruss Baseball MLB",
     "price": 1.79,
     "image": "https://i.ebayimg.com/images/g/hvMAAeSwEZZqod7D/s-l300.jpg",
@@ -2556,7 +2568,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 214,
+    "id": 215,
     "name": "Randy Johnson #23 LIBERTY FOIL - 2026 Panini Donruss Baseball MLB",
     "price": 0.99,
     "image": "https://i.ebayimg.com/images/g/HtIAAeSwaExqod6l/s-l300.jpg",
@@ -2568,7 +2580,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 215,
+    "id": 216,
     "name": "Mitch Voit #174 LIBERTY FOIL - 2026 Panini Donruss Baseball MLB",
     "price": 3.49,
     "image": "https://i.ebayimg.com/images/g/U3oAAeSwiNFqod5l/s-l300.jpg",
@@ -2580,7 +2592,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 216,
+    "id": 217,
     "name": "Chandler Simpson #29 LIBERTY FOIL - 2026 Panini Donruss Baseball MLB",
     "price": 1.97,
     "image": "https://i.ebayimg.com/images/g/cWAAAeSwZoJqod5K/s-l300.jpg",
@@ -2592,7 +2604,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 217,
+    "id": 218,
     "name": "Luis Pena #125 LIBERTY FOIL - 2026 Panini Donruss Baseball MLB",
     "price": 0.99,
     "image": "https://i.ebayimg.com/images/g/hdkAAeSw1Klqod4z/s-l300.jpg",
@@ -2604,7 +2616,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 218,
+    "id": 219,
     "name": "Colson Montgomery #87 LIBERTY FOIL - 2026 Panini Donruss Baseball MLB",
     "price": 0.99,
     "image": "https://i.ebayimg.com/images/g/fQMAAeSwdbpqod4Y/s-l300.jpg",
@@ -2616,7 +2628,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 219,
+    "id": 220,
     "name": "Noah Schultz #183 LIBERTY FOIL - 2026 Panini Donruss Baseball MLB",
     "price": 0.99,
     "image": "https://i.ebayimg.com/images/g/SZcAAeSwoVVqod4A/s-l300.jpg",
@@ -2628,7 +2640,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 220,
+    "id": 221,
     "name": "Bryce Eldridge #46 LIBERTY FOIL - 2026 Panini Donruss Baseball MLB",
     "price": 1.97,
     "image": "https://i.ebayimg.com/images/g/VGcAAeSwMxxqod3v/s-l300.jpg",
@@ -2640,7 +2652,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 221,
+    "id": 222,
     "name": "Kade Anderson #198 LIBERTY FOIL - 2026 Panini Donruss Baseball MLB",
     "price": 1.97,
     "image": "https://i.ebayimg.com/images/g/j2cAAeSwrjtqod3M/s-l300.jpg",
@@ -2652,7 +2664,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 222,
+    "id": 223,
     "name": "Hideki Matsui #66 RED WHITE BLUE - 2026 Panini Donruss Baseball MLB",
     "price": 1.69,
     "image": "https://i.ebayimg.com/images/g/hF4AAeSwThtqod2z/s-l300.jpg",
@@ -2664,7 +2676,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 223,
+    "id": 224,
     "name": "Luis Hernandez #200 RED WHITE BLUE - 2026 Panini Donruss Baseball MLB",
     "price": 0.99,
     "image": "https://i.ebayimg.com/images/g/R-oAAeSwQxlqod2a/s-l300.jpg",
@@ -2676,7 +2688,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 224,
+    "id": 225,
     "name": "Cam Smith #81 RED WHITE BLUE - 2026 Panini Donruss Baseball MLB",
     "price": 0.99,
     "image": "https://i.ebayimg.com/images/g/W2QAAeSwy-xqod2F/s-l300.jpg",
@@ -2688,7 +2700,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 225,
+    "id": 226,
     "name": "Dylan Crews #24 RED WHITE BLUE - 2026 Panini Donruss Baseball MLB",
     "price": 1.79,
     "image": "https://i.ebayimg.com/images/g/RRsAAeSwKCpqod1w/s-l300.jpg",
@@ -2700,7 +2712,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 226,
+    "id": 227,
     "name": "Tony Lazzeri #95 RED WHITE BLUE - 2026 Panini Donruss Baseball MLB",
     "price": 0.99,
     "image": "https://i.ebayimg.com/images/g/eScAAeSw~bRqod1S/s-l300.jpg",
@@ -2712,7 +2724,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 227,
+    "id": 228,
     "name": "Brice Matthews #38 RED WHITE BLUE - 2026 Panini Donruss Baseball MLB",
     "price": 0.99,
     "image": "https://i.ebayimg.com/images/g/dPMAAeSwqhpqod1A/s-l300.jpg",
@@ -2724,7 +2736,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 228,
+    "id": 229,
     "name": "Jacob Misiorowski #53 RED WHITE BLUE - 2026 Panini Donruss Baseball MLB",
     "price": 1.97,
     "image": "https://i.ebayimg.com/images/g/YsUAAeSwZoJqod0v/s-l300.jpg",
@@ -2736,7 +2748,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 229,
+    "id": 230,
     "name": "George Brett #91 RED WHITE BLUE - 2026 Panini Donruss Baseball MLB",
     "price": 1.97,
     "image": "https://i.ebayimg.com/images/g/aT0AAeSw25hqod0e/s-l300.jpg",
@@ -2748,7 +2760,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 230,
+    "id": 231,
     "name": "Dave Winfield #34 RED WHITE BLUE - 2026 Panini Donruss Baseball MLB",
     "price": 0.99,
     "image": "https://i.ebayimg.com/images/g/eokAAeSwY5Jqod0J/s-l300.jpg",
@@ -2760,7 +2772,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 231,
+    "id": 232,
     "name": "David Ortiz #11 RED WHITE BLUE - 2026 Panini Donruss Baseball MLB",
     "price": 0.99,
     "image": "https://i.ebayimg.com/images/g/c9wAAeSwwmVqodzq/s-l300.jpg",
@@ -2772,7 +2784,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 232,
+    "id": 233,
     "name": "Yogi Berra #65 RED WHITE BLUE - 2026 Panini Donruss Baseball MLB",
     "price": 1.79,
     "image": "https://i.ebayimg.com/images/g/DBAAAeSwGDRqodzU/s-l300.jpg",
@@ -2784,7 +2796,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 233,
+    "id": 234,
     "name": "Jonny Farmelo #131 RED WHITE BLUE - 2026 Panini Donruss Baseball MLB",
     "price": 0.99,
     "image": "https://i.ebayimg.com/images/g/P~EAAeSwtrBqody4/s-l300.jpg",
@@ -2796,7 +2808,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 234,
+    "id": 235,
     "name": "Rhett Lowder #7 RED WHITE BLUE - 2026 Panini Donruss Baseball MLB",
     "price": 0.99,
     "image": "https://i.ebayimg.com/images/g/baMAAeSw8h9qodyg/s-l300.jpg",
@@ -2808,7 +2820,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 235,
+    "id": 236,
     "name": "Ken Griffey Sr. #49 RED WHITE BLUE - 2026 Panini Donruss Baseball MLB",
     "price": 0.99,
     "image": "https://i.ebayimg.com/images/g/PRgAAeSwS2Bqodx~/s-l300.jpg",
@@ -2820,7 +2832,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 236,
+    "id": 237,
     "name": "RELIC* James Wood #JK-JW - 2026 Panini Donruss Baseball MLB",
     "price": 5,
     "image": "https://i.ebayimg.com/images/g/WPYAAeSwnzJqodvy/s-l300.jpg",
@@ -2832,7 +2844,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 237,
+    "id": 238,
     "name": "RELIC* Bryce Eldridge #JK-BE - 2026 Panini Donruss Baseball MLB",
     "price": 5,
     "image": "https://i.ebayimg.com/images/g/XvgAAeSwtM1qodvX/s-l300.jpg",
@@ -2844,7 +2856,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 238,
+    "id": 239,
     "name": "RELIC* Kyson Witherspoon #PJK-KW - 2026 Panini Donruss Baseball MLB",
     "price": 5,
     "image": "https://i.ebayimg.com/images/g/LDEAAeSwB1dqodu6/s-l300.jpg",
@@ -2856,7 +2868,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 239,
+    "id": 240,
     "name": "/249* Jonny Farmelo #131 PARALLEL - 2026 Panini Donruss Baseball MLB",
     "price": 3,
     "image": "https://i.ebayimg.com/images/g/bzkAAeSwFbZqoduR/s-l300.jpg",
@@ -2868,7 +2880,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 240,
+    "id": 241,
     "name": "RELIC* Kristian Campbell #JK-KC - 2026 Panini Donruss Baseball MLB",
     "price": 5,
     "image": "https://i.ebayimg.com/images/g/b~gAAeSwXCVqodtr/s-l300.jpg",
@@ -2880,19 +2892,19 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 241,
+    "id": 242,
     "name": "Luis Lara (RC) - 2026 MLB Topps NOW® - Card 647 1st Walk Off Brewers PRE-SALE",
-    "price": 5.24,
+    "price": 5.84,
     "image": "https://i.ebayimg.com/images/g/zh8AAeSwsHhqoc6I/s-l300.png",
     "url": "https://www.ebay.com/itm/168676792361",
     "category": "topps-now",
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 20
+    "stock": 18
   },
   {
-    "id": 242,
+    "id": 243,
     "name": "059/299* Chandler Simpson #3 RED PARALLEL - 2026 Panini Donruss Elite Baseball M",
     "price": 2.97,
     "image": "https://i.ebayimg.com/images/g/o3YAAeSwZERqmDRt/s-l300.jpg",
@@ -2904,7 +2916,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 243,
+    "id": 244,
     "name": "071/299* Darryl Strawberry #20 RED PARALLEL - 2026 Panini Donruss Elite Baseball",
     "price": 2.97,
     "image": "https://i.ebayimg.com/images/g/L8wAAeSwiTNqmDgD/s-l300.jpg",
@@ -2916,7 +2928,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 244,
+    "id": 245,
     "name": "Yadier Molina #47 CHROME BASE - 2026 Panini Donruss Baseball MLB",
     "price": 1.97,
     "image": "https://i.ebayimg.com/images/g/6XgAAeSwiNFqoJ6Q/s-l300.jpg",
@@ -2928,7 +2940,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 245,
+    "id": 246,
     "name": "Cal Ripken #14 CHROME BASE - 2026 Panini Donruss Baseball MLB",
     "price": 1.47,
     "image": "https://i.ebayimg.com/images/g/6s8AAeSwvAxqoJ50/s-l300.jpg",
@@ -2940,7 +2952,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 246,
+    "id": 247,
     "name": "Mariano Rivera #88 CHROME BASE - 2026 Panini Donruss Baseball MLB",
     "price": 1.97,
     "image": "https://i.ebayimg.com/images/g/B1oAAeSwSyZqoJ5l/s-l300.jpg",
@@ -2952,7 +2964,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 247,
+    "id": 248,
     "name": "Jason Varitek #6 CHROME BASE - 2026 Panini Donruss Baseball MLB",
     "price": 1.47,
     "image": "https://i.ebayimg.com/images/g/Mi0AAeSwPEtqoJ5M/s-l300.jpg",
@@ -2964,7 +2976,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 248,
+    "id": 249,
     "name": "Josuar Gonzalez #168 CHROME BASE - 2026 Panini Donruss Baseball MLB",
     "price": 1.97,
     "image": "https://i.ebayimg.com/images/g/De0AAeSwtQFqoJ4f/s-l300.jpg",
@@ -2976,7 +2988,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 249,
+    "id": 250,
     "name": "Luke Keaschall #30 CHROME BASE - 2026 Panini Donruss Baseball MLB",
     "price": 0.99,
     "image": "https://i.ebayimg.com/images/g/6t0AAeSwRS5qoJ4I/s-l300.jpg",
@@ -2988,7 +3000,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 250,
+    "id": 251,
     "name": "Michael Young #72 CHROME BASE - 2026 Panini Donruss Baseball MLB",
     "price": 0.99,
     "image": "https://i.ebayimg.com/images/g/BVgAAeSwGMxqoJ3z/s-l300.jpg",
@@ -3000,7 +3012,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 251,
+    "id": 252,
     "name": "Dylan Crews #24 LIBERTY FOIL - 2026 Panini Donruss Baseball MLB",
     "price": 1.97,
     "image": "https://i.ebayimg.com/images/g/XHIAAeSwywhqoJ3g/s-l300.jpg",
@@ -3012,7 +3024,7 @@ window.products = [
     "stock": 0
   },
   {
-    "id": 252,
+    "id": 253,
     "name": "Zyhir Hope #182 LIBERTY FOIL - 2026 Panini Donruss Baseball MLB",
     "price": 1.97,
     "image": "https://i.ebayimg.com/images/g/L3IAAeSwYyRqoJ3O/s-l300.jpg",
@@ -3024,7 +3036,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 253,
+    "id": 254,
     "name": "Mariano Rivera #88 LIBERTY FOIL - 2026 Panini Donruss Baseball MLB",
     "price": 1.97,
     "image": "https://i.ebayimg.com/images/g/GKcAAeSwG2FqoJ2u/s-l300.jpg",
@@ -3036,7 +3048,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 254,
+    "id": 255,
     "name": "Enrique Bradfield Jr. #147 LIBERTY FOIL - 2026 Panini Donruss Baseball MLB",
     "price": 1.97,
     "image": "https://i.ebayimg.com/images/g/Qo4AAeSwXVhqoJ2a/s-l300.jpg",
@@ -3048,7 +3060,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 255,
+    "id": 256,
     "name": "Yogi Berra #65 LIBERTY FOIL - 2026 Panini Donruss Baseball MLB",
     "price": 1.97,
     "image": "https://i.ebayimg.com/images/g/JEQAAeSwy0lqoJ1~/s-l300.jpg",
@@ -3060,7 +3072,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 256,
+    "id": 257,
     "name": "Seth Hernandez #124 LIBERTY FOIL - 2026 Panini Donruss Baseball MLB",
     "price": 1.97,
     "image": "https://i.ebayimg.com/images/g/3xIAAeSw5fpqoJ1h/s-l300.jpg",
@@ -3072,7 +3084,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 257,
+    "id": 258,
     "name": "Bo Jackson #82 LIBERTY FOIL - 2026 Panini Donruss Baseball MLB",
     "price": 1.97,
     "image": "https://i.ebayimg.com/images/g/VO0AAeSwDahqoJ1M/s-l300.jpg",
@@ -3084,7 +3096,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 258,
+    "id": 259,
     "name": "Colt Emerson #165 LIBERTY FOIL - 2026 Panini Donruss Baseball MLB",
     "price": 1.97,
     "image": "https://i.ebayimg.com/images/g/33MAAeSwqvhqoJzz/s-l300.jpg",
@@ -3096,7 +3108,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 259,
+    "id": 260,
     "name": "Jamie Arnold #140 LIBERTY FOIL - 2026 Panini Donruss Baseball MLB",
     "price": 1.97,
     "image": "https://i.ebayimg.com/images/g/~A8AAeSwUz9qoJzW/s-l300.jpg",
@@ -3108,7 +3120,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 260,
+    "id": 261,
     "name": "Yadier Molina #47 LIBERTY FOIL - 2026 Panini Donruss Baseball MLB",
     "price": 1.97,
     "image": "https://i.ebayimg.com/images/g/wHUAAeSw1VJqoJm~/s-l300.jpg",
@@ -3120,7 +3132,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 261,
+    "id": 262,
     "name": "Jason Varitek #6  LIBERTY FOIL - 2026 Panini Donruss Baseball MLB",
     "price": 1.97,
     "image": "https://i.ebayimg.com/images/g/IXwAAeSwl-ZqoJmq/s-l300.jpg",
@@ -3132,7 +3144,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 262,
+    "id": 263,
     "name": "AJ Russell #106 LIBERTY FOIL - 2026 Panini Donruss Baseball MLB",
     "price": 1.29,
     "image": "https://i.ebayimg.com/images/g/JfQAAeSwe~9qoJmF/s-l300.jpg",
@@ -3144,7 +3156,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 263,
+    "id": 264,
     "name": "Madison Bumgarner #51 RED WHITE BLUE - 2026 Panini Donruss Baseball MLB",
     "price": 1.47,
     "image": "https://i.ebayimg.com/images/g/38YAAeSwyXhqoJk1/s-l300.jpg",
@@ -3156,7 +3168,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 264,
+    "id": 265,
     "name": "Bo Jackson #82 RED WHITE BLUE - 2026 Panini Donruss Baseball MLB",
     "price": 1.97,
     "image": "https://i.ebayimg.com/images/g/G9QAAeSwpaBqoJki/s-l300.jpg",
@@ -3168,7 +3180,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 265,
+    "id": 266,
     "name": "Leo Durocher #9 RED WHITE BLUE - 2026 Panini Donruss Baseball MLB",
     "price": 1.47,
     "image": "https://i.ebayimg.com/images/g/3V8AAeSwGtFqoJkP/s-l300.jpg",
@@ -3180,7 +3192,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 266,
+    "id": 267,
     "name": "Deion Sanders #27 RED WHITE BLUE - 2026 Panini Donruss Baseball MLB",
     "price": 1.97,
     "image": "https://i.ebayimg.com/images/g/uJoAAeSweFNqoJjn/s-l300.jpg",
@@ -3192,7 +3204,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 267,
+    "id": 268,
     "name": "Travis Bazzana #164 RED WHITE BLUE - 2026 Panini Donruss Baseball MLB",
     "price": 1.97,
     "image": "https://i.ebayimg.com/images/g/4e0AAeSwi01qoJjN/s-l300.jpg",
@@ -3204,7 +3216,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 268,
+    "id": 269,
     "name": "Bobby Witt Jr. #67 RED WHITE BLUE - 2026 Panini Donruss Baseball MLB",
     "price": 1.97,
     "image": "https://i.ebayimg.com/images/g/wTAAAeSwMxFqoJi4/s-l300.jpg",
@@ -3216,7 +3228,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 269,
+    "id": 270,
     "name": "Cade Horton #25 RED WHITE BLUE - 2026 Panini Donruss Baseball MLB",
     "price": 0.99,
     "image": "https://i.ebayimg.com/images/g/-lYAAeSwO-NqoJij/s-l300.jpg",
@@ -3228,7 +3240,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 270,
+    "id": 271,
     "name": "Zyhir Hope #182 BLUE VELOCITY - 2026 Panini Donruss Baseball MLB",
     "price": 1.97,
     "image": "https://i.ebayimg.com/images/g/70EAAeSwRYFqoJiO/s-l300.jpg",
@@ -3240,7 +3252,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 271,
+    "id": 272,
     "name": "Colt Emerson #165 BLUE VELOCITY - 2026 Panini Donruss Baseball MLB",
     "price": 1.97,
     "image": "https://i.ebayimg.com/images/g/~GoAAeSwjT9qoJh7/s-l300.jpg",
@@ -3252,7 +3264,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 272,
+    "id": 273,
     "name": "Sung-Mun Song #15 BLUE VELOCITY - 2026 Panini Donruss Baseball MLB",
     "price": 1.97,
     "image": "https://i.ebayimg.com/images/g/Ff0AAeSwl-ZqoJhh/s-l300.jpg",
@@ -3264,7 +3276,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 273,
+    "id": 274,
     "name": "Satchel Paige #73 BLUE VELOCITY - 2026 Panini Donruss Baseball MLB",
     "price": 1.97,
     "image": "https://i.ebayimg.com/images/g/6aIAAeSwwmVqoJhQ/s-l300.jpg",
@@ -3276,7 +3288,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 274,
+    "id": 275,
     "name": "Seth Hernandez #124 BLUE VELOCITY - 2026 Panini Donruss Baseball MLB",
     "price": 1.97,
     "image": "https://i.ebayimg.com/images/g/TPEAAeSwuyRqoJg9/s-l300.jpg",
@@ -3288,7 +3300,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 275,
+    "id": 276,
     "name": "Tomoyuki Sugano #56 BLUE VELOCITY - 2026 Panini Donruss Baseball MLB",
     "price": 1.97,
     "image": "https://i.ebayimg.com/images/g/va8AAeSwMxxqoJgm/s-l300.jpg",
@@ -3300,7 +3312,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 276,
+    "id": 277,
     "name": "Nick Kurtz #20 UNLEASHED - 2026 Panini Donruss Baseball MLB",
     "price": 1.97,
     "image": "https://i.ebayimg.com/images/g/HSQAAeSwZydqoJgP/s-l300.jpg",
@@ -3312,7 +3324,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 277,
+    "id": 278,
     "name": "Deion Sanders #16 ELITE - 2026 Panini Donruss Baseball MLB",
     "price": 0.99,
     "image": "https://i.ebayimg.com/images/g/rN8AAeSw3lJqoJft/s-l300.jpg",
@@ -3324,7 +3336,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 278,
+    "id": 279,
     "name": "Bobby Witt Jr. #67 BLACK BUBBLES DISCO - 2026 Panini Donruss Baseball MLB",
     "price": 2.47,
     "image": "https://i.ebayimg.com/images/g/6cIAAeSwi4NqoJfM/s-l300.jpg",
@@ -3336,7 +3348,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 279,
+    "id": 280,
     "name": "Gil Hodges #26 BLACK BUBBLES - 2026 Panini Donruss Baseball MLB",
     "price": 1.97,
     "image": "https://i.ebayimg.com/images/g/rHMAAeSwxPxqoJd~/s-l300.jpg",
@@ -3348,7 +3360,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 280,
+    "id": 281,
     "name": "Luisangel Acuna #8 ROCKET EMOJI - 2026 Panini Donruss Baseball MLB",
     "price": 3.97,
     "image": "https://i.ebayimg.com/images/g/Of0AAeSwEn5qoJdh/s-l300.jpg",
@@ -3360,7 +3372,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 281,
+    "id": 282,
     "name": "Spencer Jones #178 ROCKET EMOJI - 2026 Panini Donruss Baseball MLB",
     "price": 1.97,
     "image": "https://i.ebayimg.com/images/g/DHAAAeSwpaBqoJc8/s-l300.jpg",
@@ -3372,7 +3384,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 282,
+    "id": 283,
     "name": "Vladimir Guerrero #44 REFRACTOR - 2026 Panini Donruss Baseball MLB",
     "price": 4.77,
     "image": "https://i.ebayimg.com/images/g/2y0AAeSwZVtqoJcX/s-l300.jpg",
@@ -3384,7 +3396,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 283,
+    "id": 284,
     "name": "033/299* Derik Queen (RC) #136 REFRACTOR PARALLEL - 2026 Panini 90s Decades",
     "price": 4.79,
     "image": "https://i.ebayimg.com/images/g/JBUAAeSw7zhqimPY/s-l300.jpg",
@@ -3396,7 +3408,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 284,
+    "id": 285,
     "name": "82/99* Charles Woodson #E-CW REFRACTOR - 2026 Panini 90s Decades Multi-Sport MLB",
     "price": 4.79,
     "image": "https://i.ebayimg.com/images/g/2ZUAAeSwFHNqk1d~/s-l300.jpg",
@@ -3408,7 +3420,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 285,
+    "id": 286,
     "name": "076/299* Marek Houston #113 RED PARALLEL - 2026 Panini Donruss Elite Baseball",
     "price": 7.77,
     "image": "https://i.ebayimg.com/images/g/Y-kAAeSwiipqlwX1/s-l300.jpg",
@@ -3420,7 +3432,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 286,
+    "id": 287,
     "name": "Travis Bazzana (RC)  - 2026 MLB Topps NOW® - Card 153 Rookie IN HAND",
     "price": 4.79,
     "image": "https://i.ebayimg.com/images/g/G7IAAeSwZLVp-NNJ/s-l300.png",
@@ -3432,7 +3444,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 287,
+    "id": 288,
     "name": "34/50* Brandon Sproat (RC) 10Ks Career High PARALLEL 2026 MLB Topps NOW Card 371",
     "price": 7.79,
     "image": "https://i.ebayimg.com/images/g/~tYAAeSwsHRqY-mm/s-l300.jpg",
@@ -3444,7 +3456,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 288,
+    "id": 289,
     "name": "101/250* Cam Ward #C-20 PARALLEL - 2025 Topps Resurgence Football NFL",
     "price": 17.77,
     "image": "https://i.ebayimg.com/images/g/O5kAAeSwaONqliCd/s-l300.jpg",
@@ -3456,7 +3468,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 289,
+    "id": 290,
     "name": "George Lombard Jr. #158 BLUE VELOCITY - 2026 Panini Optic Donruss MLB Baseball",
     "price": 4.97,
     "image": "https://i.ebayimg.com/images/g/LroAAeSwD~1qlN-V/s-l300.jpg",
@@ -3468,7 +3480,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 290,
+    "id": 291,
     "name": "AUTO* Jacob Gonzalez #SS-JG - 2026 Panini Optic Donruss MLB Baseball",
     "price": 4.97,
     "image": "https://i.ebayimg.com/images/g/p5cAAeSwXSZqlN9U/s-l300.jpg",
@@ -3480,7 +3492,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 291,
+    "id": 292,
     "name": "Cam Cannarella #151 PURPLE - 2026 Panini Optic Donruss MLB Baseball",
     "price": 1.97,
     "image": "https://i.ebayimg.com/images/g/PtoAAeSwjhxqlN2P/s-l300.jpg",
@@ -3492,7 +3504,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 292,
+    "id": 293,
     "name": "Josuar Gonzalez #168 CLEAR RATED - 2026 Panini Optic Donruss MLB Baseball",
     "price": 1.97,
     "image": "https://i.ebayimg.com/images/g/yh8AAeSw9fJqlNzc/s-l300.jpg",
@@ -3504,7 +3516,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 293,
+    "id": 294,
     "name": "Tommy White #145 CHROME BASE - 2026 Panini Donruss Baseball MLB",
     "price": 1.97,
     "image": "https://i.ebayimg.com/images/g/XV4AAeSwmX1qnebe/s-l300.jpg",
@@ -3516,7 +3528,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 294,
+    "id": 295,
     "name": "Kristian Campbell #89 CHROME BASE - 2026 Panini Donruss Baseball MLB",
     "price": 1.97,
     "image": "https://i.ebayimg.com/images/g/LfkAAeSwR8JqnebO/s-l300.jpg",
@@ -3528,7 +3540,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 295,
+    "id": 296,
     "name": "Roberto Alomar #31 CHROME BASE - 2026 Panini Donruss Baseball MLB",
     "price": 1.97,
     "image": "https://i.ebayimg.com/images/g/0CEAAeSw131qneax/s-l300.jpg",
@@ -3540,7 +3552,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 296,
+    "id": 297,
     "name": "Satchel Paige #73 CHROME BASE - 2026 Panini Donruss Baseball MLB",
     "price": 1.97,
     "image": "https://i.ebayimg.com/images/g/T2gAAeSwpLBqneaL/s-l300.jpg",
@@ -3552,7 +3564,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 297,
+    "id": 298,
     "name": "Jace Jung #40 CHROME BASE - 2026 Panini Donruss Baseball MLB",
     "price": 1.97,
     "image": "https://i.ebayimg.com/images/g/lyIAAeSwVsxqneZz/s-l300.jpg",
@@ -3564,7 +3576,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 298,
+    "id": 299,
     "name": "Marcus Phillips #186 CHROME BASE - 2026 Panini Donruss Baseball MLB",
     "price": 1.97,
     "image": "https://i.ebayimg.com/images/g/sBgAAeSwGEZqneZY/s-l300.jpg",
@@ -3576,7 +3588,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 299,
+    "id": 300,
     "name": "Tomoyuki Sugano #56 CHROME BASE - 2026 Panini Donruss Baseball MLB",
     "price": 1.97,
     "image": "https://i.ebayimg.com/images/g/Yk4AAeSwHO1qneY~/s-l300.jpg",
@@ -3588,7 +3600,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 300,
+    "id": 301,
     "name": "Sung-Mun Song #15 CHROME BASE - 2026 Panini Donruss Baseball MLB",
     "price": 1.97,
     "image": "https://i.ebayimg.com/images/g/7yQAAeSw94NqneYl/s-l300.jpg",
@@ -3600,7 +3612,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 301,
+    "id": 302,
     "name": "Cam Caminiti #188 LIBERTY FOIL - 2026 Panini Donruss Baseball MLB",
     "price": 1.97,
     "image": "https://i.ebayimg.com/images/g/W74AAeSwHiZqneYF/s-l300.jpg",
@@ -3612,7 +3624,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 302,
+    "id": 303,
     "name": "Trey Yesavage #37 LIBERTY FOIL - 2026 Panini Donruss Baseball MLB",
     "price": 1.97,
     "image": "https://i.ebayimg.com/images/g/i8YAAeSwJK9qneXy/s-l300.jpg",
@@ -3624,7 +3636,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 303,
+    "id": 304,
     "name": "Tony Lazzeri #95 LIBERTY FOIL - 2026 Panini Donruss Baseball MLB",
     "price": 1.97,
     "image": "https://i.ebayimg.com/images/g/hFUAAeSwuQVqneXW/s-l300.jpg",
@@ -3636,7 +3648,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 304,
+    "id": 305,
     "name": "Enrique Bradfield Jr. #147 LIBERTY FOIL - 2026 Panini Donruss Baseball MLB",
     "price": 1.97,
     "image": "https://i.ebayimg.com/images/g/Fr0AAeSwAKZqneXD/s-l300.jpg",
@@ -3648,7 +3660,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 305,
+    "id": 306,
     "name": "Seth Hernandez #124 LIBERTY FOIL - 2026 Panini Donruss Baseball MLB",
     "price": 1.97,
     "image": "https://i.ebayimg.com/images/g/yAcAAeSw131qneWu/s-l300.jpg",
@@ -3660,7 +3672,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 306,
+    "id": 307,
     "name": "Matt Shaw #28 LIBERTY FOIL - 2026 Panini Donruss Baseball MLB",
     "price": 1.97,
     "image": "https://i.ebayimg.com/images/g/3RcAAeSwxZRqneWS/s-l300.jpg",
@@ -3672,7 +3684,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 307,
+    "id": 308,
     "name": "Jacob Wilson #13 LIBERTY FOIL - 2026 Panini Donruss Baseball MLB",
     "price": 1.97,
     "image": "https://i.ebayimg.com/images/g/aqYAAeSw69pqneWA/s-l300.jpg",
@@ -3684,7 +3696,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 308,
+    "id": 309,
     "name": "Colt Emerson #165 LIBERTY FOIL - 2026 Panini Donruss Baseball MLB",
     "price": 2.97,
     "image": "https://i.ebayimg.com/images/g/xl4AAeSwjU9qneVi/s-l300.jpg",
@@ -3696,7 +3708,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 309,
+    "id": 310,
     "name": "Josh Hamilton #54 LIBERTY FOIL - 2026 Panini Donruss Baseball MLB",
     "price": 1.97,
     "image": "https://i.ebayimg.com/images/g/q3wAAeSwT-hqneVP/s-l300.jpg",
@@ -3708,7 +3720,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 310,
+    "id": 311,
     "name": "AJ Russell #106 LIBERTY FOIL - 2026 Panini Donruss Baseball MLB",
     "price": 1.97,
     "image": "https://i.ebayimg.com/images/g/sD0AAeSwvSNqneU5/s-l300.jpg",
@@ -3720,7 +3732,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 311,
+    "id": 312,
     "name": "Bryce Rainer #130 LIBERTY FOIL - 2026 Panini Donruss Baseball MLB",
     "price": 1.97,
     "image": "https://i.ebayimg.com/images/g/~5QAAeSwmvhqneUc/s-l300.jpg",
@@ -3732,7 +3744,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 312,
+    "id": 313,
     "name": "Carlton Fisk #79 LIBERTY FOIL - 2026 Panini Donruss Baseball MLB",
     "price": 1.97,
     "image": "https://i.ebayimg.com/images/g/V98AAeSwS3BqneUH/s-l300.jpg",
@@ -3744,7 +3756,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 313,
+    "id": 314,
     "name": "Braden Montgomery #114 BLUE VELOCITY - 2026 Panini Donruss Baseball MLB",
     "price": 1.97,
     "image": "https://i.ebayimg.com/images/g/xz4AAeSwxqFqneTt/s-l300.jpg",
@@ -3756,7 +3768,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 314,
+    "id": 315,
     "name": "Reggie Jackson #17 BLUE VELOCITY - 2026 Panini Donruss Baseball MLB",
     "price": 1.97,
     "image": "https://i.ebayimg.com/images/g/mKoAAeSwjLlqneTa/s-l300.jpg",
@@ -3768,7 +3780,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 315,
+    "id": 316,
     "name": "Bryce Rainer #130 BLUE VELOCITY - 2026 Panini Donruss Baseball MLB",
     "price": 1.97,
     "image": "https://i.ebayimg.com/images/g/iFMAAeSwhEFqneTG/s-l300.jpg",
@@ -3780,7 +3792,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 316,
+    "id": 317,
     "name": "Don Mattingly #75 BLUE VELOCITY - 2026 Panini Donruss Baseball MLB",
     "price": 2.97,
     "image": "https://i.ebayimg.com/images/g/aD8AAeSw0BpqneSf/s-l300.jpg",
@@ -3792,7 +3804,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 317,
+    "id": 318,
     "name": "Hagen Smith #172 BLUE VELOCITY - 2026 Panini Donruss Baseball MLB",
     "price": 1.97,
     "image": "https://i.ebayimg.com/images/g/in0AAeSwhthqneSO/s-l300.jpg",
@@ -3804,7 +3816,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 318,
+    "id": 319,
     "name": "Hye-Seong Kim #58 BLUE VELOCITY - 2026 Panini Donruss Baseball MLB",
     "price": 2.97,
     "image": "https://i.ebayimg.com/images/g/gDsAAeSwHzlqneR3/s-l300.jpg",
@@ -3816,7 +3828,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 319,
+    "id": 320,
     "name": "Mike Piazza #93 RED WHITE BLUE - 2026 Panini Donruss Baseball MLB",
     "price": 1.97,
     "image": "https://i.ebayimg.com/images/g/dd0AAeSw2bhqneRc/s-l300.jpg",
@@ -3828,7 +3840,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 320,
+    "id": 321,
     "name": "Jim Thome #36 RED WHITE BLUE - 2026 Panini Donruss Baseball MLB",
     "price": 1.97,
     "image": "https://i.ebayimg.com/images/g/SzgAAeSwWihqneRG/s-l300.jpg",
@@ -3840,7 +3852,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 321,
+    "id": 322,
     "name": "Ivan Rodriguez #64 RED WHITE BLUE - 2026 Panini Donruss Baseball MLB",
     "price": 1.97,
     "image": "https://i.ebayimg.com/images/g/Zh4AAeSwoVxqneQr/s-l300.jpg",
@@ -3852,7 +3864,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 322,
+    "id": 323,
     "name": "Tony Perez #22 RED WHITE BLUE - 2026 Panini Donruss Baseball MLB",
     "price": 1.97,
     "image": "https://i.ebayimg.com/images/g/begAAeSw3h9qneQc/s-l300.jpg",
@@ -3864,7 +3876,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 323,
+    "id": 324,
     "name": "Carlton Fisk #79 RED WHITE BLUE - 2026 Panini Donruss Baseball MLB",
     "price": 1.97,
     "image": "https://i.ebayimg.com/images/g/pcEAAeSw5NJqneP-/s-l300.jpg",
@@ -3876,7 +3888,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 324,
+    "id": 325,
     "name": "Kazuma Okamoto #18 RED WHITE BLUE - 2026 Panini Donruss Baseball MLB",
     "price": 1.97,
     "image": "https://i.ebayimg.com/images/g/qEUAAeSwXeFqnePt/s-l300.jpg",
@@ -3888,7 +3900,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 325,
+    "id": 326,
     "name": "Charles Davalan #113 RED WHITE BLUE - 2026 Panini Donruss Baseball MLB",
     "price": 1.97,
     "image": "https://i.ebayimg.com/images/g/MWYAAeSwaGNqnePV/s-l300.jpg",
@@ -3900,7 +3912,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 326,
+    "id": 327,
     "name": "Trey Yesavage #17 UNLEASHED - 2026 Panini Donruss Baseball MLB",
     "price": 1.97,
     "image": "https://i.ebayimg.com/images/g/fi0AAeSwjPFqneO0/s-l300.jpg",
@@ -3912,7 +3924,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 327,
+    "id": 328,
     "name": "Roman Anthony #3 BOMB SQUAD - 2026 Panini Donruss Baseball MLB",
     "price": 1.97,
     "image": "https://i.ebayimg.com/images/g/MR8AAeSw61RqneOj/s-l300.jpg",
@@ -3924,7 +3936,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 328,
+    "id": 329,
     "name": "Caleb Bonemer #105 ROCKET EMOJI FOIL - 2026 Panini Donruss Baseball MLB",
     "price": 2.97,
     "image": "https://i.ebayimg.com/images/g/YSIAAeSwj2JqneN6/s-l300.jpg",
@@ -3936,7 +3948,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 329,
+    "id": 330,
     "name": "Madison Bumgarner #51 ROCKET EMOJI FOIL - 2026 Panini Donruss Baseball MLB",
     "price": 2.97,
     "image": "https://i.ebayimg.com/images/g/hP0AAeSwwtFqneNK/s-l300.jpg",
@@ -3948,7 +3960,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 330,
+    "id": 331,
     "name": "Roger Clemens #57 BLACK BUBBLES - 2026 Panini Donruss Baseball MLB",
     "price": 1.97,
     "image": "https://i.ebayimg.com/images/g/c74AAeSwq2JqneMS/s-l300.jpg",
@@ -3960,7 +3972,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 331,
+    "id": 332,
     "name": "Ching-Hsien Ko #141 BLACK BUBBLES - 2026 Panini Donruss Baseball MLB",
     "price": 1.97,
     "image": "https://i.ebayimg.com/images/g/PMAAAeSwmX1qneLx/s-l300.jpg",
@@ -3972,7 +3984,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 332,
+    "id": 333,
     "name": "Trevor Hoffman #98 BLACK BUBBLES - 2026 Panini Donruss Baseball MLB",
     "price": 1.97,
     "image": "https://i.ebayimg.com/images/g/r94AAeSwJFFqneLc/s-l300.jpg",
@@ -3984,7 +3996,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 333,
+    "id": 334,
     "name": "RELIC* Eli Willits #PJK-EW - 2026 Panini Donruss Baseball MLB",
     "price": 4.97,
     "image": "https://i.ebayimg.com/images/g/ULgAAeSwcXFqneJG/s-l300.jpg",
@@ -3996,7 +4008,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 334,
+    "id": 335,
     "name": "RELIC* Aiva Arquette #PJK-AA - 2026 Panini Donruss Baseball MLB",
     "price": 4.97,
     "image": "https://i.ebayimg.com/images/g/b4gAAeSwahJqneIg/s-l300.jpg",
@@ -4008,7 +4020,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 335,
+    "id": 336,
     "name": "Jacob Wilson #13 ROCKET FOIL - 2026 Panini Donruss Baseball MLB",
     "price": 1.97,
     "image": "https://i.ebayimg.com/images/g/3QYAAeSwmpZqneII/s-l300.jpg",
@@ -4020,7 +4032,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 336,
+    "id": 337,
     "name": "Will Clark #74 LIBERTY FOIL - 2026 Panini Donruss Baseball MLB",
     "price": 1.97,
     "image": "https://i.ebayimg.com/images/g/uHcAAeSwkBNqneG0/s-l300.jpg",
@@ -4032,7 +4044,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 337,
+    "id": 338,
     "name": "Konnor Griffin #101 LIBERTY FOIL - 2026 Panini Donruss Baseball MLB",
     "price": 2.97,
     "image": "https://i.ebayimg.com/images/g/L5sAAeSwKtNqneGS/s-l300.jpg",
@@ -4044,7 +4056,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 338,
+    "id": 339,
     "name": "Nolan Ryan #32 LIBERTY FOIL - 2026 Panini Donruss Baseball MLB",
     "price": 2.47,
     "image": "https://i.ebayimg.com/images/g/aMEAAeSw~7pqneFr/s-l300.jpg",
@@ -4056,7 +4068,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 339,
+    "id": 340,
     "name": "Gage Wood #160 LIBERTY FOIL - 2026 Panini Donruss Baseball MLB",
     "price": 1.97,
     "image": "https://i.ebayimg.com/images/g/AHQAAeSwiTNqneFO/s-l300.jpg",
@@ -4068,7 +4080,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 340,
+    "id": 341,
     "name": "Tyler Bremner #177 LIBERTY FOIL - 2026 Panini Donruss Baseball MLB",
     "price": 1.97,
     "image": "https://i.ebayimg.com/images/g/vkIAAeSwwh5qneE-/s-l300.jpg",
@@ -4080,7 +4092,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 341,
+    "id": 342,
     "name": "Ken Griffey Sr. #49 LIBERTY FOIL - 2026 Panini Donruss Baseball MLB",
     "price": 1.97,
     "image": "https://i.ebayimg.com/images/g/tlQAAeSwWOBqneEu/s-l300.jpg",
@@ -4092,7 +4104,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 342,
+    "id": 343,
     "name": "Jordan Yost #135 LIBERTY FOIL - 2026 Panini Donruss Baseball MLB",
     "price": 1.97,
     "image": "https://i.ebayimg.com/images/g/so0AAeSwiIVqneEZ/s-l300.jpg",
@@ -4104,7 +4116,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 343,
+    "id": 344,
     "name": "Luisangel Acuna #8 LIBERTY FOIL - 2026 Panini Donruss Baseball MLB",
     "price": 1.97,
     "image": "https://i.ebayimg.com/images/g/Z2cAAeSwTatqneBZ/s-l300.jpg",
@@ -4116,7 +4128,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 344,
+    "id": 345,
     "name": "Bobby Witt Jr. #67 LIBERTY FOIL - 2026 Panini Donruss Baseball MLB",
     "price": 1.97,
     "image": "https://i.ebayimg.com/images/g/A-YAAeSwJxBqneBH/s-l300.jpg",
@@ -4128,7 +4140,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 345,
+    "id": 346,
     "name": "Theo Gillen #193 LIBERTY FOIL - 2026 Panini Donruss Baseball MLB",
     "price": 1.97,
     "image": "https://i.ebayimg.com/images/g/AfQAAeSw2MxqneAv/s-l300.jpg",
@@ -4140,7 +4152,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 346,
+    "id": 347,
     "name": "Angel Genao #119 LIBERTY FOIL - 2026 Panini Donruss Baseball MLB",
     "price": 1.97,
     "image": "https://i.ebayimg.com/images/g/cPYAAeSw-95qneAX/s-l300.jpg",
@@ -4152,7 +4164,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 347,
+    "id": 348,
     "name": "Josh Gibson #90 LIBERTY FOIL - 2026 Panini Donruss Baseball MLB",
     "price": 1.97,
     "image": "https://i.ebayimg.com/images/g/GBAAAeSw9fJqnd~4/s-l300.jpg",
@@ -4164,7 +4176,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 348,
+    "id": 349,
     "name": "Jimmie Foxx #43 CHROME BASE - 2026 Panini Donruss Baseball MLB",
     "price": 1.97,
     "image": "https://i.ebayimg.com/images/g/ULIAAeSwu7Zqnd8P/s-l300.jpg",
@@ -4176,7 +4188,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 349,
+    "id": 350,
     "name": "Daniel Pierce #166 CHROME BASE - 2026 Panini Donruss Baseball MLB",
     "price": 1.97,
     "image": "https://i.ebayimg.com/images/g/dBUAAeSwFHNqnd7x/s-l300.jpg",
@@ -4188,7 +4200,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 350,
+    "id": 351,
     "name": "Albert Pujols #68 RED WHITE BLUE - 2026 Panini Donruss Baseball MLB",
     "price": 1.97,
     "image": "https://i.ebayimg.com/images/g/cjYAAeSwo5Fqnd7c/s-l300.jpg",
@@ -4200,7 +4212,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 351,
+    "id": 352,
     "name": "Brandon Sproat #10 RED WHITE BLUE - 2026 Panini Donruss Baseball MLB",
     "price": 1.97,
     "image": "https://i.ebayimg.com/images/g/HkoAAeSwaepqnd7J/s-l300.jpg",
@@ -4212,7 +4224,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 352,
+    "id": 353,
     "name": "Ethan Salas #191 RED WHITE BLUE - 2026 Panini Donruss Baseball MLB",
     "price": 1.97,
     "image": "https://i.ebayimg.com/images/g/IoEAAeSwvr5qnd6w/s-l300.jpg",
@@ -4224,7 +4236,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 353,
+    "id": 354,
     "name": "Chipper Jones #85 RED WHITE BLUE - 2026 Panini Donruss Baseball MLB",
     "price": 1.97,
     "image": "https://i.ebayimg.com/images/g/90QAAeSwJxBqnd6G/s-l300.jpg",
@@ -4236,7 +4248,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 354,
+    "id": 355,
     "name": "Jimmie Foxx #43 RED WHITE BLUE - 2026 Panini Donruss Baseball MLB",
     "price": 1.97,
     "image": "https://i.ebayimg.com/images/g/sGAAAeSwK6Fqnd5w/s-l300.jpg",
@@ -4248,7 +4260,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 355,
+    "id": 356,
     "name": "Matt Shaw #28 RED WHITE BLUE - 2026 Panini Donruss Baseball MLB",
     "price": 1.97,
     "image": "https://i.ebayimg.com/images/g/PO4AAeSw0Bpqnd5e/s-l300.jpg",
@@ -4260,7 +4272,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 356,
+    "id": 357,
     "name": "Ken Griffey Jr. #1 RED WHITE BLUE - 2026 Panini Donruss Baseball MLB",
     "price": 1.97,
     "image": "https://i.ebayimg.com/images/g/TvcAAeSwweRqnd5A/s-l300.jpg",
@@ -4272,7 +4284,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 357,
+    "id": 358,
     "name": "Deion Sanders #27 CHROME BASE - 2026 Panini Donruss Baseball MLB",
     "price": 1.97,
     "image": "https://i.ebayimg.com/images/g/yqQAAeSwmvhqnd4s/s-l300.jpg",
@@ -4284,7 +4296,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 358,
+    "id": 359,
     "name": "Roman Anthony #61 CHROME BASE - 2026 Panini Donruss Baseball MLB",
     "price": 1.97,
     "image": "https://i.ebayimg.com/images/g/BC8AAeSwFLNqnd4O/s-l300.jpg",
@@ -4296,7 +4308,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 359,
+    "id": 360,
     "name": "David Wright #20 CHROME BASE - 2026 Panini Donruss Baseball MLB",
     "price": 1.97,
     "image": "https://i.ebayimg.com/images/g/RyEAAeSwN0tqnd31/s-l300.jpg",
@@ -4308,7 +4320,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 360,
+    "id": 361,
     "name": "Jimmy Crooks #78 CHROME BASE - 2026 Panini Donruss Baseball MLB",
     "price": 1.97,
     "image": "https://i.ebayimg.com/images/g/D7MAAeSw0jpqnd3j/s-l300.jpg",
@@ -4320,7 +4332,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 361,
+    "id": 362,
     "name": "Johnny Bench #2 CHROME BASE - 2026 Panini Donruss Baseball MLB",
     "price": 1.97,
     "image": "https://i.ebayimg.com/images/g/E60AAeSwKtNqnd3T/s-l300.jpg",
@@ -4332,7 +4344,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 362,
+    "id": 363,
     "name": "Luis Pena #125 CHROME BASE - 2026 Panini Donruss Baseball MLB",
     "price": 1.97,
     "image": "https://i.ebayimg.com/images/g/abgAAeSwo5Fqnd27/s-l300.jpg",
@@ -4344,7 +4356,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 363,
+    "id": 364,
     "name": "Yogi Berra #65 BLUE VELOCITY - 2026 Panini Donruss Baseball MLB",
     "price": 1.97,
     "image": "https://i.ebayimg.com/images/g/sxwAAeSw94Nqnd2a/s-l300.jpg",
@@ -4356,7 +4368,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 364,
+    "id": 365,
     "name": "Travis Bazzana #164 BLUE VELOCITY - 2026 Panini Donruss Baseball MLB",
     "price": 1.97,
     "image": "https://i.ebayimg.com/images/g/ACUAAeSwjh5qnd2J/s-l300.jpg",
@@ -4368,7 +4380,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 365,
+    "id": 366,
     "name": "James Tibbs III #123 BLUE VELOCITY - 2026 Panini Donruss Baseball MLB",
     "price": 1.77,
     "image": "https://i.ebayimg.com/images/g/TfEAAeSwX4xqnd1x/s-l300.jpg",
@@ -4380,7 +4392,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 366,
+    "id": 367,
     "name": "Bo Jackson #82 BLUE VELOCITY - 2026 Panini Donruss Baseball MLB",
     "price": 1.97,
     "image": "https://i.ebayimg.com/images/g/hREAAeSwJFFqnd1c/s-l300.jpg",
@@ -4392,7 +4404,7 @@ window.products = [
     "stock": 0
   },
   {
-    "id": 367,
+    "id": 368,
     "name": "Chase Shores #181 BLUE VELOCITY - 2026 Panini Donruss Baseball MLB",
     "price": 1.97,
     "image": "https://i.ebayimg.com/images/g/geoAAeSw131qnd1L/s-l300.jpg",
@@ -4404,7 +4416,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 368,
+    "id": 369,
     "name": "Dylan Crews #24 BLUE VELOCITY - 2026 Panini Donruss Baseball MLB",
     "price": 1.97,
     "image": "https://i.ebayimg.com/images/g/JhkAAeSw7zhqnd0x/s-l300.jpg",
@@ -4416,7 +4428,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 369,
+    "id": 370,
     "name": "Alex Rodriguez #59 BLACK BUBBLES - 2026 Panini Donruss Baseball MLB",
     "price": 1.97,
     "image": "https://i.ebayimg.com/images/g/2VQAAeSw0FZqnd0V/s-l300.jpg",
@@ -4428,7 +4440,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 370,
+    "id": 371,
     "name": "Brendan Summerhill #173 REFRACTOR - 2026 Panini Donruss Baseball MLB",
     "price": 1.97,
     "image": "https://i.ebayimg.com/images/g/Y~UAAeSw-JRqndyQ/s-l300.jpg",
@@ -4440,7 +4452,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 371,
+    "id": 372,
     "name": "Paul Skenes #14 UNLEASHED - 2026 Panini Donruss Baseball MLB",
     "price": 1.97,
     "image": "https://i.ebayimg.com/images/g/Q7wAAeSwX4xqndwX/s-l300.jpg",
@@ -4452,7 +4464,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 372,
+    "id": 373,
     "name": "Mike Piazza #12 ELITE - 2026 Panini Donruss Baseball MLB",
     "price": 1.97,
     "image": "https://i.ebayimg.com/images/g/ErEAAeSweLVqndvz/s-l300.jpg",
@@ -4464,7 +4476,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 373,
+    "id": 374,
     "name": "RELIC* Jacob Misiorowski #JK-JM - 2026 Panini Donruss Baseball MLB",
     "price": 29.97,
     "image": "https://i.ebayimg.com/images/g/bj8AAeSw1qNqndvG/s-l300.jpg",
@@ -4476,7 +4488,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 374,
+    "id": 375,
     "name": "RELIC* Bryce Rainer #PJK-BR BLUE - 2026 Panini Donruss Baseball MLB",
     "price": 14.97,
     "image": "https://i.ebayimg.com/images/g/9aEAAeSw~vdqndsV/s-l300.jpg",
@@ -4488,7 +4500,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 375,
+    "id": 376,
     "name": "Munetaka Murakami (RC) 1st Jap. 30HR - 2026 MLB Topps NOW® - Card 638 PRE-SALE",
     "price": 6.37,
     "image": "https://i.ebayimg.com/images/g/hGAAAeSw6o5qndgG/s-l300.png",
@@ -4500,7 +4512,7 @@ window.products = [
     "stock": 15
   },
   {
-    "id": 376,
+    "id": 377,
     "name": "Jimmy Crooks #78 LIBERTY FOIL - 2026 Panini Donruss Optic Baseball MLB",
     "price": 1.97,
     "image": "https://i.ebayimg.com/images/g/WH4AAeSwbLhqnNq7/s-l300.jpg",
@@ -4512,7 +4524,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 377,
+    "id": 378,
     "name": "Leo De Vries #129 LIBERTY FOIL - 2026 Panini Donruss Optic Baseball MLB",
     "price": 1.97,
     "image": "https://i.ebayimg.com/images/g/GswAAeSwx0ZqnNqj/s-l300.jpg",
@@ -4524,7 +4536,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 378,
+    "id": 379,
     "name": "Caleb Bonemer #105 BLUE VELOCITY - 2026 Panini Donruss Optic Baseball MLB",
     "price": 1.97,
     "image": "https://i.ebayimg.com/images/g/rNAAAeSwHvxqnNqP/s-l300.jpg",
@@ -4536,7 +4548,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 379,
+    "id": 380,
     "name": "Kristian Campbell #89 BLACK BUBBLES - 2026 Panini Donruss Optic Baseball MLB",
     "price": 1.97,
     "image": "https://i.ebayimg.com/images/g/LDcAAeSwxqFqnNp6/s-l300.jpg",
@@ -4548,7 +4560,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 380,
+    "id": 381,
     "name": "Chase Burns #39 CHROME BASE - 2026 Panini Donruss Optic Baseball MLB",
     "price": 1.97,
     "image": "https://i.ebayimg.com/images/g/HD0AAeSwICxqnNpU/s-l300.jpg",
@@ -4560,7 +4572,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 381,
+    "id": 382,
     "name": "Darryl Strawberry #12 BOMB SQUAD - 2026 Panini Donruss Optic Baseball MLB",
     "price": 1.97,
     "image": "https://i.ebayimg.com/images/g/gqUAAeSwTclqnNo-/s-l300.jpg",
@@ -4572,7 +4584,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 382,
+    "id": 383,
     "name": "RELIC* Rhett Lowder #JK-RL - 2026 Panini Donruss Optic Baseball MLB",
     "price": 7.77,
     "image": "https://i.ebayimg.com/images/g/cWAAAeSw2MxqnNoU/s-l300.jpg",
@@ -4584,7 +4596,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 383,
+    "id": 384,
     "name": "Reggie Jackson #17 RED WHITE BLUE - 2026 Panini Donruss Optic Baseball MLB",
     "price": 1.97,
     "image": "https://i.ebayimg.com/images/g/QT0AAeSwGflqnNn1/s-l300.jpg",
@@ -4596,7 +4608,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 384,
+    "id": 385,
     "name": "Cameron Schlittler #97 CHROME BASE - 2026 Panini Donruss Optic Baseball MLB",
     "price": 1.97,
     "image": "https://i.ebayimg.com/images/g/utgAAeSwR8JqnNna/s-l300.jpg",
@@ -4608,7 +4620,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 385,
+    "id": 386,
     "name": "Luisangel Acuna #8 BLUE VELOCITY - 2026 Panini Donruss Optic Baseball MLB",
     "price": 1.97,
     "image": "https://i.ebayimg.com/images/g/00cAAeSw~gJqnNmz/s-l300.jpg",
@@ -4620,7 +4632,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 386,
+    "id": 387,
     "name": "Charles Davalan #113 CHROME BASE - 2026 Panini Donruss Optic Baseball MLB",
     "price": 1.97,
     "image": "https://i.ebayimg.com/images/g/mPcAAeSwG~dqnNmg/s-l300.jpg",
@@ -4632,7 +4644,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 387,
+    "id": 388,
     "name": "Kyson Witherspoon #187 LIBERTY FOIL - 2026 Panini Donruss Optic Baseball MLB",
     "price": 1.97,
     "image": "https://i.ebayimg.com/images/g/c9EAAeSw5B5qnNmK/s-l300.jpg",
@@ -4644,7 +4656,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 388,
+    "id": 389,
     "name": "Jim Thome #36 LIBERTY FOIL - 2026 Panini Donruss Optic Baseball MLB",
     "price": 1.97,
     "image": "https://i.ebayimg.com/images/g/EZEAAeSwNoNqnNlx/s-l300.jpg",
@@ -4656,7 +4668,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 389,
+    "id": 390,
     "name": "Kaelen Culpepper #146 ROCKET FOIL - 2026 Panini Donruss Optic Baseball MLB",
     "price": 1.97,
     "image": "https://i.ebayimg.com/images/g/KSMAAeSwHzlqnNlZ/s-l300.jpg",
@@ -4668,7 +4680,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 390,
+    "id": 391,
     "name": "Alex Rodriguez #59 RED WHITE BLUE - 2026 Panini Donruss Optic Baseball MLB",
     "price": 1.97,
     "image": "https://i.ebayimg.com/images/g/-z4AAeSwRUZqnNkw/s-l300.jpg",
@@ -4680,7 +4692,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 391,
+    "id": 392,
     "name": "Ike Irish #137 RED WHITE BLUE - 2026 Panini Donruss Optic Baseball MLB",
     "price": 1.97,
     "image": "https://i.ebayimg.com/images/g/VgwAAeSwmVdqnNkZ/s-l300.jpg",
@@ -4692,7 +4704,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 392,
+    "id": 393,
     "name": "David Wright #20 LIBERTY FOIL - 2026 Panini Donruss Optic Baseball MLB",
     "price": 1.97,
     "image": "https://i.ebayimg.com/images/g/Ba4AAeSwNhhqnNkB/s-l300.jpg",
@@ -4704,7 +4716,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 393,
+    "id": 394,
     "name": "Will Clark #74 RED WHITE BLUE - 2026 Panini Donruss Optic Baseball MLB",
     "price": 1.97,
     "image": "https://i.ebayimg.com/images/g/PQkAAeSwhFRqnNjU/s-l300.jpg",
@@ -4716,7 +4728,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 394,
+    "id": 395,
     "name": "Tate Southisene #171 LIBERTY FOIL - 2026 Panini Donruss Optic Baseball MLB",
     "price": 1.97,
     "image": "https://i.ebayimg.com/images/g/c4AAAeSwNRJqnNi-/s-l300.jpg",
@@ -4728,7 +4740,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 395,
+    "id": 396,
     "name": "Cam Smith #81 CHROME BASE - 2026 Panini Donruss Optic Baseball MLB",
     "price": 1.97,
     "image": "https://i.ebayimg.com/images/g/XvIAAeSwZsBqnNiI/s-l300.jpg",
@@ -4740,7 +4752,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 396,
+    "id": 397,
     "name": "Ken Griffey Sr. #49 BLUE VELOCITY - 2026 Panini Donruss Optic Baseball MLB",
     "price": 1.97,
     "image": "https://i.ebayimg.com/images/g/xZoAAeSwEQFqnNhs/s-l300.jpg",
@@ -4752,7 +4764,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 397,
+    "id": 398,
     "name": "Arjun Nimmala #154 CHROME BASE - 2026 Panini Donruss Optic Baseball MLB",
     "price": 1.97,
     "image": "https://i.ebayimg.com/images/g/CbAAAeSwyIRqnNhS/s-l300.jpg",
@@ -4764,7 +4776,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 398,
+    "id": 399,
     "name": "Jacob Misiorowski #53 LIBERTY FOIL - 2026 Panini Donruss Optic Baseball MLB",
     "price": 2.97,
     "image": "https://i.ebayimg.com/images/g/hmcAAeSwva1qnNg2/s-l300.jpg",
@@ -4776,7 +4788,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 399,
+    "id": 400,
     "name": "Jimmy Crooks #78 RED WHITE BLUE - 2026 Panini Donruss Optic Baseball MLB",
     "price": 1.97,
     "image": "https://i.ebayimg.com/images/g/H8cAAeSwzMRqnNff/s-l300.jpg",
@@ -4788,7 +4800,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 400,
+    "id": 401,
     "name": "Caleb Bonemer #105 LIBERTY FOIL - 2026 Panini Donruss Optic Baseball MLB",
     "price": 1.97,
     "image": "https://i.ebayimg.com/images/g/QGwAAeSwYQVqnNfL/s-l300.jpg",
@@ -4800,7 +4812,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 401,
+    "id": 402,
     "name": "Michael Young #72 BASE CHROME - 2026 Panini Donruss Optic Baseball MLB",
     "price": 1.97,
     "image": "https://i.ebayimg.com/images/g/YNYAAeSw-qlqnNek/s-l300.jpg",
@@ -4812,7 +4824,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 402,
+    "id": 403,
     "name": "Bobby Witt Jr. #67 BLUE VELOCITY - 2026 Panini Donruss Optic Baseball MLB",
     "price": 1.97,
     "image": "https://i.ebayimg.com/images/g/ROsAAeSwOa9qnNeQ/s-l300.jpg",
@@ -4824,7 +4836,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 403,
+    "id": 404,
     "name": "Dax Kilby #167 BLACK BUBBLES - 2026 Panini Donruss Optic Baseball MLB",
     "price": 1.97,
     "image": "https://i.ebayimg.com/images/g/yaYAAeSw61hqnNd1/s-l300.jpg",
@@ -4836,7 +4848,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 404,
+    "id": 405,
     "name": "Darryl Strawberry #35 RED WHITE BLUE - 2026 Panini Donruss Optic Baseball MLB",
     "price": 1.97,
     "image": "https://i.ebayimg.com/images/g/mpkAAeSwmwZqnNdF/s-l300.jpg",
@@ -4848,7 +4860,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 405,
+    "id": 406,
     "name": "Payton Tolle #94 LIBERTY FOIL - 2026 Panini Donruss Optic Baseball MLB",
     "price": 1.97,
     "image": "https://i.ebayimg.com/images/g/caQAAeSwmX1qnNcT/s-l300.jpg",
@@ -4860,7 +4872,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 406,
+    "id": 407,
     "name": "Kaelen Culpepper #146 LIBERTY FOIL - 2026 Panini Donruss Optic Baseball MLB",
     "price": 1.97,
     "image": "https://i.ebayimg.com/images/g/~koAAeSwwtVqnNbw/s-l300.jpg",
@@ -4872,7 +4884,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 407,
+    "id": 408,
     "name": "Seaver King #153 PURPLE BORDER - 2026 Panini Donruss Baseball MLB",
     "price": 1.97,
     "image": "https://i.ebayimg.com/images/g/3iwAAeSwau1qnNbE/s-l300.jpg",
@@ -4884,7 +4896,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 408,
+    "id": 409,
     "name": "Cal Ripken #14 CHROME BASE - 2026 Panini Donruss Optic Baseball MLB",
     "price": 1.97,
     "image": "https://i.ebayimg.com/images/g/8msAAeSw1VdqnNag/s-l300.jpg",
@@ -4896,7 +4908,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 409,
+    "id": 410,
     "name": "Travis Bazzana #164 BLUE VELOCITY - 2026 Panini Donruss Baseball MLB",
     "price": 1.97,
     "image": "https://i.ebayimg.com/images/g/NpEAAeSwZQNqnNZD/s-l300.jpg",
@@ -4908,7 +4920,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 410,
+    "id": 411,
     "name": "Miguel Cabrera #12 LIBERTY FOIL - 2026 Panini Donruss Baseball MLB",
     "price": 0.99,
     "image": "https://i.ebayimg.com/images/g/fkAAAeSw9XJqnNYn/s-l300.jpg",
@@ -4920,7 +4932,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 411,
+    "id": 412,
     "name": "Travis Bazzana #164 LIBERTY FOIL - 2026 Panini Donruss Baseball MLB",
     "price": 1.97,
     "image": "https://i.ebayimg.com/images/g/Qi0AAeSwddFqnNYM/s-l300.jpg",
@@ -4932,7 +4944,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 412,
+    "id": 413,
     "name": "Ethan Holliday #4 DIAMOND MARVELS - 2026 Panini Donruss Baseball MLB",
     "price": 1.97,
     "image": "https://i.ebayimg.com/images/g/DykAAeSwjPFqnNXe/s-l300.jpg",
@@ -4944,7 +4956,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 413,
+    "id": 414,
     "name": "James Tibbs III #123 VELOCITY BLUE - 2026 Panini Donruss Baseball MLB",
     "price": 1.97,
     "image": "https://i.ebayimg.com/images/g/BZoAAeSwLrNqnNW-/s-l300.jpg",
@@ -4956,7 +4968,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 414,
+    "id": 415,
     "name": "Luke Keaschall #30 CHROME BASE - 2026 Panini Donruss Baseball MLB",
     "price": 1.97,
     "image": "https://i.ebayimg.com/images/g/QkUAAeSwJxBqnNWY/s-l300.jpg",
@@ -4968,7 +4980,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 415,
+    "id": 416,
     "name": "Pat Murphy #21 RED WHITE BLUE Milwaukee - 2026 Panini Donruss Baseball MLB",
     "price": 1.97,
     "image": "https://i.ebayimg.com/images/g/FhIAAeSwpN5qnNVH/s-l300.jpg",
@@ -4980,7 +4992,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 416,
+    "id": 417,
     "name": "RELIC* Jesus Made #PJK-JM Blue Ice - 2026 Panini Donruss Baseball MLB",
     "price": 29.97,
     "image": "https://i.ebayimg.com/images/g/YlMAAeSwqX5qnNUB/s-l300.jpg",
@@ -4992,7 +5004,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 417,
+    "id": 418,
     "name": "04/15* Eric Metcalf #37 PARALLEL REFRACTOR - 2026 Panini 90s Decades Multi-Sport",
     "price": 9.97,
     "image": "https://i.ebayimg.com/images/g/lcgAAeSw2npqk3hc/s-l300.jpg",
@@ -5004,7 +5016,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 418,
+    "id": 419,
     "name": "/149* Terrell Davis #E-TD REFRACTOR - 2026 Panini 90s Decades Multi-Sport MLB NF",
     "price": 2.77,
     "image": "https://i.ebayimg.com/images/g/k-oAAeSweY5qk3d~/s-l300.jpg",
@@ -5016,7 +5028,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 419,
+    "id": 420,
     "name": "47/99* Cris Carter #54 PARALLEL REFRACTOR - 2026 Panini 90s Decades Multi-Sport",
     "price": 7.77,
     "image": "https://i.ebayimg.com/images/g/YQAAAeSwzadqk3gW/s-l300.jpg",
@@ -5028,7 +5040,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 420,
+    "id": 421,
     "name": "/99* Roberto Alomar #ES-RA REFRACTOR - 2026 Panini 90s Decades Multi-Sport MLB N",
     "price": 4.97,
     "image": "https://i.ebayimg.com/images/g/PXQAAeSwJFFqk02f/s-l300.jpg",
@@ -5040,7 +5052,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 421,
+    "id": 422,
     "name": "/99* Eli Willits #107 PARALLEL REFRACTOR - 2026 Panini 90s Decades Multi-Sport",
     "price": 7.77,
     "image": "https://i.ebayimg.com/images/g/GfUAAeSwPdNqk03T/s-l300.jpg",
@@ -5052,7 +5064,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 422,
+    "id": 423,
     "name": "/99* John Stockton #C-JS PARALLEL REFRACTOR - 2026 Panini 90s Decades Multi-Spor",
     "price": 7.77,
     "image": "https://i.ebayimg.com/images/g/UxsAAeSwDFZqkidF/s-l300.jpg",
@@ -5064,7 +5076,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 423,
+    "id": 424,
     "name": "Shaquille O'Neal #66 REFRACTOR - 2026 Panini 90s Decades Multi-Sport MLB NFL",
     "price": 2.77,
     "image": "https://i.ebayimg.com/images/g/UVUAAeSwJfhqkigB/s-l300.jpg",
@@ -5076,7 +5088,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 424,
+    "id": 425,
     "name": "/99* John Stockton #T10-JS PARALLEL REFRACTOR - 2026 Panini 90s Decades Multi-Sp",
     "price": 7.77,
     "image": "https://i.ebayimg.com/images/g/uZ8AAeSwXm5qkid~/s-l300.jpg",
@@ -5085,18 +5097,6 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
-  },
-  {
-    "id": 425,
-    "name": "04/10* Justin Jefferson #91TF-38 BLACK CRACKLE PARALLEL 2026 Topps NFL Flagship",
-    "price": 219,
-    "image": "https://i.ebayimg.com/images/g/qR0AAeSwFh9qknfL/s-l300.jpg",
-    "url": "https://www.ebay.com/itm/168666509631",
-    "category": "football",
-    "badge": null,
-    "discount": null,
-    "numbered": true,
     "stock": 1
   },
   {
@@ -8661,7 +8661,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 8
+    "stock": 7
   },
   {
     "id": 723,
