@@ -21157,7 +21157,7 @@ window.products = [
   },
   {
     "id": 1764,
-    "name": "Milwaukee Brewers 22-0 2026 MLB Topps NOW - 2026 MLB Topps NOW Card 569 PRE-SALE",
+    "name": "Milwaukee Brewers 22-0 2026 MLB Topps NOW - 2026 MLB Topps NOW Card 569 IN HAND",
     "price": 6.44,
     "image": "https://i.ebayimg.com/images/g/keAAAeSw7BNqhgVj/s-l300.png",
     "url": "https://www.ebay.com/itm/168626266971",
@@ -39969,7 +39969,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 0
   },
   {
     "id": 3332,
