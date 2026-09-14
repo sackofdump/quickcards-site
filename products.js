@@ -21001,15 +21001,15 @@ window.products = [
   },
   {
     "id": 1751,
-    "name": "Matt Wilkinson Tugboat Debut (RC CALL UP) - 2026 MLB Topps NOW Card 573 PRE-SALE",
-    "price": 5.87,
+    "name": "Matt Wilkinson Tugboat Debut (RC CALL UP) - 2026 MLB Topps NOW Card 573 IN HAND",
+    "price": 19.74,
     "image": "https://i.ebayimg.com/images/g/LocAAeSw-9Fqh7sP/s-l300.png",
     "url": "https://www.ebay.com/itm/168629391538",
     "category": "topps-now",
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 0
+    "stock": 2
   },
   {
     "id": 1752,
