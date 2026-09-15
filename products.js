@@ -21213,11 +21213,11 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 5
+    "stock": 3
   },
   {
     "id": 1769,
-    "name": "Luis Lara (CALL UP RC) 1st MLB HR 22-0 - 2026 MLB Topps NOW® - Card 568 PRE-SALE",
+    "name": "Luis Lara (CALL UP RC) 1st MLB HR 22-0 - 2026 MLB Topps NOW® - Card 568 IN HAND",
     "price": 7.44,
     "image": "https://i.ebayimg.com/images/g/tvQAAeSwxZRqhgSS/s-l300.png",
     "url": "https://www.ebay.com/itm/168626264374",
@@ -41073,7 +41073,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 2
+    "stock": 1
   },
   {
     "id": 3424,
