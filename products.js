@@ -97629,7 +97629,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": true,
-    "stock": 2
+    "stock": 1
   },
   {
     "id": 8137,
