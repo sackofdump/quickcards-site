@@ -14,7 +14,7 @@ window.products = [
   {
     "id": 2,
     "name": "Kazuma Okamoto (RC) 33HR JP RECORD - 2026 MLB Topps NOW® - Card 674  PRE-SALE",
-    "price": 5.77,
+    "price": 5.24,
     "image": "https://i.ebayimg.com/images/g/HVcAAeSwu5VqqsQL/s-l300.png",
     "url": "https://www.ebay.com/itm/168693510958",
     "category": "topps-now",
@@ -26,7 +26,7 @@ window.products = [
   {
     "id": 3,
     "name": "Derrick Henry NO. 3 ALL TIME RUSH YDs - 2026 NFL Topps NOW® - Card 7 PRE-SALE",
-    "price": 6.43,
+    "price": 6.24,
     "image": "https://i.ebayimg.com/images/g/0MgAAeSwXUJqqsFd/s-l300.png",
     "url": "https://www.ebay.com/itm/168693497183",
     "category": "topps-now",
@@ -38,19 +38,19 @@ window.products = [
   {
     "id": 4,
     "name": "T.J. Watt ELITE NFL COMPANY PICK 6 - 2026 NFL Topps NOW® - Card 10 PRE-SALE",
-    "price": 4.97,
+    "price": 4.24,
     "image": "https://i.ebayimg.com/images/g/ihAAAeSwtMVqqsDK/s-l300.png",
     "url": "https://www.ebay.com/itm/168693495531",
     "category": "topps-now",
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 16
+    "stock": 14
   },
   {
     "id": 5,
     "name": "Josh Allen TOP 20 RUSHING WIN - 2026 NFL Topps NOW® - Card 13 PRE-SALE",
-    "price": 4.97,
+    "price": 4.24,
     "image": "https://i.ebayimg.com/images/g/UfkAAeSwgQFqqr~W/s-l300.png",
     "url": "https://www.ebay.com/itm/168693489450",
     "category": "topps-now",
@@ -1077,7 +1077,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 4
+    "stock": 3
   },
   {
     "id": 91,
@@ -1466,14 +1466,14 @@ window.products = [
   {
     "id": 123,
     "name": "Miikka Muurinen #123 BASE - 2026 Panini 90s Decades Multi-Sport MLB NFL",
-    "price": 2.97,
+    "price": 1.97,
     "image": "https://i.ebayimg.com/images/g/BwAAAeSwFJlqoriI/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168678481127",
     "category": "baseball",
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 3
   },
   {
     "id": 124,
@@ -5654,7 +5654,7 @@ window.products = [
   {
     "id": 472,
     "name": "Caleb Williams #TP-19 - 2026 Topps NFL Flagship Football  #B",
-    "price": 0.99,
+    "price": 1.99,
     "image": "https://i.ebayimg.com/images/g/EGwAAeSwG9Fqmisb/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168662229307",
     "category": "football",
@@ -14150,14 +14150,14 @@ window.products = [
   {
     "id": 1180,
     "name": "Jaxon Dart #266 - BASE - 2026 Topps NFL Flagship",
-    "price": 1.97,
+    "price": 0.99,
     "image": "https://i.ebayimg.com/images/g/1SEAAeSwj6BqkmUl/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168647383815",
     "category": "football",
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 3
   },
   {
     "id": 1181,
@@ -14901,7 +14901,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 0
   },
   {
     "id": 1243,
@@ -15050,7 +15050,7 @@ window.products = [
   {
     "id": 1255,
     "name": "Fernando Mendoza (RC) #301 BASE - 2026 Topps NFL Flagship",
-    "price": 4.27,
+    "price": 3.29,
     "image": "https://i.ebayimg.com/images/g/0K0AAeSwOUZqkiUp/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168646984238",
     "category": "football",
@@ -15194,14 +15194,14 @@ window.products = [
   {
     "id": 1267,
     "name": "Caleb Williams #35 BASE - 2026 Topps NFL Flagship",
-    "price": 0.99,
+    "price": 1.49,
     "image": "https://i.ebayimg.com/images/g/wbkAAeSwtOhqkiPI/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168646974965",
     "category": "football",
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 0
+    "stock": 3
   },
   {
     "id": 1268,
@@ -21741,7 +21741,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 0
   },
   {
     "id": 1813,
@@ -22418,14 +22418,14 @@ window.products = [
   {
     "id": 1869,
     "name": "Olivia Miles #127 - 2026 Panini 90s Decades Multi-Sport",
-    "price": 3.47,
+    "price": 4.47,
     "image": "https://i.ebayimg.com/images/g/tywAAeSwWXtqf97t/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168614792163",
     "category": "other",
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 0
+    "stock": 1
   },
   {
     "id": 1870,
@@ -26834,14 +26834,14 @@ window.products = [
   {
     "id": 2237,
     "name": "Jesus Made #111 - 2026 Panini 90s Decades Multi-Sport",
-    "price": 4.97,
+    "price": 2.97,
     "image": "https://i.ebayimg.com/images/g/xwQAAeSwmiFqgO1f/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168604499527",
     "category": "other",
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 3
   },
   {
     "id": 2238,
@@ -26949,12 +26949,12 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 0
+    "stock": 3
   },
   {
     "id": 2247,
     "name": "Randy Couture #25 - 2026 Panini 90s Decades Multi-Sport",
-    "price": 2.25,
+    "price": 1.99,
     "image": "https://i.ebayimg.com/images/g/3ggAAeSwQOlqeoPq/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168604390034",
     "category": "other",
@@ -26966,7 +26966,7 @@ window.products = [
   {
     "id": 2248,
     "name": "Dick Vitale #83 - 2026 Panini 90s Decades Multi-Sport",
-    "price": 2.25,
+    "price": 1.99,
     "image": "https://i.ebayimg.com/images/g/5KMAAeSwCGNqeoPa/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168604389929",
     "category": "other",
@@ -26978,7 +26978,7 @@ window.products = [
   {
     "id": 2249,
     "name": "Sung-Mun Song #113 - 2026 Panini 90s Decades Multi-Sport",
-    "price": 3.25,
+    "price": 1.99,
     "image": "https://i.ebayimg.com/images/g/C3UAAeSw87BqeoPE/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168604389819",
     "category": "other",
@@ -27014,7 +27014,7 @@ window.products = [
   {
     "id": 2252,
     "name": "Chipper Jones #14 - 2026 Panini 90s Decades Multi-Sport",
-    "price": 2.75,
+    "price": 1.99,
     "image": "https://i.ebayimg.com/images/g/esoAAeSw~bxqeoNJ/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168604386775",
     "category": "other",
@@ -27026,7 +27026,7 @@ window.products = [
   {
     "id": 2253,
     "name": "Chris Webber #72 - 2026 Panini 90s Decades Multi-Sport",
-    "price": 2.97,
+    "price": 1.99,
     "image": "https://i.ebayimg.com/images/g/hPMAAeSwtixqeoMj/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168604385899",
     "category": "other",
@@ -27038,7 +27038,7 @@ window.products = [
   {
     "id": 2254,
     "name": "Ric Flair #30 - 2026 Panini 90s Decades Multi-Sport",
-    "price": 3.75,
+    "price": 1.99,
     "image": "https://i.ebayimg.com/images/g/-eAAAeSwhyNqeoMN/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168604385713",
     "category": "other",
@@ -27146,7 +27146,7 @@ window.products = [
   {
     "id": 2263,
     "name": "Cal Ripken #6 - 2026 Panini 90s Decades Multi-Sport",
-    "price": 2.97,
+    "price": 1.99,
     "image": "https://i.ebayimg.com/images/g/zTAAAeSwvnpqeoGF/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168604380632",
     "category": "other",
@@ -27158,7 +27158,7 @@ window.products = [
   {
     "id": 2264,
     "name": "Ryan Leaf #65 - 2026 Panini 90s Decades Multi-Sport",
-    "price": 2.25,
+    "price": 1.99,
     "image": "https://i.ebayimg.com/images/g/tQ4AAeSwxvxqeoFp/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168604380471",
     "category": "other",
@@ -27170,7 +27170,7 @@ window.products = [
   {
     "id": 2265,
     "name": "Ken Shamrock #24 - 2026 Panini 90s Decades Multi-Sport",
-    "price": 2.25,
+    "price": 1.99,
     "image": "https://i.ebayimg.com/images/g/zO4AAeSwg3NqeoFY/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168604380372",
     "category": "other",
@@ -27182,7 +27182,7 @@ window.products = [
   {
     "id": 2266,
     "name": "Seong-Jun Kim #112 - 2026 Panini 90s Decades Multi-Sport",
-    "price": 3.47,
+    "price": 1.99,
     "image": "https://i.ebayimg.com/images/g/Js0AAeSwQQxqeoE~/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168604380274",
     "category": "other",
@@ -27206,7 +27206,7 @@ window.products = [
   {
     "id": 2268,
     "name": "Percy Miller #82 - 2026 Panini 90s Decades Multi-Sport",
-    "price": 2.25,
+    "price": 1.99,
     "image": "https://i.ebayimg.com/images/g/JNYAAeSwTF5qeoA0/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168604376550",
     "category": "other",
@@ -27218,7 +27218,7 @@ window.products = [
   {
     "id": 2269,
     "name": "Troy Aikman #40 - 2026 Panini 90s Decades Multi-Sport",
-    "price": 2.25,
+    "price": 1.99,
     "image": "https://i.ebayimg.com/images/g/3zkAAeSwhyNqeoAI/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168604374945",
     "category": "other",
@@ -27242,7 +27242,7 @@ window.products = [
   {
     "id": 2271,
     "name": "Lamar Bo Jackson #144 - 2026 Panini 90s Decades Multi-Sport",
-    "price": 3.47,
+    "price": 1.99,
     "image": "https://i.ebayimg.com/images/g/lccAAeSwocpqen~e/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168604370281",
     "category": "other",
@@ -27278,7 +27278,7 @@ window.products = [
   {
     "id": 2274,
     "name": "Isiah Thomas #71 - 2026 Panini 90s Decades Multi-Sport",
-    "price": 2.25,
+    "price": 1.99,
     "image": "https://i.ebayimg.com/images/g/h98AAeSwXyBqen9j/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168604356763",
     "category": "other",
@@ -27290,7 +27290,7 @@ window.products = [
   {
     "id": 2275,
     "name": "Oscar De La Hoya #29 - 2026 Panini 90s Decades Multi-Sport",
-    "price": 2.97,
+    "price": 1.99,
     "image": "https://i.ebayimg.com/images/g/20oAAeSw4PZqen9P/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168604356628",
     "category": "other",
@@ -27302,7 +27302,7 @@ window.products = [
   {
     "id": 2276,
     "name": "Derik Queen #136 - 2026 Panini 90s Decades Multi-Sport",
-    "price": 3.47,
+    "price": 1.99,
     "image": "https://i.ebayimg.com/images/g/ebIAAeSw~8Jqen8x/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168604356150",
     "category": "other",
@@ -27314,7 +27314,7 @@ window.products = [
   {
     "id": 2277,
     "name": "Roman Anthony (RC) #103 - 2026 Panini 90s Decades Multi-Sport",
-    "price": 4.97,
+    "price": 3.29,
     "image": "https://i.ebayimg.com/images/g/f0EAAeSwlShqen7o/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168604355808",
     "category": "other",
