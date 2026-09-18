@@ -40909,7 +40909,7 @@ window.products = [
   },
   {
     "id": 3410,
-    "name": "Athletics / Milwaukee Brewers 29 RUNS - 2026 MLB Topps NOW�� - Card 304 IN HAND",
+    "name": "Athletics / Milwaukee Brewers 29 RUNS - 2026 MLB Topps NOW® - Card 304 IN HAND",
     "price": 7.77,
     "image": "https://i.ebayimg.com/images/g/2T0AAeSwtWRqKD~-/s-l300.png",
     "url": "https://www.ebay.com/itm/168444626791",
@@ -107737,7 +107737,7 @@ window.products = [
   },
   {
     "id": 8979,
-    "name": "Pok��mon TCG Tepig Sword &amp; Shield Battle Styles 023/163 Reverse Holo Common NM/M",
+    "name": "Pokémon TCG Tepig Sword &amp; Shield Battle Styles 023/163 Reverse Holo Common NM/M",
     "price": 1.84,
     "image": "https://i.ebayimg.com/images/g/fFUAAOSwSOBjepe-/s-l300.jpg",
     "url": "https://www.ebay.com/itm/165788613701",
