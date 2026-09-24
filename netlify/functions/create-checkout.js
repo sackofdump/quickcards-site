@@ -16,7 +16,7 @@ exports.handler = async (event) => {
     return { statusCode: 400, body: 'Cart is empty' };
   }
 
-  const origin = event.headers.origin || event.headers.referer?.replace(/\/$/, '') || 'https://quickcards.shop';
+  const origin = event.headers.origin || event.headers.referer?.replace(/\/$/, '') || 'https://quickcardshop.com';
 
   const subtotal = items.reduce((sum, i) => sum + (i.price * (i.quantity || 1)), 0);
 

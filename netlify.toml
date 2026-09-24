@@ -4,3 +4,9 @@
 
 [[plugins]]
   package = "@netlify/plugin-functions-install-core"
+
+[[redirects]]
+  from = "https://quickcards.shop/*"
+  to = "https://quickcardshop.com/:splat"
+  status = 301
+  force = true
