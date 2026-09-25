@@ -21,19 +21,19 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 12
+    "stock": 11
   },
   {
     "id": 3,
     "name": "Kazuma Okamoto (RC) - 2026 Topps MLB Living Set® - Card 944  PRE-SALE",
-    "price": 5.67,
+    "price": 5.47,
     "image": "https://i.ebayimg.com/images/g/PCAAAeSwUupqtU~M/s-l300.png",
     "url": "https://www.ebay.com/itm/168717426850",
     "category": "baseball",
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 18
+    "stock": 16
   },
   {
     "id": 4,
@@ -417,7 +417,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": true,
-    "stock": 5
+    "stock": 4
   },
   {
     "id": 36,
@@ -2666,14 +2666,14 @@ window.products = [
   {
     "id": 223,
     "name": "Milwaukee Brewers 4 DIVISION CHAMPS 2026 MLB Topps NOW® - Card 681  PRE-SALE",
-    "price": 6.47,
+    "price": 7.47,
     "image": "https://i.ebayimg.com/images/g/X7IAAeSwTctqqvvT/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168693889338",
     "category": "topps-now",
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 6
+    "stock": 4
   },
   {
     "id": 224,
