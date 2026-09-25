@@ -9,19 +9,19 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 14
+    "stock": 13
   },
   {
     "id": 2,
     "name": "Kazuma Okamoto (RC) - 2026 Topps MLB Living Set® - Card 944  PRE-SALE",
-    "price": 3.97,
+    "price": 4.97,
     "image": "https://i.ebayimg.com/images/g/PCAAAeSwUupqtU~M/s-l300.png",
     "url": "https://www.ebay.com/itm/168717426850",
     "category": "baseball",
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 12
+    "stock": 5
   },
   {
     "id": 3,
@@ -393,7 +393,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 11
+    "stock": 10
   },
   {
     "id": 34,
@@ -405,7 +405,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": true,
-    "stock": 10
+    "stock": 5
   },
   {
     "id": 35,
@@ -3729,7 +3729,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 2
+    "stock": 1
   },
   {
     "id": 312,
@@ -45057,7 +45057,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 18
+    "stock": 17
   },
   {
     "id": 3756,
@@ -85293,7 +85293,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 11
+    "stock": 10
   },
   {
     "id": 7109,
