@@ -652,7 +652,7 @@
     document.getElementById('cartBtn').addEventListener('click', () => { renderCartItems(); openCart(); });
 
     /* ── Pick a random product and render it ── */
-    const dropProduct = allProducts[Math.floor(Math.random() * allProducts.length)];
+    const dropProduct = allProducts.find(p => p.id === 1) || allProducts[0];
 
     function renderProducts() {
       const card = document.getElementById('featuredCard');
