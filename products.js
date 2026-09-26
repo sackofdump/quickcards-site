@@ -2,14 +2,14 @@ window.products = [
   {
     "id": 1,
     "name": "Pete Crow-Armstrong 40/40 - Chicago Cubs 2026 MLB Topps NOW® - Card 712 PRE-SALE",
-    "price": 5.97,
+    "price": 6.27,
     "image": "https://i.ebayimg.com/images/g/25IAAeSwM95qtyYu/s-l300.png",
     "url": "https://www.ebay.com/itm/168721405983",
     "category": "topps-now",
     "badge": null,
     "discount": null,
     "numbered": true,
-    "stock": 19
+    "stock": 3
   },
   {
     "id": 2,
