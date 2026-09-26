@@ -181,18 +181,8 @@
 
     /* ── PRODUCT SECTION ── */
     .products-section {
-      max-width: 1200px; margin: 0 auto; padding: 3rem 2rem 4rem;
+      max-width: 700px; margin: 0 auto; padding: 3rem 2rem 5rem;
     }
-    .section-header {
-      display: flex; align-items: baseline; gap: 1rem;
-      border-bottom: 1px solid var(--border);
-      padding-bottom: 1rem; margin-bottom: 2rem;
-    }
-    .section-title {
-      font-family: 'Bebas Neue', sans-serif;
-      font-size: 2rem; letter-spacing: .08em; color: #fff;
-    }
-    .section-count { font-size: .8rem; color: var(--muted); letter-spacing: .06em; }
 
     /* ── PRE-DROP LOCKED STATE ── */
     .locked-state {
@@ -213,74 +203,55 @@
     }
     .locked-sub { color: var(--muted); font-size: .9rem; line-height: 1.6; max-width: 360px; margin: 0 auto; }
 
-    /* ── PRODUCT GRID ── */
-    .products-grid {
-      display: grid;
-      grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
-      gap: 1.25rem;
-    }
-    .product-card {
+    /* ── SINGLE FEATURED PRODUCT ── */
+    .featured-card {
+      display: grid; grid-template-columns: 1fr 1fr; gap: 2.5rem;
       background: var(--dark3);
-      border: 1px solid rgba(255,255,255,.07);
-      border-radius: 10px;
-      overflow: hidden;
-      display: flex; flex-direction: column;
-      transition: border-color .2s, transform .2s, box-shadow .2s;
-      cursor: default;
+      border: 1px solid rgba(255,255,255,.09);
+      border-radius: 16px; overflow: hidden;
+      box-shadow: 0 16px 64px rgba(0,0,0,.5);
     }
-    .product-card:hover {
-      border-color: rgba(210,19,11,.4);
-      transform: translateY(-3px);
-      box-shadow: 0 8px 32px rgba(210,19,11,.1);
+    .featured-img-wrap {
+      aspect-ratio: 1; background: var(--dark4);
+      display: flex; align-items: center; justify-content: center; overflow: hidden;
     }
-    .card-img-wrap {
-      width: 100%; aspect-ratio: 1;
-      background: var(--dark4);
-      display: flex; align-items: center; justify-content: center;
-      overflow: hidden; position: relative;
-    }
-    .card-img-wrap img {
-      width: 100%; height: 100%; object-fit: cover;
-      transition: transform .3s;
-    }
-    .product-card:hover .card-img-wrap img { transform: scale(1.04); }
-    .card-img-placeholder {
+    .featured-img-wrap img { width: 100%; height: 100%; object-fit: cover; }
+    .featured-img-placeholder {
       width: 100%; height: 100%;
       display: flex; align-items: center; justify-content: center;
-      color: rgba(255,255,255,.1);
+      color: rgba(255,255,255,.08);
     }
-    .card-body {
-      padding: .85rem .9rem .9rem;
-      display: flex; flex-direction: column; gap: .5rem; flex: 1;
+    .featured-body {
+      display: flex; flex-direction: column; justify-content: center;
+      padding: 2rem 2rem 2rem 0; gap: 1rem;
     }
-    .card-name {
-      font-size: .8rem; font-weight: 500; color: rgba(255,255,255,.85);
-      line-height: 1.4; display: -webkit-box; -webkit-line-clamp: 2;
-      -webkit-box-orient: vertical; overflow: hidden;
+    .featured-eyebrow {
+      font-size: .7rem; font-weight: 700; letter-spacing: .18em;
+      text-transform: uppercase; color: var(--red);
     }
-    .card-price {
+    .featured-name {
       font-family: 'Barlow Condensed', sans-serif;
-      font-size: 1.1rem; font-weight: 700; color: #fff; letter-spacing: .04em;
+      font-size: 1.4rem; font-weight: 700; color: #fff; line-height: 1.3;
+    }
+    .featured-price {
+      font-family: 'Bebas Neue', sans-serif;
+      font-size: 2.4rem; letter-spacing: .06em; color: #fff;
     }
     .btn-cart {
-      margin-top: auto;
-      width: 100%; padding: .55rem;
-      background: var(--red); border: none; border-radius: 6px;
-      color: #fff; font-family: 'Inter', monospace;
-      font-size: .75rem; font-weight: 700; letter-spacing: .06em;
+      width: 100%; padding: .85rem;
+      background: var(--red); border: none; border-radius: 8px;
+      color: #fff; font-size: .85rem; font-weight: 700;
+      letter-spacing: .08em; text-transform: uppercase;
       cursor: pointer; transition: background .2s;
     }
     .btn-cart:hover { background: var(--red-lt); }
     .btn-cart.added { background: #1a7a3a; }
     .btn-cart:disabled { background: var(--dark4); color: var(--muted); cursor: not-allowed; }
+    .featured-stock { font-size: .75rem; color: var(--muted); letter-spacing: .06em; }
 
-    /* ── SOLD OUT chip ── */
-    .sold-out-chip {
-      position: absolute; top: .5rem; right: .5rem;
-      background: rgba(0,0,0,.75); border: 1px solid rgba(255,255,255,.2);
-      color: rgba(255,255,255,.7); font-size: .6rem; font-weight: 700;
-      letter-spacing: .12em; text-transform: uppercase;
-      padding: .2rem .5rem; border-radius: 4px;
+    @media (max-width: 560px) {
+      .featured-card { grid-template-columns: 1fr; }
+      .featured-body { padding: 0 1.25rem 1.5rem; }
     }
 
     /* ── CART SIDEBAR ── */
@@ -425,7 +396,7 @@
         QuickCards Exclusive
       </div>
       <h1 class="drop-title">The<br><em>Drop</em></h1>
-      <p class="drop-edition">Sept 25, 2026 &nbsp;·&nbsp; 7:35 PM CT</p>
+      <p class="drop-edition">Sept 25, 2026 &nbsp;·&nbsp; 7:40 PM CT</p>
 
       <!-- Countdown -->
       <div class="countdown-wrap" id="countdownWrap">
@@ -446,7 +417,7 @@
       </div>
 
       <p class="drop-time-line" id="dropTimeLine">
-        <strong>Drops Today at 7:35 PM CT</strong> &nbsp;—&nbsp; Quantities are limited.
+        <strong>Drops Today at 7:40 PM CT</strong> &nbsp;—&nbsp; Quantities are limited.
       </p>
 
       <!-- Live badge (shown after drop) -->
@@ -458,10 +429,6 @@
 
   <!-- Products Section -->
   <section class="products-section">
-    <div class="section-header">
-      <span class="section-title">Drop Items</span>
-      <span class="section-count" id="dropCount"></span>
-    </div>
 
     <!-- Locked state (pre-drop) -->
     <div class="locked-state" id="lockedState">
@@ -472,11 +439,11 @@
         </svg>
       </div>
       <div class="locked-title">Locked Until Drop</div>
-      <p class="locked-sub">Products unlock the moment the timer hits zero. Have your cart ready.</p>
+      <p class="locked-sub">Product unlocks the moment the timer hits zero. Have your cart ready.</p>
     </div>
 
-    <!-- Product grid (hidden until drop) -->
-    <div class="products-grid" id="dropGrid" style="display:none"></div>
+    <!-- Featured single product (hidden until drop) -->
+    <div class="featured-card" id="featuredCard" style="display:none"></div>
   </section>
 
   <!-- Cart Overlay -->
@@ -518,7 +485,7 @@
   <script src="baseball-products.js"></script>
   <script>
     /* ── Drop time: 7:10 PM CST = 01:10 UTC Sept 26 ── */
-    const DROP_TIME = new Date('2026-09-26T01:35:00Z');
+    const DROP_TIME = new Date('2026-09-26T01:40:00Z');
 
     /* ── Products ── */
     const _blacklist = window.auctionBlacklist || new Set();
@@ -683,36 +650,32 @@
 
     document.getElementById('cartBtn').addEventListener('click', () => { renderCartItems(); openCart(); });
 
-    /* ── Render products grid ── */
-    function renderProducts() {
-      const grid = document.getElementById('dropGrid');
-      const countEl = document.getElementById('dropCount');
-      const n = allProducts.length;
-      countEl.textContent = `${n} item${n !== 1 ? 's' : ''}`;
+    /* ── Pick a random product and render it ── */
+    const dropProduct = allProducts[Math.floor(Math.random() * allProducts.length)];
 
-      grid.innerHTML = allProducts.map(p => {
-        const stock = p.stock != null ? p.stock : 1;
-        const soldOut = stock === 0;
-        return `<div class="product-card">
-          <div class="card-img-wrap">
-            ${p.image
-              ? `<img src="${escapeHtml(p.image)}" alt="${escapeHtml(p.name)}" loading="lazy" onerror="this.outerHTML='<div class=card-img-placeholder><svg width=40 height=40 viewBox=\\'0 0 24 24\\' fill=none stroke=currentColor stroke-width=1><rect x=3 y=3 width=18 height=18 rx=2/></svg></div>'">`
-              : `<div class="card-img-placeholder"><svg width="40" height="40" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1"><rect x="3" y="3" width="18" height="18" rx="2"/></svg></div>`
-            }
-            ${soldOut ? `<span class="sold-out-chip">Sold Out</span>` : ''}
-          </div>
-          <div class="card-body">
-            <div class="card-name">${escapeHtml(p.name)}</div>
-            <div class="card-price">$${Number(p.price).toFixed(2)}</div>
-            <button
-              class="btn-cart"
-              id="cbtn-${p.id}"
-              onclick="addToCart(${p.id})"
-              ${soldOut ? 'disabled' : ''}
-            >${soldOut ? 'Sold Out' : '> add.cart()'}</button>
-          </div>
+    function renderProducts() {
+      const card = document.getElementById('featuredCard');
+      const p = dropProduct;
+      if (!p) return;
+      const stock = p.stock != null ? p.stock : 1;
+      const soldOut = stock === 0;
+
+      card.innerHTML = `
+        <div class="featured-img-wrap">
+          ${p.image
+            ? `<img src="${escapeHtml(p.image)}" alt="${escapeHtml(p.name)}" onerror="this.outerHTML='<div class=featured-img-placeholder><svg width=64 height=64 viewBox=\\'0 0 24 24\\' fill=none stroke=currentColor stroke-width=1><rect x=3 y=3 width=18 height=18 rx=2/></svg></div>'">`
+            : `<div class="featured-img-placeholder"><svg width="64" height="64" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1"><rect x="3" y="3" width="18" height="18" rx="2"/></svg></div>`
+          }
+        </div>
+        <div class="featured-body">
+          <div class="featured-eyebrow">Drop — Sept 25, 2026</div>
+          <div class="featured-name">${escapeHtml(p.name)}</div>
+          <div class="featured-price">$${Number(p.price).toFixed(2)}</div>
+          <button class="btn-cart" id="cbtn-${p.id}" onclick="addToCart(${p.id})" ${soldOut ? 'disabled' : ''}>
+            ${soldOut ? 'Sold Out' : 'Add to Cart'}
+          </button>
+          <div class="featured-stock">${soldOut ? 'Out of stock' : stock === 1 ? 'Only 1 left' : `${stock} available`}</div>
         </div>`;
-      }).join('');
     }
 
     /* ── Drop reveal ── */
@@ -726,7 +689,7 @@
       document.getElementById('dropLiveBadge').classList.add('show');
 
       document.getElementById('lockedState').style.display = 'none';
-      document.getElementById('dropGrid').style.display = 'grid';
+      document.getElementById('featuredCard').style.display = 'grid';
       document.body.classList.add('drop-flash');
 
       renderProducts();
