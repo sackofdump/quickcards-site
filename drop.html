@@ -590,7 +590,7 @@
       const cart = getCart();
       const item = cart.find(i => i.id === productId);
       if (!item) return;
-      item.quantity = Math.max(1, Math.min(1, item.quantity + delta));
+      item.quantity = Math.max(1, Math.min(item.stock || 1, item.quantity + delta));
       saveCart(cart); updateCartBadge(); renderCartItems();
     };
 
