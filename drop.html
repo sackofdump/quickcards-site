@@ -486,6 +486,7 @@
   <script>
     /* ── Drop time: 7:10 PM CST = 01:10 UTC Sept 26 ── */
     const DROP_TIME = new Date('2026-09-26T01:09:00Z');
+    const DROP_KEY = 'qce_drop_sold_0109';
 
     /* ── Products ── */
     const _blacklist = window.auctionBlacklist || new Set();
@@ -658,7 +659,7 @@
       const card = document.getElementById('featuredCard');
       const p = dropProduct;
       if (!p) return;
-      const soldOut = !!localStorage.getItem('qce_drop_sold');
+      const soldOut = !!localStorage.getItem(DROP_KEY);
 
       card.innerHTML = `
         <div class="featured-img-wrap">
