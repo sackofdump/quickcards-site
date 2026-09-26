@@ -590,7 +590,7 @@
       const cart = getCart();
       const item = cart.find(i => i.id === productId);
       if (!item) return;
-      item.quantity = Math.max(1, Math.min(item.stock || 1, item.quantity + delta));
+      item.quantity = Math.max(1, Math.min(1, item.quantity + delta));
       saveCart(cart); updateCartBadge(); renderCartItems();
     };
 
@@ -616,7 +616,7 @@
       const cart = getCart();
       const existing = cart.find(i => i.id === productId);
       const currentQty = existing ? existing.quantity : 0;
-      if (currentQty >= stock) { showToast(`Only ${stock} available`, '#c0392b'); return; }
+      if (currentQty >= 1) { showToast('Limit 1 per customer', '#c0392b'); return; }
       if (existing) { existing.quantity += 1; }
       else { cart.push({ id: product.id, name: product.name, price: product.price, image: product.image || null, quantity: 1, stock }); }
       saveCart(cart); updateCartBadge(); renderCartItems(); openCart();
