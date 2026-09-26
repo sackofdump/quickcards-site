@@ -396,7 +396,7 @@
         QuickCards Exclusive
       </div>
       <h1 class="drop-title">The<br><em>Drop</em></h1>
-      <p class="drop-edition">Sept 25, 2026 &nbsp;·&nbsp; 7:40 PM CT</p>
+      <p class="drop-edition">Sept 25, 2026 &nbsp;·&nbsp; 7:50 PM CT</p>
 
       <!-- Countdown -->
       <div class="countdown-wrap" id="countdownWrap">
@@ -417,7 +417,7 @@
       </div>
 
       <p class="drop-time-line" id="dropTimeLine">
-        <strong>Drops Today at 7:40 PM CT</strong> &nbsp;—&nbsp; Quantities are limited.
+        <strong>Drops Today at 7:50 PM CT</strong> &nbsp;—&nbsp; Quantities are limited.
       </p>
 
       <!-- Live badge (shown after drop) -->
@@ -485,7 +485,7 @@
   <script src="baseball-products.js"></script>
   <script>
     /* ── Drop time: 7:10 PM CST = 01:10 UTC Sept 26 ── */
-    const DROP_TIME = new Date('2026-09-26T00:40:00Z');
+    const DROP_TIME = new Date('2026-09-26T00:50:00Z');
 
     /* ── Products ── */
     const _blacklist = window.auctionBlacklist || new Set();
@@ -616,15 +616,16 @@
       const cart = getCart();
       const existing = cart.find(i => i.id === productId);
       const currentQty = existing ? existing.quantity : 0;
-      if (currentQty >= 1) { showToast('Limit 1 per customer', '#c0392b'); return; }
-      if (existing) { existing.quantity += 1; }
-      else { cart.push({ id: product.id, name: product.name, price: product.price, image: product.image || null, quantity: 1, stock }); }
-      saveCart(cart); updateCartBadge(); renderCartItems(); openCart();
+      if (!existing) {
+        cart.push({ id: product.id, name: product.name, price: product.price, image: product.image || null, quantity: 1, stock });
+        saveCart(cart);
+      }
+      updateCartBadge(); renderCartItems(); openCart();
 
       const btn = document.getElementById(`cbtn-${productId}`);
       if (btn) {
-        btn.classList.add('added'); btn.textContent = '> added!';
-        setTimeout(() => { btn.classList.remove('added'); btn.textContent = '> add.cart()'; }, 1200);
+        btn.classList.add('added'); btn.textContent = 'Added!';
+        setTimeout(() => { btn.classList.remove('added'); btn.textContent = 'Add to Cart'; }, 1200);
       }
     };
 
@@ -657,8 +658,7 @@
       const card = document.getElementById('featuredCard');
       const p = dropProduct;
       if (!p) return;
-      const stock = p.stock != null ? p.stock : 1;
-      const soldOut = stock === 0;
+      const soldOut = !!localStorage.getItem('qce_drop_sold');
 
       card.innerHTML = `
         <div class="featured-img-wrap">
@@ -674,7 +674,7 @@
           <button class="btn-cart" id="cbtn-${p.id}" onclick="addToCart(${p.id})" ${soldOut ? 'disabled' : ''}>
             ${soldOut ? 'Sold Out' : 'Add to Cart'}
           </button>
-          <div class="featured-stock">${soldOut ? 'Out of stock' : stock === 1 ? 'Only 1 left' : `${stock} available`}</div>
+          <div class="featured-stock">${soldOut ? 'Sold out' : 'Only 1 available'}</div>
         </div>`;
     }
 
