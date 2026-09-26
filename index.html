@@ -572,6 +572,41 @@
     @media (max-width: 380px) {
       .products-grid { grid-template-columns: repeat(2, 1fr); }
     }
+
+    /* ── DROP NAV LINK ── */
+    .nav-drop-link {
+      color: #D2130B !important;
+      display: inline-flex; align-items: center; gap: .35rem;
+    }
+    .nav-drop-link::before {
+      content: ''; width: 6px; height: 6px; border-radius: 50%;
+      background: #D2130B; flex-shrink: 0;
+      animation: drop-dot-pulse 1.2s ease-in-out infinite;
+    }
+    @keyframes drop-dot-pulse {
+      0%, 100% { opacity: 1; transform: scale(1); }
+      50% { opacity: .35; transform: scale(.65); }
+    }
+
+    /* ── DROP ANNOUNCEMENT BANNER ── */
+    .drop-announce-banner {
+      display: flex; align-items: center; justify-content: center; gap: .75rem;
+      background: #D2130B; color: #fff; text-decoration: none;
+      padding: .55rem 1.5rem; font-size: .78rem; font-weight: 600;
+      letter-spacing: .08em; text-transform: uppercase;
+      transition: background .2s;
+      position: relative; z-index: 99;
+    }
+    .drop-announce-banner:hover { background: #E8352D; }
+    .drop-announce-dot {
+      width: 7px; height: 7px; border-radius: 50%; background: #fff; flex-shrink: 0;
+      animation: drop-dot-pulse 1s ease-in-out infinite;
+    }
+    .drop-announce-text { opacity: .95; }
+    .drop-announce-cta { opacity: .8; font-size: .75rem; letter-spacing: .12em; }
+    @media (max-width: 520px) {
+      .drop-announce-cta { display: none; }
+    }
   </style>
 </head>
 <body>
@@ -581,6 +616,7 @@
     <div class="nav-links" id="navLinks">
       <a href="#home" class="nav-link active">Home</a>
       <a href="#products" class="nav-link">Browse</a>
+      <a href="drop.html" class="nav-link nav-drop-link">Drop</a>
       <a href="contact.html" class="nav-link">Contact</a>
     </div>
     <div class="nav-right">
@@ -600,6 +636,13 @@
       </button>
     </div>
   </nav>
+
+  <!-- Drop Announcement Banner -->
+  <a href="drop.html" class="drop-announce-banner" id="dropAnnounceBanner">
+    <span class="drop-announce-dot"></span>
+    <span class="drop-announce-text">DROP TONIGHT &nbsp;·&nbsp; 7:35 PM CT &nbsp;·&nbsp; Limited quantities</span>
+    <span class="drop-announce-cta">Shop the Drop &rsaquo;</span>
+  </a>
 
   <!-- Hero -->
   <section class="hero" id="home">
