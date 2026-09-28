@@ -74,14 +74,14 @@ window.products = [
   {
     "id": 7,
     "name": "Kevin McGonigle (RC) TIGERS ROOKIE RECORD 2026 MLB Topps NOW Card 711  PRE-SALE",
-    "price": 7.24,
+    "price": 9.79,
     "image": "https://i.ebayimg.com/images/g/6toAAeSwq3NqtV9b/s-l300.png",
     "url": "https://www.ebay.com/itm/168717557507",
     "category": "topps-now",
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 8
+    "stock": 3
   },
   {
     "id": 8,
