@@ -1293,7 +1293,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 18
+    "stock": 17
   },
   {
     "id": 109,
@@ -3597,7 +3597,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 16
+    "stock": 15
   },
   {
     "id": 301,
@@ -3638,7 +3638,7 @@ window.products = [
   {
     "id": 304,
     "name": "Kazuma Okamoto (RC) - 2026 Topps MLB Living Set® - Card 944  PRE-SALE",
-    "price": 5.47,
+    "price": 9.47,
     "image": "https://i.ebayimg.com/images/g/PCAAAeSwUupqtU~M/s-l300.png",
     "url": "https://www.ebay.com/itm/168717426850",
     "category": "baseball",
@@ -3705,7 +3705,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 12
+    "stock": 11
   },
   {
     "id": 310,
@@ -6273,7 +6273,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 4
+    "stock": 3
   },
   {
     "id": 524,
@@ -9501,7 +9501,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 12
+    "stock": 11
   },
   {
     "id": 793,
@@ -11109,7 +11109,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 13
+    "stock": 11
   },
   {
     "id": 927,
@@ -19533,7 +19533,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 18
+    "stock": 17
   },
   {
     "id": 1629,
@@ -22173,7 +22173,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 12
+    "stock": 11
   },
   {
     "id": 1849,
@@ -48885,7 +48885,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 11
+    "stock": 10
   },
   {
     "id": 4075,
@@ -58197,7 +58197,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 11
+    "stock": 10
   },
   {
     "id": 4851,
@@ -59637,7 +59637,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 12
+    "stock": 11
   },
   {
     "id": 4971,
