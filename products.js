@@ -21,19 +21,19 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 12
+    "stock": 11
   },
   {
     "id": 3,
     "name": "Jackson Chourio 2 RUN HR Post Record - 2026 MLB Topps NOW® - Card 758 PRE-SALE",
-    "price": 4.24,
+    "price": 4.44,
     "image": "https://i.ebayimg.com/images/g/wHoAAeSwhlNqwrXV/s-l300.png",
     "url": "https://www.ebay.com/itm/168761480806",
     "category": "topps-now",
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 18
   },
   {
     "id": 4,
@@ -87801,7 +87801,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 10
+    "stock": 9
   },
   {
     "id": 7318,
