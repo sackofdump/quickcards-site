@@ -441,7 +441,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 26
+    "stock": 23
   },
   {
     "id": 38,
@@ -20013,7 +20013,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 15
+    "stock": 14
   },
   {
     "id": 1669,
@@ -36741,7 +36741,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 0
   },
   {
     "id": 3063,
