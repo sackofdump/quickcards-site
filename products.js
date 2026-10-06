@@ -242,14 +242,14 @@ window.products = [
   {
     "id": 21,
     "name": "Jackson Chourio WALK OFF 2-0 - 2026 MLB Topps NOW® - Card 760 PRE-SALE",
-    "price": 6.44,
+    "price": 6.74,
     "image": "https://i.ebayimg.com/images/g/BGYAAeSwm-xqw~Cv/s-l300.png",
     "url": "https://www.ebay.com/itm/168765315103",
     "category": "topps-now",
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 14
+    "stock": 17
   },
   {
     "id": 22,
@@ -112245,7 +112245,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": true,
-    "stock": 1
+    "stock": 0
   },
   {
     "id": 9355,
