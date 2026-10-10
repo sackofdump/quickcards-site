@@ -98,7 +98,7 @@ window.products = [
   {
     "id": 9,
     "name": "Cam Schlittler (RC) #134 - BASE - 2026 Topps Allen &amp; Ginter MLB Baseball",
-    "price": 5.89,
+    "price": 5.18,
     "image": "https://i.ebayimg.com/images/g/0zgAAeSwufhqyZpx/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168782131516",
     "category": "baseball",
@@ -134,7 +134,7 @@ window.products = [
   {
     "id": 12,
     "name": "Justin Verlander #154 - BASE - 2026 Topps Allen &amp; Ginter MLB",
-    "price": 2.25,
+    "price": 1.98,
     "image": "https://i.ebayimg.com/images/g/zRYAAeSwqs9qyZoj/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168782130134",
     "category": "baseball",
@@ -326,7 +326,7 @@ window.products = [
   {
     "id": 28,
     "name": "Ben Rice #196 - BASE - 2026 Topps Allen &amp; Ginter MLB",
-    "price": 2.99,
+    "price": 2.63,
     "image": "https://i.ebayimg.com/images/g/ogQAAeSwXdFqyZh9/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168782122705",
     "category": "baseball",
@@ -410,7 +410,7 @@ window.products = [
   {
     "id": 35,
     "name": "Kennedy Brock #215 - BASE - 2026 Topps Allen &amp; Ginter MLB",
-    "price": 2.69,
+    "price": 2.37,
     "image": "https://i.ebayimg.com/images/g/AbgAAeSw5YVqyZfK/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168782118801",
     "category": "baseball",
@@ -482,7 +482,7 @@ window.products = [
   {
     "id": 41,
     "name": "Cam Schlittler (RC) #134 - BASE - 2026 Topps Allen &amp; Ginter MLB",
-    "price": 4.99,
+    "price": 4.39,
     "image": "https://i.ebayimg.com/images/g/DMcAAeSw06JqyZcd/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168782116114",
     "category": "baseball",
@@ -518,7 +518,7 @@ window.products = [
   {
     "id": 44,
     "name": "Colin Jost #216 - BASE - 2026 Topps Allen &amp; Ginter MLB",
-    "price": 2.89,
+    "price": 2.54,
     "image": "https://i.ebayimg.com/images/g/uJEAAeSwLWBqyZbC/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168782113410",
     "category": "baseball",
@@ -758,7 +758,7 @@ window.products = [
   {
     "id": 64,
     "name": "Matt Kiatipis #292 MINI - 2026 Topps Allen &amp; Ginter MLB",
-    "price": 2.99,
+    "price": 2.63,
     "image": "https://i.ebayimg.com/images/g/9AAAAeSwYu9qyYtv/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168782034481",
     "category": "baseball",
@@ -770,7 +770,7 @@ window.products = [
   {
     "id": 65,
     "name": "Carl Yastrzemski #CR-46 - 2026 Topps Allen &amp; Ginter MLB",
-    "price": 2.99,
+    "price": 2.63,
     "image": "https://i.ebayimg.com/images/g/OxsAAeSwLVtqyYtK/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168782033031",
     "category": "baseball",
@@ -782,7 +782,7 @@ window.products = [
   {
     "id": 66,
     "name": "Pedro Martinez #45 MINI - 2026 Topps Allen &amp; Ginter MLB",
-    "price": 2.99,
+    "price": 2.63,
     "image": "https://i.ebayimg.com/images/g/NK0AAeSwD6JqyYsX/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168782031979",
     "category": "baseball",
@@ -794,7 +794,7 @@ window.products = [
   {
     "id": 67,
     "name": "Byron Buxton #273 BLACK MINI - 2026 Topps Allen &amp; Ginter MLB",
-    "price": 9.99,
+    "price": 8.79,
     "image": "https://i.ebayimg.com/images/g/km8AAeSwF3dqyYr2/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168782031504",
     "category": "baseball",
@@ -806,7 +806,7 @@ window.products = [
   {
     "id": 68,
     "name": "Hank Aaron #CR-12 - 2026 Topps Allen &amp; Ginter MLB",
-    "price": 2.99,
+    "price": 2.63,
     "image": "https://i.ebayimg.com/images/g/Ml0AAeSwD6JqyYrh/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168782031225",
     "category": "baseball",
@@ -818,7 +818,7 @@ window.products = [
   {
     "id": 69,
     "name": "Andrew Painter (RC) #197 MINI A&amp;G BACK - 2026 Topps Allen &amp; Ginter MLB",
-    "price": 4.99,
+    "price": 4.39,
     "image": "https://i.ebayimg.com/images/g/CCUAAeSwsypqyYqx/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168782030648",
     "category": "baseball",
@@ -830,7 +830,7 @@ window.products = [
   {
     "id": 70,
     "name": "Bryce Eldridge #N43-10 - 2026 Topps Allen &amp; Ginter MLB",
-    "price": 2.99,
+    "price": 2.63,
     "image": "https://i.ebayimg.com/images/g/lTsAAeSw-NdqyYqO/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168782030126",
     "category": "baseball",
@@ -842,7 +842,7 @@ window.products = [
   {
     "id": 71,
     "name": "Tim Kurkjian #66 SILVER FILIGREE - 2026 Topps Allen &amp; Ginter MLB",
-    "price": 4.99,
+    "price": 4.39,
     "image": "https://i.ebayimg.com/images/g/bRUAAeSwJF9qyYpp/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168782029805",
     "category": "baseball",
@@ -854,7 +854,7 @@ window.products = [
   {
     "id": 72,
     "name": "Ahoj #WTSH-18 MINI - 2026 Topps Allen &amp; Ginter MLB",
-    "price": 2.99,
+    "price": 2.63,
     "image": "https://i.ebayimg.com/images/g/M-QAAeSw0UxqyYo5/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168782028950",
     "category": "baseball",
@@ -878,7 +878,7 @@ window.products = [
   {
     "id": 74,
     "name": "Reggie Jackson #WP-1 - 2026 Topps Allen &amp; Ginter MLB",
-    "price": 2.99,
+    "price": 2.63,
     "image": "https://i.ebayimg.com/images/g/aK8AAeSwJF9qyYn7/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168782027933",
     "category": "baseball",
@@ -890,7 +890,7 @@ window.products = [
   {
     "id": 75,
     "name": "Julio Rodriguez #N34-39 MINI - 2026 Topps Allen &amp; Ginter MLB",
-    "price": 4.99,
+    "price": 4.39,
     "image": "https://i.ebayimg.com/images/g/togAAeSws4BqyYnm/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168782027678",
     "category": "baseball",
@@ -902,7 +902,7 @@ window.products = [
   {
     "id": 76,
     "name": "Alex Rodriguez #CR-10 - 2026 Topps Allen &amp; Ginter MLB",
-    "price": 2.99,
+    "price": 2.63,
     "image": "https://i.ebayimg.com/images/g/f1QAAeSwffVqyYm~/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168782026999",
     "category": "baseball",
@@ -914,7 +914,7 @@ window.products = [
   {
     "id": 77,
     "name": "Aaron Judge #WP-7 - 2026 Topps Allen &amp; Ginter MLB",
-    "price": 4.99,
+    "price": 4.39,
     "image": "https://i.ebayimg.com/images/g/eksAAeSw06JqyYlT/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168782024809",
     "category": "baseball",
@@ -926,7 +926,7 @@ window.products = [
   {
     "id": 78,
     "name": "Cal Raleigh #WP-11 - 2026 Topps Allen &amp; Ginter MLB",
-    "price": 2.99,
+    "price": 2.63,
     "image": "https://i.ebayimg.com/images/g/aOIAAeSwmHRqyYk4/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168782024471",
     "category": "baseball",
@@ -938,7 +938,7 @@ window.products = [
   {
     "id": 79,
     "name": "Corbin Carroll #59 MINI A&amp;G BACK - 2026 Topps Allen &amp; Ginter MLB",
-    "price": 4.99,
+    "price": 4.39,
     "image": "https://i.ebayimg.com/images/g/EqMAAeSwQi1qyYkV/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168782023965",
     "category": "baseball",
@@ -950,7 +950,7 @@ window.products = [
   {
     "id": 80,
     "name": "Jacob DeGrom #104 MINI - 2026 Topps Allen &amp; Ginter MLB",
-    "price": 2.99,
+    "price": 2.63,
     "image": "https://i.ebayimg.com/images/g/FYUAAeSwdzdqyYj8/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168782023467",
     "category": "baseball",
@@ -962,7 +962,7 @@ window.products = [
   {
     "id": 81,
     "name": "Shohei Ohtani #N43-16 - 2026 Topps Allen &amp; Ginter MLB",
-    "price": 19.97,
+    "price": 17.57,
     "image": "https://i.ebayimg.com/images/g/bLYAAeSwN-VqyYji/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168782023054",
     "category": "baseball",
@@ -974,7 +974,7 @@ window.products = [
   {
     "id": 82,
     "name": "Ty Cobb #CR-13 - 2026 Topps Allen &amp; Ginter MLB",
-    "price": 2.99,
+    "price": 2.63,
     "image": "https://i.ebayimg.com/images/g/ckMAAeSwEPJqyYi~/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168782021183",
     "category": "baseball",
@@ -986,19 +986,19 @@ window.products = [
   {
     "id": 83,
     "name": "Konnor Griffin (RC) #RDV-10 MINI - 2026 Topps Allen &amp; Ginter MLB",
-    "price": 5.99,
+    "price": 5.27,
     "image": "https://i.ebayimg.com/images/g/GE8AAeSwTmVqyYig/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168782020695",
     "category": "baseball",
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 0
   },
   {
     "id": 84,
     "name": "Blake Snell #265 MINI - 2026 Topps Allen &amp; Ginter MLB",
-    "price": 2.99,
+    "price": 2.63,
     "image": "https://i.ebayimg.com/images/g/Zy0AAeSwZ~lqyYiI/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168782020083",
     "category": "baseball",
@@ -1010,7 +1010,7 @@ window.products = [
   {
     "id": 85,
     "name": "Cy Young #CR-29 - 2026 Topps Allen &amp; Ginter MLB",
-    "price": 2.99,
+    "price": 2.63,
     "image": "https://i.ebayimg.com/images/g/DYIAAeSwJbRqyYh1/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168782019118",
     "category": "baseball",
@@ -1022,7 +1022,7 @@ window.products = [
   {
     "id": 86,
     "name": "Mookie Betts #N43-8 - 2026 Topps Allen &amp; Ginter MLB",
-    "price": 2.99,
+    "price": 2.63,
     "image": "https://i.ebayimg.com/images/g/DhMAAeSwbFJqyYhW/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168782016860",
     "category": "baseball",
@@ -1034,7 +1034,7 @@ window.products = [
   {
     "id": 87,
     "name": "Munetaka Murakami (RC) #N34-26 MINI - 2026 Topps Allen &amp; Ginter MLB",
-    "price": 14.97,
+    "price": 13.17,
     "image": "https://i.ebayimg.com/images/g/dFMAAeSw0MdqyYg7/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168782015510",
     "category": "baseball",
@@ -1046,7 +1046,7 @@ window.products = [
   {
     "id": 88,
     "name": "- 2026 Topps Allen &amp; Ginter MLB",
-    "price": 2.99,
+    "price": 2.63,
     "image": "https://i.ebayimg.com/images/g/ZlMAAeSwiiZqyYgO/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168782014612",
     "category": "baseball",
@@ -1058,7 +1058,7 @@ window.products = [
   {
     "id": 89,
     "name": "Lou Gehrig #CR-50 - 2026 Topps Allen &amp; Ginter MLB",
-    "price": 2.99,
+    "price": 2.63,
     "image": "https://i.ebayimg.com/images/g/ZBMAAeSwkBlqyYfU/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168782013587",
     "category": "baseball",
@@ -1070,7 +1070,7 @@ window.products = [
   {
     "id": 90,
     "name": "Ichiro #167 MINI REFRACTOR - 2026 Topps Allen &amp; Ginter MLB",
-    "price": 19.97,
+    "price": 17.57,
     "image": "https://i.ebayimg.com/images/g/UiAAAeSwJF9qyYes/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168782013429",
     "category": "baseball",
@@ -1082,7 +1082,7 @@ window.products = [
   {
     "id": 91,
     "name": "Garry Sheffield #WP-15 - 2026 Topps Allen &amp; Ginter MLB",
-    "price": 2.99,
+    "price": 2.63,
     "image": "https://i.ebayimg.com/images/g/FqUAAeSwLVtqyYdr/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168782012537",
     "category": "baseball",
@@ -1094,7 +1094,7 @@ window.products = [
   {
     "id": 92,
     "name": "Ivan Herrera #106 MINI A&amp;G BACK - 2026 Topps Allen &amp; Ginter MLB",
-    "price": 2.99,
+    "price": 2.63,
     "image": "https://i.ebayimg.com/images/g/dn4AAeSwahRqyYdJ/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168782010501",
     "category": "baseball",
@@ -1118,7 +1118,7 @@ window.products = [
   {
     "id": 94,
     "name": "AUTO* CJ Kayfus #PB-CK - Pulse PARALLEL",
-    "price": 9.99,
+    "price": 8.79,
     "image": "https://i.ebayimg.com/images/g/mAcAAeSwzexqwDTW/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168782006102",
     "category": "other",
@@ -1142,7 +1142,7 @@ window.products = [
   {
     "id": 96,
     "name": "AUTO* 7/29* Adrian Santana #PB-ASA - Pulse PARALLEL",
-    "price": 9.99,
+    "price": 8.79,
     "image": "https://i.ebayimg.com/images/g/pJAAAeSwX9NqwDSh/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168782006098",
     "category": "other",
@@ -1154,7 +1154,7 @@ window.products = [
   {
     "id": 97,
     "name": "AUTO* 12/19* Tyler Stuart #PB-TST - Pulse PARALLEL",
-    "price": 9.99,
+    "price": 8.79,
     "image": "https://i.ebayimg.com/images/g/e-MAAeSwpvhqwDRD/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168782006097",
     "category": "other",
@@ -1202,7 +1202,7 @@ window.products = [
   {
     "id": 101,
     "name": "Ben Rice #196 - BASE - 2026 Topps Allen &amp; Ginter MLB",
-    "price": 3.89,
+    "price": 3.42,
     "image": "https://i.ebayimg.com/images/g/gzIAAeSwKT5qyW~o/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168781876259",
     "category": "baseball",
@@ -1502,7 +1502,7 @@ window.products = [
   {
     "id": 126,
     "name": "Konnor Griffin (RC) #N43-5 - 2026 Topps Allen &amp; Ginter MLB",
-    "price": 2.99,
+    "price": 2.63,
     "image": "https://i.ebayimg.com/images/g/Q9cAAeSw5YVqyW1G/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168781855477",
     "category": "baseball",
@@ -1538,7 +1538,7 @@ window.products = [
   {
     "id": 129,
     "name": "Payton Tolle (RC) #175 MINI A&amp;G BACK - 2026 Topps Allen &amp; Ginter MLB",
-    "price": 5.99,
+    "price": 5.27,
     "image": "https://i.ebayimg.com/images/g/UxYAAeSwPQVqyWz0/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168781853559",
     "category": "baseball",
@@ -1562,7 +1562,7 @@ window.products = [
   {
     "id": 131,
     "name": "Brice Turang #258 MINI BLACK BORDER - 2026 Topps Allen &amp; Ginter MLB",
-    "price": 2.99,
+    "price": 2.63,
     "image": "https://i.ebayimg.com/images/g/VfIAAeSwXgRqyWyj/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168781851176",
     "category": "baseball",
@@ -1574,7 +1574,7 @@ window.products = [
   {
     "id": 132,
     "name": "Chase Burns (RC) #N34-19 MINI - 2026 Topps Allen &amp; Ginter MLB",
-    "price": 5.99,
+    "price": 5.27,
     "image": "https://i.ebayimg.com/images/g/DDUAAeSwX21qyWx-/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168781850264",
     "category": "baseball",
@@ -1586,7 +1586,7 @@ window.products = [
   {
     "id": 133,
     "name": "Nolan Ryan #CR-44 - 2026 Topps Allen &amp; Ginter MLB",
-    "price": 2.99,
+    "price": 2.63,
     "image": "https://i.ebayimg.com/images/g/TSUAAeSwPQVqyWxi/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168781849194",
     "category": "baseball",
@@ -1598,7 +1598,7 @@ window.products = [
   {
     "id": 134,
     "name": "RELIC* Brady House (RC) #FSRB-BH - 2026 Topps Allen &amp; Ginter MLB",
-    "price": 5.99,
+    "price": 5.27,
     "image": "https://i.ebayimg.com/images/g/M7sAAeSwfNpqyWxN/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168781847922",
     "category": "baseball",
@@ -1610,7 +1610,7 @@ window.products = [
   {
     "id": 135,
     "name": "Garry Sheffield #WP-15 - 2026 Topps Allen &amp; Ginter MLB",
-    "price": 2.99,
+    "price": 2.63,
     "image": "https://i.ebayimg.com/images/g/~4AAAeSwPd1qyWwv/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168781846141",
     "category": "baseball",
@@ -1622,7 +1622,7 @@ window.products = [
   {
     "id": 136,
     "name": "Josh Sneed #130 MINI A&amp;G BACK - 2026 Topps Allen &amp; Ginter MLB",
-    "price": 2.99,
+    "price": 2.63,
     "image": "https://i.ebayimg.com/images/g/rpcAAeSwhDxqyWvR/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168781845802",
     "category": "baseball",
@@ -1634,7 +1634,7 @@ window.products = [
   {
     "id": 137,
     "name": "Julio Rodriguez #298 CHROME - 2026 Topps Allen &amp; Ginter MLB",
-    "price": 3.99,
+    "price": 3.51,
     "image": "https://i.ebayimg.com/images/g/OvMAAeSwqRlqyWun/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168781844159",
     "category": "baseball",
@@ -1730,7 +1730,7 @@ window.products = [
   {
     "id": 145,
     "name": "Andrew Painter (RC) #197 - BASE - 2026 Topps Allen &amp; Ginter MLB",
-    "price": 2.89,
+    "price": 2.54,
     "image": "https://i.ebayimg.com/images/g/taYAAeSwEuRqyTu8/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168781497111",
     "category": "baseball",
@@ -1778,7 +1778,7 @@ window.products = [
   {
     "id": 149,
     "name": "Kyle Mooney #213 - BASE - 2026 Topps Allen &amp; Ginter MLB",
-    "price": 3.99,
+    "price": 3.51,
     "image": "https://i.ebayimg.com/images/g/pvMAAeSwtHBqyTtq/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168781494986",
     "category": "baseball",
@@ -1898,7 +1898,7 @@ window.products = [
   {
     "id": 159,
     "name": "Alysha Newman #28 - BASE - 2026 Topps Allen &amp; Ginter MLB",
-    "price": 2.99,
+    "price": 2.63,
     "image": "https://i.ebayimg.com/images/g/lKkAAeSwXdFqyTqK/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168781486545",
     "category": "baseball",
@@ -1958,7 +1958,7 @@ window.products = [
   {
     "id": 164,
     "name": "Heriberto Hernandez (RC) #152 - BASE - 2026 Topps Allen &amp; Ginter MLB",
-    "price": 3.29,
+    "price": 2.9,
     "image": "https://i.ebayimg.com/images/g/pHEAAeSwb7lqyTom/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168781483991",
     "category": "baseball",
@@ -2054,7 +2054,7 @@ window.products = [
   {
     "id": 172,
     "name": "Steve Burns #58 - BASE - 2026 Topps Allen &amp; Ginter MLB",
-    "price": 3.99,
+    "price": 3.51,
     "image": "https://i.ebayimg.com/images/g/nKUAAeSwwHhqyTlq/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168781477010",
     "category": "baseball",
@@ -2102,7 +2102,7 @@ window.products = [
   {
     "id": 176,
     "name": "Joe Hahn #117 MINI A&amp;G BACK - 2026 Topps Allen &amp; Ginter MLB",
-    "price": 7.98,
+    "price": 7.02,
     "image": "https://i.ebayimg.com/images/g/lBUAAeSwo-RqyTjP/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168781474303",
     "category": "baseball",
@@ -2114,7 +2114,7 @@ window.products = [
   {
     "id": 177,
     "name": "Steve Carlton #CR-27 - 2026 Topps Allen &amp; Ginter MLB",
-    "price": 2.99,
+    "price": 2.63,
     "image": "https://i.ebayimg.com/images/g/ln4AAeSwK8dqyTik/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168781472553",
     "category": "baseball",
@@ -2126,7 +2126,7 @@ window.products = [
   {
     "id": 178,
     "name": "George Springer #138 MINI - 2026 Topps Allen &amp; Ginter MLB",
-    "price": 2.99,
+    "price": 2.63,
     "image": "https://i.ebayimg.com/images/g/hH0AAeSwvAtqyTiQ/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168781472015",
     "category": "baseball",
@@ -2138,7 +2138,7 @@ window.products = [
   {
     "id": 179,
     "name": "Sammy Sosa #WP-24 - 2026 Topps Allen &amp; Ginter MLB",
-    "price": 2.99,
+    "price": 2.63,
     "image": "https://i.ebayimg.com/images/g/oqgAAeSwg71qyTh9/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168781471575",
     "category": "baseball",
@@ -2162,7 +2162,7 @@ window.products = [
   {
     "id": 181,
     "name": "Rickey Henderson #CR-47 - 2026 Topps Allen &amp; Ginter MLB",
-    "price": 2.99,
+    "price": 2.63,
     "image": "https://i.ebayimg.com/images/g/gB8AAeSwH15qyThL/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168781470530",
     "category": "baseball",
@@ -2174,7 +2174,7 @@ window.products = [
   {
     "id": 182,
     "name": "Shota Imanaga #227 GOLD MINI - 2026 Topps Allen &amp; Ginter MLB",
-    "price": 4.99,
+    "price": 4.39,
     "image": "https://i.ebayimg.com/images/g/hR8AAeSwnSVqyTg0/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168781470214",
     "category": "baseball",
@@ -2186,7 +2186,7 @@ window.products = [
   {
     "id": 183,
     "name": "Manny Ramirez #87 BLACK MINI - 2026 Topps Allen &amp; Ginter MLB",
-    "price": 3.99,
+    "price": 3.51,
     "image": "https://i.ebayimg.com/images/g/iFkAAeSwDZJqyTgA/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168781469516",
     "category": "baseball",
@@ -2198,7 +2198,7 @@ window.products = [
   {
     "id": 184,
     "name": "Ken Griffey Jr. #CR-49 - 2026 Topps Allen &amp; Ginter MLB",
-    "price": 2.99,
+    "price": 2.63,
     "image": "https://i.ebayimg.com/images/g/d5UAAeSwsHhqyTfe/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168781468608",
     "category": "baseball",
@@ -2222,7 +2222,7 @@ window.products = [
   {
     "id": 186,
     "name": "Cassette Player #MM-7 - 2026 Topps Allen &amp; Ginter MLB",
-    "price": 3.99,
+    "price": 3.51,
     "image": "https://i.ebayimg.com/images/g/ikIAAeSwF-5qyTeu/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168781467556",
     "category": "baseball",
@@ -2246,7 +2246,7 @@ window.products = [
   {
     "id": 188,
     "name": "Yoshinobu Yamamoto #50 MINI REFRACTOR - 2026 Topps Allen &amp; Ginter MLB",
-    "price": 9.97,
+    "price": 8.77,
     "image": "https://i.ebayimg.com/images/g/k~4AAeSwg71qyTd~/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168781465474",
     "category": "baseball",
@@ -2258,7 +2258,7 @@ window.products = [
   {
     "id": 189,
     "name": "Clayton Kershaw #199 MINI - 2026 Topps Allen &amp; Ginter MLB",
-    "price": 2.99,
+    "price": 2.63,
     "image": "https://i.ebayimg.com/images/g/ij8AAeSw~dNqyTc9/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168781464228",
     "category": "baseball",
@@ -2474,7 +2474,7 @@ window.products = [
   {
     "id": 207,
     "name": "Devin Walker #140 - BASE - 2026 Topps Allen &amp; Ginter MLB",
-    "price": 2.49,
+    "price": 2.19,
     "image": "https://i.ebayimg.com/images/g/tJcAAeSwnNFqySmy/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168781366810",
     "category": "baseball",
@@ -2666,7 +2666,7 @@ window.products = [
   {
     "id": 223,
     "name": "Jimmie Foxx #WP-25 - 2026 Topps Allen &amp; Ginter MLB",
-    "price": 2.99,
+    "price": 2.63,
     "image": "https://i.ebayimg.com/images/g/FLIAAeSwsNpqySfb/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168781351811",
     "category": "baseball",
@@ -2678,7 +2678,7 @@ window.products = [
   {
     "id": 224,
     "name": "Helo #WTSH-27 MINI - 2026 Topps Allen &amp; Ginter MLB",
-    "price": 2.99,
+    "price": 2.63,
     "image": "https://i.ebayimg.com/images/g/m20AAeSwmHRqySfG/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168781351279",
     "category": "baseball",
@@ -2702,7 +2702,7 @@ window.products = [
   {
     "id": 226,
     "name": "Jac Caglianone (RC) #N43-15 - 2026 Topps Allen &amp; Ginter MLB",
-    "price": 3.99,
+    "price": 3.51,
     "image": "https://i.ebayimg.com/images/g/lUMAAeSwdlFqySbQ/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168781344922",
     "category": "baseball",
@@ -2714,7 +2714,7 @@ window.products = [
   {
     "id": 227,
     "name": "Carson Benge (RC) #53 MINI - 2026 Topps Allen &amp; Ginter MLB",
-    "price": 2.99,
+    "price": 2.63,
     "image": "https://i.ebayimg.com/images/g/MZ8AAeSws4BqySa2/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168781343947",
     "category": "baseball",
@@ -2750,7 +2750,7 @@ window.products = [
   {
     "id": 230,
     "name": "Mickey Mantle #7 MINI A&amp;G BACK - 2026 Topps Allen &amp; Ginter MLB",
-    "price": 4.99,
+    "price": 4.39,
     "image": "https://i.ebayimg.com/images/g/gTsAAeSwKG5qySZX/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168781341519",
     "category": "baseball",
@@ -2786,7 +2786,7 @@ window.products = [
   {
     "id": 233,
     "name": "Ken Griffey Jr. #WP-9 - 2026 Topps Allen &amp; Ginter MLB",
-    "price": 2.99,
+    "price": 2.63,
     "image": "https://i.ebayimg.com/images/g/fbUAAeSwb7lqySX-/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168781337743",
     "category": "baseball",
@@ -2798,7 +2798,7 @@ window.products = [
   {
     "id": 234,
     "name": "Emily Armstrong #279 BLACK MINI - 2026 Topps Allen &amp; Ginter MLB",
-    "price": 6.99,
+    "price": 6.15,
     "image": "https://i.ebayimg.com/images/g/f40AAeSwj99qySXU/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168781336392",
     "category": "baseball",
@@ -2810,7 +2810,7 @@ window.products = [
   {
     "id": 235,
     "name": "Roger Clemens #CR-24 - 2026 Topps Allen &amp; Ginter MLB",
-    "price": 2.99,
+    "price": 2.63,
     "image": "https://i.ebayimg.com/images/g/gxIAAeSwwelqySW1/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168781334708",
     "category": "baseball",
@@ -2822,7 +2822,7 @@ window.products = [
   {
     "id": 236,
     "name": "Elly De La Cruz #N34-28 MINI - 2026 Topps Allen &amp; Ginter MLB",
-    "price": 2.99,
+    "price": 2.63,
     "image": "https://i.ebayimg.com/images/g/kpoAAeSwo-RqySWg/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168781334113",
     "category": "baseball",
@@ -2834,7 +2834,7 @@ window.products = [
   {
     "id": 237,
     "name": "JJ Wetherholt (RC) #N43-17 - 2026 Topps Allen &amp; Ginter MLB",
-    "price": 2.99,
+    "price": 2.63,
     "image": "https://i.ebayimg.com/images/g/fXEAAeSwLb5qySWB/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168781333319",
     "category": "baseball",
@@ -2973,7 +2973,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 7
+    "stock": 5
   },
   {
     "id": 249,
