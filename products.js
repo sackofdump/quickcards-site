@@ -2973,7 +2973,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 5
+    "stock": 4
   },
   {
     "id": 249,
@@ -3213,7 +3213,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 0
   },
   {
     "id": 269,
@@ -3681,7 +3681,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": true,
-    "stock": 1
+    "stock": 0
   },
   {
     "id": 308,
@@ -3698,7 +3698,7 @@ window.products = [
   {
     "id": 309,
     "name": "Tom Brady - 2026 Topps NFL Living Set #1 New England Patriots IN HAND",
-    "price": 4.35,
+    "price": 4.94,
     "image": "https://i.ebayimg.com/images/g/140AAeSw5oZqw7DL/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168764680897",
     "category": "football",
@@ -5030,7 +5030,7 @@ window.products = [
   {
     "id": 420,
     "name": "Cam Schlittler (RC) 10Ks Post Season- 2026 MLB Topps NOW® - Card 738 PRE-SALE",
-    "price": 8.77,
+    "price": 7.77,
     "image": "https://i.ebayimg.com/images/g/3j0AAeSwdNVqvY2c/s-l300.png",
     "url": "https://www.ebay.com/itm/168747174818",
     "category": "topps-now",
@@ -7442,7 +7442,7 @@ window.products = [
   {
     "id": 621,
     "name": "1/1* Matthew Golden #NFLM-MG ONE OF ONE 2026 Topps NFL Flagship",
-    "price": 350.21,
+    "price": 349,
     "image": "https://i.ebayimg.com/images/g/qvAAAeSwLrNqiRJk/s-l300.png",
     "url": "https://www.ebay.com/itm/168708871707",
     "category": "football",
@@ -86702,7 +86702,7 @@ window.products = [
   {
     "id": 7226,
     "name": "(3 PACK) PLASTIC CLIPS - Slack Board Balance Trainer Spare Part (Gibbon)",
-    "price": 13.2,
+    "price": 15,
     "image": "https://i.ebayimg.com/images/g/tQkAAeSwAANpqi8N/s-l300.png",
     "url": "https://www.ebay.com/itm/168208933495",
     "category": "other",
@@ -91466,7 +91466,7 @@ window.products = [
   {
     "id": 7623,
     "name": "SPRUNKI Incredibox - 55 STICKERS! No Duplicates - Random Sprunki Stickers Gift S",
-    "price": 6.14,
+    "price": 6.98,
     "image": "https://i.ebayimg.com/images/g/QYwAAOSwxYhn1eEe/s-l300.png",
     "url": "https://www.ebay.com/itm/168145634627",
     "category": "stickers",
@@ -96650,7 +96650,7 @@ window.products = [
   {
     "id": 8055,
     "name": "Pete The Cat - 50 STICKERS!  NO DUPLICATES - Random Pete The Cat Stickers Kids",
-    "price": 6.16,
+    "price": 7,
     "image": "https://i.ebayimg.com/images/g/QOMAAOSwjXJn7dM~/s-l300.png",
     "url": "https://www.ebay.com/itm/167436072954",
     "category": "stickers",
@@ -96662,7 +96662,7 @@ window.products = [
   {
     "id": 8056,
     "name": "SPRUNKI Incredibox - 55 STICKERS! No Duplicates - Random Sprunki Stickers Gift",
-    "price": 6.81,
+    "price": 7.74,
     "image": "https://i.ebayimg.com/images/g/QYwAAOSwxYhn1eEe/s-l300.png",
     "url": "https://www.ebay.com/itm/167379636881",
     "category": "stickers",
@@ -108182,7 +108182,7 @@ window.products = [
   {
     "id": 9016,
     "name": "8x MINI PACKS Pokemon TCG Trick or Trade BOOster Bundle Lot 2022 Halloween Card",
-    "price": 26.39,
+    "price": 29.99,
     "image": "https://i.ebayimg.com/images/g/iQ0AAeSwbG9qbQWv/s-l300.png",
     "url": "https://www.ebay.com/itm/166521864089",
     "category": "pokemon",
@@ -110462,7 +110462,7 @@ window.products = [
   {
     "id": 9206,
     "name": "11 CHARMS! Dunkin Donuts Shoe Charms - Birthday Gift For Kids and Adults",
-    "price": 10.46,
+    "price": 11.89,
     "image": "https://i.ebayimg.com/images/g/4HAAAOSwTh5kW9Cf/s-l300.jpg",
     "url": "https://www.ebay.com/itm/166136902568",
     "category": "charms",
