@@ -746,7 +746,7 @@ window.products = [
   {
     "id": 63,
     "name": "Babe Ruth #WP-6 - 2026 Topps Allen &amp; Ginter MLB",
-    "price": 2.99,
+    "price": 2.63,
     "image": "https://i.ebayimg.com/images/g/KYQAAeSwJdhqyYuD/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168782034954",
     "category": "baseball",
@@ -866,7 +866,7 @@ window.products = [
   {
     "id": 73,
     "name": "Willie Mays #WP-10 - 2026 Topps Allen &amp; Ginter MLB",
-    "price": 2.99,
+    "price": 2.63,
     "image": "https://i.ebayimg.com/images/g/IcoAAeSwjXpqyYoh/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168782028463",
     "category": "baseball",
@@ -1514,7 +1514,7 @@ window.products = [
   {
     "id": 127,
     "name": "Mickey Mantle #7 MINI - 2026 Topps Allen &amp; Ginter MLB",
-    "price": 4.29,
+    "price": 3.78,
     "image": "https://i.ebayimg.com/images/g/RhAAAeSwLb5qyW0n/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168781854242",
     "category": "baseball",
@@ -1838,7 +1838,7 @@ window.products = [
   {
     "id": 154,
     "name": "Mickey Mantle #7 - BASE - 2026 Topps Allen &amp; Ginter MLB",
-    "price": 2.99,
+    "price": 2.63,
     "image": "https://i.ebayimg.com/images/g/t3UAAeSw3NFqyTsJ/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168781490780",
     "category": "baseball",
@@ -2726,7 +2726,7 @@ window.products = [
   {
     "id": 228,
     "name": "Mickey Mantle #7 GOLD MINI - 2026 Topps Allen &amp; Ginter MLB",
-    "price": 9.99,
+    "price": 8.79,
     "image": "https://i.ebayimg.com/images/g/~k8AAeSw96NqySaT/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168781343203",
     "category": "baseball",
@@ -2973,7 +2973,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 4
+    "stock": 3
   },
   {
     "id": 249,
@@ -62029,7 +62029,7 @@ window.products = [
   },
   {
     "id": 5170,
-    "name": "Cal Raleigh - MLB Leading 43rd HR - 2025 MLB Topps NOW® - Card 534",
+    "name": "Cal Raleigh - MLB Leading 43rd HR - 2025 MLB Topps NOW�� - Card 534",
     "price": 2.86,
     "image": "https://i.ebayimg.com/images/g/Z00AAeSw95lol6RB/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168385310604",
