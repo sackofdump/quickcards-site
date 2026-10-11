@@ -2961,7 +2961,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 9
+    "stock": 7
   },
   {
     "id": 248,
@@ -2973,7 +2973,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 3
+    "stock": 0
   },
   {
     "id": 249,
@@ -62029,7 +62029,7 @@ window.products = [
   },
   {
     "id": 5170,
-    "name": "Cal Raleigh - MLB Leading 43rd HR - 2025 MLB Topps NOW�� - Card 534",
+    "name": "Cal Raleigh - MLB Leading 43rd HR - 2025 MLB Topps NOW® - Card 534",
     "price": 2.86,
     "image": "https://i.ebayimg.com/images/g/Z00AAeSw95lol6RB/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168385310604",
