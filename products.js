@@ -2,14 +2,14 @@ window.products = [
   {
     "id": 1,
     "name": "Brice Turang - 2026 MLB Topps NOW® Milwaukee Brewers - Card 780 PRE-SALE",
-    "price": 4.97,
+    "price": 4.37,
     "image": "https://i.ebayimg.com/images/g/cXUAAeSwrTNqzTe-/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168788268508",
     "category": "topps-now",
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 15
+    "stock": 9
   },
   {
     "id": 2,
@@ -107625,7 +107625,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": true,
-    "stock": 3
+    "stock": 2
   },
   {
     "id": 8970,
