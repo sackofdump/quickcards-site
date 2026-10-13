@@ -9,7 +9,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 4
+    "stock": 3
   },
   {
     "id": 2,
@@ -2937,7 +2937,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 0
   },
   {
     "id": 246,
@@ -2985,7 +2985,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 0
   },
   {
     "id": 250,
@@ -7365,7 +7365,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": true,
-    "stock": 5
+    "stock": 4
   },
   {
     "id": 615,
@@ -11065,15 +11065,15 @@ window.products = [
   },
   {
     "id": 923,
-    "name": "George Lombard Jr. (RC) 1st GRANNY - 2026 MLB Topps NOW® - Card 656 PRE-SALE",
-    "price": 8.77,
+    "name": "George Lombard Jr. (RC) 1st GRANNY - 2026 MLB Topps NOW® - Card 656 IN HAND",
+    "price": 19.77,
     "image": "https://i.ebayimg.com/images/g/VnIAAeSwwe9qo3BF/s-l300.png",
     "url": "https://www.ebay.com/itm/168679986565",
     "category": "topps-now",
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 0
+    "stock": 3
   },
   {
     "id": 924,
@@ -77361,7 +77361,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 4
+    "stock": 3
   },
   {
     "id": 6448,
