@@ -2,38 +2,38 @@ window.products = [
   {
     "id": 1,
     "name": "Jake Bauers / Garrett Mitchell B2B HR - 2026 MLB Topps NOW® - Card 793 PRE-SALE",
-    "price": 5.97,
+    "price": 9.97,
     "image": "https://i.ebayimg.com/images/g/QHIAAeSwjFNq0QTM/s-l300.png",
     "url": "https://www.ebay.com/itm/168795069431",
     "category": "topps-now",
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 13
+    "stock": 11
   },
   {
     "id": 2,
     "name": "Jake Bauers GO AHEAD HR - 2026 MLB Topps NOW® - Brewers Card 792 PRE-SALE",
-    "price": 5.97,
+    "price": 9.97,
     "image": "https://i.ebayimg.com/images/g/Uk0AAeSwhf9q0QQ4/s-l300.png",
     "url": "https://www.ebay.com/itm/168795069430",
     "category": "topps-now",
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 8
+    "stock": 5
   },
   {
     "id": 3,
     "name": "Jackson Chourio 1st PITCH HR - 2026 MLB Topps NOW®  Brewers - Card 791 PRE-SALE",
-    "price": 6.74,
+    "price": 19.74,
     "image": "https://i.ebayimg.com/images/g/l8QAAeSwRZJq0QSG/s-l300.png",
     "url": "https://www.ebay.com/itm/168795069428",
     "category": "topps-now",
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 4
+    "stock": 2
   },
   {
     "id": 4,
@@ -7849,7 +7849,7 @@ window.products = [
   },
   {
     "id": 655,
-    "name": "Travis Kelce RECORD YDs Catch - 2026-27 NFL Topps NOW® - Card 25 PRE-SALE",
+    "name": "Travis Kelce RECORD YDs Catch - 2026-27 NFL Topps NOW® - Card 25 IN HAND",
     "price": 4.17,
     "image": "https://i.ebayimg.com/images/g/9SUAAeSwhkhqsv49/s-l300.png",
     "url": "https://www.ebay.com/itm/168711357517",
@@ -7857,7 +7857,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 5
+    "stock": 4
   },
   {
     "id": 656,
@@ -8181,7 +8181,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 3
+    "stock": 1
   },
   {
     "id": 683,
@@ -10405,7 +10405,7 @@ window.products = [
   },
   {
     "id": 868,
-    "name": "Derrick Henry NO. 3 ALL TIME RUSH YDs - 2026 NFL Topps NOW® - Card 7 PRE-SALE",
+    "name": "Derrick Henry NO. 3 ALL TIME RUSH YDs - 2026 NFL Topps NOW® - Card 7 IN HAND",
     "price": 6.24,
     "image": "https://i.ebayimg.com/images/g/0MgAAeSwXUJqqsFd/s-l300.png",
     "url": "https://www.ebay.com/itm/168693497183",
@@ -13605,7 +13605,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 8
+    "stock": 6
   },
   {
     "id": 1135,
@@ -31677,7 +31677,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 3
+    "stock": 2
   },
   {
     "id": 2641,
@@ -46077,7 +46077,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 0
   },
   {
     "id": 3841,
