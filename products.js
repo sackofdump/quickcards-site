@@ -2,26 +2,26 @@ window.products = [
   {
     "id": 1,
     "name": "Jake Bauers / Garrett Mitchell B2B HR - 2026 MLB Topps NOW® - Card 793 PRE-SALE",
-    "price": 4.97,
+    "price": 5.97,
     "image": "https://i.ebayimg.com/images/g/QHIAAeSwjFNq0QTM/s-l300.png",
     "url": "https://www.ebay.com/itm/168795069431",
     "category": "topps-now",
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 18
+    "stock": 13
   },
   {
     "id": 2,
     "name": "Jake Bauers GO AHEAD HR - 2026 MLB Topps NOW® - Brewers Card 792 PRE-SALE",
-    "price": 4.97,
+    "price": 5.97,
     "image": "https://i.ebayimg.com/images/g/Uk0AAeSwhf9q0QQ4/s-l300.png",
     "url": "https://www.ebay.com/itm/168795069430",
     "category": "topps-now",
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 5
+    "stock": 9
   },
   {
     "id": 3,
@@ -33,7 +33,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 18
+    "stock": 8
   },
   {
     "id": 4,
@@ -10413,7 +10413,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 7
+    "stock": 6
   },
   {
     "id": 869,
@@ -59421,7 +59421,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 0
   },
   {
     "id": 4953,
