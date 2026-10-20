@@ -8209,27 +8209,27 @@ window.products = [
   },
   {
     "id": 685,
-    "name": "Darian Mensah 24 Completions - 2026-27 Bowman U NOW® Football - Card 9 PRE-SALE",
-    "price": 4.17,
+    "name": "Darian Mensah 24 Completions - 2026-27 Bowman U NOW® Football - Card 9 IN HAND",
+    "price": 10.77,
     "image": "https://i.ebayimg.com/images/g/eeYAAeSwtjlqsv1o/s-l300.png",
     "url": "https://www.ebay.com/itm/168711352588",
     "category": "football",
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 0
+    "stock": 1
   },
   {
     "id": 686,
-    "name": "Drew Mestemaker 5 TD RECORD - 2026-27 Bowman U NOW® Football - Card 11 PRE-SALE",
-    "price": 6.97,
+    "name": "Drew Mestemaker 5 TD RECORD - 2026-27 Bowman U NOW® Football - Card 11 IN HAND",
+    "price": 19.78,
     "image": "https://i.ebayimg.com/images/g/-5oAAeSwN9dqsvzN/s-l300.png",
     "url": "https://www.ebay.com/itm/168711342860",
     "category": "football",
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 0
+    "stock": 1
   },
   {
     "id": 687,
@@ -8245,15 +8245,15 @@ window.products = [
   },
   {
     "id": 688,
-    "name": "Bo Davidson (CALL UP RC) DEBUT HISTORY 2026 MLB Topps NOW® - Card 701  PRE-SALE",
-    "price": 9.74,
+    "name": "Bo Davidson (CALL UP RC) DEBUT HISTORY 2026 MLB Topps NOW® - Card 701 IN HAND",
+    "price": 19.79,
     "image": "https://i.ebayimg.com/images/g/S1gAAeSwnMtqsqOr/s-l300.png",
     "url": "https://www.ebay.com/itm/168708762141",
     "category": "topps-now",
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 0
+    "stock": 2
   },
   {
     "id": 689,
@@ -8497,20 +8497,20 @@ window.products = [
   },
   {
     "id": 709,
-    "name": "Milwaukee Brewers - 98th Victory HISTORY 2026 MLB Topps NOW®  Card 699  PRE-SALE",
-    "price": 5.17,
+    "name": "Milwaukee Brewers - 98th Victory HISTORY 2026 MLB Topps NOW®  Card 699 IN HAND",
+    "price": 19.79,
     "image": "https://i.ebayimg.com/images/g/JDYAAeSwaw5qsaD9/s-l300.png",
     "url": "https://www.ebay.com/itm/168705643860",
     "category": "topps-now",
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 0
+    "stock": 1
   },
   {
     "id": 710,
-    "name": "Jackson Chourio - 1st MLB History 3 20/20 2026 MLB Topps NOW® Card 698  PRE-SALE",
-    "price": 9.77,
+    "name": "Jackson Chourio - 1st MLB History 3 20/20 2026 MLB Topps NOW® Card 698 IN HAND",
+    "price": 19.79,
     "image": "https://i.ebayimg.com/images/g/a8QAAeSwSyBqsZ-1/s-l300.png",
     "url": "https://www.ebay.com/itm/168705638469",
     "category": "topps-now",
@@ -9925,15 +9925,15 @@ window.products = [
   },
   {
     "id": 828,
-    "name": "Josh Allen 5TDs NEW STADIUM - 2026-27 NFL Topps NOW® - Card 19 PRE-SALE",
-    "price": 6.97,
+    "name": "Josh Allen 5TDs NEW STADIUM - 2026-27 NFL Topps NOW® - Card 19 IN HAND",
+    "price": 10.77,
     "image": "https://i.ebayimg.com/images/g/vucAAeSwBDhqratb/s-l300.png",
     "url": "https://www.ebay.com/itm/168698699674",
     "category": "topps-now",
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 0
+    "stock": 5
   },
   {
     "id": 829,
@@ -10573,15 +10573,15 @@ window.products = [
   },
   {
     "id": 882,
-    "name": "Milwaukee Brewers 4 DIVISION CHAMPS 2026 MLB Topps NOW® - Card 681  PRE-SALE",
-    "price": 7.47,
+    "name": "Milwaukee Brewers 4 DIVISION CHAMPS 2026 MLB Topps NOW® - Card 681 IN HAND",
+    "price": 19.79,
     "image": "https://i.ebayimg.com/images/g/X7IAAeSwTctqqvvT/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168693889338",
     "category": "topps-now",
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 0
+    "stock": 3
   },
   {
     "id": 883,
@@ -10909,15 +10909,15 @@ window.products = [
   },
   {
     "id": 910,
-    "name": "Milwaukee Brewers 20-0 PostSeason Clinch 2026 MLB Topps NOW® - Card 661 PRE-SALE",
-    "price": 7.77,
+    "name": "Milwaukee Brewers 20-0 PostSeason Clinch 2026 MLB Topps NOW® - Card 661 IN HAND",
+    "price": 19.78,
     "image": "https://i.ebayimg.com/images/g/a48AAeSw4ptqpcQJ/s-l300.png",
     "url": "https://www.ebay.com/itm/168684098547",
     "category": "topps-now",
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 0
+    "stock": 2
   },
   {
     "id": 911,
