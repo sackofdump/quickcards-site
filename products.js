@@ -14,26 +14,26 @@ window.products = [
   {
     "id": 2,
     "name": "Jacob Misiorowski WORLD SERIES BREWERS - 2026 MLB Topps NOW® - Card 811 PRE-SALE",
-    "price": 6.47,
+    "price": 6.74,
     "image": "https://i.ebayimg.com/images/g/aykAAeSw9bRq3QRl/s-l300.png",
     "url": "https://www.ebay.com/itm/168814209400",
     "category": "topps-now",
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 13
+    "stock": 14
   },
   {
     "id": 3,
     "name": "Christian Yelich WORLD SERIES Brewers - 2026 MLB Topps NOW® - Card 812 PRE-SALE",
-    "price": 6.47,
+    "price": 6.74,
     "image": "https://i.ebayimg.com/images/g/YhIAAeSwKGJq3QPy/s-l300.png",
     "url": "https://www.ebay.com/itm/168814206807",
     "category": "topps-now",
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 14
+    "stock": 15
   },
   {
     "id": 4,
@@ -45,7 +45,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 9
+    "stock": 24
   },
   {
     "id": 5,
@@ -57,7 +57,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 14
+    "stock": 12
   },
   {
     "id": 6,
@@ -69,7 +69,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 12
+    "stock": 22
   },
   {
     "id": 7,
@@ -765,7 +765,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 7
+    "stock": 0
   },
   {
     "id": 65,
@@ -1689,7 +1689,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 0
   },
   {
     "id": 142,
@@ -2481,7 +2481,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 0
   },
   {
     "id": 208,
@@ -7005,7 +7005,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 2
+    "stock": 1
   },
   {
     "id": 585,
@@ -10557,7 +10557,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 2
+    "stock": 1
   },
   {
     "id": 881,
@@ -10597,7 +10597,7 @@ window.products = [
   },
   {
     "id": 884,
-    "name": "Bo Davidson (CALL UP RC) DEBUT HISTORY 2026 MLB Topps NOW�� - Card 701 IN HAND",
+    "name": "Bo Davidson (CALL UP RC) DEBUT HISTORY 2026 MLB Topps NOW® - Card 701 IN HAND",
     "price": 19.79,
     "image": "https://i.ebayimg.com/images/g/S1gAAeSwnMtqsqOr/s-l300.png",
     "url": "https://www.ebay.com/itm/168708762141",
