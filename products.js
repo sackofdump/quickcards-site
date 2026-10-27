@@ -14,38 +14,38 @@ window.products = [
   {
     "id": 2,
     "name": "Sal Frelick WORLD SERIES - 2026 MLB Topps NOW® - Brewers Card 817 PRE-SALE",
-    "price": 9.74,
+    "price": 19.77,
     "image": "https://i.ebayimg.com/images/g/rqUAAeSw4Qlq3lHB/s-l300.png",
     "url": "https://www.ebay.com/itm/168816078169",
     "category": "topps-now",
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 31
+    "stock": 23
   },
   {
     "id": 3,
     "name": "Cooper Pratt (RC) WORLD SERIES - 2026 MLB Topps NOW® - Card 818 Brewers PRE-SALE",
-    "price": 9.74,
+    "price": 19.77,
     "image": "https://i.ebayimg.com/images/g/ZHcAAeSw0nBq3lGK/s-l300.png",
     "url": "https://www.ebay.com/itm/168816077451",
     "category": "topps-now",
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 31
+    "stock": 25
   },
   {
     "id": 4,
     "name": "Aaron Ashby WORLD SERIES - 2026 MLB Topps NOW® - Card 819 Brewers PRE-SALE",
-    "price": 7.97,
+    "price": 17.5,
     "image": "https://i.ebayimg.com/images/g/HJIAAeSwVVBq3lF0/s-l300.png",
     "url": "https://www.ebay.com/itm/168816076607",
     "category": "topps-now",
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 22
+    "stock": 12
   },
   {
     "id": 5,
@@ -69,7 +69,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 0
   },
   {
     "id": 7,
@@ -81,7 +81,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 0
   },
   {
     "id": 8,
@@ -93,7 +93,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 0
   },
   {
     "id": 9,
@@ -105,7 +105,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 0
   },
   {
     "id": 10,
@@ -309,7 +309,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 0
   },
   {
     "id": 27,
@@ -705,7 +705,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 0
   },
   {
     "id": 60,
@@ -9861,7 +9861,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 0
   },
   {
     "id": 823,
@@ -11853,7 +11853,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 0
   },
   {
     "id": 989,
@@ -12309,7 +12309,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 5
+    "stock": 0
   },
   {
     "id": 1027,
@@ -16101,7 +16101,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 4
+    "stock": 3
   },
   {
     "id": 1343,
@@ -17373,7 +17373,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 0
   },
   {
     "id": 1449,
