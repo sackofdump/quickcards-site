@@ -33,7 +33,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 25
+    "stock": 24
   },
   {
     "id": 4,
@@ -45,7 +45,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 12
+    "stock": 11
   },
   {
     "id": 5,
@@ -66117,7 +66117,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 9
+    "stock": 8
   },
   {
     "id": 5511,
@@ -118777,7 +118777,7 @@ window.products = [
   },
   {
     "id": 9899,
-    "name": "Klinklang 104/172 Brilliant Stars Regular Rare Pokemon Card TCG Pokémon MINT/NM",
+    "name": "Klinklang 104/172 Brilliant Stars Regular Rare Pokemon Card TCG Pok��mon MINT/NM",
     "price": 1.84,
     "image": "https://i.ebayimg.com/images/g/lo8AAOSwnf5jfvaU/s-l300.jpg",
     "url": "https://www.ebay.com/itm/165794539177",
