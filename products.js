@@ -21,7 +21,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 23
+    "stock": 21
   },
   {
     "id": 3,
@@ -10549,7 +10549,7 @@ window.products = [
   },
   {
     "id": 880,
-    "name": "Paul Skenes 1st B2B 200-K Season '66 - 2026 MLB Topps NOW® - Card 714  PRE-SALE",
+    "name": "Paul Skenes 1st B2B 200-K Season '66 - 2026 MLB Topps NOW® - Card 714 IN HAND",
     "price": 6.94,
     "image": "https://i.ebayimg.com/images/g/V38AAeSwDONqtwRp/s-l300.png",
     "url": "https://www.ebay.com/itm/168721167859",
@@ -10557,7 +10557,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 6
+    "stock": 8
   },
   {
     "id": 881,
@@ -18297,7 +18297,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 0
   },
   {
     "id": 1526,
@@ -43274,14 +43274,14 @@ window.products = [
   {
     "id": 3607,
     "name": "Jacob Misiorowski (RC) 7Ks Straight - 2026 MLB Topps NOW Card 493  IN HAND",
-    "price": 5.74,
+    "price": 12.97,
     "image": "https://i.ebayimg.com/images/g/v~wAAeSwLDFqZ8c1/s-l300.png",
     "url": "https://www.ebay.com/itm/168568240260",
     "category": "topps-now",
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 3
   },
   {
     "id": 3608,
@@ -86769,7 +86769,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 0
   },
   {
     "id": 7232,
@@ -118777,7 +118777,7 @@ window.products = [
   },
   {
     "id": 9899,
-    "name": "Klinklang 104/172 Brilliant Stars Regular Rare Pokemon Card TCG Pok��mon MINT/NM",
+    "name": "Klinklang 104/172 Brilliant Stars Regular Rare Pokemon Card TCG Pokémon MINT/NM",
     "price": 1.84,
     "image": "https://i.ebayimg.com/images/g/lo8AAOSwnf5jfvaU/s-l300.jpg",
     "url": "https://www.ebay.com/itm/165794539177",
