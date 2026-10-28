@@ -9,7 +9,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 29
+    "stock": 26
   },
   {
     "id": 2,
@@ -21,7 +21,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 17
+    "stock": 13
   },
   {
     "id": 3,
@@ -33,7 +33,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 15
+    "stock": 11
   },
   {
     "id": 4,
@@ -81,7 +81,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 7
+    "stock": 6
   },
   {
     "id": 8,
@@ -117,7 +117,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 0
+    "stock": 1
   },
   {
     "id": 11,
