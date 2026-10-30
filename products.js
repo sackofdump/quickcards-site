@@ -345,7 +345,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 35
+    "stock": 34
   },
   {
     "id": 30,
@@ -357,7 +357,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 33
+    "stock": 31
   },
   {
     "id": 31,
@@ -369,7 +369,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 29
+    "stock": 28
   },
   {
     "id": 32,
@@ -381,7 +381,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 30
+    "stock": 28
   },
   {
     "id": 33,
@@ -393,7 +393,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 33
+    "stock": 27
   },
   {
     "id": 34,
@@ -405,7 +405,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 35
+    "stock": 32
   },
   {
     "id": 35,
@@ -417,7 +417,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 29
+    "stock": 26
   },
   {
     "id": 36,
@@ -549,7 +549,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 5
+    "stock": 3
   },
   {
     "id": 47,
@@ -573,7 +573,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 3
+    "stock": 20
   },
   {
     "id": 49,
@@ -585,7 +585,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 0
   },
   {
     "id": 50,
@@ -1173,7 +1173,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 0
   },
   {
     "id": 99,
@@ -1233,7 +1233,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 0
   },
   {
     "id": 104,
@@ -2601,7 +2601,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 0
   },
   {
     "id": 218,
