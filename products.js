@@ -14,7 +14,7 @@ window.products = [
   {
     "id": 2,
     "name": "Malik Willis #238 SAND GLITTER REFRACTOR - 2026 Topps NFL Flagship Football",
-    "price": 2.5,
+    "price": 2.25,
     "image": "https://i.ebayimg.com/images/g/gfAAAeSwmaFq59si/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168831518106",
     "category": "football",
@@ -26,7 +26,7 @@ window.products = [
   {
     "id": 3,
     "name": "Zack Baun #251 REFRACTOR - 2026 Topps NFL Flagship Football",
-    "price": 1.95,
+    "price": 1.75,
     "image": "https://i.ebayimg.com/images/g/PMMAAeSwC0Jq59sN/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168831517041",
     "category": "football",
@@ -38,7 +38,7 @@ window.products = [
   {
     "id": 4,
     "name": "Cade Klubnik (RC) #306 REFRACTOR - 2026 Topps NFL Flagship Football",
-    "price": 1.95,
+    "price": 1.75,
     "image": "https://i.ebayimg.com/images/g/KJMAAeSw3rRq59rp/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168831514372",
     "category": "football",
@@ -50,7 +50,7 @@ window.products = [
   {
     "id": 5,
     "name": "Deebo Samuel #199 REFRACTOR - 2026 Topps NFL Flagship Football",
-    "price": 1.95,
+    "price": 1.75,
     "image": "https://i.ebayimg.com/images/g/OPQAAeSwj1Fq59rJ/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168831512070",
     "category": "football",
@@ -62,7 +62,7 @@ window.products = [
   {
     "id": 6,
     "name": "Adonai Mitchell #247 REFRACTOR - 2026 Topps NFL Flagship Football",
-    "price": 1.95,
+    "price": 1.75,
     "image": "https://i.ebayimg.com/images/g/SFoAAeSwmjNq59qb/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168831510181",
     "category": "football",
@@ -74,7 +74,7 @@ window.products = [
   {
     "id": 7,
     "name": "Tez Johnson #189 REFRACTOR - 2026 Topps NFL Flagship Football",
-    "price": 1.95,
+    "price": 1.75,
     "image": "https://i.ebayimg.com/images/g/g2MAAeSwVYlq59qA/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168831509738",
     "category": "football",
@@ -86,7 +86,7 @@ window.products = [
   {
     "id": 8,
     "name": "T.J. Watt #254 REFRACTOR - 2026 Topps NFL Flagship Football",
-    "price": 1.95,
+    "price": 1.75,
     "image": "https://i.ebayimg.com/images/g/LDkAAeSwbo5q59ps/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168831508358",
     "category": "football",
@@ -158,7 +158,7 @@ window.products = [
   {
     "id": 14,
     "name": "Justin Herbert #25ATT-13 - 2026 Topps NFL Flagship Football",
-    "price": 1.95,
+    "price": 1.75,
     "image": "https://i.ebayimg.com/images/g/HMsAAeSw4xxq59nD/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168831503084",
     "category": "football",
@@ -254,7 +254,7 @@ window.products = [
   {
     "id": 22,
     "name": "Jaxson Dart #NFLS-26 - 2026 Topps NFL Flagship",
-    "price": 1.95,
+    "price": 1.75,
     "image": "https://i.ebayimg.com/images/g/GfIAAeSwfORq59jy/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168831497262",
     "category": "football",
@@ -290,7 +290,7 @@ window.products = [
   {
     "id": 25,
     "name": "Caleb Downs (RC) #91TR-49 - 2026 Topps NFL Flagship",
-    "price": 1.95,
+    "price": 1.75,
     "image": "https://i.ebayimg.com/images/g/osEAAeSwKGJq58kp/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168831405596",
     "category": "football",
@@ -362,7 +362,7 @@ window.products = [
   {
     "id": 31,
     "name": "Micah Parsons #91TF-40 - 2026 Topps NFL Flagship",
-    "price": 1.95,
+    "price": 1.75,
     "image": "https://i.ebayimg.com/images/g/0H8AAeSwjtlq58hx/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168831403132",
     "category": "football",
@@ -374,7 +374,7 @@ window.products = [
   {
     "id": 32,
     "name": "Jordan Love #91TF-42 - 2026 Topps NFL Flagship",
-    "price": 1.95,
+    "price": 1.75,
     "image": "https://i.ebayimg.com/images/g/734AAeSwpdZq58ha/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168831402730",
     "category": "football",
@@ -386,7 +386,7 @@ window.products = [
   {
     "id": 33,
     "name": "George Pickens #BTP-16 - 2026 Topps NFL Flagship",
-    "price": 1.95,
+    "price": 1.75,
     "image": "https://i.ebayimg.com/images/g/E64AAeSwzQZq58g2/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168831402156",
     "category": "football",
@@ -398,7 +398,7 @@ window.products = [
   {
     "id": 34,
     "name": "Alvin Kamara #BTP-25 - 2026 Topps NFL Flagship",
-    "price": 1.95,
+    "price": 1.75,
     "image": "https://i.ebayimg.com/images/g/O1MAAeSwe2dq58gc/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168831401477",
     "category": "football",
@@ -410,7 +410,7 @@ window.products = [
   {
     "id": 35,
     "name": "Terry McLaurin #BTP-24 - 2026 Topps NFL Flagship",
-    "price": 1.95,
+    "price": 1.75,
     "image": "https://i.ebayimg.com/images/g/yRcAAeSwzC1q58f1/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168831400208",
     "category": "football",
@@ -1521,7 +1521,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 4
+    "stock": 3
   },
   {
     "id": 128,
