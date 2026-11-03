@@ -1425,7 +1425,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 24
+    "stock": 23
   },
   {
     "id": 120,
@@ -1461,7 +1461,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 25
+    "stock": 24
   },
   {
     "id": 123,
@@ -4425,7 +4425,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 8
+    "stock": 7
   },
   {
     "id": 370,
@@ -12122,14 +12122,14 @@ window.products = [
   {
     "id": 1011,
     "name": "Travis Kelce RECORD YDs Catch - 2026-27 NFL Topps NOW® - Card 25 IN HAND",
-    "price": 4.17,
+    "price": 9.77,
     "image": "https://i.ebayimg.com/images/g/9SUAAeSwhkhqsv49/s-l300.png",
     "url": "https://www.ebay.com/itm/168711357517",
     "category": "topps-now",
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 0
+    "stock": 2
   },
   {
     "id": 1012,
@@ -13281,7 +13281,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 0
   },
   {
     "id": 1108,
@@ -27153,7 +27153,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 0
   },
   {
     "id": 2264,
@@ -95841,7 +95841,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 4
+    "stock": 20
   },
   {
     "id": 7988,
