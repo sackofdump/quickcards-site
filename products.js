@@ -2,7 +2,7 @@ window.products = [
   {
     "id": 1,
     "name": "CJ Shroud #PC-18 REFRACTOR - 2026 Topps NFL Flagship Football",
-    "price": 4,
+    "price": 3.6,
     "image": "https://i.ebayimg.com/images/g/JS0AAeSwy6lq6nXV/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168836229259",
     "category": "football",
@@ -14,7 +14,7 @@ window.products = [
   {
     "id": 2,
     "name": "Lamar Jackson #PC-21 REFRACTOR - 2026 Topps NFL Flagship Football",
-    "price": 1.95,
+    "price": 1.75,
     "image": "https://i.ebayimg.com/images/g/~koAAeSwg41q6nWS/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168836226307",
     "category": "football",
@@ -26,7 +26,7 @@ window.products = [
   {
     "id": 3,
     "name": "Justin Herbert #PC-11 REFRACTOR - 2026 Topps NFL Flagship Football",
-    "price": 5,
+    "price": 4.5,
     "image": "https://i.ebayimg.com/images/g/JWoAAeSwx89q6nVo/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168836225898",
     "category": "football",
@@ -38,7 +38,7 @@ window.products = [
   {
     "id": 4,
     "name": "Bryce Young #PC-13 REFRACTOR - 2026 Topps NFL Flagship Football",
-    "price": 3,
+    "price": 2.7,
     "image": "https://i.ebayimg.com/images/g/KikAAeSwpm5q6nU0/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168836225191",
     "category": "football",
@@ -50,7 +50,7 @@ window.products = [
   {
     "id": 5,
     "name": "J.J. McCarthy #PC-20 REFRACTOR - 2026 Topps NFL Flagship Football",
-    "price": 3,
+    "price": 2.7,
     "image": "https://i.ebayimg.com/images/g/-OMAAeSwyJlq6nTm/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168836224610",
     "category": "football",
@@ -62,7 +62,7 @@ window.products = [
   {
     "id": 6,
     "name": "Michael Penix Jr. #PC-29 REFRACTOR - 2026 Topps NFL Flagship Football",
-    "price": 1.95,
+    "price": 1.75,
     "image": "https://i.ebayimg.com/images/g/HMoAAeSwbgpq6nTH/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168836223556",
     "category": "football",
@@ -74,7 +74,7 @@ window.products = [
   {
     "id": 7,
     "name": "Ray Lewis #GOTG-12 REFRACTOR - 2026 Topps NFL Flagship Football",
-    "price": 3,
+    "price": 2.7,
     "image": "https://i.ebayimg.com/images/g/JWMAAeSwOIxq6nSL/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168836222611",
     "category": "football",
@@ -86,7 +86,7 @@ window.products = [
   {
     "id": 8,
     "name": "John Elway #GOTG-9 REFRACTOR - 2026 Topps NFL Flagship Football",
-    "price": 3,
+    "price": 2.7,
     "image": "https://i.ebayimg.com/images/g/8UYAAeSwMLhq6nRo/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168836221973",
     "category": "football",
@@ -98,7 +98,7 @@ window.products = [
   {
     "id": 9,
     "name": "Bill Cowher #GOTG-21 REFRACTOR - 2026 Topps NFL Flagship Football",
-    "price": 1.95,
+    "price": 1.75,
     "image": "https://i.ebayimg.com/images/g/5gIAAeSwMFNq6nRU/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168836221634",
     "category": "football",
@@ -122,7 +122,7 @@ window.products = [
   {
     "id": 11,
     "name": "Joe Montana #GOTG-2 REFRACTOR - 2026 Topps NFL Flagship Football",
-    "price": 3,
+    "price": 2.7,
     "image": "https://i.ebayimg.com/images/g/7soAAeSwTARq6nQB/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168836220526",
     "category": "football",
@@ -134,7 +134,7 @@ window.products = [
   {
     "id": 12,
     "name": "Lawrence Taylor #GOTG-16 REFRACTOR - 2026 Topps NFL Flagship Football",
-    "price": 3,
+    "price": 2.7,
     "image": "https://i.ebayimg.com/images/g/4BMAAeSwJqVq6nPu/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168836220076",
     "category": "football",
@@ -146,7 +146,7 @@ window.products = [
   {
     "id": 13,
     "name": "Jerry Rice #GOTG-4 REFRACTOR - 2026 Topps NFL Flagship Football",
-    "price": 3,
+    "price": 2.7,
     "image": "https://i.ebayimg.com/images/g/GnUAAeSwadlq6nPD/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168836219223",
     "category": "football",
@@ -158,7 +158,7 @@ window.products = [
   {
     "id": 14,
     "name": "Howie Long #GOTG-23 REFRACTOR - 2026 Topps NFL Flagship Football",
-    "price": 3,
+    "price": 2.7,
     "image": "https://i.ebayimg.com/images/g/EbcAAeSwiw9q6nOh/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168836218702",
     "category": "football",
@@ -170,7 +170,7 @@ window.products = [
   {
     "id": 15,
     "name": "Eric Dickerson #GOTG-25 - 2026 Topps NFL Flagship Football",
-    "price": 1.95,
+    "price": 1.75,
     "image": "https://i.ebayimg.com/images/g/7SoAAeSwDDxq6nOE/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168836217924",
     "category": "football",
