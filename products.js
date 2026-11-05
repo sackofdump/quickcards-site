@@ -2,7 +2,7 @@ window.products = [
   {
     "id": 1,
     "name": "PSA 10 - 1/1 Sal Frelick AUTO PRINTING PLATE Brewers 2024 BOWMAN ROOKIE #CRA-SF",
-    "price": 1950,
+    "price": 1755,
     "image": "https://i.ebayimg.com/images/g/N6YAAeSwndRq61eW/s-l300.png",
     "url": "https://www.ebay.com/itm/168838428024",
     "category": "graded",
@@ -14,7 +14,7 @@ window.products = [
   {
     "id": 2,
     "name": "Jimmy Crooks (RC) #H15 BASE - 2026 Topps Holiday MLB Baseball",
-    "price": 1.99,
+    "price": 1.79,
     "image": "https://i.ebayimg.com/images/g/dgcAAeSwyHhq60wz/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168838319348",
     "category": "baseball",
@@ -26,7 +26,7 @@ window.products = [
   {
     "id": 3,
     "name": "Dylan Beavers (RC) #H4 Orioles BASE - 2026 Topps Holiday MLB Baseball",
-    "price": 1.99,
+    "price": 1.79,
     "image": "https://i.ebayimg.com/images/g/5aUAAeSwpm5q60wI/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168838316895",
     "category": "baseball",
@@ -38,7 +38,7 @@ window.products = [
   {
     "id": 4,
     "name": "Troy Melton (RC) #H156 BASE - 2026 Topps Holiday MLB Baseball",
-    "price": 1.99,
+    "price": 1.79,
     "image": "https://i.ebayimg.com/images/g/zeEAAeSwumxq60vt/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168838314323",
     "category": "baseball",
@@ -50,7 +50,7 @@ window.products = [
   {
     "id": 5,
     "name": "Drew Gilbert (RC) #H19 San Fran Giants BASE - 2026 Topps Holiday MLB Baseball",
-    "price": 1.98,
+    "price": 1.78,
     "image": "https://i.ebayimg.com/images/g/sf4AAeSw1FBq60vY/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168838313090",
     "category": "baseball",
@@ -62,7 +62,7 @@ window.products = [
   {
     "id": 6,
     "name": "Kyle Teel (RC) #H117 Chicago White Sox - BASE - 2026 Topps Holiday MLB Baseball",
-    "price": 1.93,
+    "price": 1.74,
     "image": "https://i.ebayimg.com/images/g/3GIAAeSwQuhq60vA/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168838309989",
     "category": "baseball",
@@ -74,7 +74,7 @@ window.products = [
   {
     "id": 7,
     "name": "Cam Schlittler (RC) #H77 Yankees BASE - 2026 Topps Holiday MLB Baseball",
-    "price": 1.98,
+    "price": 1.78,
     "image": "https://i.ebayimg.com/images/g/5M4AAeSw9gtq60um/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168838308407",
     "category": "baseball",
@@ -86,7 +86,7 @@ window.products = [
   {
     "id": 8,
     "name": "Colson Montgomery (RC) #H30 BASE - 2026 Topps Holiday MLB Baseball",
-    "price": 1.99,
+    "price": 1.79,
     "image": "https://i.ebayimg.com/images/g/1kgAAeSw8ZNq60uR/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168838304853",
     "category": "baseball",
@@ -98,7 +98,7 @@ window.products = [
   {
     "id": 9,
     "name": "Carter Jensen (RC) #H198 Kansas City Royals BASE - 2026 Topps Holiday MLB",
-    "price": 1.98,
+    "price": 1.78,
     "image": "https://i.ebayimg.com/images/g/0s8AAeSwxZ1q60t3/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168838303263",
     "category": "baseball",
@@ -110,7 +110,7 @@ window.products = [
   {
     "id": 10,
     "name": "Paul Skenes #H7 Pittsburgh Pirates BASE - 2026 Topps Holiday MLB Baseball",
-    "price": 1.98,
+    "price": 1.78,
     "image": "https://i.ebayimg.com/images/g/pN0AAeSwzOlq60tR/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168838300292",
     "category": "baseball",
@@ -122,7 +122,7 @@ window.products = [
   {
     "id": 11,
     "name": "Mookie Betts #H54 Dodgers BASE - 2026 Topps Holiday MLB Baseball",
-    "price": 1.98,
+    "price": 1.78,
     "image": "https://i.ebayimg.com/images/g/0vIAAeSwsNlq60so/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168838297954",
     "category": "baseball",
@@ -134,7 +134,7 @@ window.products = [
   {
     "id": 12,
     "name": "Kazuma Okamoto (RC) #H88 Blue Jays BASE - 2026 Topps Holiday MLB Baseball",
-    "price": 1.99,
+    "price": 1.79,
     "image": "https://i.ebayimg.com/images/g/E~QAAeSwSU1q60sX/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168838296736",
     "category": "baseball",
@@ -146,7 +146,7 @@ window.products = [
   {
     "id": 13,
     "name": "Cole Young (RC) #H20 Mariners BASE - 2026 Topps Holiday MLB Baseball",
-    "price": 1.99,
+    "price": 1.79,
     "image": "https://i.ebayimg.com/images/g/3g8AAeSwm9Bq60rv/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168838294267",
     "category": "baseball",
@@ -158,7 +158,7 @@ window.products = [
   {
     "id": 14,
     "name": "Aaron Judge #H50 Yankees BASE - 2026 Topps Holiday MLB Baseball",
-    "price": 1.99,
+    "price": 1.79,
     "image": "https://i.ebayimg.com/images/g/nzcAAeSwHLRq60rI/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168838292586",
     "category": "baseball",
@@ -170,7 +170,7 @@ window.products = [
   {
     "id": 15,
     "name": "Jac Caglianone (RC) #H73 Royals  BASE - 2026 Topps Holiday MLB Baseball",
-    "price": 1.99,
+    "price": 1.79,
     "image": "https://i.ebayimg.com/images/g/nZIAAeSwOVNq60qq/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168838290823",
     "category": "baseball",
@@ -182,7 +182,7 @@ window.products = [
   {
     "id": 16,
     "name": "Payton Tolle (RC) #H120 Red Sox BASE - 2026 Topps Holiday MLB Baseball",
-    "price": 1.99,
+    "price": 1.79,
     "image": "https://i.ebayimg.com/images/g/fy0AAeSwhRxq60pk/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168838287470",
     "category": "baseball",
@@ -194,7 +194,7 @@ window.products = [
   {
     "id": 17,
     "name": "Connelly Early (RC) #H133 Red Sox BASE - 2026 Topps Holiday MLB Baseball",
-    "price": 1.98,
+    "price": 1.78,
     "image": "https://i.ebayimg.com/images/g/0kwAAeSwnxtq60o-/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168838285561",
     "category": "baseball",
@@ -206,7 +206,7 @@ window.products = [
   {
     "id": 18,
     "name": "Jackson Merrill #H176 Padres BASE - 2026 Topps Holiday MLB Baseball",
-    "price": 1.99,
+    "price": 1.79,
     "image": "https://i.ebayimg.com/images/g/hcwAAeSwQRBq60ol/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168838284206",
     "category": "baseball",
@@ -218,7 +218,7 @@ window.products = [
   {
     "id": 19,
     "name": "Konnor Griffin (RC) #H161 BASE Pittsburgh Pirates - 2026 Topps Holiday MLB",
-    "price": 1.94,
+    "price": 1.75,
     "image": "https://i.ebayimg.com/images/g/fZsAAeSwBvtq60oQ/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168838282981",
     "category": "baseball",
@@ -230,7 +230,7 @@ window.products = [
   {
     "id": 20,
     "name": "Christian Yelich #H46 Brewers BASE - 2026 Topps Holiday MLB Baseball",
-    "price": 1.99,
+    "price": 1.79,
     "image": "https://i.ebayimg.com/images/g/kpUAAeSwX~Nq60n1/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168838281350",
     "category": "baseball",
@@ -242,7 +242,7 @@ window.products = [
   {
     "id": 21,
     "name": "Paul Skenes #H7 Pirates BASE - 2026 Topps Holiday MLB Baseball",
-    "price": 1.99,
+    "price": 1.79,
     "image": "https://i.ebayimg.com/images/g/xxIAAeSwBERq60nk/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168838280368",
     "category": "baseball",
@@ -254,7 +254,7 @@ window.products = [
   {
     "id": 22,
     "name": "George Valera (RC) #H74 Guardians BASE - 2026 Topps Holiday MLB Baseball",
-    "price": 1.99,
+    "price": 1.79,
     "image": "https://i.ebayimg.com/images/g/rmwAAeSw-hpq60nD/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168838277821",
     "category": "baseball",
@@ -266,7 +266,7 @@ window.products = [
   {
     "id": 23,
     "name": "Chase DeLauter (RC) #H78 Cleveland BASE - 2026 Topps Holiday MLB Baseball",
-    "price": 1.94,
+    "price": 1.75,
     "image": "https://i.ebayimg.com/images/g/hE8AAeSw935q60ms/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168838276437",
     "category": "baseball",
@@ -278,7 +278,7 @@ window.products = [
   {
     "id": 24,
     "name": "Mason Barnett (RC) #H96 Athletics - BASE - 2026 Topps Holiday MLB Baseball",
-    "price": 1.95,
+    "price": 1.75,
     "image": "https://i.ebayimg.com/images/g/hWgAAeSw-bFq60mO/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168838275220",
     "category": "baseball",
@@ -290,7 +290,7 @@ window.products = [
   {
     "id": 25,
     "name": "Christian Moore (RC) #H146 Angels BASE - 2026 Topps Holiday MLB Baseball",
-    "price": 1.95,
+    "price": 1.75,
     "image": "https://i.ebayimg.com/images/g/dY0AAeSw8nxq60l1/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168838274350",
     "category": "baseball",
@@ -302,7 +302,7 @@ window.products = [
   {
     "id": 26,
     "name": "Carson Williams (RC) #H105 Rays BASE - 2026 Topps Holiday MLB Baseball",
-    "price": 1.94,
+    "price": 1.75,
     "image": "https://i.ebayimg.com/images/g/fz0AAeSwwpVq60lY/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168838273778",
     "category": "baseball",
@@ -314,7 +314,7 @@ window.products = [
   {
     "id": 27,
     "name": "Nolan McLean (RC) #H121 New York Mets BASE - 2026 Topps Holiday MLB Baseball",
-    "price": 1.95,
+    "price": 1.75,
     "image": "https://i.ebayimg.com/images/g/dCcAAeSw7LZq60lE/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168838273198",
     "category": "baseball",
@@ -326,7 +326,7 @@ window.products = [
   {
     "id": 28,
     "name": "JJ Wetherholt (RC) #H18 Cardinals Reds - BASE - 2026 Topps Holiday MLB Baseball",
-    "price": 1.89,
+    "price": 1.7,
     "image": "https://i.ebayimg.com/images/g/dEsAAeSwuwFq60ko/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168838272538",
     "category": "baseball",
@@ -338,7 +338,7 @@ window.products = [
   {
     "id": 29,
     "name": "Jonah Tong (RC) #H152 New York Mets BASE - 2026 Topps Holiday MLB Baseball",
-    "price": 1.94,
+    "price": 1.75,
     "image": "https://i.ebayimg.com/images/g/sCMAAeSwQvpq60kL/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168838271645",
     "category": "baseball",
@@ -350,7 +350,7 @@ window.products = [
   {
     "id": 30,
     "name": "Chase Burns (RC) #H65 Cincinnati Reds BASE - 2026 Topps Holiday MLB Baseball",
-    "price": 1.94,
+    "price": 1.75,
     "image": "https://i.ebayimg.com/images/g/go0AAeSwbetq60jz/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168838270456",
     "category": "baseball",
@@ -362,7 +362,7 @@ window.products = [
   {
     "id": 31,
     "name": "Harry Ford (RC) #H89 Nationals BASE - 2026 Topps Holiday MLB Baseball",
-    "price": 1.98,
+    "price": 1.78,
     "image": "https://i.ebayimg.com/images/g/ejkAAeSwAdJq60jW/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168838269573",
     "category": "baseball",
@@ -374,7 +374,7 @@ window.products = [
   {
     "id": 32,
     "name": "Samuel Basallo (RC) #H33 Orioles BASE - 2026 Topps Holiday MLB Baseball",
-    "price": 1.99,
+    "price": 1.79,
     "image": "https://i.ebayimg.com/images/g/fLEAAeSwOVNq60jA/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168838268499",
     "category": "baseball",
@@ -386,7 +386,7 @@ window.products = [
   {
     "id": 33,
     "name": "Kyle Teel (RC) #H117 Chicago White Sox BASE - 2026 Topps Holiday MLB Baseball",
-    "price": 1.94,
+    "price": 1.75,
     "image": "https://i.ebayimg.com/images/g/eesAAeSww~1q60il/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168838267564",
     "category": "baseball",
@@ -398,7 +398,7 @@ window.products = [
   {
     "id": 34,
     "name": "Chase Burns (RC) #H65 Reds BASE - 2026 Topps Holiday MLB Baseball",
-    "price": 1.98,
+    "price": 1.78,
     "image": "https://i.ebayimg.com/images/g/q~wAAeSwdV1q60iL/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168838265838",
     "category": "baseball",
@@ -410,7 +410,7 @@ window.products = [
   {
     "id": 35,
     "name": "Trey Yesavage (RC) #H174 Blue Jays BASE - 2026 Topps Holiday MLB Baseball",
-    "price": 1.95,
+    "price": 1.75,
     "image": "https://i.ebayimg.com/images/g/Y40AAeSwRcdq60bf/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168838264736",
     "category": "baseball",
@@ -422,7 +422,7 @@ window.products = [
   {
     "id": 36,
     "name": "Jonah Tong (RC) #H152 Mets BASE - 2026 Topps Holiday MLB Baseball",
-    "price": 1.95,
+    "price": 1.75,
     "image": "https://i.ebayimg.com/images/g/Y4wAAeSwMOVq60hY/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168838264115",
     "category": "baseball",
@@ -434,7 +434,7 @@ window.products = [
   {
     "id": 37,
     "name": "Mason Barnett (RC) #H96 Athletics BASE - 2026 Topps Holiday MLB Baseball",
-    "price": 1.99,
+    "price": 1.79,
     "image": "https://i.ebayimg.com/images/g/obwAAeSw62Jq60hH/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168838263583",
     "category": "baseball",
@@ -446,7 +446,7 @@ window.products = [
   {
     "id": 38,
     "name": "Justin Crawford (RC) #H137 Phillies BASE - 2026 Topps Holiday MLB Baseball",
-    "price": 1.89,
+    "price": 1.7,
     "image": "https://i.ebayimg.com/images/g/NnYAAeSwyHhq60gv/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168838263149",
     "category": "baseball",
@@ -458,7 +458,7 @@ window.products = [
   {
     "id": 39,
     "name": "Konnor Griffin (RC) #H161 BASE Pirates - 2026 Topps Holiday MLB Baseball",
-    "price": 1.95,
+    "price": 1.75,
     "image": "https://i.ebayimg.com/images/g/elIAAeSwPddq60WM/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168838262262",
     "category": "baseball",
@@ -470,7 +470,7 @@ window.products = [
   {
     "id": 40,
     "name": "JJ Wetherholt (RC) #H18 Cardinals BASE - 2026 Topps Holiday MLB Baseball",
-    "price": 1.99,
+    "price": 1.79,
     "image": "https://i.ebayimg.com/images/g/b1QAAeSw~J5q60fp/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168838261419",
     "category": "baseball",
@@ -482,7 +482,7 @@ window.products = [
   {
     "id": 41,
     "name": "Willy Adames #H172 Giants BASE - 2026 Topps Holiday MLB Baseball",
-    "price": 1.99,
+    "price": 1.79,
     "image": "https://i.ebayimg.com/images/g/p1cAAeSwok1q60fY/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168838260933",
     "category": "baseball",
@@ -494,7 +494,7 @@ window.products = [
   {
     "id": 42,
     "name": "Drew Gilbert (RC) #H19 Giants BASE - 2026 Topps Holiday MLB Baseball",
-    "price": 1.99,
+    "price": 1.79,
     "image": "https://i.ebayimg.com/images/g/n34AAeSw-YFq60fH/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168838260272",
     "category": "baseball",
@@ -506,7 +506,7 @@ window.products = [
   {
     "id": 43,
     "name": "Kyle Teel (RC) #H117 White Sox BASE - 2026 Topps Holiday MLB Baseball",
-    "price": 1.99,
+    "price": 1.79,
     "image": "https://i.ebayimg.com/images/g/XjsAAeSw21hq60ey/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168838259620",
     "category": "baseball",
@@ -518,7 +518,7 @@ window.products = [
   {
     "id": 44,
     "name": "Cam Schlittler (RC) #H77 BASE - 2026 Topps Holiday MLB Baseball",
-    "price": 1.99,
+    "price": 1.79,
     "image": "https://i.ebayimg.com/images/g/YQEAAeSw3Uxq60ej/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168838258982",
     "category": "baseball",
@@ -530,7 +530,7 @@ window.products = [
   {
     "id": 45,
     "name": "Carter Jensen (RC) #H198 Royals BASE - 2026 Topps Holiday MLB Baseball",
-    "price": 1.99,
+    "price": 1.79,
     "image": "https://i.ebayimg.com/images/g/lvIAAeSwfIxq60eQ/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168838258459",
     "category": "baseball",
@@ -542,7 +542,7 @@ window.products = [
   {
     "id": 46,
     "name": "Bubba Chandler (RC) #H67 Pirates BASE - 2026 Topps Holiday MLB Baseball",
-    "price": 1.99,
+    "price": 1.79,
     "image": "https://i.ebayimg.com/images/g/XGsAAeSwPzBq60dw/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168838257579",
     "category": "baseball",
@@ -554,7 +554,7 @@ window.products = [
   {
     "id": 47,
     "name": "Matt Shaw #H14 BASE - 2026 Topps Holiday MLB Baseball",
-    "price": 1.99,
+    "price": 1.79,
     "image": "https://i.ebayimg.com/images/g/hJQAAeSwbF5q60dg/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168838256742",
     "category": "baseball",
@@ -566,7 +566,7 @@ window.products = [
   {
     "id": 48,
     "name": "Justin Crawford (RC) #H137 BASE - 2026 Topps Holiday MLB Baseball Phillies",
-    "price": 1.94,
+    "price": 1.75,
     "image": "https://i.ebayimg.com/images/g/kaYAAeSwfIxq60dI/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168838255752",
     "category": "baseball",
@@ -578,7 +578,7 @@ window.products = [
   {
     "id": 49,
     "name": "Mookie Betts #H54 BASE - 2026 Topps Holiday MLB Baseball",
-    "price": 1.99,
+    "price": 1.79,
     "image": "https://i.ebayimg.com/images/g/jtEAAeSw9RFq60c0/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168838252576",
     "category": "baseball",
@@ -590,7 +590,7 @@ window.products = [
   {
     "id": 50,
     "name": "CJ Kayfus (RC) #H62 BASE - 2026 Topps Holiday MLB Baseball",
-    "price": 1.99,
+    "price": 1.79,
     "image": "https://i.ebayimg.com/images/g/VY8AAeSwQp5q60cj/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168838249803",
     "category": "baseball",
@@ -602,7 +602,7 @@ window.products = [
   {
     "id": 51,
     "name": "Mason Barnett (RC) #H96 BASE - 2026 Topps Holiday MLB Baseball",
-    "price": 1.99,
+    "price": 1.79,
     "image": "https://i.ebayimg.com/images/g/kG4AAeSwsqtq60cR/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168838247071",
     "category": "baseball",
@@ -614,7 +614,7 @@ window.products = [
   {
     "id": 52,
     "name": "Chase DeLauter (RC) #H78 BASE - 2026 Topps Holiday MLB Baseball Guardians",
-    "price": 1.95,
+    "price": 1.75,
     "image": "https://i.ebayimg.com/images/g/VSIAAeSwELFq60bz/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168838245072",
     "category": "baseball",
@@ -626,7 +626,7 @@ window.products = [
   {
     "id": 53,
     "name": "Trey Yesavage (RC) #H174 BASE - 2026 Topps Holiday MLB Baseball",
-    "price": 1.99,
+    "price": 1.79,
     "image": "https://i.ebayimg.com/images/g/Y40AAeSwRcdq60bf/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168838241864",
     "category": "baseball",
@@ -638,7 +638,7 @@ window.products = [
   {
     "id": 54,
     "name": "Kazuma Okamoto (RC) #H88 BASE - 2026 Topps Holiday MLB Baseball",
-    "price": 1.99,
+    "price": 1.79,
     "image": "https://i.ebayimg.com/images/g/YwEAAeSwByhq60bL/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168838239311",
     "category": "baseball",
@@ -650,7 +650,7 @@ window.products = [
   {
     "id": 55,
     "name": "Christian Moore (RC) #H146 BASE - 2026 Topps Holiday MLB Baseball",
-    "price": 1.99,
+    "price": 1.79,
     "image": "https://i.ebayimg.com/images/g/iaoAAeSw5KRq60au/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168838236297",
     "category": "baseball",
@@ -662,7 +662,7 @@ window.products = [
   {
     "id": 56,
     "name": "Ryan Ritter (RC) #H41 BASE - 2026 Topps Holiday MLB Baseball Rockies",
-    "price": 1.99,
+    "price": 1.79,
     "image": "https://i.ebayimg.com/images/g/PyIAAeSwhRxq60aV/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168838233990",
     "category": "baseball",
@@ -674,7 +674,7 @@ window.products = [
   {
     "id": 57,
     "name": "Cole Young (RC) #H20 BASE - 2026 Topps Holiday MLB Baseball",
-    "price": 1.99,
+    "price": 1.79,
     "image": "https://i.ebayimg.com/images/g/X28AAeSwo79q60Zg/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168838229253",
     "category": "baseball",
@@ -686,7 +686,7 @@ window.products = [
   {
     "id": 58,
     "name": "Chase Burns (RC) #H65 BASE - 2026 Topps Holiday MLB Baseball",
-    "price": 1.99,
+    "price": 1.79,
     "image": "https://i.ebayimg.com/images/g/RgYAAeSwqmZq60ZP/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168838226721",
     "category": "baseball",
@@ -698,7 +698,7 @@ window.products = [
   {
     "id": 59,
     "name": "Jonah Tong (RC) #H152 BASE - 2026 Topps Holiday MLB Baseball",
-    "price": 1.99,
+    "price": 1.79,
     "image": "https://i.ebayimg.com/images/g/PewAAeSwOYxq60Y~/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168838224551",
     "category": "baseball",
@@ -710,7 +710,7 @@ window.products = [
   {
     "id": 60,
     "name": "Sal Stewart (RC) #H12 BASE - 2026 Topps Holiday MLB Baseball Reds",
-    "price": 1.95,
+    "price": 1.75,
     "image": "https://i.ebayimg.com/images/g/8LkAAeSwoGZq60QJ/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168838221327",
     "category": "baseball",
@@ -722,7 +722,7 @@ window.products = [
   {
     "id": 61,
     "name": "Gunnar Henderson #H43 BASE - 2026 Topps Holiday MLB Baseball",
-    "price": 1.99,
+    "price": 1.79,
     "image": "https://i.ebayimg.com/images/g/PwQAAeSw8nxq60YQ/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168838219243",
     "category": "baseball",
@@ -734,7 +734,7 @@ window.products = [
   {
     "id": 62,
     "name": "JJ Wetherholt (RC) #H18 BASE - 2026 Topps Holiday MLB Baseball",
-    "price": 1.99,
+    "price": 1.79,
     "image": "https://i.ebayimg.com/images/g/QkUAAeSwgrpq60X9/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168838217278",
     "category": "baseball",
@@ -746,7 +746,7 @@ window.products = [
   {
     "id": 63,
     "name": "Bryce Eldridge (RC) #H113 BASE - 2026 Topps Holiday MLB Baseball",
-    "price": 1.99,
+    "price": 1.79,
     "image": "https://i.ebayimg.com/images/g/N30AAeSwBvtq60Xh/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168838214632",
     "category": "baseball",
@@ -758,7 +758,7 @@ window.products = [
   {
     "id": 64,
     "name": "Heriberto Hernandez (RC) #H111 BASE - 2026 Topps Holiday MLB Baseball",
-    "price": 1.99,
+    "price": 1.79,
     "image": "https://i.ebayimg.com/images/g/cDgAAeSwy6lq60XM/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168838212785",
     "category": "baseball",
@@ -770,7 +770,7 @@ window.products = [
   {
     "id": 65,
     "name": "Carson Whisenhunt (RC) #H26 BASE - 2026 Topps Holiday MLB Baseball",
-    "price": 1.99,
+    "price": 1.79,
     "image": "https://i.ebayimg.com/images/g/PxsAAeSwNj1q60W2/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168838210640",
     "category": "baseball",
@@ -782,7 +782,7 @@ window.products = [
   {
     "id": 66,
     "name": "Zach Cole (RC) #H83 BASE - 2026 Topps Holiday MLB Baseball",
-    "price": 1.99,
+    "price": 1.79,
     "image": "https://i.ebayimg.com/images/g/NAMAAeSwJqVq60We/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168838208852",
     "category": "baseball",
@@ -794,7 +794,7 @@ window.products = [
   {
     "id": 67,
     "name": "Konnor Griffin (RC) #H161 BASE - 2026 Topps Holiday MLB Baseball",
-    "price": 1.99,
+    "price": 1.79,
     "image": "https://i.ebayimg.com/images/g/elIAAeSwPddq60WM/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168838208060",
     "category": "baseball",
@@ -806,7 +806,7 @@ window.products = [
   {
     "id": 68,
     "name": "Chase DeLauter (RC) #H78 BASE - 2026 Topps Holiday MLB Baseball",
-    "price": 1.99,
+    "price": 1.79,
     "image": "https://i.ebayimg.com/images/g/hFsAAeSwr8Bq60V1/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168838206948",
     "category": "baseball",
@@ -818,7 +818,7 @@ window.products = [
   {
     "id": 69,
     "name": "Luis Morales (RC) #H190 BASE - 2026 Topps Holiday MLB Baseball A's",
-    "price": 1.99,
+    "price": 1.79,
     "image": "https://i.ebayimg.com/images/g/OPQAAeSweiRq60Va/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168838205593",
     "category": "baseball",
@@ -830,7 +830,7 @@ window.products = [
   {
     "id": 70,
     "name": "Jefferson Quero (RC) #H75 BASE - 2026 Topps Holiday MLB Baseball",
-    "price": 1.97,
+    "price": 1.77,
     "image": "https://i.ebayimg.com/images/g/P3IAAeSwo6lq60U7/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168838203389",
     "category": "baseball",
@@ -842,7 +842,7 @@ window.products = [
   {
     "id": 71,
     "name": "Drew Rasmussen #H42 BASE - 2026 Topps Holiday MLB Baseball",
-    "price": 1.99,
+    "price": 1.79,
     "image": "https://i.ebayimg.com/images/g/c~EAAeSwuMBq60Ur/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168838202217",
     "category": "baseball",
@@ -854,7 +854,7 @@ window.products = [
   {
     "id": 72,
     "name": "Sal Stewart (RC) #H12 BASE - 2026 Topps Holiday MLB Baseball",
-    "price": 1.97,
+    "price": 1.77,
     "image": "https://i.ebayimg.com/images/g/8LkAAeSwoGZq60QJ/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168838200535",
     "category": "baseball",
@@ -866,7 +866,7 @@ window.products = [
   {
     "id": 73,
     "name": "Carson Benge (RC) #H70 BASE - 2026 Topps Holiday MLB Baseball",
-    "price": 1.99,
+    "price": 1.79,
     "image": "https://i.ebayimg.com/images/g/Ir4AAeSwhRxq60Tx/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168838198119",
     "category": "baseball",
@@ -878,7 +878,7 @@ window.products = [
   {
     "id": 74,
     "name": "Kyle Karros (RC) #H165 BASE - 2026 Topps Holiday MLB Baseball",
-    "price": 1.99,
+    "price": 1.79,
     "image": "https://i.ebayimg.com/images/g/ZaQAAeSwvZVq60Sy/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168838191894",
     "category": "baseball",
@@ -890,7 +890,7 @@ window.products = [
   {
     "id": 75,
     "name": "Harry Ford (RC) #H89 BASE - 2026 Topps Holiday MLB Baseball",
-    "price": 1.99,
+    "price": 1.79,
     "image": "https://i.ebayimg.com/images/g/c3cAAeSwGNBq60Sh/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168838190575",
     "category": "baseball",
@@ -902,7 +902,7 @@ window.products = [
   {
     "id": 76,
     "name": "Luis Morales (RC) #H190 BASE - 2026 Topps Holiday MLB Baseball",
-    "price": 1.97,
+    "price": 1.77,
     "image": "https://i.ebayimg.com/images/g/Ns4AAeSwOVNq60SK/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168838189276",
     "category": "baseball",
@@ -914,7 +914,7 @@ window.products = [
   {
     "id": 77,
     "name": "Justin Crawford (RC) #H137 BASE - 2026 Topps Holiday MLB Baseball",
-    "price": 1.99,
+    "price": 1.79,
     "image": "https://i.ebayimg.com/images/g/caEAAeSwEhdq60R4/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168838187541",
     "category": "baseball",
@@ -926,7 +926,7 @@ window.products = [
   {
     "id": 78,
     "name": "Nolan McLean (RC) #H121 BASE - 2026 Topps Holiday MLB Baseball",
-    "price": 1.99,
+    "price": 1.79,
     "image": "https://i.ebayimg.com/images/g/I-AAAeSwYV1q60RY/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168838185019",
     "category": "baseball",
@@ -938,7 +938,7 @@ window.products = [
   {
     "id": 79,
     "name": "Ryan Ritter (RC) #H41 BASE - 2026 Topps Holiday MLB Baseball",
-    "price": 1.99,
+    "price": 1.79,
     "image": "https://i.ebayimg.com/images/g/ZUAAAeSwX3Fq60RE/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168838183565",
     "category": "baseball",
@@ -950,7 +950,7 @@ window.products = [
   {
     "id": 80,
     "name": "Colby Thomas (RC) #H39 BASE - 2026 Topps Holiday MLB Baseball",
-    "price": 1.99,
+    "price": 1.79,
     "image": "https://i.ebayimg.com/images/g/XdcAAeSw9RFq60Qz/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168838182027",
     "category": "baseball",
@@ -962,7 +962,7 @@ window.products = [
   {
     "id": 81,
     "name": "Samuel Basallo (RC) #H33 BASE - 2026 Topps Holiday MLB Baseball",
-    "price": 1.99,
+    "price": 1.79,
     "image": "https://i.ebayimg.com/images/g/ZCkAAeSw-YFq60Qe/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168838180540",
     "category": "baseball",
@@ -974,7 +974,7 @@ window.products = [
   {
     "id": 82,
     "name": "Sal Stewart (RC) #H12 BASE - 2026 Topps Holiday MLB Baseball",
-    "price": 1.99,
+    "price": 1.79,
     "image": "https://i.ebayimg.com/images/g/8LkAAeSwoGZq60QJ/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168838178667",
     "category": "baseball",
@@ -986,7 +986,7 @@ window.products = [
   {
     "id": 83,
     "name": "Travis Bazzana (RC) #H60 BASE - 2026 Topps Holiday MLB Baseball",
-    "price": 1.99,
+    "price": 1.79,
     "image": "https://i.ebayimg.com/images/g/WF4AAeSw82Rq60P3/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168838176710",
     "category": "baseball",
@@ -998,7 +998,7 @@ window.products = [
   {
     "id": 84,
     "name": "Drew Gilbert (RC) #H19 BASE - 2026 Topps Holiday MLB Baseball",
-    "price": 1.99,
+    "price": 1.79,
     "image": "https://i.ebayimg.com/images/g/ZOIAAeSwUrhq60PV/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168838173850",
     "category": "baseball",
@@ -1010,7 +1010,7 @@ window.products = [
   {
     "id": 85,
     "name": "Luis Morales (RC) #H190 BASE - 2026 Topps Holiday MLB Baseball",
-    "price": 1.99,
+    "price": 1.79,
     "image": "https://i.ebayimg.com/images/g/T7AAAeSwR~9q60O~/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168838171466",
     "category": "baseball",
@@ -1022,7 +1022,7 @@ window.products = [
   {
     "id": 86,
     "name": "Connelly Early (RC) #H133 BASE - 2026 Topps Holiday MLB Baseball",
-    "price": 1.99,
+    "price": 1.79,
     "image": "https://i.ebayimg.com/images/g/JvUAAeSw5HJq60OZ/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168838167623",
     "category": "baseball",
@@ -1034,7 +1034,7 @@ window.products = [
   {
     "id": 87,
     "name": "Carson Williams (RC) #H105 BASE - 2026 Topps Holiday MLB Baseball",
-    "price": 1.99,
+    "price": 1.79,
     "image": "https://i.ebayimg.com/images/g/I5MAAeSwo~hq60OB/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168838165021",
     "category": "baseball",
@@ -1046,7 +1046,7 @@ window.products = [
   {
     "id": 88,
     "name": "Jefferson Quero (RC) #H75 8 BASE - 2026 Topps Holiday MLB Baseball",
-    "price": 1.99,
+    "price": 1.79,
     "image": "https://i.ebayimg.com/images/g/TzcAAeSwxeZq60Nu/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168838162839",
     "category": "baseball",
@@ -1058,7 +1058,7 @@ window.products = [
   {
     "id": 89,
     "name": "Andrew Painter (RC) #H158 BASE - 2026 Topps Holiday MLB Baseball",
-    "price": 1.99,
+    "price": 1.79,
     "image": "https://i.ebayimg.com/images/g/IrAAAeSw5HJq60NX/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168838160114",
     "category": "baseball",
@@ -1070,7 +1070,7 @@ window.products = [
   {
     "id": 90,
     "name": "Kevin McGonigle (RC) #H183 BASE - 2026 Topps Holiday MLB Baseball",
-    "price": 1.99,
+    "price": 1.79,
     "image": "https://i.ebayimg.com/images/g/X~EAAeSwtZNq60NC/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168838157850",
     "category": "baseball",
@@ -2865,7 +2865,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 0
+    "stock": 4
   },
   {
     "id": 240,
@@ -2913,7 +2913,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 0
+    "stock": 4
   },
   {
     "id": 244,
@@ -2937,7 +2937,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 0
+    "stock": 4
   },
   {
     "id": 246,
