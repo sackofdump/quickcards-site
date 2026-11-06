@@ -2,7 +2,7 @@ window.products = [
   {
     "id": 1,
     "name": "AUTO Sal Frelick #CPA-SF /99 2026 Topps Tier One - Clearly Perfect Autographs",
-    "price": 350,
+    "price": 315,
     "image": "https://i.ebayimg.com/images/g/z20AAeSwX-1q7QQi/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168841957840",
     "category": "other",
@@ -14,7 +14,7 @@ window.products = [
   {
     "id": 2,
     "name": "06/10* BLACK Luis Lara - 2026 MLB Topps NOW® - MILWAUKEE BREWERS Card 781",
-    "price": 750,
+    "price": 675,
     "image": "https://i.ebayimg.com/images/g/hrYAAeSwOYxq7QPY/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168841951494",
     "category": "topps-now",
@@ -26,7 +26,7 @@ window.products = [
   {
     "id": 3,
     "name": "44/50* Brice Turang - 2026 MLB Topps NOW® Milwaukee Brewers - Card 780",
-    "price": 350,
+    "price": 315,
     "image": "https://i.ebayimg.com/images/g/kbwAAeSw21hq7QOU/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168841947459",
     "category": "topps-now",
@@ -3621,7 +3621,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 0
+    "stock": 6
   },
   {
     "id": 303,
@@ -63549,7 +63549,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 0
   },
   {
     "id": 5297,
