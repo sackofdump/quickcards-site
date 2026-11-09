@@ -3153,7 +3153,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 7
+    "stock": 5
   },
   {
     "id": 264,
