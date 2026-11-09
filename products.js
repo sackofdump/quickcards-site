@@ -2,7 +2,7 @@ window.products = [
   {
     "id": 1,
     "name": "SHORT PRINT William Contreras - 2026 MLB Topps NOW Card 783-SP Milwaukee Brewers",
-    "price": 1950,
+    "price": 899,
     "image": "https://i.ebayimg.com/images/g/tOYAAeSweiRq7hbm/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168843739270",
     "category": "topps-now",
