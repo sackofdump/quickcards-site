@@ -14,14 +14,14 @@ window.products = [
   {
     "id": 2,
     "name": "Kevin McGonigle (RC) ROOKIE OF THE YEAR - 2026 MLB Topps NOW® Card OS-2 PRE-SALE",
-    "price": 6.74,
+    "price": 7.74,
     "image": "https://i.ebayimg.com/images/g/sM8AAeSwejxq8yus/s-l300.png",
     "url": "https://www.ebay.com/itm/168852579080",
     "category": "topps-now",
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 12
+    "stock": 6
   },
   {
     "id": 3,
@@ -6573,7 +6573,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 7
+    "stock": 0
   },
   {
     "id": 549,
