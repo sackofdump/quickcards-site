@@ -1,6 +1,30 @@
 window.products = [
   {
     "id": 1,
+    "name": "Gus Varland #US48 SAND GLITTER REFRACTOR - 2026 Topps Update Series",
+    "price": 1.99,
+    "image": "https://i.ebayimg.com/images/g/bvgAAeSw-7Bq551k/s-l300.jpg",
+    "url": "https://www.ebay.com/itm/168855409710",
+    "category": "baseball",
+    "badge": null,
+    "discount": null,
+    "numbered": false,
+    "stock": 1
+  },
+  {
+    "id": 2,
+    "name": "Everson Pereira #US269 PINK SAND GLITTER #US16 - 2026 Topps Update Series",
+    "price": 1.99,
+    "image": "https://i.ebayimg.com/images/g/BeMAAeSwpphq557Q/s-l300.jpg",
+    "url": "https://www.ebay.com/itm/168855409705",
+    "category": "baseball",
+    "badge": null,
+    "discount": null,
+    "numbered": false,
+    "stock": 1
+  },
+  {
+    "id": 3,
     "name": "Sal Stewart (RC) ROOKIE OF THE YEAR - 2026 MLB Topps NOW® - Card OS-1 PRE SALE",
     "price": 6.74,
     "image": "https://i.ebayimg.com/images/g/zw4AAeSwtlFq8yw-/s-l300.png",
@@ -9,10 +33,10 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 16
+    "stock": 15
   },
   {
-    "id": 2,
+    "id": 4,
     "name": "Kevin McGonigle (RC) ROOKIE OF THE YEAR - 2026 MLB Topps NOW® Card OS-2 PRE-SALE",
     "price": 7.74,
     "image": "https://i.ebayimg.com/images/g/sM8AAeSwejxq8yus/s-l300.png",
@@ -24,7 +48,7 @@ window.products = [
     "stock": 6
   },
   {
-    "id": 3,
+    "id": 5,
     "name": "06/49* PARALLEL  Liam McNeeley - D/D 2025-25 Bowman U NOW® Basketball Card: 6",
     "price": 8.99,
     "image": "https://i.ebayimg.com/images/g/pwgAAOSwcWdnVJ01/s-l300.jpg",
@@ -36,7 +60,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 4,
+    "id": 6,
     "name": "31/50* John Blackwell 2025 Topps Now Wisconsin Badgers #51 NCAA Basketball",
     "price": 49,
     "image": "https://i.ebayimg.com/images/g/2T0AAeSw~75q8yqj/s-l300.jpg",
@@ -48,7 +72,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 5,
+    "id": 7,
     "name": "SHORT PRINT William Contreras - 2026 MLB Topps NOW Card 783-SP Milwaukee Brewers",
     "price": 764.15,
     "image": "https://i.ebayimg.com/images/g/tOYAAeSweiRq7hbm/s-l300.jpg",
@@ -60,7 +84,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 6,
+    "id": 8,
     "name": "09/50* Milwaukee Brewers Perfect Bullpen - 2026 MLB Topps NOW® - Card 784",
     "price": 420.75,
     "image": "https://i.ebayimg.com/images/g/eDAAAeSwZGpq7hZs/s-l300.png",
@@ -72,7 +96,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 7,
+    "id": 9,
     "name": "03/10* BLACK Christian Yelich - 2026 MLB Topps NOW® - Milwaukee Brewers Card 782",
     "price": 552.5,
     "image": "https://i.ebayimg.com/images/g/qYgAAeSw3P5q7hWi/s-l300.jpg",
@@ -84,7 +108,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 8,
+    "id": 10,
     "name": "AUTO Sal Frelick #CPA-SF /99 2026 Topps Tier One - Clearly Perfect Autographs",
     "price": 297.5,
     "image": "https://i.ebayimg.com/images/g/z20AAeSwX-1q7QQi/s-l300.jpg",
@@ -96,7 +120,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 9,
+    "id": 11,
     "name": "06/10* BLACK Luis Lara - 2026 MLB Topps NOW® - MILWAUKEE BREWERS Card 781",
     "price": 637.5,
     "image": "https://i.ebayimg.com/images/g/hrYAAeSwOYxq7QPY/s-l300.jpg",
@@ -108,7 +132,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 10,
+    "id": 12,
     "name": "44/50* Brice Turang - 2026 MLB Topps NOW® Milwaukee Brewers - Card 780",
     "price": 297.5,
     "image": "https://i.ebayimg.com/images/g/kbwAAeSw21hq7QOU/s-l300.jpg",
@@ -120,7 +144,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 11,
+    "id": 13,
     "name": "Tackle Leaders #207 - 2026 Heritage NFL Football",
     "price": 1.99,
     "image": "https://i.ebayimg.com/images/g/168AAeSwxDtq7JUR/s-l300.jpg",
@@ -132,7 +156,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 12,
+    "id": 14,
     "name": "Interception Leaders #205 - 2026 Heritage NFL Football",
     "price": 1.99,
     "image": "https://i.ebayimg.com/images/g/QEQAAeSw9aVq7JT4/s-l300.jpg",
@@ -144,7 +168,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 13,
+    "id": 15,
     "name": "Touchdown Leaders #204 - 2026 Heritage NFL Football",
     "price": 1.99,
     "image": "https://i.ebayimg.com/images/g/wlcAAeSwGZlq7JTl/s-l300.jpg",
@@ -156,7 +180,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 14,
+    "id": 16,
     "name": "Sack Leaders #206 - 2026 Heritage NFL Football",
     "price": 1.99,
     "image": "https://i.ebayimg.com/images/g/pngAAeSwXhlq7JTR/s-l300.jpg",
@@ -168,7 +192,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 15,
+    "id": 17,
     "name": "Receiving Leaders #202 - 2026 Heritage NFL Football",
     "price": 1.99,
     "image": "https://i.ebayimg.com/images/g/2QYAAeSwE7dq7JS-/s-l300.jpg",
@@ -180,7 +204,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 16,
+    "id": 18,
     "name": "Kicking Leaders #208 - 2026 Heritage NFL Football",
     "price": 1.99,
     "image": "https://i.ebayimg.com/images/g/hQ4AAeSwD6Jq7JSv/s-l300.jpg",
@@ -192,7 +216,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 17,
+    "id": 19,
     "name": "Passing Leaders #201 - 2026 Heritage NFL Football",
     "price": 1.99,
     "image": "https://i.ebayimg.com/images/g/x0sAAeSwhbJq7JSf/s-l300.jpg",
@@ -204,7 +228,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 18,
+    "id": 20,
     "name": "Patrick Mahomes II #4 RECORD BREAKER - 2026 Heritage NFL Football",
     "price": 1.99,
     "image": "https://i.ebayimg.com/images/g/jjYAAeSwSulq7JSN/s-l300.jpg",
@@ -216,7 +240,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 19,
+    "id": 21,
     "name": "Myles Garrett #1 RECORD BREAKER - 2026 Heritage NFL Football",
     "price": 1.99,
     "image": "https://i.ebayimg.com/images/g/kXgAAeSw1vpq7JRj/s-l300.jpg",
@@ -228,7 +252,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 20,
+    "id": 22,
     "name": "NFL Championship #332 - 2026 Heritage NFL Football",
     "price": 1.99,
     "image": "https://i.ebayimg.com/images/g/kL4AAeSw8ZNq7JRM/s-l300.jpg",
@@ -240,7 +264,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 21,
+    "id": 23,
     "name": "Myles Garrett #1 Record Breaker - 2026 Heritage NFL Football",
     "price": 1.99,
     "image": "https://i.ebayimg.com/images/g/ujYAAeSw429q7JQ1/s-l300.jpg",
@@ -252,7 +276,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 22,
+    "id": 24,
     "name": "Josh Allen #3 Record Breaker - 2026 Heritage NFL Football",
     "price": 1.99,
     "image": "https://i.ebayimg.com/images/g/niEAAeSwtlFq7JQm/s-l300.jpg",
@@ -264,7 +288,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 23,
+    "id": 25,
     "name": "Trey McBridge #7 Record Breaker - 2026 Heritage NFL Football",
     "price": 1.99,
     "image": "https://i.ebayimg.com/images/g/yEUAAeSwg41q7JQW/s-l300.jpg",
@@ -276,7 +300,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 24,
+    "id": 26,
     "name": "AFC Championship #331 - 2026 Heritage NFL Football",
     "price": 1.99,
     "image": "https://i.ebayimg.com/images/g/uWIAAeSw585q7JP9/s-l300.jpg",
@@ -288,7 +312,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 25,
+    "id": 27,
     "name": "Isaiah Rodgers #365 Record Breaker - 2026 Heritage NFL Football",
     "price": 1.99,
     "image": "https://i.ebayimg.com/images/g/rxIAAeSwJG5q7JPW/s-l300.jpg",
@@ -300,7 +324,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 26,
+    "id": 28,
     "name": "Fernando Mendoza (RC) #272 BASE - 2026 Heritage NFL Football",
     "price": 3,
     "image": "https://i.ebayimg.com/images/g/ObwAAeSwyOBq7JOX/s-l300.jpg",
@@ -312,7 +336,7 @@ window.products = [
     "stock": 2
   },
   {
-    "id": 27,
+    "id": 29,
     "name": "Josh Allen #TTY-18 - 2026 Heritage NFL Football",
     "price": 3,
     "image": "https://i.ebayimg.com/images/g/jmMAAeSw~epq7JOA/s-l300.jpg",
@@ -324,7 +348,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 28,
+    "id": 30,
     "name": "Caleb Williams #NAP-6 - 2026 Heritage NFL Football",
     "price": 3,
     "image": "https://i.ebayimg.com/images/g/wSYAAeSwMHtq7JNs/s-l300.jpg",
@@ -336,7 +360,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 29,
+    "id": 31,
     "name": "Derek Stingley Jr. #APS-9 - 2026 Heritage NFL Football",
     "price": 1.99,
     "image": "https://i.ebayimg.com/images/g/tioAAeSw2dRq7JNV/s-l300.jpg",
@@ -348,7 +372,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 30,
+    "id": 32,
     "name": "Sam Darnold #TE-10 - 2026 Heritage NFL Football",
     "price": 1.99,
     "image": "https://i.ebayimg.com/images/g/u7UAAeSwzOlq7JNE/s-l300.jpg",
@@ -360,7 +384,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 31,
+    "id": 33,
     "name": "Drake London #TE-28 - 2026 Heritage NFL Football",
     "price": 1.99,
     "image": "https://i.ebayimg.com/images/g/jwkAAeSwXhlq7JMz/s-l300.jpg",
@@ -372,7 +396,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 32,
+    "id": 34,
     "name": "Buffalo Bills #354  TEAM CARD - 2026 Heritage NFL Football",
     "price": 1.99,
     "image": "https://i.ebayimg.com/images/g/ijUAAeSwajVq7JL0/s-l300.jpg",
@@ -384,7 +408,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 33,
+    "id": 35,
     "name": "Tampa Bay Buccaneers #380 TEAM CARD - 2026 Heritage NFL Football",
     "price": 1.99,
     "image": "https://i.ebayimg.com/images/g/iWUAAeSwajVq7JLj/s-l300.jpg",
@@ -396,7 +420,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 34,
+    "id": 36,
     "name": "Bengals Yearly Leaders #357 TEAM CARD - 2026 Heritage NFL Football",
     "price": 1.99,
     "image": "https://i.ebayimg.com/images/g/txYAAeSwo6lq7JLC/s-l300.jpg",
@@ -408,7 +432,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 35,
+    "id": 37,
     "name": "Danielle Hunter #102 RED BORDER - 2026 Heritage NFL Football",
     "price": 3,
     "image": "https://i.ebayimg.com/images/g/iaAAAeSw-b5q7JKL/s-l300.jpg",
@@ -420,7 +444,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 36,
+    "id": 38,
     "name": "Patrick Mahomes II #308 RED BORDER - 2026 Heritage NFL Football",
     "price": 19.98,
     "image": "https://i.ebayimg.com/images/g/oggAAeSwlXRq7JJr/s-l300.jpg",
@@ -432,7 +456,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 37,
+    "id": 39,
     "name": "Behren Morton (RC) #30 RED BORDER - 2026 Heritage NFL Football",
     "price": 3,
     "image": "https://i.ebayimg.com/images/g/ZrIAAeSwbnpq7JJU/s-l300.jpg",
@@ -444,7 +468,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 38,
+    "id": 40,
     "name": "Emmanuel McNeil-Warren (RC) #281 RED BORDER - 2026 Heritage NFL Football",
     "price": 3,
     "image": "https://i.ebayimg.com/images/g/oB8AAeSwSbJq7JI5/s-l300.jpg",
@@ -456,7 +480,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 39,
+    "id": 41,
     "name": "Derrick Henry #94 RED BORDER - 2026 Heritage NFL Football",
     "price": 3,
     "image": "https://i.ebayimg.com/images/g/nowAAeSws~hq7JHF/s-l300.jpg",
@@ -468,7 +492,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 40,
+    "id": 42,
     "name": "Bo Nix #273 RED BORDER - 2026 Heritage NFL Football",
     "price": 9,
     "image": "https://i.ebayimg.com/images/g/k7sAAeSwfotq7JGx/s-l300.jpg",
@@ -480,7 +504,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 41,
+    "id": 43,
     "name": "Lions Yearly Leaders #361 RED BORDER - 2026 Heritage NFL Football",
     "price": 4,
     "image": "https://i.ebayimg.com/images/g/ZnwAAeSwx89q7JGb/s-l300.jpg",
@@ -492,7 +516,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 42,
+    "id": 44,
     "name": "Kenyon Sadiq (RC) #317 RED CARD - 2026 Heritage NFL Football",
     "price": 4,
     "image": "https://i.ebayimg.com/images/g/q10AAeSwE~pq7JF8/s-l300.jpg",
@@ -504,7 +528,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 43,
+    "id": 45,
     "name": "Will McDonald IV #392 RED CARD - 2026 Heritage NFL Football",
     "price": 1.99,
     "image": "https://i.ebayimg.com/images/g/lU4AAeSwbehq7JFo/s-l300.jpg",
@@ -516,7 +540,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 44,
+    "id": 46,
     "name": "Nick Bosa #19 RED CARD - 2026 Heritage NFL Football",
     "price": 1.99,
     "image": "https://i.ebayimg.com/images/g/cTEAAeSwejxq7JFP/s-l300.jpg",
@@ -528,7 +552,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 45,
+    "id": 47,
     "name": "Harold Fannin Jr. (RC) #178 RED CARD - 2026 Heritage NFL Football",
     "price": 8,
     "image": "https://i.ebayimg.com/images/g/hyUAAeSwv31q7JEz/s-l300.jpg",
@@ -540,7 +564,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 46,
+    "id": 48,
     "name": "Will Anderson Jr. #235 RED BORDER - 2026 Heritage NFL Football",
     "price": 1.99,
     "image": "https://i.ebayimg.com/images/g/dFoAAeSwNIFq7JED/s-l300.jpg",
@@ -552,7 +576,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 47,
+    "id": 49,
     "name": "Jaydon Blue #265 SILVER SPARKLE REFRACTOR - 2026 Heritage NFL Football",
     "price": 3,
     "image": "https://i.ebayimg.com/images/g/SDoAAeSwMqBq7JDW/s-l300.jpg",
@@ -564,7 +588,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 48,
+    "id": 50,
     "name": "Alvin Kamara #341 SILVER SPARKLE REFRACTOR - 2026 Heritage NFL Football",
     "price": 3,
     "image": "https://i.ebayimg.com/images/g/aFoAAeSwlg5q7JDC/s-l300.jpg",
@@ -576,7 +600,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 49,
+    "id": 51,
     "name": "Bills Yearly Leaders #354 SILVER SPARKLE REFRACTOR - 2026 Heritage NFL Football",
     "price": 6,
     "image": "https://i.ebayimg.com/images/g/ilUAAeSwSbJq7JCl/s-l300.jpg",
@@ -588,7 +612,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 50,
+    "id": 52,
     "name": "Jacoby Brissett #8 SILVER SPARKLE REFRACTOR - 2026 Heritage NFL Football",
     "price": 4,
     "image": "https://i.ebayimg.com/images/g/ixIAAeSw83dq7JB3/s-l300.jpg",
@@ -600,7 +624,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 51,
+    "id": 53,
     "name": "Chris Johnson (RC) #221 SILVER SPARKLE REFRACTOR - 2026 Heritage NFL Football",
     "price": 6,
     "image": "https://i.ebayimg.com/images/g/ZVoAAeSwsNlq7JBJ/s-l300.jpg",
@@ -612,7 +636,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 52,
+    "id": 54,
     "name": "Lions Yearly Leaders #361 SILVER SPARKLE REFRACTOR - 2026 Heritage NFL Football",
     "price": 4,
     "image": "https://i.ebayimg.com/images/g/YhMAAeSwzABq7JAr/s-l300.jpg",
@@ -624,7 +648,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 53,
+    "id": 55,
     "name": "Mason Taylor #198 SILVER SPARKLE REFRACTOR - 2026 Heritage NFL Football",
     "price": 3,
     "image": "https://i.ebayimg.com/images/g/gsYAAeSwrAlq7JAJ/s-l300.jpg",
@@ -636,7 +660,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 54,
+    "id": 56,
     "name": "Tetairoa McMillan #189 SILVER SPARKLE REFRACTOR - 2026 Heritage NFL Football",
     "price": 3,
     "image": "https://i.ebayimg.com/images/g/ar4AAeSwX-1q7I~y/s-l300.jpg",
@@ -648,7 +672,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 55,
+    "id": 57,
     "name": "2025 NFL Sack Leaders #206 SILVER SPARKLE REFRACTOR - 2026 Heritage NFL Football",
     "price": 4,
     "image": "https://i.ebayimg.com/images/g/UVYAAeSwF9Fq7I~Y/s-l300.jpg",
@@ -660,7 +684,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 56,
+    "id": 58,
     "name": "Hunter Henry #253 SILVER SPARKLE REFRACTOR - 2026 Heritage NFL Football",
     "price": 4,
     "image": "https://i.ebayimg.com/images/g/XRkAAeSwpm5q7I-7/s-l300.jpg",
@@ -672,7 +696,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 57,
+    "id": 59,
     "name": "Manny Pacquiao #FPU-1 REFRACTOR FIRST PITCH - 2026 Topps Update Series MLB",
     "price": 2.99,
     "image": "https://i.ebayimg.com/images/g/Q-MAAeSwcnJq0urq/s-l300.jpg",
@@ -684,7 +708,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 58,
+    "id": 60,
     "name": "Nolan McLean (RC) #H121 GOLD BORDER - 2026 Topps Holiday  MLB",
     "price": 2.99,
     "image": "https://i.ebayimg.com/images/g/V3EAAeSwpphq24Pm/s-l300.jpg",
@@ -696,7 +720,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 59,
+    "id": 61,
     "name": "Armand Membou #180 CHROME  - 2026 Heritage NFL Football",
     "price": 1.99,
     "image": "https://i.ebayimg.com/images/g/MrQAAeSw-rZq7I6g/s-l300.jpg",
@@ -708,7 +732,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 60,
+    "id": 62,
     "name": "Jaelan Phillips #144 CHROME  - 2026 Heritage NFL Football",
     "price": 1.99,
     "image": "https://i.ebayimg.com/images/g/ZSMAAeSwqmZq7I5l/s-l300.jpg",
@@ -720,7 +744,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 61,
+    "id": 63,
     "name": "RJ Harvey #84 CHROME  - 2026 Heritage NFL Football",
     "price": 1.99,
     "image": "https://i.ebayimg.com/images/g/fbIAAeSwE~pq7I4~/s-l300.jpg",
@@ -732,7 +756,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 62,
+    "id": 64,
     "name": "Cooper DeJean #57 CHROME  - 2026 Heritage NFL Football",
     "price": 1.99,
     "image": "https://i.ebayimg.com/images/g/hnkAAeSwo79q7I4Z/s-l300.jpg",
@@ -744,7 +768,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 63,
+    "id": 65,
     "name": "Taylen Green (RC) #212 CHROME  - 2026 Heritage NFL Football",
     "price": 1.99,
     "image": "https://i.ebayimg.com/images/g/QhIAAeSwAwZq7I3x/s-l300.jpg",
@@ -756,7 +780,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 64,
+    "id": 66,
     "name": "Kyle Williams #226 CHROME  - 2026 Heritage NFL Football",
     "price": 1.99,
     "image": "https://i.ebayimg.com/images/g/XgIAAeSw7LZq7I3b/s-l300.jpg",
@@ -768,7 +792,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 65,
+    "id": 67,
     "name": "Amon-Ra St. Brown #394 CHROME  - 2026 Heritage NFL Football",
     "price": 1.99,
     "image": "https://i.ebayimg.com/images/g/QTMAAeSw76dq7I24/s-l300.jpg",
@@ -780,7 +804,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 66,
+    "id": 68,
     "name": "Cam Little #2 CHROME Football Extra  - 2026 Heritage NFL Football",
     "price": 1.99,
     "image": "https://i.ebayimg.com/images/g/WVcAAeSwdpBq7I1q/s-l300.jpg",
@@ -792,7 +816,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 67,
+    "id": 69,
     "name": "Gunnar Helm #129 REFRACTOR - 2026 Heritage NFL Football",
     "price": 4,
     "image": "https://i.ebayimg.com/images/g/WR8AAeSw3Uxq7I0x/s-l300.jpg",
@@ -804,7 +828,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 68,
+    "id": 70,
     "name": "Dalton Schultz #70 REFRACTOR - 2026 Heritage NFL Football",
     "price": 4,
     "image": "https://i.ebayimg.com/images/g/N08AAeSwajVq7I0O/s-l300.jpg",
@@ -816,7 +840,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 69,
+    "id": 71,
     "name": "Ja'Kobi Lane #269 (RC) REFRACTOR - 2026 Heritage NFL Football",
     "price": 4,
     "image": "https://i.ebayimg.com/images/g/8A0AAeSwneBq7Izl/s-l300.jpg",
@@ -828,7 +852,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 70,
+    "id": 72,
     "name": "Bijan Robinson #S-4 Sweetness - 2026 Heritage NFL Football",
     "price": 4,
     "image": "https://i.ebayimg.com/images/g/XUIAAeSwAdJq7IzB/s-l300.jpg",
@@ -840,7 +864,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 71,
+    "id": 73,
     "name": "PSA 10 - 1/1 Sal Frelick AUTO PRINTING PLATE Brewers 2024 BOWMAN ROOKIE #CRA-SF",
     "price": 1657.5,
     "image": "https://i.ebayimg.com/images/g/N6YAAeSwndRq61eW/s-l300.png",
@@ -852,7 +876,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 72,
+    "id": 74,
     "name": "Jimmy Crooks (RC) #H15 BASE - 2026 Topps Holiday MLB Baseball",
     "price": 1.99,
     "image": "https://i.ebayimg.com/images/g/dgcAAeSwyHhq60wz/s-l300.jpg",
@@ -864,7 +888,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 73,
+    "id": 75,
     "name": "Dylan Beavers (RC) #H4 Orioles BASE - 2026 Topps Holiday MLB Baseball",
     "price": 1.99,
     "image": "https://i.ebayimg.com/images/g/5aUAAeSwpm5q60wI/s-l300.jpg",
@@ -876,7 +900,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 74,
+    "id": 76,
     "name": "Troy Melton (RC) #H156 BASE - 2026 Topps Holiday MLB Baseball",
     "price": 1.99,
     "image": "https://i.ebayimg.com/images/g/zeEAAeSwumxq60vt/s-l300.jpg",
@@ -888,7 +912,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 75,
+    "id": 77,
     "name": "Drew Gilbert (RC) #H19 San Fran Giants BASE - 2026 Topps Holiday MLB Baseball",
     "price": 1.98,
     "image": "https://i.ebayimg.com/images/g/sf4AAeSw1FBq60vY/s-l300.jpg",
@@ -900,7 +924,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 76,
+    "id": 78,
     "name": "Kyle Teel (RC) #H117 Chicago White Sox - BASE - 2026 Topps Holiday MLB Baseball",
     "price": 1.93,
     "image": "https://i.ebayimg.com/images/g/3GIAAeSwQuhq60vA/s-l300.jpg",
@@ -912,7 +936,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 77,
+    "id": 79,
     "name": "Cam Schlittler (RC) #H77 Yankees BASE - 2026 Topps Holiday MLB Baseball",
     "price": 1.98,
     "image": "https://i.ebayimg.com/images/g/5M4AAeSw9gtq60um/s-l300.jpg",
@@ -924,7 +948,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 78,
+    "id": 80,
     "name": "Colson Montgomery (RC) #H30 BASE - 2026 Topps Holiday MLB Baseball",
     "price": 1.99,
     "image": "https://i.ebayimg.com/images/g/1kgAAeSw8ZNq60uR/s-l300.jpg",
@@ -936,7 +960,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 79,
+    "id": 81,
     "name": "Carter Jensen (RC) #H198 Kansas City Royals BASE - 2026 Topps Holiday MLB",
     "price": 1.98,
     "image": "https://i.ebayimg.com/images/g/0s8AAeSwxZ1q60t3/s-l300.jpg",
@@ -948,7 +972,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 80,
+    "id": 82,
     "name": "Paul Skenes #H7 Pittsburgh Pirates BASE - 2026 Topps Holiday MLB Baseball",
     "price": 1.98,
     "image": "https://i.ebayimg.com/images/g/pN0AAeSwzOlq60tR/s-l300.jpg",
@@ -960,7 +984,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 81,
+    "id": 83,
     "name": "Mookie Betts #H54 Dodgers BASE - 2026 Topps Holiday MLB Baseball",
     "price": 1.98,
     "image": "https://i.ebayimg.com/images/g/0vIAAeSwsNlq60so/s-l300.jpg",
@@ -972,7 +996,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 82,
+    "id": 84,
     "name": "Kazuma Okamoto (RC) #H88 Blue Jays BASE - 2026 Topps Holiday MLB Baseball",
     "price": 1.99,
     "image": "https://i.ebayimg.com/images/g/E~QAAeSwSU1q60sX/s-l300.jpg",
@@ -984,7 +1008,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 83,
+    "id": 85,
     "name": "Cole Young (RC) #H20 Mariners BASE - 2026 Topps Holiday MLB Baseball",
     "price": 1.99,
     "image": "https://i.ebayimg.com/images/g/3g8AAeSwm9Bq60rv/s-l300.jpg",
@@ -996,7 +1020,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 84,
+    "id": 86,
     "name": "Aaron Judge #H50 Yankees BASE - 2026 Topps Holiday MLB Baseball",
     "price": 1.99,
     "image": "https://i.ebayimg.com/images/g/nzcAAeSwHLRq60rI/s-l300.jpg",
@@ -1008,7 +1032,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 85,
+    "id": 87,
     "name": "Jac Caglianone (RC) #H73 Royals  BASE - 2026 Topps Holiday MLB Baseball",
     "price": 1.99,
     "image": "https://i.ebayimg.com/images/g/nZIAAeSwOVNq60qq/s-l300.jpg",
@@ -1020,7 +1044,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 86,
+    "id": 88,
     "name": "Payton Tolle (RC) #H120 Red Sox BASE - 2026 Topps Holiday MLB Baseball",
     "price": 1.99,
     "image": "https://i.ebayimg.com/images/g/fy0AAeSwhRxq60pk/s-l300.jpg",
@@ -1032,7 +1056,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 87,
+    "id": 89,
     "name": "Connelly Early (RC) #H133 Red Sox BASE - 2026 Topps Holiday MLB Baseball",
     "price": 1.98,
     "image": "https://i.ebayimg.com/images/g/0kwAAeSwnxtq60o-/s-l300.jpg",
@@ -1044,7 +1068,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 88,
+    "id": 90,
     "name": "Jackson Merrill #H176 Padres BASE - 2026 Topps Holiday MLB Baseball",
     "price": 1.99,
     "image": "https://i.ebayimg.com/images/g/hcwAAeSwQRBq60ol/s-l300.jpg",
@@ -1056,7 +1080,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 89,
+    "id": 91,
     "name": "Konnor Griffin (RC) #H161 BASE Pittsburgh Pirates - 2026 Topps Holiday MLB",
     "price": 1.94,
     "image": "https://i.ebayimg.com/images/g/fZsAAeSwBvtq60oQ/s-l300.jpg",
@@ -1068,7 +1092,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 90,
+    "id": 92,
     "name": "Christian Yelich #H46 Brewers BASE - 2026 Topps Holiday MLB Baseball",
     "price": 1.99,
     "image": "https://i.ebayimg.com/images/g/kpUAAeSwX~Nq60n1/s-l300.jpg",
@@ -1080,7 +1104,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 91,
+    "id": 93,
     "name": "Paul Skenes #H7 Pirates BASE - 2026 Topps Holiday MLB Baseball",
     "price": 1.99,
     "image": "https://i.ebayimg.com/images/g/xxIAAeSwBERq60nk/s-l300.jpg",
@@ -1092,7 +1116,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 92,
+    "id": 94,
     "name": "George Valera (RC) #H74 Guardians BASE - 2026 Topps Holiday MLB Baseball",
     "price": 1.99,
     "image": "https://i.ebayimg.com/images/g/rmwAAeSw-hpq60nD/s-l300.jpg",
@@ -1104,7 +1128,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 93,
+    "id": 95,
     "name": "Chase DeLauter (RC) #H78 Cleveland BASE - 2026 Topps Holiday MLB Baseball",
     "price": 1.94,
     "image": "https://i.ebayimg.com/images/g/hE8AAeSw935q60ms/s-l300.jpg",
@@ -1116,7 +1140,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 94,
+    "id": 96,
     "name": "Mason Barnett (RC) #H96 Athletics - BASE - 2026 Topps Holiday MLB Baseball",
     "price": 1.95,
     "image": "https://i.ebayimg.com/images/g/hWgAAeSw-bFq60mO/s-l300.jpg",
@@ -1128,7 +1152,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 95,
+    "id": 97,
     "name": "Christian Moore (RC) #H146 Angels BASE - 2026 Topps Holiday MLB Baseball",
     "price": 1.95,
     "image": "https://i.ebayimg.com/images/g/dY0AAeSw8nxq60l1/s-l300.jpg",
@@ -1140,7 +1164,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 96,
+    "id": 98,
     "name": "Carson Williams (RC) #H105 Rays BASE - 2026 Topps Holiday MLB Baseball",
     "price": 1.94,
     "image": "https://i.ebayimg.com/images/g/fz0AAeSwwpVq60lY/s-l300.jpg",
@@ -1152,7 +1176,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 97,
+    "id": 99,
     "name": "Nolan McLean (RC) #H121 New York Mets BASE - 2026 Topps Holiday MLB Baseball",
     "price": 1.95,
     "image": "https://i.ebayimg.com/images/g/dCcAAeSw7LZq60lE/s-l300.jpg",
@@ -1164,7 +1188,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 98,
+    "id": 100,
     "name": "JJ Wetherholt (RC) #H18 Cardinals Reds - BASE - 2026 Topps Holiday MLB Baseball",
     "price": 1.89,
     "image": "https://i.ebayimg.com/images/g/dEsAAeSwuwFq60ko/s-l300.jpg",
@@ -1176,7 +1200,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 99,
+    "id": 101,
     "name": "Jonah Tong (RC) #H152 New York Mets BASE - 2026 Topps Holiday MLB Baseball",
     "price": 1.94,
     "image": "https://i.ebayimg.com/images/g/sCMAAeSwQvpq60kL/s-l300.jpg",
@@ -1188,7 +1212,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 100,
+    "id": 102,
     "name": "Chase Burns (RC) #H65 Cincinnati Reds BASE - 2026 Topps Holiday MLB Baseball",
     "price": 1.94,
     "image": "https://i.ebayimg.com/images/g/go0AAeSwbetq60jz/s-l300.jpg",
@@ -1200,7 +1224,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 101,
+    "id": 103,
     "name": "Harry Ford (RC) #H89 Nationals BASE - 2026 Topps Holiday MLB Baseball",
     "price": 1.98,
     "image": "https://i.ebayimg.com/images/g/ejkAAeSwAdJq60jW/s-l300.jpg",
@@ -1212,7 +1236,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 102,
+    "id": 104,
     "name": "Samuel Basallo (RC) #H33 Orioles BASE - 2026 Topps Holiday MLB Baseball",
     "price": 1.99,
     "image": "https://i.ebayimg.com/images/g/fLEAAeSwOVNq60jA/s-l300.jpg",
@@ -1224,7 +1248,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 103,
+    "id": 105,
     "name": "Kyle Teel (RC) #H117 Chicago White Sox BASE - 2026 Topps Holiday MLB Baseball",
     "price": 1.94,
     "image": "https://i.ebayimg.com/images/g/eesAAeSww~1q60il/s-l300.jpg",
@@ -1236,7 +1260,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 104,
+    "id": 106,
     "name": "Chase Burns (RC) #H65 Reds BASE - 2026 Topps Holiday MLB Baseball",
     "price": 1.98,
     "image": "https://i.ebayimg.com/images/g/q~wAAeSwdV1q60iL/s-l300.jpg",
@@ -1248,7 +1272,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 105,
+    "id": 107,
     "name": "Trey Yesavage (RC) #H174 Blue Jays BASE - 2026 Topps Holiday MLB Baseball",
     "price": 1.95,
     "image": "https://i.ebayimg.com/images/g/Y40AAeSwRcdq60bf/s-l300.jpg",
@@ -1260,7 +1284,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 106,
+    "id": 108,
     "name": "Jonah Tong (RC) #H152 Mets BASE - 2026 Topps Holiday MLB Baseball",
     "price": 1.95,
     "image": "https://i.ebayimg.com/images/g/Y4wAAeSwMOVq60hY/s-l300.jpg",
@@ -1272,7 +1296,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 107,
+    "id": 109,
     "name": "Mason Barnett (RC) #H96 Athletics BASE - 2026 Topps Holiday MLB Baseball",
     "price": 1.99,
     "image": "https://i.ebayimg.com/images/g/obwAAeSw62Jq60hH/s-l300.jpg",
@@ -1284,7 +1308,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 108,
+    "id": 110,
     "name": "Justin Crawford (RC) #H137 Phillies BASE - 2026 Topps Holiday MLB Baseball",
     "price": 1.89,
     "image": "https://i.ebayimg.com/images/g/NnYAAeSwyHhq60gv/s-l300.jpg",
@@ -1296,7 +1320,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 109,
+    "id": 111,
     "name": "Konnor Griffin (RC) #H161 BASE Pirates - 2026 Topps Holiday MLB Baseball",
     "price": 1.95,
     "image": "https://i.ebayimg.com/images/g/elIAAeSwPddq60WM/s-l300.jpg",
@@ -1308,7 +1332,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 110,
+    "id": 112,
     "name": "JJ Wetherholt (RC) #H18 Cardinals BASE - 2026 Topps Holiday MLB Baseball",
     "price": 1.99,
     "image": "https://i.ebayimg.com/images/g/b1QAAeSw~J5q60fp/s-l300.jpg",
@@ -1320,7 +1344,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 111,
+    "id": 113,
     "name": "Willy Adames #H172 Giants BASE - 2026 Topps Holiday MLB Baseball",
     "price": 1.99,
     "image": "https://i.ebayimg.com/images/g/p1cAAeSwok1q60fY/s-l300.jpg",
@@ -1332,7 +1356,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 112,
+    "id": 114,
     "name": "Drew Gilbert (RC) #H19 Giants BASE - 2026 Topps Holiday MLB Baseball",
     "price": 1.99,
     "image": "https://i.ebayimg.com/images/g/n34AAeSw-YFq60fH/s-l300.jpg",
@@ -1344,7 +1368,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 113,
+    "id": 115,
     "name": "Kyle Teel (RC) #H117 White Sox BASE - 2026 Topps Holiday MLB Baseball",
     "price": 1.99,
     "image": "https://i.ebayimg.com/images/g/XjsAAeSw21hq60ey/s-l300.jpg",
@@ -1356,7 +1380,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 114,
+    "id": 116,
     "name": "Cam Schlittler (RC) #H77 BASE - 2026 Topps Holiday MLB Baseball",
     "price": 1.99,
     "image": "https://i.ebayimg.com/images/g/YQEAAeSw3Uxq60ej/s-l300.jpg",
@@ -1368,7 +1392,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 115,
+    "id": 117,
     "name": "Carter Jensen (RC) #H198 Royals BASE - 2026 Topps Holiday MLB Baseball",
     "price": 1.99,
     "image": "https://i.ebayimg.com/images/g/lvIAAeSwfIxq60eQ/s-l300.jpg",
@@ -1380,7 +1404,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 116,
+    "id": 118,
     "name": "Bubba Chandler (RC) #H67 Pirates BASE - 2026 Topps Holiday MLB Baseball",
     "price": 1.99,
     "image": "https://i.ebayimg.com/images/g/XGsAAeSwPzBq60dw/s-l300.jpg",
@@ -1392,7 +1416,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 117,
+    "id": 119,
     "name": "Matt Shaw #H14 BASE - 2026 Topps Holiday MLB Baseball",
     "price": 1.99,
     "image": "https://i.ebayimg.com/images/g/hJQAAeSwbF5q60dg/s-l300.jpg",
@@ -1404,7 +1428,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 118,
+    "id": 120,
     "name": "Justin Crawford (RC) #H137 BASE - 2026 Topps Holiday MLB Baseball Phillies",
     "price": 1.94,
     "image": "https://i.ebayimg.com/images/g/kaYAAeSwfIxq60dI/s-l300.jpg",
@@ -1416,7 +1440,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 119,
+    "id": 121,
     "name": "Mookie Betts #H54 BASE - 2026 Topps Holiday MLB Baseball",
     "price": 1.99,
     "image": "https://i.ebayimg.com/images/g/jtEAAeSw9RFq60c0/s-l300.jpg",
@@ -1428,7 +1452,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 120,
+    "id": 122,
     "name": "CJ Kayfus (RC) #H62 BASE - 2026 Topps Holiday MLB Baseball",
     "price": 1.99,
     "image": "https://i.ebayimg.com/images/g/VY8AAeSwQp5q60cj/s-l300.jpg",
@@ -1440,7 +1464,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 121,
+    "id": 123,
     "name": "Mason Barnett (RC) #H96 BASE - 2026 Topps Holiday MLB Baseball",
     "price": 1.99,
     "image": "https://i.ebayimg.com/images/g/kG4AAeSwsqtq60cR/s-l300.jpg",
@@ -1452,7 +1476,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 122,
+    "id": 124,
     "name": "Chase DeLauter (RC) #H78 BASE - 2026 Topps Holiday MLB Baseball Guardians",
     "price": 1.95,
     "image": "https://i.ebayimg.com/images/g/VSIAAeSwELFq60bz/s-l300.jpg",
@@ -1464,7 +1488,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 123,
+    "id": 125,
     "name": "Trey Yesavage (RC) #H174 BASE - 2026 Topps Holiday MLB Baseball",
     "price": 1.99,
     "image": "https://i.ebayimg.com/images/g/Y40AAeSwRcdq60bf/s-l300.jpg",
@@ -1476,7 +1500,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 124,
+    "id": 126,
     "name": "Kazuma Okamoto (RC) #H88 BASE - 2026 Topps Holiday MLB Baseball",
     "price": 1.99,
     "image": "https://i.ebayimg.com/images/g/YwEAAeSwByhq60bL/s-l300.jpg",
@@ -1488,7 +1512,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 125,
+    "id": 127,
     "name": "Christian Moore (RC) #H146 BASE - 2026 Topps Holiday MLB Baseball",
     "price": 1.99,
     "image": "https://i.ebayimg.com/images/g/iaoAAeSw5KRq60au/s-l300.jpg",
@@ -1500,7 +1524,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 126,
+    "id": 128,
     "name": "Ryan Ritter (RC) #H41 BASE - 2026 Topps Holiday MLB Baseball Rockies",
     "price": 1.99,
     "image": "https://i.ebayimg.com/images/g/PyIAAeSwhRxq60aV/s-l300.jpg",
@@ -1512,7 +1536,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 127,
+    "id": 129,
     "name": "Cole Young (RC) #H20 BASE - 2026 Topps Holiday MLB Baseball",
     "price": 1.99,
     "image": "https://i.ebayimg.com/images/g/X28AAeSwo79q60Zg/s-l300.jpg",
@@ -1524,7 +1548,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 128,
+    "id": 130,
     "name": "Chase Burns (RC) #H65 BASE - 2026 Topps Holiday MLB Baseball",
     "price": 1.99,
     "image": "https://i.ebayimg.com/images/g/RgYAAeSwqmZq60ZP/s-l300.jpg",
@@ -1536,7 +1560,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 129,
+    "id": 131,
     "name": "Jonah Tong (RC) #H152 BASE - 2026 Topps Holiday MLB Baseball",
     "price": 1.99,
     "image": "https://i.ebayimg.com/images/g/PewAAeSwOYxq60Y~/s-l300.jpg",
@@ -1548,7 +1572,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 130,
+    "id": 132,
     "name": "Sal Stewart (RC) #H12 BASE - 2026 Topps Holiday MLB Baseball Reds",
     "price": 1.95,
     "image": "https://i.ebayimg.com/images/g/8LkAAeSwoGZq60QJ/s-l300.jpg",
@@ -1560,7 +1584,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 131,
+    "id": 133,
     "name": "Gunnar Henderson #H43 BASE - 2026 Topps Holiday MLB Baseball",
     "price": 1.99,
     "image": "https://i.ebayimg.com/images/g/PwQAAeSw8nxq60YQ/s-l300.jpg",
@@ -1572,7 +1596,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 132,
+    "id": 134,
     "name": "JJ Wetherholt (RC) #H18 BASE - 2026 Topps Holiday MLB Baseball",
     "price": 1.99,
     "image": "https://i.ebayimg.com/images/g/QkUAAeSwgrpq60X9/s-l300.jpg",
@@ -1584,7 +1608,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 133,
+    "id": 135,
     "name": "Bryce Eldridge (RC) #H113 BASE - 2026 Topps Holiday MLB Baseball",
     "price": 1.99,
     "image": "https://i.ebayimg.com/images/g/N30AAeSwBvtq60Xh/s-l300.jpg",
@@ -1596,7 +1620,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 134,
+    "id": 136,
     "name": "Heriberto Hernandez (RC) #H111 BASE - 2026 Topps Holiday MLB Baseball",
     "price": 1.99,
     "image": "https://i.ebayimg.com/images/g/cDgAAeSwy6lq60XM/s-l300.jpg",
@@ -1608,7 +1632,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 135,
+    "id": 137,
     "name": "Carson Whisenhunt (RC) #H26 BASE - 2026 Topps Holiday MLB Baseball",
     "price": 1.99,
     "image": "https://i.ebayimg.com/images/g/PxsAAeSwNj1q60W2/s-l300.jpg",
@@ -1620,7 +1644,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 136,
+    "id": 138,
     "name": "Zach Cole (RC) #H83 BASE - 2026 Topps Holiday MLB Baseball",
     "price": 1.99,
     "image": "https://i.ebayimg.com/images/g/NAMAAeSwJqVq60We/s-l300.jpg",
@@ -1632,7 +1656,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 137,
+    "id": 139,
     "name": "Konnor Griffin (RC) #H161 BASE - 2026 Topps Holiday MLB Baseball",
     "price": 1.99,
     "image": "https://i.ebayimg.com/images/g/elIAAeSwPddq60WM/s-l300.jpg",
@@ -1644,7 +1668,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 138,
+    "id": 140,
     "name": "Chase DeLauter (RC) #H78 BASE - 2026 Topps Holiday MLB Baseball",
     "price": 1.99,
     "image": "https://i.ebayimg.com/images/g/hFsAAeSwr8Bq60V1/s-l300.jpg",
@@ -1656,7 +1680,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 139,
+    "id": 141,
     "name": "Luis Morales (RC) #H190 BASE - 2026 Topps Holiday MLB Baseball A's",
     "price": 1.99,
     "image": "https://i.ebayimg.com/images/g/OPQAAeSweiRq60Va/s-l300.jpg",
@@ -1668,7 +1692,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 140,
+    "id": 142,
     "name": "Jefferson Quero (RC) #H75 BASE - 2026 Topps Holiday MLB Baseball",
     "price": 1.97,
     "image": "https://i.ebayimg.com/images/g/P3IAAeSwo6lq60U7/s-l300.jpg",
@@ -1680,7 +1704,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 141,
+    "id": 143,
     "name": "Drew Rasmussen #H42 BASE - 2026 Topps Holiday MLB Baseball",
     "price": 1.99,
     "image": "https://i.ebayimg.com/images/g/c~EAAeSwuMBq60Ur/s-l300.jpg",
@@ -1692,7 +1716,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 142,
+    "id": 144,
     "name": "Sal Stewart (RC) #H12 BASE - 2026 Topps Holiday MLB Baseball",
     "price": 1.97,
     "image": "https://i.ebayimg.com/images/g/8LkAAeSwoGZq60QJ/s-l300.jpg",
@@ -1704,7 +1728,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 143,
+    "id": 145,
     "name": "Carson Benge (RC) #H70 BASE - 2026 Topps Holiday MLB Baseball",
     "price": 1.99,
     "image": "https://i.ebayimg.com/images/g/Ir4AAeSwhRxq60Tx/s-l300.jpg",
@@ -1716,7 +1740,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 144,
+    "id": 146,
     "name": "Kyle Karros (RC) #H165 BASE - 2026 Topps Holiday MLB Baseball",
     "price": 1.99,
     "image": "https://i.ebayimg.com/images/g/ZaQAAeSwvZVq60Sy/s-l300.jpg",
@@ -1728,7 +1752,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 145,
+    "id": 147,
     "name": "Harry Ford (RC) #H89 BASE - 2026 Topps Holiday MLB Baseball",
     "price": 1.99,
     "image": "https://i.ebayimg.com/images/g/c3cAAeSwGNBq60Sh/s-l300.jpg",
@@ -1740,7 +1764,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 146,
+    "id": 148,
     "name": "Luis Morales (RC) #H190 BASE - 2026 Topps Holiday MLB Baseball",
     "price": 1.97,
     "image": "https://i.ebayimg.com/images/g/Ns4AAeSwOVNq60SK/s-l300.jpg",
@@ -1752,7 +1776,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 147,
+    "id": 149,
     "name": "Justin Crawford (RC) #H137 BASE - 2026 Topps Holiday MLB Baseball",
     "price": 1.99,
     "image": "https://i.ebayimg.com/images/g/caEAAeSwEhdq60R4/s-l300.jpg",
@@ -1764,7 +1788,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 148,
+    "id": 150,
     "name": "Nolan McLean (RC) #H121 BASE - 2026 Topps Holiday MLB Baseball",
     "price": 1.99,
     "image": "https://i.ebayimg.com/images/g/I-AAAeSwYV1q60RY/s-l300.jpg",
@@ -1776,7 +1800,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 149,
+    "id": 151,
     "name": "Ryan Ritter (RC) #H41 BASE - 2026 Topps Holiday MLB Baseball",
     "price": 1.99,
     "image": "https://i.ebayimg.com/images/g/ZUAAAeSwX3Fq60RE/s-l300.jpg",
@@ -1788,7 +1812,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 150,
+    "id": 152,
     "name": "Colby Thomas (RC) #H39 BASE - 2026 Topps Holiday MLB Baseball",
     "price": 1.99,
     "image": "https://i.ebayimg.com/images/g/XdcAAeSw9RFq60Qz/s-l300.jpg",
@@ -1800,7 +1824,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 151,
+    "id": 153,
     "name": "Samuel Basallo (RC) #H33 BASE - 2026 Topps Holiday MLB Baseball",
     "price": 1.99,
     "image": "https://i.ebayimg.com/images/g/ZCkAAeSw-YFq60Qe/s-l300.jpg",
@@ -1812,7 +1836,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 152,
+    "id": 154,
     "name": "Sal Stewart (RC) #H12 BASE - 2026 Topps Holiday MLB Baseball",
     "price": 1.99,
     "image": "https://i.ebayimg.com/images/g/8LkAAeSwoGZq60QJ/s-l300.jpg",
@@ -1824,7 +1848,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 153,
+    "id": 155,
     "name": "Travis Bazzana (RC) #H60 BASE - 2026 Topps Holiday MLB Baseball",
     "price": 1.99,
     "image": "https://i.ebayimg.com/images/g/WF4AAeSw82Rq60P3/s-l300.jpg",
@@ -1836,7 +1860,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 154,
+    "id": 156,
     "name": "Drew Gilbert (RC) #H19 BASE - 2026 Topps Holiday MLB Baseball",
     "price": 1.99,
     "image": "https://i.ebayimg.com/images/g/ZOIAAeSwUrhq60PV/s-l300.jpg",
@@ -1848,7 +1872,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 155,
+    "id": 157,
     "name": "Luis Morales (RC) #H190 BASE - 2026 Topps Holiday MLB Baseball",
     "price": 1.99,
     "image": "https://i.ebayimg.com/images/g/T7AAAeSwR~9q60O~/s-l300.jpg",
@@ -1860,7 +1884,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 156,
+    "id": 158,
     "name": "Connelly Early (RC) #H133 BASE - 2026 Topps Holiday MLB Baseball",
     "price": 1.99,
     "image": "https://i.ebayimg.com/images/g/JvUAAeSw5HJq60OZ/s-l300.jpg",
@@ -1872,7 +1896,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 157,
+    "id": 159,
     "name": "Carson Williams (RC) #H105 BASE - 2026 Topps Holiday MLB Baseball",
     "price": 1.99,
     "image": "https://i.ebayimg.com/images/g/I5MAAeSwo~hq60OB/s-l300.jpg",
@@ -1884,7 +1908,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 158,
+    "id": 160,
     "name": "Jefferson Quero (RC) #H75 8 BASE - 2026 Topps Holiday MLB Baseball",
     "price": 1.99,
     "image": "https://i.ebayimg.com/images/g/TzcAAeSwxeZq60Nu/s-l300.jpg",
@@ -1896,7 +1920,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 159,
+    "id": 161,
     "name": "Andrew Painter (RC) #H158 BASE - 2026 Topps Holiday MLB Baseball",
     "price": 1.99,
     "image": "https://i.ebayimg.com/images/g/IrAAAeSw5HJq60NX/s-l300.jpg",
@@ -1908,7 +1932,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 160,
+    "id": 162,
     "name": "Kevin McGonigle (RC) #H183 BASE - 2026 Topps Holiday MLB Baseball",
     "price": 1.99,
     "image": "https://i.ebayimg.com/images/g/X~EAAeSwtZNq60NC/s-l300.jpg",
@@ -1920,7 +1944,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 161,
+    "id": 163,
     "name": "CJ Shroud #PC-18 REFRACTOR - 2026 Topps NFL Flagship Football",
     "price": 4,
     "image": "https://i.ebayimg.com/images/g/JS0AAeSwy6lq6nXV/s-l300.jpg",
@@ -1932,7 +1956,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 162,
+    "id": 164,
     "name": "Lamar Jackson #PC-21 REFRACTOR - 2026 Topps NFL Flagship Football",
     "price": 1.95,
     "image": "https://i.ebayimg.com/images/g/~koAAeSwg41q6nWS/s-l300.jpg",
@@ -1944,7 +1968,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 163,
+    "id": 165,
     "name": "Justin Herbert #PC-11 REFRACTOR - 2026 Topps NFL Flagship Football",
     "price": 5,
     "image": "https://i.ebayimg.com/images/g/JWoAAeSwx89q6nVo/s-l300.jpg",
@@ -1956,7 +1980,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 164,
+    "id": 166,
     "name": "Bryce Young #PC-13 REFRACTOR - 2026 Topps NFL Flagship Football",
     "price": 3,
     "image": "https://i.ebayimg.com/images/g/KikAAeSwpm5q6nU0/s-l300.jpg",
@@ -1968,7 +1992,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 165,
+    "id": 167,
     "name": "J.J. McCarthy #PC-20 REFRACTOR - 2026 Topps NFL Flagship Football",
     "price": 3,
     "image": "https://i.ebayimg.com/images/g/-OMAAeSwyJlq6nTm/s-l300.jpg",
@@ -1980,7 +2004,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 166,
+    "id": 168,
     "name": "Michael Penix Jr. #PC-29 REFRACTOR - 2026 Topps NFL Flagship Football",
     "price": 1.95,
     "image": "https://i.ebayimg.com/images/g/HMoAAeSwbgpq6nTH/s-l300.jpg",
@@ -1992,7 +2016,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 167,
+    "id": 169,
     "name": "Ray Lewis #GOTG-12 REFRACTOR - 2026 Topps NFL Flagship Football",
     "price": 3,
     "image": "https://i.ebayimg.com/images/g/JWMAAeSwOIxq6nSL/s-l300.jpg",
@@ -2004,7 +2028,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 168,
+    "id": 170,
     "name": "John Elway #GOTG-9 REFRACTOR - 2026 Topps NFL Flagship Football",
     "price": 3,
     "image": "https://i.ebayimg.com/images/g/8UYAAeSwMLhq6nRo/s-l300.jpg",
@@ -2016,7 +2040,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 169,
+    "id": 171,
     "name": "Bill Cowher #GOTG-21 REFRACTOR - 2026 Topps NFL Flagship Football",
     "price": 1.95,
     "image": "https://i.ebayimg.com/images/g/5gIAAeSwMFNq6nRU/s-l300.jpg",
@@ -2028,7 +2052,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 170,
+    "id": 172,
     "name": "Tom Brady #GOTG-1 REFRACTOR - 2026 Topps NFL Flagship Football",
     "price": 5,
     "image": "https://i.ebayimg.com/images/g/tBYAAeSw9aVq6nQ9/s-l300.jpg",
@@ -2040,7 +2064,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 171,
+    "id": 173,
     "name": "Joe Montana #GOTG-2 REFRACTOR - 2026 Topps NFL Flagship Football",
     "price": 3,
     "image": "https://i.ebayimg.com/images/g/7soAAeSwTARq6nQB/s-l300.jpg",
@@ -2052,7 +2076,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 172,
+    "id": 174,
     "name": "Lawrence Taylor #GOTG-16 REFRACTOR - 2026 Topps NFL Flagship Football",
     "price": 3,
     "image": "https://i.ebayimg.com/images/g/4BMAAeSwJqVq6nPu/s-l300.jpg",
@@ -2064,7 +2088,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 173,
+    "id": 175,
     "name": "Jerry Rice #GOTG-4 REFRACTOR - 2026 Topps NFL Flagship Football",
     "price": 3,
     "image": "https://i.ebayimg.com/images/g/GnUAAeSwadlq6nPD/s-l300.jpg",
@@ -2076,7 +2100,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 174,
+    "id": 176,
     "name": "Howie Long #GOTG-23 REFRACTOR - 2026 Topps NFL Flagship Football",
     "price": 3,
     "image": "https://i.ebayimg.com/images/g/EbcAAeSwiw9q6nOh/s-l300.jpg",
@@ -2088,7 +2112,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 175,
+    "id": 177,
     "name": "Eric Dickerson #GOTG-25 - 2026 Topps NFL Flagship Football",
     "price": 1.95,
     "image": "https://i.ebayimg.com/images/g/7SoAAeSwDDxq6nOE/s-l300.jpg",
@@ -2100,7 +2124,7 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 176,
+    "id": 178,
     "name": "33/50* Jackson Chourio 2 RUN HR Post Record - 2026 MLB Topps NOW® - Card 758",
     "price": 467.5,
     "image": "https://i.ebayimg.com/images/g/dsQAAeSwpzNq6jhj/s-l300.jpg",
@@ -2112,35 +2136,11 @@ window.products = [
     "stock": 1
   },
   {
-    "id": 177,
-    "name": "25/25* Jackson Chourio 2 RUN HR Post Record - 2026 MLB Topps NOW® - Card 758",
-    "price": 637.5,
-    "image": "https://i.ebayimg.com/images/g/VakAAeSww~1q6jg0/s-l300.jpg",
-    "url": "https://www.ebay.com/itm/168835777724",
-    "category": "topps-now",
-    "badge": null,
-    "discount": null,
-    "numbered": true,
-    "stock": 1
-  },
-  {
-    "id": 178,
+    "id": 179,
     "name": "05/25* William Contreras GO AHEAD HR Postseason 2026 MLB Topps NOW® - Card 759",
     "price": 637.5,
     "image": "https://i.ebayimg.com/images/g/dKUAAeSwk3pq6jgA/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168835776145",
-    "category": "topps-now",
-    "badge": null,
-    "discount": null,
-    "numbered": true,
-    "stock": 1
-  },
-  {
-    "id": 179,
-    "name": "4/5* RED William Contreras GO AHEAD HR Postseason 2026 MLB Topps NOW® - Card 759",
-    "price": 1062.5,
-    "image": "https://i.ebayimg.com/images/g/cSsAAeSwgSZq6jfB/s-l300.jpg",
-    "url": "https://www.ebay.com/itm/168835775273",
     "category": "topps-now",
     "badge": null,
     "discount": null,
@@ -3561,7 +3561,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 26
+    "stock": 25
   },
   {
     "id": 298,
@@ -3573,7 +3573,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 23
+    "stock": 22
   },
   {
     "id": 299,
