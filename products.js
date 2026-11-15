@@ -3350,14 +3350,14 @@ window.products = [
   {
     "id": 280,
     "name": "Fernando Mendoza #NFL-16 REFRACTOR - 2026 Topps Collectors Kit MLB/NFL",
-    "price": 9,
+    "price": 20,
     "image": "https://i.ebayimg.com/images/g/NtwAAeSwzzpq48xC/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168825370875",
     "category": "baseball",
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 7
+    "stock": 1
   },
   {
     "id": 281,
