@@ -10717,7 +10717,7 @@ window.products = [
   },
   {
     "id": 894,
-    "name": "Jackson Chourio WALK OFF 2-0 - 2026 MLB Topps NOW�� - Card 760 IN HAND",
+    "name": "Jackson Chourio WALK OFF 2-0 - 2026 MLB Topps NOW® - Card 760 IN HAND",
     "price": 19.97,
     "image": "https://i.ebayimg.com/images/g/BGYAAeSwm-xqw~Cv/s-l300.png",
     "url": "https://www.ebay.com/itm/168765315103",
