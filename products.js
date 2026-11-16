@@ -4513,15 +4513,15 @@ window.products = [
   },
   {
     "id": 377,
-    "name": "Tampa Bay Rays / Milwaukee Brewers - WS  2026 MLB Topps NOW® - Card 809 PRE-SALE",
-    "price": 4.79,
+    "name": "Tampa Bay Rays / Milwaukee Brewers - WS  2026 MLB Topps NOW® - Card 809 IN HAND",
+    "price": 19.79,
     "image": "https://i.ebayimg.com/images/g/p4wAAeSwsZJq29Tp/s-l300.png",
     "url": "https://www.ebay.com/itm/168812439034",
     "category": "topps-now",
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 0
+    "stock": 2
   },
   {
     "id": 378,
@@ -6637,7 +6637,7 @@ window.products = [
   },
   {
     "id": 554,
-    "name": "Jackson Chourio 1st PITCH HR - 2026 MLB Topps NOW®  Brewers - Card 791 PRE-SALE",
+    "name": "Jackson Chourio 1st PITCH HR - 2026 MLB Topps NOW®  Brewers - Card 791 IN HAND",
     "price": 19.74,
     "image": "https://i.ebayimg.com/images/g/l8QAAeSwRZJq0QSG/s-l300.png",
     "url": "https://www.ebay.com/itm/168795069428",
@@ -6645,7 +6645,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 5
   },
   {
     "id": 555,
@@ -6997,7 +6997,7 @@ window.products = [
   },
   {
     "id": 584,
-    "name": "Christian Yelich - 2026 MLB Topps NOW® - Milwaukee Brewers Card 782 PRE-SALE",
+    "name": "Christian Yelich - 2026 MLB Topps NOW® - Milwaukee Brewers Card 782 IN HAND",
     "price": 19.79,
     "image": "https://i.ebayimg.com/images/g/8gQAAeSweetqznSg/s-l300.png",
     "url": "https://www.ebay.com/itm/168790425700",
@@ -7005,7 +7005,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 0
+    "stock": 3
   },
   {
     "id": 585,
@@ -7021,7 +7021,7 @@ window.products = [
   },
   {
     "id": 586,
-    "name": "William Contreras - 2026 MLB Topps NOW® - Card 783 Milwaukee Brewers PRE-SALE",
+    "name": "William Contreras - 2026 MLB Topps NOW® - Card 783 Milwaukee Brewers IN HAND",
     "price": 19.79,
     "image": "https://i.ebayimg.com/images/g/7OEAAeSwW6VqznOQ/s-l300.png",
     "url": "https://www.ebay.com/itm/168790418798",
@@ -7029,7 +7029,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 0
+    "stock": 3
   },
   {
     "id": 587,
@@ -10029,7 +10029,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 6
+    "stock": 5
   },
   {
     "id": 837,
