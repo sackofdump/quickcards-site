@@ -10022,7 +10022,7 @@ window.products = [
   {
     "id": 836,
     "name": "Garrett Mitchell HR Robbery - 2026 MLB Topps NOW® - Card 773  Brewers IN HAND",
-    "price": 55,
+    "price": 44.97,
     "image": "https://i.ebayimg.com/images/g/ELMAAeSwwBFqx-El/s-l300.png",
     "url": "https://www.ebay.com/itm/168777527195",
     "category": "topps-now",
