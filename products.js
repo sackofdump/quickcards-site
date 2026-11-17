@@ -153,7 +153,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 10
+    "stock": 5
   },
   {
     "id": 14,
@@ -2253,7 +2253,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 0
   },
   {
     "id": 189,
@@ -2421,7 +2421,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 0
   },
   {
     "id": 203,
@@ -2433,7 +2433,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 0
   },
   {
     "id": 204,
@@ -2445,7 +2445,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 0
   },
   {
     "id": 205,
@@ -2505,7 +2505,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 0
   },
   {
     "id": 210,
@@ -27093,7 +27093,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 0
   },
   {
     "id": 2259,
@@ -27525,7 +27525,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 0
   },
   {
     "id": 2295,
@@ -42609,7 +42609,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 0
   },
   {
     "id": 3552,
@@ -53589,7 +53589,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 0
   },
   {
     "id": 4467,
@@ -69933,7 +69933,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 4
+    "stock": 2
   },
   {
     "id": 5829,
@@ -75285,7 +75285,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": true,
-    "stock": 2
+    "stock": 0
   },
   {
     "id": 6275,
@@ -77593,7 +77593,7 @@ window.products = [
   },
   {
     "id": 6467,
-    "name": "Andrew Vaughn 2nd HR Series NLDS - 2025 MLB Topps NOW® - Card 856",
+    "name": "Andrew Vaughn 2nd HR Series NLDS - 2025 MLB Topps NOW�� - Card 856",
     "price": 3,
     "image": "https://i.ebayimg.com/images/g/RXQAAeSw5jdo7BeF/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168322633914",
@@ -92601,7 +92601,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 3
+    "stock": 2
   },
   {
     "id": 7718,
@@ -98073,7 +98073,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 15
+    "stock": 14
   },
   {
     "id": 8174,
