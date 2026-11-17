@@ -64545,7 +64545,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 0
   },
   {
     "id": 5380,
@@ -69801,7 +69801,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 0
   },
   {
     "id": 5818,
@@ -77593,7 +77593,7 @@ window.products = [
   },
   {
     "id": 6467,
-    "name": "Andrew Vaughn 2nd HR Series NLDS - 2025 MLB Topps NOW�� - Card 856",
+    "name": "Andrew Vaughn 2nd HR Series NLDS - 2025 MLB Topps NOW® - Card 856",
     "price": 3,
     "image": "https://i.ebayimg.com/images/g/RXQAAeSw5jdo7BeF/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168322633914",
