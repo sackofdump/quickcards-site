@@ -3741,7 +3741,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 12
+    "stock": 10
   },
   {
     "id": 313,
@@ -3793,7 +3793,7 @@ window.products = [
   },
   {
     "id": 317,
-    "name": "Aaron Ashby 18 SHUTOUT - 2026 MLB Topps NOW® - Card 824 WORLD SERIES PRE-SALE",
+    "name": "Aaron Ashby 18 SHUTOUT - 2026 MLB Topps NOW® - Card 824 WORLD SERIES IN HAND",
     "price": 19.79,
     "image": "https://i.ebayimg.com/images/g/VEcAAeSw-EZq4kjl/s-l300.png",
     "url": "https://www.ebay.com/itm/168822863592",
@@ -3801,7 +3801,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 0
+    "stock": 10
   },
   {
     "id": 318,
@@ -10838,14 +10838,14 @@ window.products = [
   {
     "id": 904,
     "name": "Jackson Chourio WALK OFF 2-0 - 2026 MLB Topps NOW® - Card 760 IN HAND",
-    "price": 19.97,
+    "price": 17.49,
     "image": "https://i.ebayimg.com/images/g/BGYAAeSwm-xqw~Cv/s-l300.png",
     "url": "https://www.ebay.com/itm/168765315103",
     "category": "topps-now",
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 3
+    "stock": 20
   },
   {
     "id": 905,
