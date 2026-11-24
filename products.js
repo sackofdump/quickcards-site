@@ -70105,7 +70105,7 @@ window.products = [
   },
   {
     "id": 5843,
-    "name": "William Contreras Solo HR NLDS - 2025 MLB Topps NOW�� - Card 855",
+    "name": "William Contreras Solo HR NLDS - 2025 MLB Topps NOW® - Card 855",
     "price": 5.97,
     "image": "https://i.ebayimg.com/images/g/rE4AAeSwoaBo7Bgn/s-l300.jpg",
     "url": "https://www.ebay.com/itm/168382950078",
@@ -115893,7 +115893,7 @@ window.products = [
     "badge": null,
     "discount": null,
     "numbered": false,
-    "stock": 1
+    "stock": 0
   },
   {
     "id": 9659,
